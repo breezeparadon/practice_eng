@@ -6,20 +6,9 @@ import { SpeechProvider, useSpeechApi } from "@/components/speech/SpeechContext"
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
+import type { WordView } from "@/lib/catalog";
 import { cn } from "@/lib/utils";
 
-export type WordView = {
-  id: string;
-  headword: string;
-  pos: string;
-  phonetic: string;
-  readingTh: string;
-  meaningTh: string;
-  exampleEn: string;
-  exampleTh: string;
-  noteEn: string | null;
-  emoji: string | null;
-};
 
 function Toolbar({ words, showMeaning, onToggle }: { words: WordView[]; showMeaning: boolean; onToggle: () => void }) {
   const { supported, readingAll, readAll, stop, taps, lastWasSlow } = useSpeechApi();

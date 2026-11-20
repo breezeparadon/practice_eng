@@ -1,8 +1,8 @@
 "use client";
 
-import { BookOpen, Check, ChevronLeft, ChevronRight, LayoutGrid, Loader2, RotateCcw, Volume2, X } from "lucide-react";
+import { BookOpen, Check, ChevronLeft, ChevronRight, LayoutGrid, RotateCcw, Volume2, X } from "lucide-react";
 import Link from "next/link";
-import { useEffect, useState, useTransition } from "react";
+import { useState } from "react";
 import { SpeechProvider, useSpeechApi } from "@/components/speech/SpeechContext";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { Badge } from "@/components/ui/badge";
@@ -10,15 +10,30 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
-import { Skeleton } from "@/components/ui/skeleton";
-import type { PublicQuestion } from "@/lib/quiz";
+import { LESSON_PASS_PERCENT } from "@/lib/config";
+import { saveQuizResult } from "@/lib/progress-store";
+import { buildQuiz, gradeQuiz, type Question, type QuizWord } from "@/lib/quiz";
 import { cn } from "@/lib/utils";
-import { startLessonQuiz, submitLessonQuiz, type SubmitQuizResult } from "@/server/actions/quiz";
 
-type Props = { lessonId: string; lessonTitle: string; backHref: string };
-type Result = Extract<SubmitQuizResult, { ok: true }>;
+type Props = {
+  lessonId: string;
+  lessonTitle: string;
+  backHref: string;
+  nextLessonId: string | null;
+  words: QuizWord[];
+};
+type Result = {
+  percent: number;
+  correct: number;
+  total: number;
+  passed: boolean;
+  passPercent: number;
+  review: { id: string; chosen: number | null; answerIndex: number; correct: boolean }[];
+  nextLessonId: string | null;
+  saved: boolean;
+};
 
-const INSTRUCTIONS: Record<PublicQuestion["type"], string> = {
+const INSTRUCTIONS: Record<Question["type"], string> = {
   pic_to_word: "รูปนี้คือคำไหน",
   word_to_meaning: "คำนี้แปลว่าอะไร",
   meaning_to_word: "คำภาษาอังกฤษของคำนี้คืออะไร",
@@ -37,7 +52,7 @@ function SpeakButton({ id, text, label }: { id: string; text: string; label: str
   );
 }
 
-function Prompt({ q }: { q: PublicQuestion }) {
+function Prompt({ q }: { q: Question }) {
   const { supported } = useSpeechApi();
   return (
     <div className="flex min-h-32 flex-col items-center justify-center gap-3 rounded-lg border bg-muted/40 p-5 text-center">
@@ -78,7 +93,7 @@ function Prompt({ q }: { q: PublicQuestion }) {
   );
 }
 
-function Choices({ q, chosen, onChoose }: { q: PublicQuestion; chosen: number | null; onChoose: (i: number) => void }) {
+function Choices({ q, chosen, onChoose }: { q: Question; chosen: number | null; onChoose: (i: number) => void }) {
   const thai = q.type === "word_to_meaning";
   return (
     <RadioGroup
@@ -119,7 +134,7 @@ function Results({
   onRetry,
 }: {
   result: Result;
-  questions: PublicQuestion[];
+  questions: Question[];
   answers: Record<string, number | null>;
   lessonId: string;
   backHref: string;
@@ -222,94 +237,66 @@ function Results({
   );
 }
 
-function Runner({ lessonId, lessonTitle, backHref }: Props) {
-  const [attempt, setAttempt] = useState<{ id: string; questions: PublicQuestion[] } | null>(null);
-  const [error, setError] = useState<string | null>(null);
+/**
+ * Rendered only in the browser: the quiz page wraps it in LessonGate, which shows a skeleton
+ * until saved progress is read, so the random seed never runs during server rendering.
+ */
+function Runner({ lessonId, lessonTitle, backHref, nextLessonId, words, onRetry }: Props & { onRetry: () => void }) {
+  const [questions] = useState<Question[]>(() => buildQuiz(words, Math.floor(Math.random() * 2 ** 31)));
   const [index, setIndex] = useState(0);
   const [answers, setAnswers] = useState<Record<string, number | null>>({});
   const [result, setResult] = useState<Result | null>(null);
-  const [pending, startTransition] = useTransition();
-  const [run, setRun] = useState(0);
-
-  useEffect(() => {
-    let cancelled = false;
-    startLessonQuiz({ lessonId })
-      .then((r) => {
-        if (cancelled) return;
-        if (r.ok) setAttempt({ id: r.attemptId, questions: r.questions });
-        else setError(r.error);
-      })
-      .catch(() => !cancelled && setError("โหลดแบบทดสอบไม่สำเร็จ ลองรีเฟรชหน้านี้"));
-    return () => {
-      cancelled = true;
-    };
-  }, [lessonId, run]);
-
-  const retry = () => {
-    setAttempt(null);
-    setResult(null);
-    setAnswers({});
-    setIndex(0);
-    setError(null);
-    setRun((n) => n + 1);
-  };
-
-  if (error) {
-    return (
-      <div className="flex flex-col gap-4">
-        <Alert variant="destructive">
-          <X />
-          <AlertTitle>เกิดข้อผิดพลาด</AlertTitle>
-          <AlertDescription lang="th">{error}</AlertDescription>
-        </Alert>
-        <Button asChild variant="outline" className="w-fit">
-          <Link href={backHref}>
-            <ChevronLeft />
-            กลับไปหน้ารวมบทเรียน
-          </Link>
-        </Button>
-      </div>
-    );
-  }
-
-  if (!attempt) {
-    return (
-      <div className="flex flex-col gap-4" aria-busy="true" aria-label="กำลังเตรียมแบบทดสอบ">
-        <Skeleton className="h-4 w-40" />
-        <Skeleton className="h-2 w-full" />
-        <Skeleton className="h-32 w-full" />
-        {[0, 1, 2, 3].map((i) => (
-          <Skeleton key={i} className="h-12 w-full" />
-        ))}
-      </div>
-    );
-  }
+  const retry = onRetry;
 
   if (result) {
     return (
-      <Results
-        result={result}
-        questions={attempt.questions}
-        answers={answers}
-        lessonId={lessonId}
-        backHref={backHref}
-        onRetry={retry}
-      />
+      <div className="flex flex-col gap-4">
+        {!result.saved ? (
+          <Alert variant="destructive">
+            <X />
+            <AlertTitle>บันทึกผลไม่สำเร็จ</AlertTitle>
+            <AlertDescription lang="th">เบราว์เซอร์นี้ไม่ให้เก็บข้อมูล (เช่นโหมดไม่ระบุตัวตน) ผลครั้งนี้จะไม่ถูกจำ</AlertDescription>
+          </Alert>
+        ) : null}
+        <Results
+          result={result}
+          questions={questions}
+          answers={answers}
+          lessonId={lessonId}
+          backHref={backHref}
+          onRetry={retry}
+        />
+      </div>
     );
   }
 
-  const q = attempt.questions[index];
+  const q = questions[index];
   if (!q) return null;
-  const total = attempt.questions.length;
+  const total = questions.length;
   const isLast = index === total - 1;
-  const answered = attempt.questions.filter((x) => typeof answers[x.id] === "number").length;
+  const answered = questions.filter((x) => typeof answers[x.id] === "number").length;
 
-  const submit = () =>
-    startTransition(async () => {
-      const r = await submitLessonQuiz({ attemptId: attempt.id, answers });
-      if (r.ok) setResult(r);
-      else setError(r.error);
+  const submit = () => {
+    const graded = gradeQuiz(questions, answers);
+    const passed = graded.percent >= LESSON_PASS_PERCENT;
+    const saved = saveQuizResult(
+      lessonId,
+      graded.percent,
+      passed,
+      graded.graded.map((g) => ({ wordId: g.wordId, correct: g.correct })),
+    );
+    setResult({
+      percent: graded.percent,
+      correct: graded.correct,
+      total: graded.total,
+      passed,
+      passPercent: LESSON_PASS_PERCENT,
+      review: graded.graded.map(({ id, chosen, answerIndex, correct }) => ({ id, chosen, answerIndex, correct })),
+      nextLessonId: passed ? nextLessonId : null,
+      saved,
     });
+    window.scrollTo({ top: 0 });
+  };
 
   return (
     <div className="flex flex-col gap-5">
@@ -344,9 +331,9 @@ function Runner({ lessonId, lessonTitle, backHref }: Props) {
           ก่อนหน้า
         </Button>
         {isLast ? (
-          <Button className="h-10 px-5" onClick={submit} disabled={pending}>
-            {pending ? <Loader2 className="animate-spin" /> : <Check />}
-            {pending ? "กำลังตรวจ…" : `ส่งคำตอบ (${answered}/${total})`}
+          <Button className="h-10 px-5" onClick={submit}>
+            <Check />
+            {`ส่งคำตอบ (${answered}/${total})`}
           </Button>
         ) : (
           <Button
@@ -364,9 +351,10 @@ function Runner({ lessonId, lessonTitle, backHref }: Props) {
 }
 
 export function QuizRunner(props: Props) {
+  const [run, setRun] = useState(0);
   return (
     <SpeechProvider>
-      <Runner {...props} />
+      <Runner key={run} {...props} onRetry={() => setRun((n) => n + 1)} />
     </SpeechProvider>
   );
 }

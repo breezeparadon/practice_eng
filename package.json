@@ -4,27 +4,19 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "prisma generate && next build",
+    "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "test": "vitest run",
     "test:watch": "vitest",
-    "words:check": "tsx scripts/words-check.ts",
-    "db:migrate": "prisma migrate dev",
-    "db:deploy": "prisma migrate deploy",
-    "db:seed": "tsx prisma/seed.ts",
-    "postinstall": "prisma generate",
-    "vercel-build": "prisma generate && prisma migrate deploy && tsx prisma/seed.ts && next build"
+    "words:check": "tsx scripts/words-check.ts"
   },
   "dependencies": {
-    "@prisma/adapter-pg": "^7.10.1",
-    "@prisma/client": "^7.10.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^1.77.0",
     "next": "16.4.6",
     "papaparse": "^5.7.1",
-    "pg": "^8.23.1",
     "radix-ui": "^1.8.1",
     "react": "19.3.0",
     "react-dom": "19.3.0",
@@ -38,20 +30,16 @@
     "@tailwindcss/turbopack": "4.3.3",
     "@types/node": "^20",
     "@types/papaparse": "^5.5.2",
-    "@types/pg": "^8.23.1",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "dotenv": "^18.0.10",
     "eslint": "^9",
     "eslint-config-next": "16.4.6",
-    "prisma": "^7.10.1",
     "tailwindcss": "4.3.3",
     "tsx": "^4.23.15",
     "typescript": "^5",
     "vitest": "^4.1.12"
   },
   "allowScripts": {
-    "esbuild@0.28.2": true,
-    "prisma@7.10.1": true
+    "esbuild@0.28.2": true
   }
 }

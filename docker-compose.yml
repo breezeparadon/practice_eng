@@ -1,12 +1,12 @@
-# Local development only. Production uses Vercel + a free hosted Postgres (see CLAUDE.md).
-# Ports chosen to avoid other local projects (3000/3001/3300/3456/3520/8xxx are taken).
+# Local development only. Production is a static-friendly Next.js build on Vercel (no database).
+# Port chosen to avoid other local projects (3000/3001/3300/3456/3520/8xxx are taken).
 name: wordbook
 
 services:
   app:
     image: node:24-alpine
     working_dir: /app
-    command: sh -c "npm install && npx prisma migrate deploy && npm run dev -- -H 0.0.0.0 -p 3000"
+    command: sh -c "npm install && npm run dev -- -H 0.0.0.0 -p 3000"
     ports:
       # Override with: WORDBOOK_PORT=4000 docker compose up -d
       - "${WORDBOOK_PORT:-3640}:3000"
@@ -14,30 +14,11 @@ services:
       - .:/app
       - node_modules:/app/node_modules # keep Linux binaries out of the macOS host folder
       - next_cache:/app/.next
-    depends_on:
-      - db
     environment:
-      DATABASE_URL: postgresql://wordbook:wordbook@db:5432/wordbook
       WATCHPACK_POLLING: "true" # hot reload on macOS bind mounts
       CHOKIDAR_USEPOLLING: "true"
       NEXT_TELEMETRY_DISABLED: "1"
-    env_file:
-      - path: .env.local
-        required: false
-
-  db:
-    image: postgres:17-alpine
-    ports:
-      # Override with: WORDBOOK_DB_PORT=5500 docker compose up -d
-      - "${WORDBOOK_DB_PORT:-5440}:5432"
-    environment:
-      POSTGRES_USER: wordbook
-      POSTGRES_PASSWORD: wordbook # local only, never used in production
-      POSTGRES_DB: wordbook
-    volumes:
-      - pgdata:/var/lib/postgresql/data
 
 volumes:
   node_modules:
   next_cache:
-  pgdata:
