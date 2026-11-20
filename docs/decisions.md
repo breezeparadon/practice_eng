@@ -34,3 +34,17 @@ Owner asked for more categories and variety. Plan:
 - Batch rules for writers: `docs/content-brief.md`.
 - `words:check` now accepts file-name prefixes (`npm run words:check -- L3-b`) and warns when the same
   headword+pos appears in more than one level.
+
+## No sign-in, Neon on Vercel (2026-11-20, owner decision)
+
+The owner is the only user and dropped Google login and Supabase.
+
+- **Identity.** No Auth.js. All progress belongs to one `User` row (`owner@wordbook.local`), created on first use
+  (`src/server/session.ts`). `next-auth`, `/login` and `/api/auth` were removed.
+- **Optional passcode.** If `APP_PASSCODE` is set, each browser enters it once on `/unlock` and keeps an httpOnly
+  cookie (HMAC of the passcode) for a year; "ล็อกเครื่องนี้" clears it. Unset = the site is open to anyone with the URL.
+- **Database.** Neon Postgres created from Vercel → Storage, which injects `DATABASE_URL` (pooled, app) and
+  `DATABASE_URL_UNPOOLED` (migrate + seed). Prisma and the schema are unchanged.
+- **Deploy.** `vercel-build` runs `prisma migrate deploy` and the seed before `next build`, so pushing CSV changes
+  updates the content. The seed upserts, never deletes progress, and takes about 30 s.
+- Earlier "Auth" and Supabase notes above are superseded.

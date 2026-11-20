@@ -1,6 +1,8 @@
 # Wordbook: English vocabulary, read like a book
 
 > **Update 2026-11-20 (owner decision):** the book / page-turn / poster layout is dropped. The app is a plain mobile-first site: dashboard → lesson word cards (tap to hear) → 10-question lesson quiz. Current structure, CSV columns, unlock rule and auth setup are in `docs/decisions.md`; they override the older sections below where they differ. Local dev: `docker compose up -d` → http://localhost:3640 (Postgres on 5440).
+>
+> **Update 2026-11-20 (owner decision):** no sign-in (single owner, optional `APP_PASSCODE`) and Neon Postgres via Vercel Storage instead of Auth.js/Google and Supabase. See `docs/decisions.md`.
 
 Working name: **Wordbook** (rename freely). A personal web app for learning everyday and workplace English vocabulary, ordered from basic to expert. Each lesson is an illustrated **poster page**: a big title and a scene in the middle, with small pictures and words spread around it. **Tap any word to hear it spoken**, like the speaker button in Google Translate. Lessons are pages in a book you turn by swiping. Progress, quiz scores and a TOEIC-readiness estimate are saved per user.
 

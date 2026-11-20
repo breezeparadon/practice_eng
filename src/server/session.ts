@@ -1,11 +1,23 @@
 import "server-only";
 import { redirect } from "next/navigation";
-import { auth } from "@/auth";
+import { cache } from "react";
+import { db } from "@/lib/db";
+import { passcodeOk } from "@/server/passcode";
 
-/** Returns the signed-in user's id or redirects to /login. Use in every protected page and action. */
+/** The app has one owner and no sign-in. All progress belongs to this user row. */
+const OWNER_EMAIL = "owner@wordbook.local";
+
+const ownerId = cache(async (): Promise<string> => {
+  const user = await db.user.upsert({
+    where: { email: OWNER_EMAIL },
+    update: {},
+    create: { email: OWNER_EMAIL, name: "Owner" },
+  });
+  return user.id;
+});
+
+/** Returns the owner's id, or redirects to /unlock when a passcode is set and not entered. */
 export async function requireUserId(): Promise<string> {
-  const session = await auth();
-  const id = session?.user?.id;
-  if (!id) redirect("/login");
-  return id;
+  if (!(await passcodeOk())) redirect("/unlock");
+  return ownerId();
 }

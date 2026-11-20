@@ -12,7 +12,7 @@ async function main() {
     console.error(errors.join("\n"));
     throw new Error("Content has errors; run npm run words:check");
   }
-  const db = new PrismaClient({ adapter: new PrismaPg({ connectionString: (process.env.DIRECT_URL || process.env.DATABASE_URL)! }) });
+  const db = new PrismaClient({ adapter: new PrismaPg({ connectionString: (process.env.DIRECT_URL || process.env.DATABASE_URL_UNPOOLED || process.env.DATABASE_URL)! }) });
   try {
     for (const l of LEVELS) {
       await db.level.upsert({
@@ -37,27 +37,34 @@ async function main() {
       lessonIds.set(lessonKey(l), lesson.id);
     }
 
+    // Upsert words a few at a time: one by one is slow over the network on every deploy.
     const keep = new Set<string>();
-    for (const w of words) {
-      const lessonId = lessonIds.get(lessonKey(w))!;
-      const data = {
-        order: w.order,
-        phonetic: w.phonetic,
-        readingTh: w.reading_th,
-        meaningTh: w.meaning_th,
-        exampleEn: w.example_en,
-        exampleTh: w.example_th,
-        noteEn: w.note_en ?? null,
-        emoji: w.emoji ?? null,
-        reviewed: w.reviewed,
-        active: true,
-      };
-      const row = await db.word.upsert({
-        where: { lessonId_headword_pos: { lessonId, headword: w.headword, pos: w.pos } },
-        update: data,
-        create: { lessonId, headword: w.headword, pos: w.pos, ...data },
-      });
-      keep.add(row.id);
+    const CONCURRENCY = 8;
+    for (let i = 0; i < words.length; i += CONCURRENCY) {
+      const rows = await Promise.all(
+        words.slice(i, i + CONCURRENCY).map((w) => {
+          const lessonId = lessonIds.get(lessonKey(w))!;
+          const data = {
+            order: w.order,
+            phonetic: w.phonetic,
+            readingTh: w.reading_th,
+            meaningTh: w.meaning_th,
+            exampleEn: w.example_en,
+            exampleTh: w.example_th,
+            noteEn: w.note_en ?? null,
+            emoji: w.emoji ?? null,
+            reviewed: w.reviewed,
+            active: true,
+          };
+          return db.word.upsert({
+            where: { lessonId_headword_pos: { lessonId, headword: w.headword, pos: w.pos } },
+            update: data,
+            create: { lessonId, headword: w.headword, pos: w.pos, ...data },
+            select: { id: true },
+          });
+        }),
+      );
+      for (const r of rows) keep.add(r.id);
     }
 
     const allLessonIds = [...lessonIds.values()];
