@@ -8,7 +8,9 @@ export default defineConfig({
   migrations: {
     path: "prisma/migrations",
   },
+  // Migrations need a direct/session connection. On Supabase, DATABASE_URL is the
+  // transaction pooler (port 6543) used by the app, DIRECT_URL the session pooler (5432).
   datasource: {
-    url: process.env["DATABASE_URL"],
+    url: process.env["DIRECT_URL"] || process.env["DATABASE_URL"],
   },
 });

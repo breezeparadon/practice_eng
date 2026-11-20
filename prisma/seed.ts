@@ -12,7 +12,7 @@ async function main() {
     console.error(errors.join("\n"));
     throw new Error("Content has errors; run npm run words:check");
   }
-  const db = new PrismaClient({ adapter: new PrismaPg({ connectionString: process.env.DATABASE_URL! }) });
+  const db = new PrismaClient({ adapter: new PrismaPg({ connectionString: (process.env.DIRECT_URL || process.env.DATABASE_URL)! }) });
   try {
     for (const l of LEVELS) {
       await db.level.upsert({
