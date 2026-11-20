@@ -1,0 +1,337 @@
+level,category,lesson,order,headword,pos,phonetic,reading_th,meaning_th,example_en,example_th,note_en,emoji,reviewed
+4,medical,1,1,diagnosis,noun,/ˌdaɪəɡˈnoʊsɪs/,ไดแอ็กโนซิส,การวินิจฉัยโรค,The doctor will give you a diagnosis after the tests are done.,แพทย์จะแจ้งผลการวินิจฉัยหลังจากตรวจเสร็จแล้ว,Collocation: make a diagnosis.,,false
+4,medical,1,2,prognosis,noun,/prɑːɡˈnoʊsɪs/,พร็อกโนซิส,การพยากรณ์โรค แนวโน้มการหาย,The doctor said the prognosis is good if she rests for a month.,หมอบอกว่าแนวโน้มการหายดีถ้าเธอพักผ่อนหนึ่งเดือน,,,false
+4,medical,1,3,screening,noun,/ˈskriːnɪŋ/,สกรีนนิง,การตรวจคัดกรอง,The company offers free cancer screening for staff over forty.,บริษัทมีการตรวจคัดกรองมะเร็งฟรีให้พนักงานที่อายุเกินสี่สิบปี,Collocation: health screening.,,false
+4,medical,1,4,referral,noun,/rɪˈfɝːəl/,รีเฟอร์เริล,ใบส่งตัว (ไปพบแพทย์อื่น),You need a referral from your family doctor to see a specialist.,คุณต้องมีใบส่งตัวจากแพทย์ประจำตัวจึงจะไปพบแพทย์เฉพาะทางได้,,,false
+4,medical,1,5,examine,verb,/ɪɡˈzæmɪn/,อิกแซมมิน,ตรวจ (ร่างกาย),The doctor examined my knee and said nothing was broken.,หมอตรวจหัวเข่าของฉันและบอกว่าไม่มีอะไรหัก,,,false
+4,medical,1,6,ultrasound,noun,/ˈʌltrəsaʊnd/,อัลตราซาวด์,การตรวจด้วยคลื่นเสียงความถี่สูง,The ultrasound showed that the baby is healthy.,ผลอัลตราซาวด์แสดงว่าทารกแข็งแรงดี,,,false
+4,medical,1,7,abnormal,adjective,/æbˈnɔːrməl/,แอ็บนอร์เมิล,ผิดปกติ,"The test found nothing abnormal, so you do not need more checks.",ผลตรวจไม่พบสิ่งผิดปกติ คุณจึงไม่ต้องตรวจเพิ่ม,,,false
+4,medical,1,8,cardiologist,noun,/ˌkɑːrdiˈɑːlədʒɪst/,คาร์ดิออเลอะจิสท์,แพทย์ผู้เชี่ยวชาญโรคหัวใจ,My doctor sent me to a cardiologist because of my chest pain.,หมอส่งตัวฉันไปพบแพทย์โรคหัวใจเพราะฉันเจ็บหน้าอก,,,false
+4,medical,1,9,chronic,adjective,/ˈkrɑːnɪk/,ครอนิก,เรื้อรัง,She has suffered from chronic back pain for many years.,เธอมีอาการปวดหลังเรื้อรังมาหลายปีแล้ว,Opposite: acute.,,false
+4,medical,1,10,infection,noun,/ɪnˈfɛkʃən/,อินเฟ็กชัน,การติดเชื้อ,Keep the cut clean so it does not get an infection.,รักษาแผลให้สะอาดเพื่อไม่ให้ติดเชื้อ,,,false
+4,medical,1,11,general practitioner,noun,/ˈdʒɛnərəl prækˈtɪʃənər/,เจเนอเริล แพร็กทิชันเนอร์,แพทย์เวชปฏิบัติทั่วไป,Visit your general practitioner first if you feel unwell.,ไปพบแพทย์ทั่วไปก่อนหากคุณรู้สึกไม่สบาย,Often shortened to GP.,,false
+4,medical,1,12,medical history,noun,/ˈmedɪkəl ˈhɪstəri/,เมดิเคิล ฮิสตอรี,ประวัติการรักษา,The nurse asked about my medical history before the scan.,พยาบาลถามประวัติการรักษาของฉันก่อนการสแกน,Collocation: family medical history.,,false
+4,medical,1,13,vital signs,noun,/ˈvaɪtəl ˌsaɪnz/,ไวเทิล ไซนส์,สัญญาณชีพ,The nurse checked his vital signs every hour after the accident.,พยาบาลตรวจสัญญาณชีพของเขาทุกชั่วโมงหลังอุบัติเหตุ,"Pulse, breathing, temperature and blood pressure.",,false
+4,medical,1,14,persistent,adjective,/pərˈsɪstənt/,เพอร์ซิสเทินท์,ต่อเนื่อง ไม่หายไป,See a doctor if you have a persistent cough for more than two weeks.,ไปพบแพทย์หากคุณไอต่อเนื่องนานกว่าสองสัปดาห์,,,false
+4,medical,2,1,capsule,noun,/ˈkæpsəl/,แคปเซิล,ยาแคปซูล,Take one capsule with water after breakfast.,กินยาแคปซูลหนึ่งเม็ดกับน้ำหลังอาหารเช้า,,💊,false
+4,medical,2,2,prescribe,verb,/prɪˈskraɪb/,พริสไครบ์,สั่งจ่ายยา,The doctor prescribed a cream for my skin rash.,หมอสั่งจ่ายครีมสำหรับผื่นที่ผิวหนังของฉัน,,,false
+4,medical,2,3,dosage,noun,/ˈdoʊsɪdʒ/,โดซิจ,ขนาดยาที่ใช้,Do not change the dosage without asking your doctor first.,อย่าเปลี่ยนขนาดยาโดยไม่ถามแพทย์ก่อน,,,false
+4,medical,2,4,antihistamine,noun,/ˌæntiˈhɪstəmiːn/,แอนทีฮิสเทอะมีน,ยาแก้แพ้,Take an antihistamine if your eyes start to itch.,กินยาแก้แพ้ถ้าตาของคุณเริ่มคัน,,,false
+4,medical,2,5,antibiotic,noun,/ˌæntibaɪˈɑːtɪk/,แอนทีไบออติก,ยาปฏิชีวนะ,Finish all the antibiotics even if you feel better.,กินยาปฏิชีวนะให้หมดแม้ว่าจะรู้สึกดีขึ้นแล้ว,Antibiotics do not work against viruses such as a cold.,💊,false
+4,medical,2,6,generic drug,noun,/dʒəˌnɛrɪk ˈdrʌɡ/,เจอะเนริก ดรัก,ยาสามัญ (ไม่ใช่ยาต้นแบบ),A generic drug works the same but costs much less.,ยาสามัญได้ผลเหมือนกันแต่ราคาถูกกว่ามาก,,,false
+4,medical,2,7,drowsiness,noun,/ˈdraʊzinəs/,ดราวซิเนิส,อาการง่วงซึม,"This medicine may cause drowsiness, so do not drive.",ยานี้อาจทำให้ง่วงซึม ดังนั้นอย่าขับรถ,,,false
+4,medical,2,8,inhaler,noun,/ɪnˈheɪlər/,อินเฮเลอร์,ยาพ่น (สำหรับหอบหืด),She always carries an inhaler because she has asthma.,เธอพกยาพ่นติดตัวเสมอเพราะเป็นโรคหอบหืด,,,false
+4,medical,2,9,therapy,noun,/ˈθɛrəpi/,เธเรอพี,การบำบัด,"After the accident, he needed weeks of therapy to walk normally.",หลังอุบัติเหตุ เขาต้องบำบัดหลายสัปดาห์จึงจะเดินได้ตามปกติ,,,false
+4,medical,2,10,booster shot,noun,/ˈbuːstər ʃɑːt/,บูสเตอร์ ช็อท,การฉีดวัคซีนกระตุ้น,Adults need a tetanus booster shot every ten years.,ผู้ใหญ่ต้องฉีดวัคซีนบาดทะยักกระตุ้นทุกสิบปี,,💉,false
+4,medical,2,11,rehabilitation,noun,/ˌriːəˌbɪlɪˈteɪʃən/,รีอะบิลิเทชัน,การฟื้นฟูสมรรถภาพ,"After the stroke, he spent three months in rehabilitation.",หลังเส้นเลือดในสมองตีบ เขาเข้ารับการฟื้นฟูสมรรถภาพสามเดือน,Often shortened to rehab.,,false
+4,medical,2,12,over-the-counter,adjective,/ˌoʊvər ðə ˈkaʊntər/,โอเวอร์ เดอะ เคาน์เทอร์,(ยา) ที่ซื้อได้โดยไม่ต้องมีใบสั่งแพทย์,You can buy over-the-counter pain relief at any pharmacy.,คุณซื้อยาแก้ปวดที่ไม่ต้องใช้ใบสั่งแพทย์ได้ที่ร้านขายยาทุกร้าน,,,false
+4,medical,2,13,allergic reaction,noun,/əˈlɝːdʒɪk riˈækʃən/,อะเลอร์จิก รีแอ็กชัน,อาการแพ้,He had an allergic reaction to the new medicine and got a rash.,เขามีอาการแพ้ยาตัวใหม่และเกิดผื่นขึ้น,,,false
+4,medical,2,14,crutches,noun,/ˈkrʌtʃɪz/,ครัทชิซ,ไม้ค้ำยัน,He walked on crutches for six weeks after he broke his leg.,เขาเดินด้วยไม้ค้ำยันหกสัปดาห์หลังขาหัก,Singular: a crutch.,🩼,false
+4,medical,3,1,admit,verb,/ədˈmɪt/,เอิดมิท,รับเข้ารักษาตัวในโรงพยาบาล,My father was admitted to the hospital last night.,พ่อของฉันถูกรับเข้ารักษาตัวในโรงพยาบาลเมื่อคืนนี้,Often passive: be admitted to the hospital.,,false
+4,medical,3,2,discharge,verb,/dɪsˈtʃɑːrdʒ/,ดิสชาร์จ,ให้ออกจากโรงพยาบาล,She will be discharged tomorrow if her fever stays down.,เธอจะได้ออกจากโรงพยาบาลพรุ่งนี้หากไข้ไม่ขึ้นอีก,,,false
+4,medical,3,3,ward,noun,/wɔːrd/,วอร์ด,หอผู้ป่วย,The children's ward is on the third floor.,หอผู้ป่วยเด็กอยู่ที่ชั้นสาม,,,false
+4,medical,3,4,surgery,noun,/ˈsɝːdʒəri/,เซอร์เจอรี,การผ่าตัด,He needs surgery on his knee next month.,เขาต้องผ่าตัดหัวเข่าเดือนหน้า,,,false
+4,medical,3,5,surgeon,noun,/ˈsɝːdʒən/,เซอร์เจิน,ศัลยแพทย์,The surgeon explained the risks before the operation.,ศัลยแพทย์อธิบายความเสี่ยงก่อนการผ่าตัด,,,false
+4,medical,3,6,anesthetic,noun,/ˌænəsˈθɛtɪk/,แอเนิสเธ็ทติก,ยาชา ยาสลบ,"You will be given a local anesthetic, so you will not feel any pain.",คุณจะได้รับยาชาเฉพาะที่ จึงจะไม่รู้สึกเจ็บ,UK spelling: anaesthetic.,,false
+4,medical,3,7,intensive care,noun,/ɪnˈtɛnsɪv kɛr/,อินเทนซิฟ แคร์,หอผู้ป่วยวิกฤต,"After the operation, he spent two days in intensive care.",หลังการผ่าตัด เขาอยู่ในหอผู้ป่วยวิกฤตสองวัน,Often called the ICU.,,false
+4,medical,3,8,consent form,noun,/kənˈsɛnt fɔːrm/,เคินเซ็นท์ ฟอร์ม,ใบยินยอม,Please read and sign the consent form before the surgery.,กรุณาอ่านและเซ็นใบยินยอมก่อนการผ่าตัด,,,false
+4,medical,3,9,visiting hours,noun,/ˈvɪzɪtɪŋ ˌaʊərz/,วิซิทิง อาวเออร์ส,เวลาเยี่ยมผู้ป่วย,Visiting hours end at eight o'clock in the evening.,เวลาเยี่ยมผู้ป่วยสิ้นสุดตอนสองทุ่ม,,,false
+4,medical,3,10,recovery,noun,/rɪˈkʌvəri/,รีคัฟเวอรี,การฟื้นตัว,The doctor said her recovery is going well.,หมอบอกว่าการฟื้นตัวของเธอเป็นไปด้วยดี,Collocation: make a full recovery.,,false
+4,medical,3,11,inpatient,noun,/ˈɪnˌpeɪʃənt/,อินเพเชินท์,ผู้ป่วยใน,Inpatients can order meals from the menu by the bed.,ผู้ป่วยในสั่งอาหารจากเมนูข้างเตียงได้,Opposite: outpatient.,,false
+4,medical,3,12,life-threatening,adjective,/ˈlaɪf ˌθrɛtənɪŋ/,ไลฟ์ เธร็ทเทินนิง,อันตรายถึงชีวิต,"Luckily, his injuries from the car accident were not life-threatening.",โชคดีที่อาการบาดเจ็บจากอุบัติเหตุรถยนต์ของเขาไม่อันตรายถึงชีวิต,,,false
+4,medical,3,13,blood transfusion,noun,/ˈblʌd trænsˌfjuːʒən/,บลัด แทรนส์ฟิวชัน,การให้เลือด,She lost a lot of blood and needed a blood transfusion.,เธอเสียเลือดมากและต้องได้รับการให้เลือด,,,false
+4,medical,3,14,operate,verb,/ˈɑːpəreɪt/,ออเพอเรท,ผ่าตัด,The doctors decided to operate on his heart the next morning.,แพทย์ตัดสินใจผ่าตัดหัวใจของเขาในเช้าวันรุ่งขึ้น,Collocation: operate on a patient.,,false
+4,property,1,1,pet-friendly,adjective,/ˌpɛt ˈfrɛndli/,เพ็ท เฟรนด์ลี,อนุญาตให้เลี้ยงสัตว์ได้,It is hard to find a pet-friendly apartment near the city center.,หาห้องที่ให้เลี้ยงสัตว์ได้ใกล้ใจกลางเมืองยาก,,,false
+4,property,1,2,property manager,noun,/ˈprɑːpərti ˌmænɪdʒər/,พรอเพอร์ตี แมนิเจอร์,ผู้จัดการอาคาร (นิติบุคคล),Report any broken lights to the property manager.,แจ้งไฟที่เสียกับผู้จัดการอาคาร,,,false
+4,property,1,3,tenancy agreement,noun,/ˈtɛnənsi əˌɡriːmənt/,เทเนินซี อะกรีเมินท์,สัญญาเช่าที่พัก,Read the tenancy agreement carefully before you pay the deposit.,อ่านสัญญาเช่าให้ละเอียดก่อนจ่ายเงินมัดจำ,,,false
+4,property,1,4,security deposit,noun,/sɪˈkjʊrəti dɪˌpɑːzɪt/,ซิเคียวริที ดีพอซิท,เงินประกัน (ค่าเช่า),You will get your security deposit back if the room is undamaged.,คุณจะได้เงินประกันคืนหากห้องไม่มีความเสียหาย,,,false
+4,property,1,5,utilities,noun,/juːˈtɪlətiz/,ยูทิลิทีส์,ค่าสาธารณูปโภค (น้ำ ไฟ แก๊ส),"The rent is nine thousand baht a month, not including utilities.",ค่าเช่าเดือนละเก้าพันบาท ไม่รวมค่าน้ำค่าไฟ,,,false
+4,property,1,6,unfurnished,adjective,/ʌnˈfɝːnɪʃt/,อันเฟอร์นิชท์,ไม่มีเฟอร์นิเจอร์,"The unfurnished room is cheaper, but you must buy a bed.",ห้องที่ไม่มีเฟอร์นิเจอร์ถูกกว่า แต่คุณต้องซื้อเตียงเอง,Opposite: furnished.,,false
+4,property,1,7,rent out,phrasal verb,/ˌrɛnt ˈaʊt/,เร้นท์ เอาท์,ปล่อยเช่า,We plan to rent out the spare room to a student.,เราวางแผนจะปล่อยห้องว่างให้นักศึกษาเช่า,,,false
+4,property,1,8,sublet,verb,/sʌbˈlɛt/,ซับเล็ท,ให้เช่าช่วง,Tenants are not allowed to sublet the room without permission.,ผู้เช่าไม่สามารถให้คนอื่นเช่าช่วงห้องได้หากไม่ได้รับอนุญาต,,,false
+4,property,1,9,occupant,noun,/ˈɑːkjəpənt/,ออคิวเพินท์,ผู้พักอาศัย,Each unit is for no more than two occupants.,ห้องแต่ละห้องให้พักอาศัยได้ไม่เกินสองคน,,,false
+4,property,1,10,rent increase,noun,/ˈrɛnt ˌɪnkriːs/,เร้นท์ อินครีส,การขึ้นค่าเช่า,The landlord announced a five percent rent increase next year.,เจ้าของประกาศขึ้นค่าเช่าห้าเปอร์เซ็นต์ในปีหน้า,,,false
+4,property,1,11,evict,verb,/ɪˈvɪkt/,อีวิคท์,ขับไล่ออก (จากที่เช่า),The landlord can evict tenants who do not pay rent for three months.,เจ้าของสามารถไล่ผู้เช่าที่ไม่จ่ายค่าเช่าสามเดือนออกได้,,,false
+4,property,1,12,vacant,adjective,/ˈveɪkənt/,เวเคินท์,ว่าง (ไม่มีผู้อยู่),There are two vacant units on the fifth floor.,มีห้องว่างสองห้องที่ชั้นห้า,,,false
+4,property,1,13,maintenance fee,noun,/ˈmeɪntənəns fiː/,เมนเทอเนินซ์ ฟี,ค่าส่วนกลาง,The maintenance fee covers cleaning and security for the building.,ค่าส่วนกลางครอบคลุมค่าทำความสะอาดและรักษาความปลอดภัยของอาคาร,,,false
+4,property,1,14,move-in date,noun,/ˈmuːv ɪn ˌdeɪt/,มูฟ อิน เดท,วันที่ย้ายเข้า,Our move-in date is the first of next month.,วันที่เราย้ายเข้าคือวันที่หนึ่งของเดือนหน้า,,,false
+4,property,2,1,home loan,noun,/ˈhoʊm loʊn/,โฮม โลน,สินเชื่อบ้าน,We compared home loans from four banks before we chose one.,เราเปรียบเทียบสินเชื่อบ้านจากสี่ธนาคารก่อนเลือก,,,false
+4,property,2,2,closing costs,noun,/ˈkloʊzɪŋ ˌkɔːsts/,โคลซิง คอสท์ส,ค่าใช้จ่ายวันโอน,Remember to save money for closing costs as well as the price.,อย่าลืมเก็บเงินไว้สำหรับค่าใช้จ่ายวันโอนนอกเหนือจากราคาบ้าน,Fees paid when the sale is completed.,,false
+4,property,2,3,real estate agent,noun,/ˈriːəl ɪˌsteɪt ˌeɪdʒənt/,เรียล อิสเตท เอเจินท์,นายหน้าอสังหาริมทรัพย์,The real estate agent showed us three houses on Saturday.,นายหน้าอสังหาริมทรัพย์พาเราดูบ้านสามหลังเมื่อวันเสาร์,,,false
+4,property,2,4,appraisal,noun,/əˈpreɪzəl/,อะเพรเซิล,การประเมินราคา,The bank needs an appraisal of the house before it approves the loan.,ธนาคารต้องประเมินราคาบ้านก่อนอนุมัติเงินกู้,,,false
+4,property,2,5,condominium,noun,/ˌkɑːndəˈmɪniəm/,คอนโดมิเนียม,อาคารชุด ห้องชุด,She bought a condominium near the train station.,เธอซื้อห้องชุดใกล้สถานีรถไฟ,Usually shortened to condo.,,false
+4,property,2,6,resale value,noun,/ˈriːseɪl ˌvæljuː/,รีเซล แวลยู,มูลค่าขายต่อ,Condos near the train station usually have a high resale value.,คอนโดใกล้สถานีรถไฟมักมีมูลค่าขายต่อสูง,,,false
+4,property,2,7,property tax,noun,/ˈprɑːpərti ˌtæks/,พรอเพอร์ตี แท็กซ์,ภาษีที่ดินและสิ่งปลูกสร้าง,Owners must pay property tax to the city every year.,เจ้าของต้องจ่ายภาษีที่ดินและสิ่งปลูกสร้างให้เมืองทุกปี,,,false
+4,property,2,8,ownership,noun,/ˈoʊnərʃɪp/,โอนเนอร์ชิพ,กรรมสิทธิ์ ความเป็นเจ้าของ,Foreigners have limits on the ownership of land in Thailand.,ชาวต่างชาติมีข้อจำกัดในการถือกรรมสิทธิ์ที่ดินในประเทศไทย,,,false
+4,property,2,9,title deed,noun,/ˈtaɪtəl diːd/,ไทเทิล ดีด,โฉนดที่ดิน,Keep the title deed in a safe place at home.,เก็บโฉนดที่ดินไว้ในที่ปลอดภัยที่บ้าน,,,false
+4,property,2,10,transfer fee,noun,/ˈtrænsfɝː fiː/,แทรนส์เฟอร์ ฟี,ค่าธรรมเนียมการโอน,The buyer and seller agreed to split the transfer fee.,ผู้ซื้อและผู้ขายตกลงแบ่งจ่ายค่าธรรมเนียมการโอนคนละครึ่ง,,,false
+4,property,2,11,listing,noun,/ˈlɪstɪŋ/,ลิสทิง,ประกาศขายหรือให้เช่า,I found the listing for this house on a property website.,ฉันเจอประกาศขายบ้านหลังนี้บนเว็บไซต์อสังหาริมทรัพย์,,,false
+4,property,2,12,asking price,noun,/ˈæskɪŋ praɪs/,แอสกิง ไพรซ์,ราคาที่ผู้ขายตั้งไว้,"The asking price is high, but the seller may accept less.",ราคาที่ตั้งไว้สูง แต่ผู้ขายอาจยอมรับราคาที่ต่ำกว่า,,,false
+4,property,2,13,viewing,noun,/ˈvjuːɪŋ/,วิวอิง,การนัดเข้าชม (บ้านหรือห้อง),We have a viewing at the new condo at ten tomorrow.,พรุ่งนี้สิบโมงเรามีนัดเข้าชมคอนโดใหม่,,,false
+4,property,2,14,outright,adverb,/ˈaʊtraɪt/,เอาท์ไรท์,(ซื้อ) ด้วยเงินก้อนเดียวทั้งหมด,"They paid for the house outright, so they have no loan.",พวกเขาจ่ายเงินซื้อบ้านทั้งหมดในครั้งเดียว จึงไม่มีหนี้,Collocation: buy something outright.,,false
+4,property,3,1,signatory,noun,/ˈsɪɡnətɔːri/,ซิกเนอะทอรี,ผู้ลงนาม,Both signatories must be present at the bank.,ผู้ลงนามทั้งสองฝ่ายต้องมาที่ธนาคาร,,,false
+4,property,3,2,enforceable,adjective,/ɪnˈfɔːrsəbəl/,อินฟอร์เซอะเบิล,บังคับใช้ได้ (ตามกฎหมาย),A contract without signatures may not be enforceable.,สัญญาที่ไม่มีลายเซ็นอาจบังคับใช้ไม่ได้,,,false
+4,property,3,3,dispute,noun,/dɪˈspjuːt/,ดิสพิวท์,ข้อพิพาท,They had a dispute with the landlord about the deposit.,พวกเขามีข้อพิพาทกับเจ้าของห้องเรื่องเงินประกัน,,,false
+4,property,3,4,arbitration,noun,/ˌɑːrbɪˈtreɪʃən/,อาร์บิเทรชัน,อนุญาโตตุลาการ การไกล่เกลี่ยโดยคนกลาง,"Any problem under this contract will go to arbitration, not court.",ปัญหาใด ๆ ตามสัญญานี้จะใช้อนุญาโตตุลาการ ไม่ใช่ศาล,,,false
+4,property,3,5,liable,adjective,/ˈlaɪəbəl/,ไลเออะเบิล,ต้องรับผิดชอบตามกฎหมาย,The tenant is liable for any damage to the furniture.,ผู้เช่าต้องรับผิดชอบความเสียหายใด ๆ ต่อเฟอร์นิเจอร์,Collocation: liable for something.,,false
+4,property,3,6,breach of contract,noun,/briːtʃ əv ˈkɑːntrækt/,บรีช ออฟ คอนแทรกต์,การผิดสัญญา,Moving out before the end date may count as a breach of contract.,การย้ายออกก่อนวันสิ้นสุดสัญญาอาจถือเป็นการผิดสัญญา,,,false
+4,property,3,7,co-sign,verb,/ˌkoʊ ˈsaɪn/,โค ไซน์,ลงนามร่วม,My father agreed to co-sign the lease because I am still a student.,พ่อตกลงลงนามร่วมในสัญญาเช่าเพราะฉันยังเป็นนักศึกษา,,,false
+4,property,3,8,addendum,noun,/əˈdɛndəm/,อะเดนเดิม,เอกสารแนบท้ายสัญญา,We added an addendum about parking to the lease.,เราเพิ่มเอกสารแนบท้ายเรื่องที่จอดรถในสัญญาเช่า,,,false
+4,property,3,9,initial,verb,/ɪˈnɪʃəl/,อินิเชิล,ลงชื่อย่อ,Please initial each page of the contract.,กรุณาลงชื่อย่อทุกหน้าของสัญญา,"Uses your initials, not a full signature.",,false
+4,property,3,10,amendment,noun,/əˈmɛndmənt/,อะเมนด์เมินท์,การแก้ไขเพิ่มเติม,Both parties must sign any amendment to the agreement.,ทั้งสองฝ่ายต้องลงนามในการแก้ไขเพิ่มเติมใด ๆ ของข้อตกลง,,,false
+4,property,3,11,obligation,noun,/ˌɑːblɪˈɡeɪʃən/,ออบลิเกชัน,ภาระหน้าที่ ข้อผูกพัน,The landlord has an obligation to repair the roof.,เจ้าของมีหน้าที่ต้องซ่อมหลังคา,,,false
+4,property,3,12,legal advice,noun,/ˌliːɡəl ədˈvaɪs/,ลีเกิล เอิดไวซ์,คำปรึกษาทางกฎหมาย,Get legal advice before you sign a long contract.,ขอคำปรึกษาทางกฎหมายก่อนเซ็นสัญญาระยะยาว,,,false
+4,property,3,13,duration,noun,/dʊˈreɪʃən/,ดูเรชัน,ระยะเวลา,The duration of the contract is twelve months.,ระยะเวลาของสัญญาคือสิบสองเดือน,,,false
+4,property,3,14,fine print,noun,/ˈfaɪn prɪnt/,ไฟน์ พรินท์,รายละเอียดตัวเล็กในสัญญา,Always read the fine print before you agree to anything.,อ่านรายละเอียดตัวเล็กทุกครั้งก่อนตกลงอะไรก็ตาม,Often hides fees or limits.,,false
+4,consumer,1,1,extended warranty,noun,/ɪkˌstɛndɪd ˈwɔːrənti/,อิกซ์เทนดิด วอเรินตี,การรับประกันแบบขยายเวลา,The salesperson tried to sell me an extended warranty for the TV.,พนักงานขายพยายามขายการรับประกันแบบขยายเวลาสำหรับทีวีให้ฉัน,,,false
+4,consumer,1,2,wear and tear,noun,/ˌwɛr ən ˈtɛr/,แวร์ แอนด์ แทร์,การสึกหรอตามการใช้งาน,The warranty does not cover normal wear and tear.,การรับประกันไม่ครอบคลุมการสึกหรอตามปกติ,,,false
+4,consumer,1,3,faulty,adjective,/ˈfɔːlti/,ฟอลตี,ชำรุด บกพร่อง,The store replaced the faulty charger without asking any questions.,ร้านเปลี่ยนที่ชาร์จที่ชำรุดให้โดยไม่ถามอะไรเลย,"Collocation: faulty wiring, a faulty product.",,false
+4,consumer,1,4,serial number,noun,/ˈsɪriəl ˌnʌmbər/,ซีเรียล นัมเบอร์,หมายเลขเครื่อง,You can find the serial number on the back of the laptop.,คุณหาหมายเลขเครื่องได้ที่ด้านหลังแล็ปท็อป,,,false
+4,consumer,1,5,service center,noun,/ˈsɝːvɪs ˌsɛntər/,เซอร์วิส เซนเทอร์,ศูนย์บริการ,Take the camera to an official service center for repair.,นำกล้องไปซ่อมที่ศูนย์บริการที่เป็นทางการ,,,false
+4,consumer,1,6,return label,noun,/rɪˈtɝːn ˌleɪbəl/,รีเทิร์น เลเบิล,ฉลากส่งคืนสินค้า,Print the return label and stick it on the box.,พิมพ์ฉลากส่งคืนสินค้าแล้วติดบนกล่อง,,,false
+4,consumer,1,7,refurbished,adjective,/ˌriːˈfɝːnɪʃt/,รีเฟอร์นิชท์,ปรับสภาพใหม่ (ของมือสอง),I bought a refurbished laptop that came with a one-year warranty.,ฉันซื้อแล็ปท็อปปรับสภาพที่มีการรับประกันหนึ่งปี,,,false
+4,consumer,1,8,user manual,noun,/ˈjuːzər ˌmænjuəl/,ยูสเซอร์ แมนิวเอิล,คู่มือการใช้งาน,Check the user manual before you call the help line.,อ่านคู่มือการใช้งานก่อนโทรหาฝ่ายช่วยเหลือ,,📖,false
+4,consumer,1,9,proof of purchase,noun,/pruːf əv ˈpɝːtʃəs/,พรูฟ ออฟ เพอร์เชิส,หลักฐานการซื้อ,"You need proof of purchase, such as a receipt, to get a free repair.",คุณต้องมีหลักฐานการซื้อ เช่น ใบเสร็จ จึงจะซ่อมฟรีได้,,,false
+4,consumer,1,10,product recall,noun,/ˈprɑːdʌkt ˌriːkɔːl/,พรอดัคท์ รีคอล,การเรียกคืนสินค้า,The company announced a product recall because of a battery fault.,บริษัทประกาศเรียกคืนสินค้าเพราะแบตเตอรี่มีปัญหา,,,false
+4,consumer,1,11,void,adjective,/vɔɪd/,วอยด์,เป็นโมฆะ ใช้ไม่ได้,Opening the case yourself will make the warranty void.,การเปิดฝาเครื่องเองจะทำให้การรับประกันเป็นโมฆะ,,,false
+4,consumer,1,12,malfunction,verb,/mælˈfʌŋkʃən/,แมลฟังก์ชัน,ทำงานผิดปกติ,The printer started to malfunction a week after I bought it.,เครื่องพิมพ์เริ่มทำงานผิดปกติหนึ่งสัปดาห์หลังจากที่ฉันซื้อมา,,,false
+4,consumer,1,13,restocking fee,noun,/riːˈstɑːkɪŋ fiː/,รีสต็อกกิง ฟี,ค่าธรรมเนียมการรับคืนสินค้า,Some shops charge a restocking fee for opened electronics.,บางร้านเก็บค่าธรรมเนียมรับคืนสำหรับเครื่องใช้ไฟฟ้าที่เปิดแล้ว,,,false
+4,consumer,1,14,unopened,adjective,/ʌnˈoʊpənd/,อันโอเพินด์,ยังไม่ได้เปิด,You can return unopened items within fourteen days.,คุณคืนสินค้าที่ยังไม่ได้เปิดได้ภายในสิบสี่วัน,,,false
+4,consumer,2,1,lodge,verb,/lɑːdʒ/,ลอจ,ยื่น (เรื่องร้องเรียน) อย่างเป็นทางการ,You can lodge a complaint online or by phone.,คุณยื่นเรื่องร้องเรียนได้ทางออนไลน์หรือทางโทรศัพท์,Collocation: lodge a complaint.,,false
+4,consumer,2,2,formal complaint,noun,/ˌfɔːrməl kəmˈpleɪnt/,ฟอร์เมิล เคิมเพลนท์,การร้องเรียนอย่างเป็นทางการ,I wrote a formal complaint to the head office.,ฉันเขียนเรื่องร้องเรียนอย่างเป็นทางการถึงสำนักงานใหญ่,,,false
+4,consumer,2,3,unresolved,adjective,/ˌʌnrɪˈzɑːlvd/,อันรีซอลฟ์ด,ยังไม่ได้รับการแก้ไข,My problem is still unresolved after three phone calls.,ปัญหาของฉันยังไม่ได้รับการแก้ไขหลังโทรไปสามครั้ง,,,false
+4,consumer,2,4,unhelpful,adjective,/ʌnˈhɛlpfəl/,อันเฮลพ์เฟิล,ไม่ช่วยอะไร ไม่ให้ความช่วยเหลือ,The staff at the counter were rude and unhelpful.,พนักงานที่เคาน์เตอร์หยาบคายและไม่ช่วยอะไรเลย,,,false
+4,consumer,2,5,escalate,verb,/ˈeskəleɪt/,เอสคะเลต,ส่งเรื่องต่อไปยังผู้มีอำนาจสูงขึ้น,"If the store ignores you, escalate the complaint to head office.",ถ้าร้านไม่สนใจ ให้ส่งเรื่องร้องเรียนต่อไปยังสำนักงานใหญ่,Collocation: escalate a complaint.,,false
+4,consumer,2,6,small claims court,noun,/ˌsmɔːl ˈkleɪmz ˌkɔːrt/,สมอล เคลมส์ คอร์ท,ศาลคดีมโนสาเร่,"If the shop will not pay, you can go to small claims court.",ถ้าร้านไม่ยอมจ่าย คุณสามารถฟ้องศาลคดีมโนสาเร่ได้,,,false
+4,consumer,2,7,out of pocket,phrase,/ˌaʊt əv ˈpɑːkɪt/,เอาท์ ออฟ พอคิท,ต้องเสียเงินเอง ขาดทุน,The late delivery left me out of pocket by two thousand baht.,การส่งของล่าช้าทำให้ฉันต้องเสียเงินเองสองพันบาท,,,false
+4,consumer,2,8,customer satisfaction,noun,/ˌkʌstəmər ˌsætɪsˈfækʃən/,คัสเตอเมอร์ แซทิสแฟกชัน,ความพึงพอใจของลูกค้า,We send a short survey to measure customer satisfaction.,เราส่งแบบสำรวจสั้น ๆ เพื่อวัดความพึงพอใจของลูกค้า,,,false
+4,consumer,2,9,apologetic,adjective,/əˌpɑːləˈdʒɛtɪk/,อะพอเลอะเจ็ทิก,แสดงความขอโทษ รู้สึกผิด,The manager was very apologetic and gave us free drinks.,ผู้จัดการขอโทษอย่างมากและให้เครื่องดื่มฟรีแก่เรา,,,false
+4,consumer,2,10,waive,verb,/weɪv/,เวฟว์,ยกเว้น (ค่าธรรมเนียม),The bank agreed to waive the late fee this time.,ธนาคารตกลงยกเว้นค่าปรับล่าช้าในครั้งนี้,Collocation: waive a fee.,,false
+4,consumer,2,11,hotline,noun,/ˈhɑːtlaɪn/,ฮอทไลน์,สายด่วน,Call the customer hotline if your card is lost.,โทรสายด่วนลูกค้าหากบัตรของคุณหาย,,,false
+4,consumer,2,12,substandard,adjective,/ˌsʌbˈstændərd/,ซับสแตนเดิร์ด,ต่ำกว่ามาตรฐาน,We will not pay for substandard work on the bathroom.,เราจะไม่จ่ายเงินสำหรับงานห้องน้ำที่ต่ำกว่ามาตรฐาน,,,false
+4,consumer,2,13,partial refund,noun,/ˌpɑːrʃəl ˈriːfʌnd/,พาร์เชิล รีฟันด์,การคืนเงินบางส่วน,The shop gave me a partial refund because one item was missing.,ร้านคืนเงินให้ฉันบางส่วนเพราะสินค้าขาดไปหนึ่งชิ้น,,,false
+4,consumer,2,14,timeframe,noun,/ˈtaɪmfreɪm/,ไทม์เฟรม,กรอบเวลา,Can you give me a timeframe for the repair?,คุณบอกกรอบเวลาในการซ่อมให้ฉันได้ไหม,,,false
+4,consumer,3,1,identity theft,noun,/aɪˈdɛntəti ˌθɛft/,ไอเดนทิที เธฟท์,การขโมยข้อมูลส่วนตัวไปแอบอ้าง,Shred old bank letters to protect yourself from identity theft.,ทำลายจดหมายธนาคารเก่าเพื่อป้องกันการถูกขโมยข้อมูลส่วนตัว,,,false
+4,consumer,3,2,counterfeit,adjective,/ˈkaʊntərfɪt/,เคาน์เทอร์ฟิท,ปลอม (สินค้า),The market was selling counterfeit watches at very low prices.,ตลาดขายนาฬิกาปลอมในราคาถูกมาก,,,false
+4,consumer,3,3,fraud,noun,/frɔːd/,ฟรอด,การฉ้อโกง,Report credit card fraud to your bank immediately.,แจ้งการฉ้อโกงบัตรเครดิตกับธนาคารทันที,,,false
+4,consumer,3,4,consumer protection,noun,/kənˈsuːmər prəˌtɛkʃən/,เคินซูเมอร์ เพรอะเท็กชัน,การคุ้มครองผู้บริโภค,Consumer protection laws let you return faulty goods.,กฎหมายคุ้มครองผู้บริโภคให้คุณคืนสินค้าที่บกพร่องได้,,,false
+4,consumer,3,5,unauthorized,adjective,/ʌnˈɔːθəraɪzd/,อันออเธอไรซด์,ไม่ได้รับอนุญาต,I saw an unauthorized payment on my bank statement.,ฉันเห็นรายการชำระเงินที่ฉันไม่ได้อนุญาตในใบแจ้งยอดบัญชี,,,false
+4,consumer,3,6,subscription,noun,/səbˈskrɪpʃən/,เซิบสคริปชัน,การสมัครสมาชิกแบบจ่ายประจำ,I canceled my music subscription because I rarely used it.,ฉันยกเลิกการสมัครสมาชิกฟังเพลงเพราะแทบไม่ได้ใช้,,,false
+4,consumer,3,7,auto-renew,verb,/ˌɔːtoʊ rɪˈnuː/,ออโต รีนิว,ต่ออายุอัตโนมัติ,The plan will auto-renew unless you cancel before the end of the month.,แพ็กเกจจะต่ออายุอัตโนมัติเว้นแต่คุณจะยกเลิกก่อนสิ้นเดือน,,,false
+4,consumer,3,8,hidden fee,noun,/ˌhɪdən ˈfiː/,ฮิดเดิน ฟี,ค่าธรรมเนียมแอบแฝง,Check the final price for any hidden fees before you pay.,ตรวจราคาสุทธิว่ามีค่าธรรมเนียมแอบแฝงหรือไม่ก่อนจ่ายเงิน,,,false
+4,consumer,3,9,chargeback,noun,/ˈtʃɑːrdʒbæk/,ชาร์จแบ็ก,การขอเรียกเงินคืนผ่านบัตร,"If the seller never sends the item, ask your bank for a chargeback.",หากผู้ขายไม่ส่งสินค้า ให้ขอธนาคารเรียกเงินคืนผ่านบัตร,,,false
+4,consumer,3,10,fake review,noun,/ˌfeɪk rɪˈvjuː/,เฟค รีวิว,รีวิวปลอม,Some sellers pay people to write fake reviews.,ผู้ขายบางรายจ้างคนมาเขียนรีวิวปลอม,,,false
+4,consumer,3,11,authentic,adjective,/ɔːˈθɛntɪk/,ออเธ็นทิก,ของแท้,This shop only sells authentic brand-name bags.,ร้านนี้ขายแต่กระเป๋าแบรนด์เนมของแท้,,,false
+4,consumer,3,12,secure payment,noun,/sɪˈkjʊr ˈpeɪmənt/,ซิเคียวร์ เพย์เมินต์,การชำระเงินที่ปลอดภัย,Only buy from websites that offer secure payment and clear return rules.,ซื้อของเฉพาะเว็บไซต์ที่มีระบบชำระเงินที่ปลอดภัยและเงื่อนไขการคืนสินค้าชัดเจน,,,false
+4,consumer,3,13,privacy policy,noun,/ˈpraɪvəsi ˌpɑːləsi/,ไพรเวอะซี พอลิซี,นโยบายความเป็นส่วนตัว,The privacy policy explains how the app uses your data.,นโยบายความเป็นส่วนตัวอธิบายว่าแอปใช้ข้อมูลของคุณอย่างไร,,,false
+4,consumer,3,14,too good to be true,idiom,/tuː ɡʊd tə bi truː/,ทู กูด ทู บี ทรู,ดีเกินกว่าจะเป็นจริง,A new phone at half the normal price sounds too good to be true.,โทรศัพท์ใหม่ในราคาครึ่งเดียวฟังดูดีเกินกว่าจะเป็นจริง,Often a warning sign of a scam.,,false
+4,society,1,1,poverty,noun,/ˈpɑːvərti/,พอเวอร์ตี,ความยากจน,Many families in the area still live in poverty.,หลายครอบครัวในพื้นที่ยังคงอยู่ในความยากจน,,,false
+4,society,1,2,inequality,noun,/ˌɪnɪˈkwɑːləti/,อินอีควอลิตี,ความเหลื่อมล้ำ,Income inequality between cities and villages is growing.,ความเหลื่อมล้ำด้านรายได้ระหว่างเมืองกับหมู่บ้านกำลังเพิ่มขึ้น,,,false
+4,society,1,3,homeless,adjective,/ˈhoʊmləs/,โฮมเลิส,ไร้ที่อยู่อาศัย,The shelter gives homeless people a hot meal every evening.,ศูนย์พักพิงให้อาหารร้อนแก่คนไร้บ้านทุกเย็น,,,false
+4,society,1,4,wealth gap,noun,/ˈwɛlθ ˌɡæp/,เวลธ์ แก็พ,ช่องว่างความมั่งคั่ง,The wealth gap between rich and poor is getting wider.,ช่องว่างความมั่งคั่งระหว่างคนรวยกับคนจนกว้างขึ้นเรื่อย ๆ,,,false
+4,society,1,5,minimum wage,noun,/ˌmɪnɪməm ˈweɪdʒ/,มินิเมิม เวจ,ค่าแรงขั้นต่ำ,The government plans to raise the minimum wage next year.,รัฐบาลมีแผนจะขึ้นค่าแรงขั้นต่ำปีหน้า,,,false
+4,society,1,6,slum,noun,/slʌm/,สลัม,ชุมชนแออัด,The charity runs a free school in a slum near the port.,องค์กรการกุศลเปิดโรงเรียนฟรีในชุมชนแออัดใกล้ท่าเรือ,,,false
+4,society,1,7,low-income,adjective,/ˌloʊ ˈɪnkʌm/,โล อินคัม,รายได้น้อย,The program helps low-income families pay for school uniforms.,โครงการนี้ช่วยครอบครัวรายได้น้อยจ่ายค่าชุดนักเรียน,,,false
+4,society,1,8,living wage,noun,/ˌlɪvɪŋ ˈweɪdʒ/,ลิฟวิง เวจ,ค่าจ้างที่พอเลี้ยงชีพได้,Workers say the minimum wage is not a living wage in the city.,แรงงานบอกว่าค่าแรงขั้นต่ำไม่พอเลี้ยงชีพในเมือง,,,false
+4,society,1,9,discrimination,noun,/dɪˌskrɪmɪˈneɪʃən/,ดิสคริมิเนชัน,การเลือกปฏิบัติ,The company does not accept discrimination based on age or gender.,บริษัทไม่ยอมรับการเลือกปฏิบัติเพราะอายุหรือเพศ,Collocation: discrimination against someone.,,false
+4,society,1,10,disadvantaged,adjective,/ˌdɪsədˈvæntɪdʒd/,ดิสเอิดแวนทิจด์,ด้อยโอกาส,The foundation gives scholarships to disadvantaged students.,มูลนิธิมอบทุนการศึกษาแก่นักเรียนผู้ด้อยโอกาส,,,false
+4,society,1,11,soup kitchen,noun,/ˈsuːp ˌkɪtʃən/,ซูพ คิทเชิน,โรงทาน จุดแจกอาหารฟรี,The temple runs a soup kitchen for people with no income.,วัดจัดโรงทานสำหรับคนที่ไม่มีรายได้,,,false
+4,society,1,12,food bank,noun,/ˈfuːd bæŋk/,ฟูด แบงก์,ธนาคารอาหาร (แจกอาหารผู้ยากไร้),Our team collected rice and canned food for the local food bank.,ทีมของเรารวบรวมข้าวและอาหารกระป๋องให้ธนาคารอาหารในชุมชน,,,false
+4,society,1,13,jobless,adjective,/ˈdʒɑːbləs/,จอบเลิส,ตกงาน ไม่มีงานทำ,Many people were left jobless when the factory closed.,หลายคนตกงานเมื่อโรงงานปิดตัว,,,false
+4,society,1,14,charitable,adjective,/ˈtʃærɪtəbəl/,แชริเทอะเบิล,เพื่อการกุศล,The company gives part of its profit to charitable causes.,บริษัทมอบกำไรส่วนหนึ่งให้กับงานการกุศล,,,false
+4,society,2,1,air quality,noun,/ˈɛr ˌkwɑːləti/,แอร์ ควอลิตี,คุณภาพอากาศ,Check the air quality app before you go running outside.,ดูแอปคุณภาพอากาศก่อนออกไปวิ่งข้างนอก,,,false
+4,society,2,2,exhaust fumes,noun,/ɪɡˈzɔːst fjuːmz/,อิกซอสต์ ฟิวมส์,ควันไอเสียรถ,Exhaust fumes from old buses make the air downtown hard to breathe.,ควันไอเสียจากรถเมล์เก่าทำให้อากาศในตัวเมืองหายใจลำบาก,,,false
+4,society,2,3,landfill,noun,/ˈlændfɪl/,แลนด์ฟิล,หลุมฝังกลบขยะ,Most of our plastic waste ends up in a landfill.,ขยะพลาสติกส่วนใหญ่ของเราไปจบที่หลุมฝังกลบ,,,false
+4,society,2,4,sustainable,adjective,/səˈsteɪnəbəl/,เซิสเทเนอะเบิล,ยั่งยืน,The company wants to use more sustainable packaging.,บริษัทต้องการใช้บรรจุภัณฑ์ที่ยั่งยืนมากขึ้น,,,false
+4,society,2,5,water shortage,noun,/ˈwɔːtər ˈʃɔːrtɪdʒ/,วอเทอร์ ชอร์ทิจ,การขาดแคลนน้ำ,Some districts face a water shortage every dry season.,บางเขตเผชิญการขาดแคลนน้ำทุกฤดูแล้ง,,,false
+4,society,2,6,congestion,noun,/kənˈdʒɛstʃən/,เคินเจสเชิน,ความแออัด (การจราจร),Traffic congestion makes my trip to work take two hours.,การจราจรติดขัดทำให้ฉันใช้เวลาเดินทางไปทำงานสองชั่วโมง,,,false
+4,society,2,7,urban,adjective,/ˈɝːbən/,เออร์เบิน,ในเมือง เกี่ยวกับเมือง,Urban areas need more parks and green spaces.,พื้นที่ในเมืองต้องการสวนสาธารณะและพื้นที่สีเขียวมากขึ้น,,,false
+4,society,2,8,rural,adjective,/ˈrʊrəl/,รัวเริล,ชนบท,Many young people move from rural areas to find work.,คนหนุ่มสาวจำนวนมากย้ายจากชนบทเพื่อหางานทำ,,,false
+4,society,2,9,overpopulation,noun,/ˌoʊvərˌpɑːpjəˈleɪʃən/,โอเวอร์พ็อพพิวเลชัน,ภาวะประชากรล้น,"Overpopulation puts pressure on housing, schools and public transport.",ภาวะประชากรล้นสร้างแรงกดดันต่อที่อยู่อาศัย โรงเรียน และขนส่งสาธารณะ,,,false
+4,society,2,10,waste management,noun,/weɪst ˈmænɪdʒmənt/,เวสต์ แมเนจเมินต์,การจัดการขยะ,Better waste management could reduce the size of the city landfill.,การจัดการขยะที่ดีขึ้นช่วยลดขนาดหลุมฝังกลบของเมืองได้,Collocation: a waste management system.,,false
+4,society,2,11,acid rain,noun,/ˈæsɪd reɪn/,แอซิด เรน,ฝนกรด,Acid rain can slowly damage old temples and stone buildings.,ฝนกรดค่อย ๆ ทำลายวัดเก่าและอาคารหินได้,,,false
+4,society,2,12,e-waste,noun,/ˈiː ˌweɪst/,อี เวสท์,ขยะอิเล็กทรอนิกส์,Old phones and batteries are e-waste and need special recycling.,โทรศัพท์และแบตเตอรี่เก่าเป็นขยะอิเล็กทรอนิกส์ที่ต้องรีไซเคิลเป็นพิเศษ,,,false
+4,society,2,13,single-use,adjective,/ˌsɪŋɡəl ˈjuːs/,ซิงเกิล ยูส,ใช้ครั้งเดียวทิ้ง,Bring your own bag to cut down on single-use plastic.,นำถุงมาเองเพื่อลดพลาสติกแบบใช้ครั้งเดียวทิ้ง,,,false
+4,society,2,14,flooding,noun,/ˈflʌdɪŋ/,ฟลัดดิง,น้ำท่วม,Heavy rain caused flooding on several main roads.,ฝนตกหนักทำให้น้ำท่วมถนนสายหลักหลายสาย,,,false
+4,society,3,1,civil rights,noun,/ˌsɪvəl ˈraɪts/,ซิเวิล ไรท์ส,สิทธิพลเมือง,The museum tells the story of the fight for civil rights.,พิพิธภัณฑ์เล่าเรื่องการต่อสู้เพื่อสิทธิพลเมือง,,,false
+4,society,3,2,activist,noun,/ˈæktɪvɪst/,แอ็กทิวิสท์,นักเคลื่อนไหว,Young activists are calling for cleaner air in the city.,นักเคลื่อนไหวรุ่นใหม่กำลังเรียกร้องอากาศที่สะอาดขึ้นในเมือง,,,false
+4,society,3,3,minority,noun,/maɪˈnɔːrəti/,ไมนอริที,ชนกลุ่มน้อย,The new law protects the rights of ethnic minorities.,กฎหมายใหม่คุ้มครองสิทธิของชนกลุ่มน้อยทางชาติพันธุ์,,,false
+4,society,3,4,awareness,noun,/əˈwɛrnəs/,อะแวร์เนิส,ความตระหนักรู้,The campaign aims to raise awareness of road safety.,แคมเปญนี้มุ่งสร้างความตระหนักเรื่องความปลอดภัยบนท้องถนน,Collocation: raise awareness.,,false
+4,society,3,5,crime rate,noun,/ˈkraɪm reɪt/,ไครม์ เรท,อัตราการเกิดอาชญากรรม,The crime rate in this district fell after more street lights were added.,อัตราอาชญากรรมในเขตนี้ลดลงหลังติดไฟถนนเพิ่ม,,,false
+4,society,3,6,elderly,adjective,/ˈɛldərli/,เอลเดอร์ลี,สูงอายุ,She visits her elderly neighbor every Sunday.,เธอไปเยี่ยมเพื่อนบ้านสูงอายุทุกวันอาทิตย์,A polite way to say old.,,false
+4,society,3,7,aging population,noun,/ˌeɪdʒɪŋ ˌpɑːpjəˈleɪʃən/,เอจิง พอพิวเลชัน,สังคมสูงวัย ประชากรสูงวัย,"Thailand has an aging population, so it needs more caregivers.",ประเทศไทยมีประชากรสูงวัย จึงต้องการผู้ดูแลมากขึ้น,,,false
+4,society,3,8,accessible,adjective,/əkˈsɛsəbəl/,แอ็กเซสเซอะเบิล,เข้าถึงได้สะดวก (รวมถึงผู้พิการ),The new station is accessible for people in wheelchairs.,สถานีใหม่นี้ผู้ใช้รถเข็นเข้าถึงได้สะดวก,,,false
+4,society,3,9,immigrant,noun,/ˈɪmɪɡrənt/,อิมมิเกรินท์,ผู้อพยพเข้าเมือง,Many immigrants work in the construction industry.,ผู้อพยพจำนวนมากทำงานในอุตสาหกรรมก่อสร้าง,,,false
+4,society,3,10,public opinion,noun,/ˌpʌblɪk əˈpɪnjən/,พับลิก อะพินเนียน,ความคิดเห็นของประชาชน,Public opinion changed quickly after the news report.,ความคิดเห็นของประชาชนเปลี่ยนไปอย่างรวดเร็วหลังรายงานข่าวนั้น,,,false
+4,society,3,11,freedom of speech,noun,/ˌfriːdəm əv ˈspiːtʃ/,ฟรีเดิม ออฟ สปีช,เสรีภาพในการพูด,Freedom of speech is protected in many countries.,เสรีภาพในการพูดได้รับการคุ้มครองในหลายประเทศ,,,false
+4,society,3,12,homelessness,noun,/ˈhoʊmləsnəs/,โฮมเลสเนส,ปัญหาคนไร้บ้าน,The charity works to reduce homelessness in the capital.,องค์กรการกุศลนี้ทำงานเพื่อลดปัญหาคนไร้บ้านในเมืองหลวง,,,false
+4,society,3,13,gender equality,noun,/ˌdʒɛndər iˈkwɑːləti/,เจนเดอร์ อีควอลิตี,ความเท่าเทียมทางเพศ,Our company supports gender equality in pay and promotion.,บริษัทของเราสนับสนุนความเท่าเทียมทางเพศในเรื่องค่าจ้างและการเลื่อนตำแหน่ง,,,false
+4,society,3,14,civic duty,noun,/ˌsɪvɪk ˈduːti/,ซิวิก ดูที,หน้าที่พลเมือง,Many people see voting as their civic duty.,หลายคนมองว่าการเลือกตั้งเป็นหน้าที่พลเมือง,,,false
+4,negotiation,1,1,negotiator,noun,/nɪˈɡoʊʃieɪtər/,นิโกชิเอเทอร์,ผู้เจรจา,"She is our best negotiator, so she will lead the talks.",เธอเป็นผู้เจรจาที่เก่งที่สุดของเรา จึงจะเป็นผู้นำการเจรจา,,,false
+4,negotiation,1,2,upper hand,noun,/ˌʌpər ˈhænd/,อัพเพอร์ แฮนด์,ความได้เปรียบ,"With two other offers, we have the upper hand.",เมื่อมีข้อเสนออื่นอีกสองราย เราจึงได้เปรียบ,Collocation: have or gain the upper hand.,,false
+4,negotiation,1,3,bottom line,noun,/ˌbɑːtəm ˈlaɪn/,บอทเทิม ไลน์,จุดต่ำสุดที่ยอมรับได้,"Our bottom line is a ten percent discount, not less.",ขั้นต่ำที่เรารับได้คือส่วนลดสิบเปอร์เซ็นต์ ไม่น้อยกว่านี้,"Can also mean profit, or the most important point.",,false
+4,negotiation,1,4,bluff,verb,/blʌf/,บลัฟ,ขู่หลอก ทำทีว่า,I think they are bluffing about the other buyer.,ฉันคิดว่าพวกเขากำลังขู่หลอกเรื่องผู้ซื้อรายอื่น,,,false
+4,negotiation,1,5,counterpart,noun,/ˈkaʊntərpɑːrt/,เคาน์เทอร์พาร์ท,ผู้มีตำแหน่งเทียบเท่าในอีกฝ่าย,I will meet my counterpart from the Japanese company on Monday.,ฉันจะพบผู้แทนตำแหน่งเดียวกันจากบริษัทญี่ปุ่นวันจันทร์,,,false
+4,negotiation,1,6,fallback,noun,/ˈfɔːlbæk/,ฟอลแบ็ก,แผนสำรอง ทางเลือกสำรอง,"Before the meeting, we prepared a fallback in case they refuse.",ก่อนประชุม เราเตรียมแผนสำรองไว้เผื่อพวกเขาปฏิเสธ,,,false
+4,negotiation,1,7,deal breaker,noun,/ˈdiːl ˌbreɪkər/,ดีล เบรกเกอร์,เงื่อนไขที่ถ้าไม่ได้จะไม่ตกลง,A delivery time longer than two weeks is a deal breaker for us.,การส่งของที่นานกว่าสองสัปดาห์เป็นเงื่อนไขที่เรารับไม่ได้,,,false
+4,negotiation,1,8,walk away,phrasal verb,/ˌwɔːk əˈweɪ/,วอล์ก อะเวย์,ถอนตัว (จากการเจรจา),Be ready to walk away if the price is too high.,เตรียมพร้อมที่จะถอนตัวหากราคาสูงเกินไป,,,false
+4,negotiation,1,9,game plan,noun,/ˈɡeɪm ˌplæn/,เกม แพลน,แผนการ (ที่วางไว้),Let's agree on our game plan before the client arrives.,มาตกลงแผนของเราก่อนที่ลูกค้าจะมาถึง,,,false
+4,negotiation,1,10,opening offer,noun,/ˌoʊpənɪŋ ˈɔːfər/,โอเพินนิง ออฟเฟอร์,ข้อเสนอแรก,Their opening offer was much lower than we expected.,ข้อเสนอแรกของพวกเขาต่ำกว่าที่เราคาดไว้มาก,,,false
+4,negotiation,1,11,ground rules,noun,/ˈɡraʊnd ˌruːlz/,กราวนด์ รูลส์,กติกาพื้นฐาน,"At the start, both teams agreed on some ground rules.",ตอนเริ่มต้น ทั้งสองทีมตกลงกติกาพื้นฐานร่วมกัน,,,false
+4,negotiation,1,12,maximize,verb,/ˈmæksɪmaɪz/,แมกซิไมซ์,ทำให้ได้มากที่สุด,Our goal is to maximize profit without losing the client.,เป้าหมายของเราคือทำกำไรให้มากที่สุดโดยไม่เสียลูกค้า,,,false
+4,negotiation,1,13,realistic,adjective,/ˌriːəˈlɪstɪk/,เรียลลิสติก,เป็นไปได้จริง สมเหตุสมผล,Set a realistic target so both sides can agree.,ตั้งเป้าหมายที่เป็นไปได้จริงเพื่อให้ทั้งสองฝ่ายตกลงกันได้,,,false
+4,negotiation,1,14,target price,noun,/ˈtɑːrɡɪt ˌpraɪs/,ทาร์กิท ไพรซ์,ราคาเป้าหมาย,Our target price for the machines is two million baht.,ราคาเป้าหมายของเราสำหรับเครื่องจักรคือสองล้านบาท,,,false
+4,negotiation,2,1,stand firm,phrase,/ˌstænd ˈfɝːm/,สแตนด์ เฟิร์ม,ยืนหยัด ไม่ยอมถอย,We decided to stand firm on our price.,เราตัดสินใจยืนราคาเดิมไม่ยอมลด,Collocation: stand firm on something.,,false
+4,negotiation,2,2,split the difference,phrase,/ˌsplɪt ðə ˈdɪfərəns/,สพลิท เดอะ ดิฟเฟอเรินซ์,แบ่งส่วนต่างกันคนละครึ่ง,"You say 100 and we say 80, so let's split the difference at 90.",คุณเสนอ 100 เราเสนอ 80 งั้นแบ่งกันคนละครึ่งที่ 90,,,false
+4,negotiation,2,3,meet halfway,phrase,/ˌmiːt ˌhæfˈweɪ/,มีท แฮฟเวย์,ยอมกันคนละครึ่งทาง,Could we meet halfway and share the shipping cost?,เราพบกันครึ่งทางและแบ่งค่าขนส่งกันได้ไหม,,,false
+4,negotiation,2,4,bargaining power,noun,/ˈbɑːrɡənɪŋ ˌpaʊər/,บาร์เกอะนิง พาวเวอร์,อำนาจการต่อรอง,Small shops have little bargaining power with big suppliers.,ร้านเล็ก ๆ มีอำนาจต่อรองน้อยเมื่อเจรจากับผู้จัดหาสินค้ารายใหญ่,,,false
+4,negotiation,2,5,sticking point,noun,/ˈstɪkɪŋ ˌpɔɪnt/,สติกกิง พอยนท์,ประเด็นที่ตกลงกันไม่ได้,Payment time is still the main sticking point.,ระยะเวลาการชำระเงินยังเป็นประเด็นหลักที่ตกลงกันไม่ได้,,,false
+4,negotiation,2,6,firm,adjective,/fɝːm/,เฟิร์ม,ตายตัว ไม่เปลี่ยนแปลง,"Our price is firm, but we can offer free delivery.",ราคาของเราเป็นราคาตายตัว แต่เราส่งฟรีให้ได้,Collocation: a firm offer.,,false
+4,negotiation,2,7,insist,verb,/ɪnˈsɪst/,อินซิสท์,ยืนกราน,The buyer insisted on a one-year warranty.,ผู้ซื้อยืนกรานให้มีการรับประกันหนึ่งปี,Collocation: insist on something.,,false
+4,negotiation,2,8,ultimatum,noun,/ˌʌltɪˈmeɪtəm/,อัลทิเมเทิม,คำขาด,They gave us an ultimatum: accept by Friday or lose the deal.,พวกเขายื่นคำขาดว่าต้องตอบรับภายในวันศุกร์ ไม่อย่างนั้นดีลจะล่ม,,,false
+4,negotiation,2,9,deadlock,noun,/ˈdɛdlɑːk/,เด็ดล็อก,ทางตัน,"The talks reached a deadlock, so we took a break.",การเจรจาถึงทางตัน เราจึงพักกันก่อน,,,false
+4,negotiation,2,10,middle ground,noun,/ˌmɪdəl ˈɡraʊnd/,มิดเดิล กราวนด์,จุดกึ่งกลางที่ทั้งสองฝ่ายรับได้,Let's try to find some middle ground on the payment terms.,มาลองหาจุดกึ่งกลางเรื่องเงื่อนไขการชำระเงินกันเถอะ,,,false
+4,negotiation,2,11,non-negotiable,adjective,/ˌnɑːn nɪˈɡoʊʃəbəl/,นอน นิโกเชอะเบิล,ต่อรองไม่ได้,"For us, the safety standards are non-negotiable.",สำหรับเรา มาตรฐานความปลอดภัยเป็นเรื่องที่ต่อรองไม่ได้,,,false
+4,negotiation,2,12,concede,verb,/kənˈsiːd/,เคินซีด,ยอมรับ (อย่างไม่เต็มใจ),The supplier finally conceded that the price was too high.,ในที่สุดผู้จัดหาสินค้าก็ยอมรับว่าราคาสูงเกินไป,,,false
+4,negotiation,2,13,back down,phrasal verb,/ˌbæk ˈdaʊn/,แบ็ก ดาวน์,ยอมถอย,Neither side wanted to back down on the delivery date.,ไม่มีฝ่ายใดอยากยอมถอยเรื่องวันส่งของ,,,false
+4,negotiation,2,14,win-win,adjective,/ˌwɪn ˈwɪn/,วิน วิน,ได้ประโยชน์ทั้งสองฝ่าย,We want a win-win deal that helps both companies.,เราต้องการข้อตกลงที่เป็นประโยชน์กับทั้งสองบริษัท,,,false
+4,negotiation,3,1,finalize,verb,/ˈfaɪnəlaɪz/,ไฟเนิลไลซ์,สรุปให้เสร็จสิ้น,We hope to finalize the contract by Friday.,เราหวังว่าจะสรุปสัญญาให้เสร็จภายในวันศุกร์,,,false
+4,negotiation,3,2,mutually,adverb,/ˈmjuːtʃuəli/,มิวชวลลี,ซึ่งกันและกัน ร่วมกัน,We found a mutually beneficial solution for both teams.,เราพบทางออกที่เป็นประโยชน์ร่วมกันสำหรับทั้งสองทีม,"Collocation: mutually beneficial, mutually agreed.",,false
+4,negotiation,3,3,terms,noun,/tɝːmz/,เทิร์มส์,เงื่อนไข (ของข้อตกลง),Both sides accepted the terms of the deal.,ทั้งสองฝ่ายยอมรับเงื่อนไขของข้อตกลง,,,false
+4,negotiation,3,4,close the deal,phrase,/ˌkloʊz ðə ˈdiːl/,โคลส เดอะ ดีล,ปิดดีล ปิดการขาย,She offered free training to close the deal.,เธอเสนออบรมฟรีเพื่อปิดดีล,,,false
+4,negotiation,3,5,letter of intent,noun,/ˌlɛtər əv ɪnˈtɛnt/,เล็ทเทอร์ ออฟ อินเทนท์,หนังสือแสดงเจตจำนง,The buyer sent a letter of intent before the final contract.,ผู้ซื้อส่งหนังสือแสดงเจตจำนงก่อนทำสัญญาฉบับสุดท้าย,,,false
+4,negotiation,3,6,commitment,noun,/kəˈmɪtmənt/,เคอะมิทเมินท์,คำมั่น ข้อผูกมัด,The client made a commitment to buy from us for three years.,ลูกค้าให้คำมั่นว่าจะซื้อจากเราเป็นเวลาสามปี,,,false
+4,negotiation,3,7,go-ahead,noun,/ˈɡoʊ əˌhɛd/,โก อะเฮด,การอนุมัติให้ดำเนินการ,The board gave us the go-ahead to sign the deal.,คณะกรรมการอนุมัติให้เราเซ็นข้อตกลงได้,Collocation: give the go-ahead.,,false
+4,negotiation,3,8,renegotiate,verb,/ˌriːnɪˈɡoʊʃieɪt/,รีนิโกชิเอท,เจรจาใหม่,The supplier wants to renegotiate prices because of higher costs.,ผู้จัดหาสินค้าต้องการเจรจาราคาใหม่เพราะต้นทุนสูงขึ้น,,,false
+4,negotiation,3,9,settlement,noun,/ˈsɛtəlmənt/,เซ็ทเทิลเมินท์,ข้อยุติ การตกลงยุติข้อพิพาท,Both companies reached a settlement and avoided going to court.,ทั้งสองบริษัทได้ข้อยุติและไม่ต้องขึ้นศาล,,,false
+4,negotiation,3,10,verbal agreement,noun,/ˌvɝːbəl əˈɡriːmənt/,เวอร์เบิล อะกรีเมินท์,ข้อตกลงด้วยวาจา,"A verbal agreement is a good start, but we need it on paper.",ข้อตกลงด้วยวาจาเป็นจุดเริ่มต้นที่ดี แต่เราต้องมีเป็นเอกสาร,,,false
+4,negotiation,3,11,shake on,phrasal verb,/ˈʃeɪk ɑːn/,เชค ออน,จับมือตกลงกัน,"The price is fair, so let's shake on it.",ราคานี้ยุติธรรม งั้นเรามาจับมือตกลงกันเลย,Usually: shake on it.,,false
+4,negotiation,3,12,countersign,verb,/ˈkaʊntərsaɪn/,เคาน์เทอร์ไซน์,ลงนามรับรองร่วม,The contract is valid only after the director countersigns it.,สัญญามีผลเมื่อผู้อำนวยการลงนามรับรองร่วมแล้วเท่านั้น,,,false
+4,negotiation,3,13,handshake,noun,/ˈhændʃeɪk/,แฮนด์เชก,การจับมือ,They ended the meeting with a firm handshake.,พวกเขาจบการประชุมด้วยการจับมืออย่างหนักแน่น,,🤝,false
+4,negotiation,3,14,breakthrough,noun,/ˈbreɪkθruː/,เบรกธรู,ความคืบหน้าครั้งสำคัญ,"After weeks of talks, we finally made a breakthrough.",หลังเจรจามาหลายสัปดาห์ ในที่สุดเราก็มีความคืบหน้าครั้งสำคัญ,,,false
+4,budgeting,1,1,budget proposal,noun,/ˈbʌdʒɪt prəˌpoʊzəl/,บัดจิท เพรอะโพเซิล,ข้อเสนองบประมาณ,Each department must send its budget proposal by the end of May.,ทุกแผนกต้องส่งข้อเสนองบประมาณภายในสิ้นเดือนพฤษภาคม,,,false
+4,budgeting,1,2,earmark,verb,/ˈɪrmɑːrk/,เอียร์มาร์ก,กันเงินไว้สำหรับ,The company earmarked one million baht for new computers.,บริษัทกันเงินหนึ่งล้านบาทไว้สำหรับซื้อคอมพิวเตอร์ใหม่,,,false
+4,budgeting,1,3,spending limit,noun,/ˈspɛndɪŋ ˌlɪmɪt/,สเปนดิง ลิมิท,วงเงินใช้จ่ายสูงสุด,Managers have a spending limit of fifty thousand baht without approval.,ผู้จัดการมีวงเงินใช้จ่ายสูงสุดห้าหมื่นบาทโดยไม่ต้องขออนุมัติ,,,false
+4,budgeting,1,4,quarterly,adjective,/ˈkwɔːrtərli/,ควอเทอร์ลี,รายไตรมาส,The finance team prepares a quarterly report for the board.,ทีมการเงินจัดทำรายงานรายไตรมาสให้คณะกรรมการ,,,false
+4,budgeting,1,5,carry over,phrasal verb,/ˌkæri ˈoʊvər/,แคร์รี โอเวอร์,ยกยอดไป (งวดถัดไป),Unused budget cannot carry over to the next year.,งบที่ใช้ไม่หมดยกยอดไปปีถัดไปไม่ได้,,,false
+4,budgeting,1,6,expenditure,noun,/ɪkˈspɛndɪtʃər/,อิกซ์เพนดิเชอร์,รายจ่าย,Total expenditure on travel fell by fifteen percent.,รายจ่ายด้านการเดินทางทั้งหมดลดลงสิบห้าเปอร์เซ็นต์,More formal than spending.,,false
+4,budgeting,1,7,variable cost,noun,/ˌvɛriəbəl ˈkɔːst/,แวเรียเบิล คอสท์,ต้นทุนผันแปร,Packaging is a variable cost because it rises with sales.,บรรจุภัณฑ์เป็นต้นทุนผันแปรเพราะเพิ่มขึ้นตามยอดขาย,Opposite: fixed cost.,,false
+4,budgeting,1,8,contingency,noun,/kənˈtɪndʒənsi/,เคินทินเจินซี,เหตุไม่คาดฝัน,Keep five percent of the budget for contingencies.,เก็บงบห้าเปอร์เซ็นต์ไว้สำหรับเหตุไม่คาดฝัน,Collocation: contingency fund.,,false
+4,budgeting,1,9,discretionary,adjective,/dɪˈskrɛʃənɛri/,ดิสเครชันเนรี,ใช้ได้ตามดุลยพินิจ,Team leaders have a small discretionary budget for team lunches.,หัวหน้าทีมมีงบเล็ก ๆ ที่ใช้ได้ตามดุลยพินิจสำหรับมื้อกลางวันของทีม,,,false
+4,budgeting,1,10,line item,noun,/ˈlaɪn ˌaɪtəm/,ไลน์ ไอเทิม,รายการในงบประมาณ,Marketing is the biggest line item in this year's budget.,การตลาดเป็นรายการที่ใหญ่ที่สุดในงบประมาณปีนี้,,,false
+4,budgeting,1,11,budget cut,noun,/ˈbʌdʒɪt ˌkʌt/,บัดจิท คัท,การตัดงบประมาณ,Budget cuts mean we cannot hire new staff this year.,การตัดงบทำให้ปีนี้เราจ้างพนักงานใหม่ไม่ได้,,,false
+4,budgeting,1,12,variance,noun,/ˈvɛriəns/,แวเรียนซ์,ส่วนต่าง (ระหว่างงบกับยอดจริง),Please explain the variance between the budget and actual costs.,กรุณาอธิบายส่วนต่างระหว่างงบประมาณกับต้นทุนจริง,,,false
+4,budgeting,1,13,itemize,verb,/ˈaɪtəmaɪz/,ไอเทิมไมซ์,แจกแจงเป็นรายการ,Please itemize all your travel expenses on the form.,กรุณาแจกแจงค่าใช้จ่ายการเดินทางทั้งหมดเป็นรายการในแบบฟอร์ม,,,false
+4,budgeting,1,14,underspend,verb,/ˌʌndərˈspɛnd/,อันเดอร์สเปนด์,ใช้จ่ายต่ำกว่างบ,"If we underspend this year, next year's budget may be cut.",ถ้าปีนี้เราใช้จ่ายต่ำกว่างบ งบปีหน้าอาจถูกตัด,,,false
+4,budgeting,2,1,income statement,noun,/ˈɪnkʌm ˌsteɪtmənt/,อินคัม สเตทเมินท์,งบกำไรขาดทุน,"The income statement shows our sales, costs and profit.",งบกำไรขาดทุนแสดงยอดขาย ต้นทุน และกำไรของเรา,,,false
+4,budgeting,2,2,net profit,noun,/ˌnɛt ˈprɑːfɪt/,เน็ท พรอฟิท,กำไรสุทธิ,"After taxes, our net profit was four million baht.",หลังหักภาษี กำไรสุทธิของเราคือสี่ล้านบาท,,,false
+4,budgeting,2,3,gross,adjective,/ɡroʊs/,โกรส,(ยอด) รวมก่อนหัก,Her gross salary is forty thousand baht before tax.,เงินเดือนรวมก่อนหักภาษีของเธอคือสี่หมื่นบาท,Opposite: net.,,false
+4,budgeting,2,4,profit margin,noun,/ˈprɑːfɪt ˌmɑːrdʒɪn/,พรอฟิท มาร์จิน,อัตรากำไร,Our profit margin on coffee is higher than on food.,อัตรากำไรของกาแฟสูงกว่าอาหาร,,,false
+4,budgeting,2,5,ledger,noun,/ˈlɛdʒər/,เลจเจอร์,สมุดบัญชีแยกประเภท,Every payment must be recorded in the ledger.,การชำระเงินทุกรายการต้องบันทึกในสมุดบัญชีแยกประเภท,,,false
+4,budgeting,2,6,year-end,adjective,/ˈjɪr ˌɛnd/,เยียร์ เอนด์,สิ้นปี (บัญชี),The accounting team is very busy with year-end reports.,ทีมบัญชียุ่งมากกับรายงานสิ้นปี,,,false
+4,budgeting,2,7,turnover,noun,/ˈtɝːnoʊvər/,เทิร์นโอเวอร์,ยอดขายรวม รายได้รวม,The firm has an annual turnover of fifty million baht.,บริษัทมียอดขายรวมต่อปีห้าสิบล้านบาท,Can also mean staff leaving a company.,,false
+4,budgeting,2,8,asset,noun,/ˈæsɛt/,แอสเซ็ท,สินทรัพย์,Buildings and machines are the company's main assets.,อาคารและเครื่องจักรเป็นสินทรัพย์หลักของบริษัท,,,false
+4,budgeting,2,9,dividend,noun,/ˈdɪvɪdɛnd/,ดิวิเดนด์,เงินปันผล,Shareholders will receive a dividend of two baht per share.,ผู้ถือหุ้นจะได้รับเงินปันผลหุ้นละสองบาท,,,false
+4,budgeting,2,10,depreciation,noun,/dɪˌpriːʃiˈeɪʃən/,ดีพรีชิเอชัน,ค่าเสื่อมราคา,We record depreciation on our delivery trucks every year.,เราบันทึกค่าเสื่อมราคาของรถส่งของทุกปี,,,false
+4,budgeting,2,11,bad debt,noun,/ˌbæd ˈdɛt/,แบด เด็ท,หนี้สูญ,We wrote off the unpaid invoice as a bad debt.,เราตัดใบแจ้งหนี้ที่ไม่ได้รับชำระเป็นหนี้สูญ,,,false
+4,budgeting,2,12,reconcile,verb,/ˈrɛkənsaɪl/,เรเคินไซล์,กระทบยอด,"At the end of each month, I reconcile the bank statement with our records.",ทุกสิ้นเดือน ฉันกระทบยอดใบแจ้งยอดธนาคารกับบันทึกของเรา,,,false
+4,budgeting,2,13,accounts payable,noun,/əˌkaʊnts ˈpeɪəbəl/,อะเคานท์ส เพเยอะเบิล,เจ้าหนี้การค้า (ฝ่ายจ่ายเงิน),Send supplier invoices to accounts payable for payment.,ส่งใบแจ้งหนี้ของผู้จัดหาสินค้าไปที่ฝ่ายเจ้าหนี้เพื่อชำระเงิน,,,false
+4,budgeting,2,14,accounts receivable,noun,/əˌkaʊnts rɪˈsiːvəbəl/,อะเคานท์ส รีซีฟเวอะเบิล,ลูกหนี้การค้า (ฝ่ายเก็บเงิน),Accounts receivable is chasing three customers for late payments.,ฝ่ายลูกหนี้กำลังติดตามลูกค้าสามรายที่จ่ายเงินล่าช้า,,,false
+4,budgeting,3,1,cutback,noun,/ˈkʌtbæk/,คัทแบ็ก,การลดรายจ่าย การตัดลด,Cutbacks in the travel budget mean fewer trips abroad.,การตัดลดงบเดินทางทำให้ไปต่างประเทศน้อยลง,,,false
+4,budgeting,3,2,deficit,noun,/ˈdɛfəsɪt/,เดฟิซิท,การขาดดุล,The department ended the year with a small deficit.,แผนกปิดปีด้วยการขาดดุลเล็กน้อย,Opposite: surplus.,,false
+4,budgeting,3,3,break even,phrasal verb,/breɪk ˈiːvən/,เบรก อีเวิน,คุ้มทุน ไม่กำไรไม่ขาดทุน,The new branch should break even by the end of next year.,สาขาใหม่น่าจะคุ้มทุนภายในสิ้นปีหน้า,Noun: the break-even point.,,false
+4,budgeting,3,4,overspend,verb,/ˌoʊvərˈspɛnd/,โอเวอร์สเปนด์,ใช้จ่ายเกินงบ,"If we overspend again, the project will lose its funding.",ถ้าเราใช้จ่ายเกินงบอีก โครงการจะถูกตัดเงินทุน,,,false
+4,budgeting,3,5,exceed,verb,/ɪkˈsiːd/,อิกซีด,เกิน,Travel costs must not exceed the approved budget.,ค่าเดินทางต้องไม่เกินงบที่อนุมัติ,,,false
+4,budgeting,3,6,economize,verb,/ɪˈkɑːnəmaɪz/,อีคอเนอะไมซ์,ประหยัด ใช้จ่ายอย่างประหยัด,We can economize by printing less and using video calls.,เราประหยัดได้โดยพิมพ์งานน้อยลงและใช้วิดีโอคอล,,,false
+4,budgeting,3,7,return on investment,noun,/rɪˌtɝːn ɑːn ɪnˈvɛstmənt/,รีเทิร์น ออน อินเวสท์เมินท์,ผลตอบแทนจากการลงทุน,The new software gave us a strong return on investment.,ซอฟต์แวร์ใหม่ให้ผลตอบแทนจากการลงทุนที่ดีแก่เรา,Often shortened to ROI.,,false
+4,budgeting,3,8,wasteful,adjective,/ˈweɪstfəl/,เวสท์เฟิล,สิ้นเปลือง ฟุ่มเฟือย,Printing every email is wasteful and expensive.,การพิมพ์อีเมลทุกฉบับสิ้นเปลืองและแพง,,,false
+4,budgeting,3,9,cost-saving,adjective,/ˈkɔːst ˌseɪvɪŋ/,คอสท์ เซวิง,ช่วยประหยัดต้นทุน,Switching to LED lights was a simple cost-saving idea.,การเปลี่ยนมาใช้ไฟแอลอีดีเป็นไอเดียง่าย ๆ ที่ช่วยประหยัดต้นทุน,,,false
+4,budgeting,3,10,funding,noun,/ˈfʌndɪŋ/,ฟันดิง,เงินสนับสนุน งบที่ได้รับ,The project received extra funding from head office.,โครงการได้รับเงินสนับสนุนเพิ่มจากสำนักงานใหญ่,,,false
+4,budgeting,3,11,capital,noun,/ˈkæpɪtəl/,แคพิเทิล,เงินทุน,They need more capital to open a second factory.,พวกเขาต้องการเงินทุนเพิ่มเพื่อเปิดโรงงานแห่งที่สอง,,,false
+4,budgeting,3,12,hiring freeze,noun,/ˈhaɪərɪŋ ˌfriːz/,ไฮเออริง ฟรีซ,การระงับการรับพนักงานใหม่,There is a hiring freeze until sales improve.,มีการระงับรับพนักงานใหม่จนกว่ายอดขายจะดีขึ้น,,,false
+4,budgeting,3,13,downsize,verb,/ˈdaʊnsaɪz/,ดาวน์ไซซ์,ลดขนาดองค์กร,The company plans to downsize its office in the city center.,บริษัทวางแผนจะลดขนาดออฟฟิศในใจกลางเมือง,,,false
+4,budgeting,3,14,profitable,adjective,/ˈprɑːfɪtəbəl/,พรอฟิเทอะเบิล,ทำกำไร,The online shop became profitable in its second year.,ร้านออนไลน์เริ่มทำกำไรในปีที่สอง,,,false
+4,marketing-strategy,1,1,target market,noun,/ˌtɑːrɡɪt ˈmɑːrkɪt/,ทาร์กิท มาร์เก็ท,ตลาดเป้าหมาย,Our target market is office workers between 25 and 40.,ตลาดเป้าหมายของเราคือพนักงานออฟฟิศอายุระหว่าง 25 ถึง 40 ปี,,,false
+4,marketing-strategy,1,2,focus group,noun,/ˈfoʊkəs ˌɡruːp/,โฟเคิส กรุ๊พ,การสนทนากลุ่ม (เพื่อวิจัยตลาด),We tested the new flavor with a focus group of ten mothers.,เราทดสอบรสชาติใหม่กับกลุ่มสนทนาคุณแม่สิบคน,,,false
+4,marketing-strategy,1,3,rival,noun,/ˈraɪvəl/,ไรเวิล,คู่แข่ง,Our main rival lowered its prices last month.,คู่แข่งหลักของเราลดราคาเมื่อเดือนที่แล้ว,,,false
+4,marketing-strategy,1,4,demographic,noun,/ˌdɛməˈɡræfɪk/,เดเมอะแกรฟิก,กลุ่มประชากร,This app is popular with a younger demographic.,แอปนี้เป็นที่นิยมในกลุ่มคนอายุน้อย,,,false
+4,marketing-strategy,1,5,buyer persona,noun,/ˈbaɪər pərˌsoʊnə/,ไบเออร์ เพอร์โซเนอะ,ภาพจำลองลูกค้าเป้าหมาย,Our buyer persona is a busy office worker who shops on her phone.,ภาพลูกค้าเป้าหมายของเราคือพนักงานออฟฟิศที่ยุ่งและซื้อของผ่านมือถือ,,,false
+4,marketing-strategy,1,6,price point,noun,/ˈpraɪs ˌpɔɪnt/,ไพรซ์ พอยนท์,ระดับราคา,This model sells well at a price point under five hundred baht.,รุ่นนี้ขายดีในระดับราคาต่ำกว่าห้าร้อยบาท,,,false
+4,marketing-strategy,1,7,market leader,noun,/ˌmɑːrkɪt ˈliːdər/,มาร์เก็ท ลีเดอร์,ผู้นำตลาด,They are the market leader in frozen food in Thailand.,พวกเขาเป็นผู้นำตลาดอาหารแช่แข็งในประเทศไทย,,,false
+4,marketing-strategy,1,8,demand,noun,/dɪˈmænd/,ดีแมนด์,ความต้องการ (ของตลาด),Demand for electric scooters has doubled this year.,ความต้องการสกู๊ตเตอร์ไฟฟ้าเพิ่มขึ้นเป็นสองเท่าในปีนี้,Opposite: supply.,,false
+4,marketing-strategy,1,9,market gap,noun,/ˈmɑːrkɪt ˌɡæp/,มาร์เก็ท แก็พ,ช่องว่างทางการตลาด,We saw a market gap for healthy snacks in vending machines.,เราเห็นช่องว่างทางการตลาดสำหรับขนมเพื่อสุขภาพในตู้หยอดเหรียญ,,,false
+4,marketing-strategy,1,10,purchasing power,noun,/ˈpɝːtʃəsɪŋ ˌpaʊər/,เพอร์เชอะซิง พาวเวอร์,กำลังซื้อ,The purchasing power of young people has grown in recent years.,กำลังซื้อของคนรุ่นใหม่เพิ่มขึ้นในช่วงไม่กี่ปีที่ผ่านมา,,,false
+4,marketing-strategy,1,11,positioning,noun,/pəˈzɪʃənɪŋ/,เพอะซิชันนิง,การวางตำแหน่งแบรนด์,The brand's positioning is premium quality at a fair price.,การวางตำแหน่งของแบรนด์คือคุณภาพระดับพรีเมียมในราคาที่เป็นธรรม,,,false
+4,marketing-strategy,1,12,consumer behavior,noun,/kənˌsuːmər bɪˈheɪvjər/,เคินซูเมอร์ บีเฮฟเวียร์,พฤติกรรมผู้บริโภค,Consumer behavior changed a lot during the pandemic.,พฤติกรรมผู้บริโภคเปลี่ยนไปมากในช่วงโรคระบาด,UK spelling: behaviour.,,false
+4,marketing-strategy,1,13,untapped,adjective,/ʌnˈtæpt/,อันแทพท์,ที่ยังไม่มีใครเข้าไปเจาะ,Rural areas are still an untapped market for online banking.,พื้นที่ชนบทยังเป็นตลาดที่ยังไม่ถูกเจาะสำหรับธนาคารออนไลน์,,,false
+4,marketing-strategy,1,14,saturated,adjective,/ˈsætʃəreɪtɪd/,แซเชอเรทิด,อิ่มตัว (ตลาด),"The smartphone market is saturated, so growth is slow.",ตลาดสมาร์ตโฟนอิ่มตัวแล้ว การเติบโตจึงช้า,,,false
+4,marketing-strategy,2,1,brand awareness,noun,/ˈbrænd əˌwɛrnəs/,แบรนด์ อะแวร์เนิส,การรับรู้แบรนด์,The radio ads helped build brand awareness in the north.,โฆษณาวิทยุช่วยสร้างการรับรู้แบรนด์ในภาคเหนือ,,,false
+4,marketing-strategy,2,2,brand image,noun,/ˈbrænd ˌɪmɪdʒ/,แบรนด์ อิมมิจ,ภาพลักษณ์แบรนด์,The bad online reviews hurt our brand image.,รีวิวออนไลน์ที่ไม่ดีส่งผลเสียต่อภาพลักษณ์แบรนด์ของเรา,,,false
+4,marketing-strategy,2,3,brand ambassador,noun,/ˈbrænd æmˌbæsədər/,แบรนด์ แอมแบสเซอะเดอร์,แบรนด์แอมบาสเดอร์ ตัวแทนแบรนด์,A popular singer became the brand ambassador for our shoes.,นักร้องชื่อดังมาเป็นตัวแทนแบรนด์รองเท้าของเรา,,,false
+4,marketing-strategy,2,4,customer loyalty,noun,/ˌkʌstəmər ˈlɔɪəlti/,คัสเตอเมอร์ ลอยเอิลตี,ความภักดีของลูกค้า,A points card is a simple way to build customer loyalty.,บัตรสะสมแต้มเป็นวิธีง่าย ๆ ในการสร้างความภักดีของลูกค้า,,,false
+4,marketing-strategy,2,5,reputation,noun,/ˌrɛpjəˈteɪʃən/,เรพิวเทชัน,ชื่อเสียง,The hotel has a good reputation for friendly service.,โรงแรมมีชื่อเสียงด้านการบริการที่เป็นมิตร,,,false
+4,marketing-strategy,2,6,tagline,noun,/ˈtæɡlaɪn/,แท็กไลน์,วลีประจำแบรนด์,The tagline appears under the logo on every ad.,วลีประจำแบรนด์ปรากฏใต้โลโก้ในโฆษณาทุกชิ้น,,,false
+4,marketing-strategy,2,7,brand voice,noun,/ˌbrænd ˈvɔɪs/,แบรนด์ วอยซ์,น้ำเสียงของแบรนด์,"Our brand voice is friendly and simple, never too formal.",น้ำเสียงของแบรนด์เราเป็นกันเองและเรียบง่าย ไม่เป็นทางการเกินไป,,,false
+4,marketing-strategy,2,8,unique selling point,noun,/juˌniːk ˈsɛlɪŋ ˌpɔɪnt/,ยูนีค เซลลิง พอยนท์,จุดขายที่โดดเด่น,Fast delivery is our unique selling point.,การจัดส่งที่รวดเร็วคือจุดขายที่โดดเด่นของเรา,Often shortened to USP.,,false
+4,marketing-strategy,2,9,consistent,adjective,/kənˈsɪstənt/,เคินซิสเทินท์,สม่ำเสมอ เป็นแบบเดียวกัน,Use consistent colors and fonts in all our ads.,ใช้สีและฟอนต์แบบเดียวกันในโฆษณาทุกชิ้น,,,false
+4,marketing-strategy,2,10,rebrand,verb,/ˌriːˈbrænd/,รีแบรนด์,ปรับภาพลักษณ์แบรนด์ใหม่,The bank decided to rebrand with a new name and logo.,ธนาคารตัดสินใจปรับภาพลักษณ์ใหม่ด้วยชื่อและโลโก้ใหม่,,,false
+4,marketing-strategy,2,11,brand identity,noun,/ˌbrænd aɪˈdɛntəti/,แบรนด์ ไอเดนทิที,อัตลักษณ์แบรนด์,Our colors and fonts are part of our brand identity.,สีและฟอนต์ของเราเป็นส่วนหนึ่งของอัตลักษณ์แบรนด์,,,false
+4,marketing-strategy,2,12,recognizable,adjective,/ˈrɛkəɡnaɪzəbəl/,เรเคิกไนเซอะเบิล,จดจำได้ง่าย,The red cup is easily recognizable from far away.,แก้วสีแดงนั้นจดจำได้ง่ายแม้มองจากไกล ๆ,,,false
+4,marketing-strategy,2,13,storytelling,noun,/ˈstɔːriˌtɛlɪŋ/,สตอรีเทลลิง,การเล่าเรื่อง,Good storytelling makes people remember the brand.,การเล่าเรื่องที่ดีทำให้ผู้คนจดจำแบรนด์ได้,,,false
+4,marketing-strategy,2,14,credibility,noun,/ˌkrɛdəˈbɪləti/,เครเดอะบิลิตี,ความน่าเชื่อถือ,Awards from experts give the brand more credibility.,รางวัลจากผู้เชี่ยวชาญทำให้แบรนด์น่าเชื่อถือมากขึ้น,,,false
+4,marketing-strategy,3,1,ad spend,noun,/ˈæd ˌspɛnd/,แอ็ด สเปนด์,งบใช้จ่ายด้านโฆษณา,We moved most of our ad spend from TV to online.,เราย้ายงบโฆษณาส่วนใหญ่จากทีวีมาเป็นออนไลน์,,,false
+4,marketing-strategy,3,2,banner ad,noun,/ˈbænər ˌæd/,แบนเนอร์ แอ็ด,โฆษณาแบนเนอร์,Few people click on banner ads these days.,ทุกวันนี้มีคนคลิกโฆษณาแบนเนอร์น้อยมาก,,,false
+4,marketing-strategy,3,3,landing page,noun,/ˈlændɪŋ ˌpeɪdʒ/,แลนดิง เพจ,หน้าเว็บปลายทาง,The ad sends people to a landing page with a special offer.,โฆษณาพาผู้คนไปที่หน้าเว็บปลายทางซึ่งมีข้อเสนอพิเศษ,,,false
+4,marketing-strategy,3,4,conversion rate,noun,/kənˈvɝːʒən ˌreɪt/,เคินเวอร์ชัน เรท,อัตราการเปลี่ยนผู้เข้าชมเป็นลูกค้า,The new website design improved our conversion rate.,การออกแบบเว็บไซต์ใหม่ช่วยเพิ่มอัตราการเปลี่ยนผู้เข้าชมเป็นลูกค้า,,,false
+4,marketing-strategy,3,5,pop-up store,noun,/ˈpɑːp ʌp ˌstɔːr/,พ็อพ อัพ สโตร์,ร้านค้าชั่วคราว,We opened a pop-up store in the mall for two weeks.,เราเปิดร้านค้าชั่วคราวในห้างเป็นเวลาสองสัปดาห์,,,false
+4,marketing-strategy,3,6,direct mail,noun,/dəˌrɛkt ˈmeɪl/,เดอะเร็คท์ เมล,จดหมายโฆษณาที่ส่งถึงบ้าน,Older customers still respond well to direct mail.,ลูกค้าสูงวัยยังตอบสนองดีต่อจดหมายโฆษณาที่ส่งถึงบ้าน,,,false
+4,marketing-strategy,3,7,click-through rate,noun,/ˈklɪk θruː ˌreɪt/,คลิก ธรู เรท,อัตราการคลิกผ่าน,The email with a picture had a higher click-through rate.,อีเมลที่มีรูปภาพมีอัตราการคลิกผ่านสูงกว่า,Often shortened to CTR.,,false
+4,marketing-strategy,3,8,sponsored post,noun,/ˌspɑːnsərd ˈpoʊst/,สปอนเซิร์ด โพสท์,โพสต์ที่ได้รับการสนับสนุน (โฆษณา),The sponsored post reached many people who did not follow us.,โพสต์โฆษณานั้นเข้าถึงผู้คนจำนวนมากที่ไม่ได้ติดตามเรา,,,false
+4,marketing-strategy,3,9,distribution channel,noun,/ˌdɪstrɪˈbjuːʃən ˌtʃænəl/,ดิสทริบิวชัน แชนเนิล,ช่องทางการจัดจำหน่าย,Convenience stores are our most important distribution channel.,ร้านสะดวกซื้อเป็นช่องทางการจัดจำหน่ายที่สำคัญที่สุดของเรา,,,false
+4,marketing-strategy,3,10,teaser,noun,/ˈtiːzər/,ทีเซอร์,ตัวอย่างสั้นเพื่อสร้างความอยากรู้,We posted a short teaser a week before the launch.,เราโพสต์ตัวอย่างสั้น ๆ หนึ่งสัปดาห์ก่อนเปิดตัว,,,false
+4,marketing-strategy,3,11,outreach,noun,/ˈaʊtriːtʃ/,เอาท์รีช,การเข้าหากลุ่มเป้าหมายเชิงรุก,Our outreach to local schools brought in many new families.,การเข้าหาโรงเรียนในพื้นที่ทำให้เราได้ครอบครัวลูกค้าใหม่จำนวนมาก,,,false
+4,marketing-strategy,3,12,giveaway,noun,/ˈɡɪvəweɪ/,กิฟเวอะเวย์,กิจกรรมแจกของฟรี,We ran a giveaway on Facebook to get more followers.,เราจัดกิจกรรมแจกของบนเฟซบุ๊กเพื่อเพิ่มผู้ติดตาม,,,false
+4,marketing-strategy,3,13,pre-order,noun,/ˈpriː ˌɔːrdər/,พรี ออร์เดอร์,การสั่งจองล่วงหน้า,We received three thousand pre-orders before the phone was released.,เราได้รับการสั่งจองล่วงหน้าสามพันรายการก่อนโทรศัพท์วางขาย,,,false
+4,marketing-strategy,3,14,affiliate,noun,/əˈfɪliət/,อะฟิลิเอ็ท,ผู้ทำการตลาดแบบรับค่าคอมมิชชัน,Our affiliates earn five percent on every sale they bring.,ผู้ทำการตลาดแบบพันธมิตรของเราได้ห้าเปอร์เซ็นต์จากทุกยอดขายที่นำมา,Collocation: affiliate marketing.,,false
+4,leadership,1,1,open-door policy,noun,/ˌoʊpən ˈdɔːr ˌpɑːləsi/,โอเพิน ดอร์ พอลิซี,นโยบายเปิดประตูรับฟัง,"Our director has an open-door policy, so anyone can talk to her.",ผู้อำนวยการของเรามีนโยบายเปิดประตู ใครก็คุยกับเธอได้,,,false
+4,leadership,1,2,motivate,verb,/ˈmoʊtɪveɪt/,โมทิเวท,สร้างแรงจูงใจ,She motivates her team with clear goals and praise.,เธอสร้างแรงจูงใจให้ทีมด้วยเป้าหมายที่ชัดเจนและคำชม,,,false
+4,leadership,1,3,empower,verb,/ɪmˈpaʊər/,เอ็มพาวเวอร์,ให้อำนาจในการตัดสินใจ,We empower staff to solve customer problems on their own.,เราให้อำนาจพนักงานแก้ปัญหาของลูกค้าได้ด้วยตัวเอง,,,false
+4,leadership,1,4,morale,noun,/məˈræl/,เมอะแรล,ขวัญกำลังใจ,Team morale improved after the new bonus system started.,ขวัญกำลังใจของทีมดีขึ้นหลังเริ่มใช้ระบบโบนัสใหม่,,,false
+4,leadership,1,5,vision,noun,/ˈvɪʒən/,วิชัน,วิสัยทัศน์,Our CEO shared her vision for the next five years.,ซีอีโอของเราแบ่งปันวิสัยทัศน์สำหรับห้าปีข้างหน้า,,,false
+4,leadership,1,6,inclusive,adjective,/ɪnˈkluːsɪv/,อินคลูซิฟ,ที่ไม่กีดกันใคร เปิดรับทุกคน,She builds an inclusive team where everyone can share ideas.,เธอสร้างทีมที่เปิดรับทุกคนซึ่งทุกคนแสดงความคิดเห็นได้,,,false
+4,leadership,1,7,accountable,adjective,/əˈkaʊntəbəl/,อะเคานเทอะเบิล,ต้องรับผิดชอบ (ต่อผลลัพธ์),Each team leader is accountable for meeting the targets.,หัวหน้าทีมแต่ละคนต้องรับผิดชอบให้ทีมทำได้ตามเป้า,Collocation: hold someone accountable.,,false
+4,leadership,1,8,inspire,verb,/ɪnˈspaɪər/,อินสไปเออร์,สร้างแรงบันดาลใจ,Her story inspired many young staff to apply for leadership roles.,เรื่องราวของเธอสร้างแรงบันดาลใจให้พนักงานรุ่นใหม่หลายคนสมัครตำแหน่งผู้นำ,,,false
+4,leadership,1,9,role model,noun,/ˈroʊl ˌmɑːdəl/,โรล มอเดิล,แบบอย่าง,A manager should be a role model for the team.,ผู้จัดการควรเป็นแบบอย่างให้ทีม,,,false
+4,leadership,1,10,lead by example,phrase,/ˌliːd baɪ ɪɡˈzæmpəl/,ลีด บาย อิกแซมเพิล,ทำตัวเป็นแบบอย่าง,The best managers lead by example every day.,ผู้จัดการที่ดีที่สุดทำตัวเป็นแบบอย่างทุกวัน,,,false
+4,leadership,1,11,team-building,noun,/ˈtiːm ˌbɪldɪŋ/,ทีม บิลดิง,การสร้างความสามัคคีในทีม,The company spends money on team-building every year.,บริษัทใช้งบสำหรับกิจกรรมสร้างความสามัคคีในทีมทุกปี,,,false
+4,leadership,1,12,charisma,noun,/kəˈrɪzmə/,คะริซมะ,เสน่ห์ดึงดูดใจ บารมี,Our new director has the charisma to make people want to follow her.,ผู้อำนวยการคนใหม่ของเรามีบารมีที่ทำให้คนอยากทำตาม,,,false
+4,leadership,1,13,empathy,noun,/ˈɛmpəθi/,เอ็มเพอะธี,ความเห็นอกเห็นใจ,A good leader shows empathy when staff have personal problems.,ผู้นำที่ดีแสดงความเห็นอกเห็นใจเมื่อพนักงานมีปัญหาส่วนตัว,,,false
+4,leadership,1,14,approachable,adjective,/əˈproʊtʃəbəl/,อะโพรเชอะเบิล,เข้าหาง่าย,"Our manager is approachable, so we can ask her anything.",ผู้จัดการของเราเข้าหาง่าย เราจึงถามเธอได้ทุกเรื่อง,,,false
+4,leadership,2,1,performance review,noun,/pərˈfɔːrməns rɪˌvjuː/,เพอร์ฟอร์เมินซ์ รีวิว,การประเมินผลงาน,I have my annual performance review with my manager next week.,สัปดาห์หน้าฉันมีการประเมินผลงานประจำปีกับผู้จัดการ,,,false
+4,leadership,2,2,KPI,noun,/ˌkeɪ piː ˈaɪ/,เค พี ไอ,ตัวชี้วัดผลงานหลัก,One of my KPIs is answering every customer email within a day.,หนึ่งในตัวชี้วัดผลงานของฉันคือตอบอีเมลลูกค้าทุกฉบับภายในหนึ่งวัน,Stands for key performance indicator.,,false
+4,leadership,2,3,one-on-one,noun,/ˌwʌn ɑːn ˈwʌn/,วัน ออน วัน,การคุยตัวต่อตัว,I have a one-on-one with my manager every Monday.,ฉันคุยตัวต่อตัวกับผู้จัดการทุกวันจันทร์,,,false
+4,leadership,2,4,self-assessment,noun,/ˌsɛlf əˈsɛsmənt/,เซลฟ์ อะเซสเมินท์,การประเมินตนเอง,Complete your self-assessment before the review meeting.,ทำแบบประเมินตนเองให้เสร็จก่อนการประชุมประเมินผล,,,false
+4,leadership,2,5,productivity,noun,/ˌproʊdʌkˈtɪvəti/,โพรดักทิฟวิที,ประสิทธิภาพการทำงาน,Flexible hours have increased productivity in our team.,เวลาทำงานที่ยืดหยุ่นช่วยเพิ่มประสิทธิภาพการทำงานของทีมเรา,,,false
+4,leadership,2,6,warning letter,noun,/ˈwɔːrnɪŋ ˌlɛtər/,วอร์นิง เล็ทเทอร์,หนังสือเตือน,He received a warning letter for missing work without notice.,เขาได้รับหนังสือเตือนเพราะขาดงานโดยไม่แจ้ง,,,false
+4,leadership,2,7,reprimand,verb,/ˈrɛprɪmænd/,เรพริแมนด์,ตำหนิ (อย่างเป็นทางการ),The manager reprimanded him for being rude to a customer.,ผู้จัดการตำหนิเขาที่หยาบคายกับลูกค้า,,,false
+4,leadership,2,8,commend,verb,/kəˈmɛnd/,เคอะเมนด์,ชมเชย ยกย่อง,The director commended the team for their excellent work.,ผู้อำนวยการชมเชยทีมในผลงานที่ยอดเยี่ยม,,,false
+4,leadership,2,9,competency,noun,/ˈkɑːmpɪtənsi/,คอมพิเทินซี,สมรรถนะ ความสามารถ,Communication is a key competency for every team leader.,การสื่อสารเป็นสมรรถนะสำคัญของหัวหน้าทีมทุกคน,,,false
+4,leadership,2,10,upskill,verb,/ˈʌpskɪl/,อัพสกิล,พัฒนาทักษะเพิ่ม,The company pays for courses to upskill its staff.,บริษัทจ่ายค่าคอร์สเพื่อพัฒนาทักษะพนักงาน,,,false
+4,leadership,2,11,disciplinary,adjective,/ˈdɪsəplɪnɛri/,ดิสซิพลิเนรี,ทางวินัย,Being late every day can lead to disciplinary action.,การมาสายทุกวันอาจนำไปสู่การลงโทษทางวินัย,Collocation: disciplinary action.,,false
+4,leadership,2,12,demotion,noun,/dɪˈmoʊʃən/,ดีโมชัน,การลดตำแหน่ง,Serious mistakes can lead to a demotion or dismissal.,ความผิดพลาดร้ายแรงอาจนำไปสู่การลดตำแหน่งหรือการเลิกจ้าง,Opposite: promotion.,,false
+4,leadership,2,13,high performer,noun,/ˌhaɪ pərˈfɔːrmər/,ไฮ เพอร์ฟอร์เมอร์,ผู้มีผลงานโดดเด่น,The company gives high performers extra training and bonuses.,บริษัทให้การอบรมและโบนัสเพิ่มเติมแก่ผู้มีผลงานโดดเด่น,,,false
+4,leadership,2,14,micromanage,verb,/ˌmaɪkroʊˈmænɪdʒ/,ไมโครแมนิจ,ควบคุมทุกรายละเอียดจุกจิก,Good leaders trust their staff and do not micromanage them.,ผู้นำที่ดีไว้ใจพนักงานและไม่จุกจิกควบคุมทุกรายละเอียด,,,false
+4,leadership,3,1,restructure,verb,/riːˈstrʌktʃər/,รีสตรัคเชอร์,ปรับโครงสร้าง,The company will restructure the sales department next year.,บริษัทจะปรับโครงสร้างฝ่ายขายในปีหน้า,,,false
+4,leadership,3,2,change management,noun,/ˈtʃeɪndʒ ˌmænɪdʒmənt/,เชนจ์ แมนิจเมินท์,การบริหารการเปลี่ยนแปลง,Good change management helps staff accept new systems.,การบริหารการเปลี่ยนแปลงที่ดีช่วยให้พนักงานยอมรับระบบใหม่,,,false
+4,leadership,3,3,initiative,noun,/ɪˈnɪʃətɪv/,อินิเชอะทิฟ,โครงการริเริ่ม,The new green initiative aims to cut paper use by half.,โครงการริเริ่มด้านสิ่งแวดล้อมใหม่มุ่งลดการใช้กระดาษลงครึ่งหนึ่ง,Also: take the initiative (act without being told).,,false
+4,leadership,3,4,oversee,verb,/ˌoʊvərˈsiː/,โอเวอร์ซี,ดูแล กำกับ (งาน),She oversees a team of twenty engineers in two countries.,เธอดูแลทีมวิศวกรยี่สิบคนในสองประเทศ,,,false
+4,leadership,3,5,transition,noun,/trænˈzɪʃən/,แทรนซิชัน,การเปลี่ยนผ่าน,The transition to the new software took three months.,การเปลี่ยนผ่านไปใช้ซอฟต์แวร์ใหม่ใช้เวลาสามเดือน,,,false
+4,leadership,3,6,resistance,noun,/rɪˈzɪstəns/,รีซิสเทินซ์,การต่อต้าน,There was some resistance to the new working hours.,มีการต่อต้านเวลาทำงานใหม่อยู่บ้าง,Collocation: resistance to change.,,false
+4,leadership,3,7,decisive,adjective,/dɪˈsaɪsɪv/,ดีไซซิฟ,เด็ดขาด ตัดสินใจได้รวดเร็ว,"In a crisis, a leader must be calm and decisive.",ในภาวะวิกฤต ผู้นำต้องใจเย็นและเด็ดขาด,,,false
+4,leadership,3,8,roll out,phrasal verb,/ˌroʊl ˈaʊt/,โรล เอาท์,ทยอยเปิดใช้ นำออกใช้,We will roll out the new app to all branches in May.,เราจะทยอยเปิดใช้แอปใหม่ในทุกสาขาในเดือนพฤษภาคม,,,false
+4,leadership,3,9,strategic,adjective,/strəˈtiːdʒɪk/,สเตรอะทีจิก,เชิงกลยุทธ์,Opening a branch in Vietnam was a strategic decision.,การเปิดสาขาในเวียดนามเป็นการตัดสินใจเชิงกลยุทธ์,,,false
+4,leadership,3,10,overhaul,noun,/ˈoʊvərhɔːl/,โอเวอร์ฮอล,การปรับปรุงครั้งใหญ่,The new CEO started a complete overhaul of the sales process.,ซีอีโอคนใหม่เริ่มปรับปรุงกระบวนการขายครั้งใหญ่,,,false
+4,leadership,3,11,align,verb,/əˈlaɪn/,อะไลน์,ทำให้สอดคล้อง,Our team goals must align with the company strategy.,เป้าหมายของทีมต้องสอดคล้องกับกลยุทธ์ของบริษัท,Collocation: align with something.,,false
+4,leadership,3,12,adapt,verb,/əˈdæpt/,อะแดพท์,ปรับตัว,Staff need time to adapt to the new office layout.,พนักงานต้องใช้เวลาปรับตัวกับผังออฟฟิศใหม่,,,false
+4,leadership,3,13,pilot program,noun,/ˈpaɪlət ˌproʊɡræm/,ไพเลิท โพรแกรม,โครงการนำร่อง,We will test the four-day week in a pilot program first.,เราจะทดลองการทำงานสี่วันต่อสัปดาห์ในโครงการนำร่องก่อน,,,false
+4,leadership,3,14,roadmap,noun,/ˈroʊdmæp/,โรดแมป,แผนงานระยะยาว,The roadmap shows our main goals for the next two years.,แผนงานระยะยาวแสดงเป้าหมายหลักของเราในอีกสองปีข้างหน้า,,,false

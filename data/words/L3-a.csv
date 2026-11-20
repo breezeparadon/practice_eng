@@ -1,0 +1,337 @@
+level,category,lesson,order,headword,pos,phonetic,reading_th,meaning_th,example_en,example_th,note_en,emoji,reviewed
+3,home-repairs,1,1,leaky,adjective,/ˈliːki/,ลีคกี,รั่ว,We called someone to fix the leaky pipe under the sink.,เราเรียกคนมาซ่อมท่อที่รั่วใต้อ่างล้างจาน,"a leaky faucet, a leaky roof",,false
+3,home-repairs,1,2,overflow,verb,/ˌoʊvərˈfloʊ/,โอเวอร์โฟลว์,ล้น,The bathtub overflowed and water went into the hallway.,อ่างอาบน้ำล้นและน้ำไหลไปที่ทางเดิน,overflow with water,,false
+3,home-repairs,1,3,short circuit,noun,/ˌʃɔːrt ˈsɜːrkɪt/,ชอร์ท เซอร์คิท,ไฟฟ้าลัดวงจร,A short circuit in the old fan started a small fire.,ไฟฟ้าลัดวงจรในพัดลมเก่าทำให้เกิดไฟไหม้เล็กน้อย,Verb: short-circuit,,false
+3,home-repairs,1,4,clogged,adjective,/klɑːɡd/,คลอกด์,อุดตัน,The shower drain is clogged with hair.,ท่อระบายน้ำที่ฝักบัวอุดตันเพราะเส้นผม,"clogged drain, clogged toilet",,false
+3,home-repairs,1,5,jammed,adjective,/dʒæmd/,แจมด์,"ติด, ขยับไม่ได้",The window is jammed and I can't open it.,หน้าต่างติดและฉันเปิดไม่ได้,Also: a paper jam in a printer,,false
+3,home-repairs,1,6,rust,noun,/rʌst/,รัสท์,สนิม,The old gate is covered in rust.,ประตูรั้วเก่าเต็มไปด้วยสนิม,,,false
+3,home-repairs,1,7,wobbly,adjective,/ˈwɑːbli/,วอบบลี,"โยกเยก, ไม่มั่นคง",This table is wobbly because one leg is shorter.,โต๊ะตัวนี้โยกเพราะขาข้างหนึ่งสั้นกว่า,,,false
+3,home-repairs,1,8,electric shock,noun,/ɪˌlɛktrɪk ˈʃɑːk/,อิเลคทริค ช็อค,"ไฟฟ้าช็อต, ไฟดูด",I got a small electric shock from the old switch.,ฉันโดนไฟดูดเล็กน้อยจากสวิตช์เก่า,,,false
+3,home-repairs,1,9,flicker,verb,/ˈflɪkər/,ฟลิคเคอร์,(ไฟ) กะพริบ,The kitchen light keeps flickering when I turn it on.,ไฟในครัวกะพริบตลอดเวลาที่ฉันเปิด,,,false
+3,home-repairs,1,10,power outage,noun,/ˈpaʊər ˌaʊtɪdʒ/,พาวเวอร์ เอาทิดจ์,ไฟดับ,We had a power outage for three hours last night.,เมื่อคืนไฟดับไปสามชั่วโมง,UK: power cut,,false
+3,home-repairs,1,11,damp,adjective,/dæmp/,แดมพ์,ชื้น,The walls feel damp after the heavy rain.,ผนังรู้สึกชื้นหลังฝนตกหนัก,,,false
+3,home-repairs,1,12,worn out,adjective,/ˌwɔːrn ˈaʊt/,วอร์น เอาท์,เก่าจนสึกหรอ,The carpet in the hallway is worn out.,พรมที่ทางเดินเก่าจนสึกหมดแล้ว,Also means very tired.,,false
+3,home-repairs,1,13,squeak,verb,/skwiːk/,สควีค,ดังเอี๊ยด,The bedroom door squeaks every time I open it.,ประตูห้องนอนดังเอี๊ยดทุกครั้งที่ฉันเปิด,,,false
+3,home-repairs,1,14,termite,noun,/ˈtɜːrmaɪt/,เทอร์ไมท์,ปลวก,Termites have damaged the wooden door frame.,ปลวกกัดกินวงกบประตูไม้จนเสียหาย,,,false
+3,home-repairs,2,1,plumbing,noun,/ˈplʌmɪŋ/,พลัมมิง,ระบบประปา,The plumbing in this old house needs to be replaced.,ระบบประปาในบ้านเก่าหลังนี้ต้องเปลี่ยนใหม่,The b is silent.,,false
+3,home-repairs,2,2,wiring,noun,/ˈwaɪərɪŋ/,ไวเออริง,ระบบสายไฟ,"Old wiring can be dangerous, so ask an expert to check it.",สายไฟเก่าอาจอันตราย จึงควรให้ผู้เชี่ยวชาญตรวจ,faulty wiring,,false
+3,home-repairs,2,3,power outlet,noun,/ˈpaʊər ˌaʊtlɛt/,พาวเวอร์ เอาท์เล็ท,"เต้ารับไฟฟ้า, ปลั๊กไฟที่ผนัง",There is only one power outlet in the bedroom.,ห้องนอนมีเต้ารับไฟฟ้าแค่จุดเดียว,UK: socket,,false
+3,home-repairs,2,4,fuse box,noun,/ˈfjuːz ˌbɑːks/,ฟิวส์ บอกซ์,"ตู้ควบคุมไฟ, กล่องฟิวส์",The fuse box is next to the front door.,ตู้ควบคุมไฟอยู่ข้างประตูหน้าบ้าน,Also called a breaker box,,false
+3,home-repairs,2,5,drainpipe,noun,/ˈdreɪnpaɪp/,เดรนไพพ์,ท่อระบายน้ำฝน,Leaves are blocking the drainpipe on the roof.,ใบไม้อุดท่อระบายน้ำฝนบนหลังคา,,,false
+3,home-repairs,2,6,gutter,noun,/ˈɡʌtər/,กัทเทอร์,รางน้ำฝน,We clean the gutters before the rainy season.,เราทำความสะอาดรางน้ำฝนก่อนหน้าฝน,,,false
+3,home-repairs,2,7,masking tape,noun,/ˈmæskɪŋ ˌteɪp/,แมสคิง เทพ,เทปกาวย่น,Put masking tape around the windows before you paint.,ติดเทปกาวย่นรอบหน้าต่างก่อนทาสี,,,false
+3,home-repairs,2,8,varnish,noun,/ˈvɑːrnɪʃ/,วาร์นิช,น้ำมันเคลือบเงาไม้,Put a coat of varnish on the wooden table.,ทาน้ำมันเคลือบเงาบนโต๊ะไม้หนึ่งชั้น,,,false
+3,home-repairs,2,9,primer,noun,/ˈpraɪmər/,ไพรเมอร์,สีรองพื้น,Paint the wall with primer before the top color.,ทาสีรองพื้นก่อนทาสีจริง,"Apply primer first, then paint.",,false
+3,home-repairs,2,10,insulation,noun,/ˌɪnsəˈleɪʃən/,อินซะเลชัน,ฉนวนกันความร้อน,Good roof insulation keeps the house cool.,ฉนวนกันความร้อนที่หลังคาดี ๆ ช่วยให้บ้านเย็น,Verb: insulate,,false
+3,home-repairs,2,11,sandpaper,noun,/ˈsændˌpeɪpər/,แซนด์เพเพอร์,กระดาษทราย,Rub the old table with sandpaper before you paint it.,ขัดโต๊ะเก่าด้วยกระดาษทรายก่อนทาสี,,,false
+3,home-repairs,2,12,paint roller,noun,/ˈpeɪnt ˌroʊlər/,เพนท์ โรลเลอร์,ลูกกลิ้งทาสี,A paint roller is faster than a brush for big walls.,ลูกกลิ้งทาสีเร็วกว่าแปรงสำหรับผนังใหญ่ ๆ,,,false
+3,home-repairs,2,13,duct tape,noun,/ˈdʌkt ˌteɪp/,ดัคท์ เทพ,เทปผ้า,I fixed the broken hose with some duct tape.,ฉันซ่อมสายยางที่แตกด้วยเทปผ้า,,,false
+3,home-repairs,2,14,paintbrush,noun,/ˈpeɪntbrʌʃ/,เพนท์บรัช,แปรงทาสี,Wash the paintbrush with water after you finish.,ล้างแปรงทาสีด้วยน้ำหลังทำเสร็จ,,🖌️,false
+3,home-repairs,3,1,repairman,noun,/rɪˈpɛrmæn/,รีแพร์แมน,ช่างซ่อม,The repairman fixed our washing machine in an hour.,ช่างซ่อมแซมเครื่องซักผ้าของเราเสร็จในหนึ่งชั่วโมง,,,false
+3,home-repairs,3,2,home improvement,noun,/ˌhoʊm ɪmˈpruːvmənt/,โฮม อิมพรูฟเมินท์,การปรับปรุงตกแต่งบ้าน,We spent our bonus on home improvements.,เราใช้โบนัสไปกับการปรับปรุงบ้าน,,,false
+3,home-repairs,3,3,handyman,noun,/ˈhændimæn/,แฮนดีแมน,ช่างซ่อมทั่วไป,The handyman can repair the fence and the gate.,ช่างซ่อมทั่วไปซ่อมรั้วและประตูรั้วได้,,,false
+3,home-repairs,3,4,contractor,noun,/ˈkɑːntræktər/,คอนแทรคเทอร์,ผู้รับเหมา,We hired a contractor to build a new bathroom.,เราจ้างผู้รับเหมามาสร้างห้องน้ำใหม่,,,false
+3,home-repairs,3,5,mend,verb,/mɛnd/,เมนด์,"ซ่อม, ปะ",Can you mend the hole in the fence this weekend?,สุดสัปดาห์นี้คุณซ่อมรูที่รั้วได้ไหม,"mend clothes, mend a fence",,false
+3,home-repairs,3,6,unclog,verb,/ʌnˈklɑːɡ/,อันคลอก,แก้ท่ออุดตัน,We used hot water to unclog the kitchen sink.,เราใช้น้ำร้อนแก้ท่ออ่างล้างจานที่อุดตัน,Opposite: clog,,false
+3,home-repairs,3,7,put up,phrasal verb,/ˌpʊt ˈʌp/,พุท อัพ,"ติด, แขวน (ชั้นวาง ผ้าม่าน)",Can you help me put up a shelf in the kitchen?,ช่วยฉันติดชั้นวางในครัวหน่อยได้ไหม,,,false
+3,home-repairs,3,8,tighten,verb,/ˈtaɪtən/,ไทเทิน,ขันให้แน่น,Please tighten the screws on the chair leg.,กรุณาขันสกรูที่ขาเก้าอี้ให้แน่น,,,false
+3,home-repairs,3,9,unscrew,verb,/ʌnˈskruː/,อันสกรู,"คลายเกลียว, ไขออก",Unscrew the cover before you change the bulb.,คลายเกลียวฝาครอบออกก่อนเปลี่ยนหลอดไฟ,,,false
+3,home-repairs,3,10,repaint,verb,/ˌriːˈpeɪnt/,รีเพนท์,ทาสีใหม่,We plan to repaint the living room light green.,เราวางแผนจะทาสีห้องนั่งเล่นใหม่เป็นสีเขียวอ่อน,,,false
+3,home-repairs,3,11,sand,verb,/sænd/,แซนด์,ขัดด้วยกระดาษทราย,The handyman sanded the door before he painted it.,ช่างขัดประตูด้วยกระดาษทรายก่อนทาสี,,,false
+3,home-repairs,3,12,renovate,verb,/ˈrɛnəveɪt/,เรโนเวท,ปรับปรุง (บ้าน อาคาร),They are renovating the old kitchen this month.,พวกเขากำลังปรับปรุงห้องครัวเก่าในเดือนนี้,Noun: renovation,,false
+3,home-repairs,3,13,shut off,phrasal verb,/ˌʃʌt ˈɔːf/,ชัท ออฟ,ปิด (น้ำ ไฟ แก๊ส),Shut off the main water supply before you fix the tap.,ปิดวาล์วน้ำหลักก่อนซ่อมก๊อก,,,false
+3,home-repairs,3,14,DIY,noun,/ˌdiː aɪ ˈwaɪ/,ดี ไอ วาย,การซ่อมหรือทำของด้วยตัวเอง,My father enjoys DIY and fixes most things himself.,พ่อของฉันชอบงานช่างแบบทำเองและซ่อมของส่วนใหญ่ด้วยตัวเอง,Short for do it yourself.,,false
+3,healthy-living,1,1,habit,noun,/ˈhæbɪt/,แฮบิท,"นิสัย, ความเคยชิน",Walking after dinner is a good habit.,การเดินหลังอาหารเย็นเป็นนิสัยที่ดี,"a good habit, break a habit",,false
+3,healthy-living,1,2,lifestyle,noun,/ˈlaɪfstaɪl/,ไลฟ์สไตล์,วิถีชีวิต,A healthy lifestyle helps you work better.,วิถีชีวิตที่ดีต่อสุขภาพช่วยให้คุณทำงานได้ดีขึ้น,a healthy lifestyle,,false
+3,healthy-living,1,3,balanced diet,noun,/ˌbælənst ˈdaɪət/,แบลันสท์ ไดเอ็ท,อาหารที่ครบหมู่,Try to eat a balanced diet with plenty of vegetables.,พยายามกินอาหารให้ครบหมู่และมีผักเยอะ ๆ,,,false
+3,healthy-living,1,4,nutrition,noun,/nuːˈtrɪʃən/,นูทริชัน,โภชนาการ,Good nutrition is important for children and adults.,โภชนาการที่ดีสำคัญทั้งสำหรับเด็กและผู้ใหญ่,Adjective: nutritious,,false
+3,healthy-living,1,5,serving,noun,/ˈsɜːrvɪŋ/,เซอร์วิง,หนึ่งที่ (ปริมาณอาหาร),Eat at least five servings of fruit and vegetables a day.,กินผักและผลไม้อย่างน้อยวันละห้าที่,,,false
+3,healthy-living,1,6,hydrated,adjective,/ˈhaɪdreɪtɪd/,ไฮเดรทิด,ได้รับน้ำเพียงพอ,Drink water often to stay hydrated on hot days.,ดื่มน้ำบ่อย ๆ เพื่อให้ร่างกายได้รับน้ำเพียงพอในวันที่อากาศร้อน,stay hydrated,,false
+3,healthy-living,1,7,stay up late,phrase,/ˌsteɪ ʌp ˈleɪt/,สเตย์ อัพ เลท,นอนดึก,Try not to stay up late on work nights.,พยายามอย่านอนดึกในคืนก่อนวันทำงาน,,,false
+3,healthy-living,1,8,cut down on,phrasal verb,/ˌkʌt ˈdaʊn ɑːn/,คัท ดาวน์ ออน,ลด (การกินหรือการใช้),My doctor told me to cut down on sugar.,หมอบอกให้ฉันลดน้ำตาล,,,false
+3,healthy-living,1,9,quit,verb,/kwɪt/,ควิท,เลิก,He quit smoking last year and feels much better.,เขาเลิกสูบบุหรี่เมื่อปีที่แล้วและรู้สึกดีขึ้นมาก,quit + verb-ing,,false
+3,healthy-living,1,10,in moderation,phrase,/ɪn ˌmɑːdəˈreɪʃən/,อิน มอเดอเรชัน,อย่างพอประมาณ,You can enjoy sweets and coffee in moderation.,คุณกินขนมหวานและดื่มกาแฟได้แต่ต้องพอประมาณ,,,false
+3,healthy-living,1,11,well-being,noun,/ˌwɛlˈbiːɪŋ/,เวล บีอิง,ความเป็นอยู่ที่ดี,Sleep and exercise are both important for your well-being.,การนอนและการออกกำลังกายสำคัญต่อความเป็นอยู่ที่ดีของคุณ,,,false
+3,healthy-living,1,12,active,adjective,/ˈæktɪv/,แอคทิฟ,"กระฉับกระเฉง, ได้ขยับร่างกาย",Taking the stairs is an easy way to stay active.,การขึ้นบันไดเป็นวิธีง่าย ๆ ที่ทำให้ร่างกายได้ขยับอยู่เสมอ,,,false
+3,healthy-living,1,13,skip,verb,/skɪp/,สคิพ,"งด, ข้าม (มื้ออาหาร)",Try not to skip breakfast on busy mornings.,พยายามอย่าอดมื้อเช้าในวันที่ยุ่ง ๆ,"skip a meal, skip class",,false
+3,healthy-living,1,14,posture,noun,/ˈpɑːstʃər/,พอสเชอร์,ท่าทางการนั่งหรือยืน,Bad posture at your desk can cause back pain.,การนั่งผิดท่าที่โต๊ะทำงานอาจทำให้ปวดหลัง,"good posture, bad posture",,false
+3,healthy-living,2,1,protein,noun,/ˈproʊtiːn/,โปรทีน,โปรตีน,Eggs and fish are good sources of protein.,ไข่และปลาเป็นแหล่งโปรตีนที่ดี,,,false
+3,healthy-living,2,2,calorie,noun,/ˈkæləri/,แคลอรี,แคลอรี,This drink has more than three hundred calories.,เครื่องดื่มนี้มีมากกว่าสามร้อยแคลอรี,,,false
+3,healthy-living,2,3,fiber,noun,/ˈfaɪbər/,ไฟเบอร์,ใยอาหาร,Fruit and brown rice are high in fiber.,ผลไม้และข้าวกล้องมีใยอาหารสูง,UK: fibre,,false
+3,healthy-living,2,4,carbohydrate,noun,/ˌkɑːrboʊˈhaɪdreɪt/,คาร์โบไฮเดรท,คาร์โบไฮเดรต,Bread and noodles contain a lot of carbohydrates.,ขนมปังและก๋วยเตี๋ยวมีคาร์โบไฮเดรตมาก,Informal: carbs,,false
+3,healthy-living,2,5,whole grain,noun,/ˌhoʊl ˈɡreɪn/,โฮล เกรน,ธัญพืชไม่ขัดสี,Choose bread that is made from whole grains.,เลือกขนมปังที่ทำจากธัญพืชไม่ขัดสี,,,false
+3,healthy-living,2,6,processed food,noun,/ˌprɑːsɛst ˈfuːd/,พรอเซสท์ ฟูด,อาหารแปรรูป,Processed food often contains a lot of salt.,อาหารแปรรูปมักมีเกลือมาก,,,false
+3,healthy-living,2,7,organic,adjective,/ɔːrˈɡænɪk/,ออร์แกนิค,เกษตรอินทรีย์,We buy organic vegetables at the weekend market.,เราซื้อผักเกษตรอินทรีย์ที่ตลาดนัดสุดสัปดาห์,"organic food, organic farm",,false
+3,healthy-living,2,8,vegan,noun,/ˈviːɡən/,วีกัน,คนที่ไม่กินผลิตภัณฑ์จากสัตว์ทุกชนิด,"My friend is a vegan, so she doesn't eat eggs or milk.",เพื่อนของฉันเป็นวีแกน จึงไม่กินไข่และนม,,,false
+3,healthy-living,2,9,overweight,adjective,/ˌoʊvərˈweɪt/,โอเวอร์เวท,น้ำหนักเกิน,The doctor said I am a little overweight.,หมอบอกว่าฉันน้ำหนักเกินเล็กน้อย,,,false
+3,healthy-living,2,10,heart disease,noun,/ˈhɑːrt dɪˌziːz/,ฮาร์ท ดิซีซ,โรคหัวใจ,Too much fried food raises the risk of heart disease.,การกินของทอดมากเกินไปเพิ่มความเสี่ยงต่อโรคหัวใจ,,,false
+3,healthy-living,2,11,cholesterol,noun,/kəˈlɛstərɔːl/,เคอเลสเตอรอล,คอเลสเตอรอล,Fried food can raise your cholesterol.,อาหารทอดอาจทำให้คอเลสเตอรอลสูงขึ้น,,,false
+3,healthy-living,2,12,digest,verb,/daɪˈdʒɛst/,ไดเจสท์,ย่อย (อาหาร),Some people cannot digest milk easily.,บางคนย่อยนมได้ไม่ง่าย,Noun: digestion,,false
+3,healthy-living,2,13,immune system,noun,/ɪˈmjuːn ˌsɪstəm/,อิมมิวน์ ซิสเตม,ระบบภูมิคุ้มกัน,Enough sleep keeps your immune system strong.,การนอนให้พอทำให้ระบบภูมิคุ้มกันแข็งแรง,,,false
+3,healthy-living,2,14,nutritious,adjective,/nuːˈtrɪʃəs/,นูทริเชิส,มีคุณค่าทางอาหาร,Vegetable soup is a cheap and nutritious meal.,ซุปผักเป็นอาหารราคาถูกและมีคุณค่าทางอาหาร,a nutritious meal,,false
+3,healthy-living,3,1,stress,noun,/strɛs/,สเตรส,ความเครียด,Too much work can cause stress and headaches.,งานที่มากเกินไปอาจทำให้เกิดความเครียดและปวดหัว,"Adjective: stressful, stressed",,false
+3,healthy-living,3,2,relieve,verb,/rɪˈliːv/,รีลีฟ,บรรเทา,A short walk can relieve stress after work.,การเดินสั้น ๆ ช่วยบรรเทาความเครียดหลังเลิกงานได้,"relieve stress, relieve pain",,false
+3,healthy-living,3,3,meditate,verb,/ˈmɛdɪteɪt/,เมดิเทท,นั่งสมาธิ,I meditate for ten minutes every morning.,ฉันนั่งสมาธิสิบนาทีทุกเช้า,Noun: meditation,,false
+3,healthy-living,3,4,burnout,noun,/ˈbɜːrnaʊt/,เบิร์นเอาท์,ภาวะหมดไฟ,Working late every night can lead to burnout.,การทำงานดึกทุกคืนอาจนำไปสู่ภาวะหมดไฟ,,,false
+3,healthy-living,3,5,insomnia,noun,/ɪnˈsɑːmniə/,อินซอมเนีย,โรคนอนไม่หลับ,She has insomnia and often wakes up at three a.m.,เธอเป็นโรคนอนไม่หลับและมักตื่นตอนตีสาม,,,false
+3,healthy-living,3,6,nap,noun,/næp/,แนพ,การงีบหลับ,I take a short nap after lunch on weekends.,ฉันงีบหลับสั้น ๆ หลังมื้อกลางวันในวันหยุดสุดสัปดาห์,take a nap,,false
+3,healthy-living,3,7,mental health,noun,/ˌmɛntəl ˈhɛlθ/,เมนทัล เฮลธ์,สุขภาพจิต,Talking to friends is good for your mental health.,การพูดคุยกับเพื่อนดีต่อสุขภาพจิตของคุณ,,,false
+3,healthy-living,3,8,anxious,adjective,/ˈæŋkʃəs/,แองค์เชิส,วิตกกังวล,I always feel anxious before big exams.,ฉันรู้สึกกังวลทุกครั้งก่อนสอบครั้งใหญ่,anxious about something,,false
+3,healthy-living,3,9,refreshed,adjective,/rɪˈfrɛʃt/,รีเฟรชท์,สดชื่น,I woke up feeling refreshed after a good sleep.,ฉันตื่นมารู้สึกสดชื่นหลังจากนอนหลับสบาย,feel refreshed,,false
+3,healthy-living,3,10,mood,noun,/muːd/,มูด,อารมณ์,Exercise can put you in a good mood.,การออกกำลังกายช่วยให้อารมณ์ดีได้,"in a good mood, in a bad mood",,false
+3,healthy-living,3,11,cope with,phrasal verb,/ˈkoʊp wɪð/,โคพ วิธ,รับมือกับ,Everyone has different ways to cope with stress.,แต่ละคนมีวิธีรับมือกับความเครียดต่างกัน,,,false
+3,healthy-living,3,12,get over,phrasal verb,/ˌɡɛt ˈoʊvər/,เก็ท โอเวอร์,หายจาก (อาการป่วย),It took me a week to get over the flu.,ฉันใช้เวลาหนึ่งสัปดาห์กว่าจะหายจากไข้หวัดใหญ่,,,false
+3,healthy-living,3,13,relaxation,noun,/ˌriːlækˈseɪʃən/,รีแลคเซชัน,การผ่อนคลาย,Yoga and deep breathing are good for relaxation.,โยคะและการหายใจลึก ๆ ช่วยให้ผ่อนคลาย,,,false
+3,healthy-living,3,14,well-rested,adjective,/ˌwɛl ˈrɛstɪd/,เวล เรสทิด,ได้พักผ่อนเต็มที่,I feel well-rested after eight hours of sleep.,ฉันรู้สึกได้พักผ่อนเต็มที่หลังนอนแปดชั่วโมง,,,false
+3,travel-problems,1,1,cancellation,noun,/ˌkænsəˈleɪʃən/,แคนเซอเลชัน,การยกเลิก,The airline announced the cancellation of all evening flights.,สายการบินประกาศยกเลิกเที่ยวบินช่วงเย็นทั้งหมด,Verb: cancel,,false
+3,travel-problems,1,2,connecting flight,noun,/kəˌnɛktɪŋ ˈflaɪt/,เคอเนคทิง ไฟลท์,เที่ยวบินต่อเครื่อง,I missed my connecting flight because the first one was late.,ฉันตกเที่ยวบินต่อเครื่องเพราะเที่ยวบินแรกมาช้า,Also: a connection,,false
+3,travel-problems,1,3,transit,noun,/ˈtrænzɪt/,แทรนซิท,การต่อเครื่องระหว่างทาง,Passengers in transit should go to the transfer desk.,ผู้โดยสารที่ต้องต่อเครื่องควรไปที่เคาน์เตอร์ต่อเครื่อง,in transit,,false
+3,travel-problems,1,4,overbooked,adjective,/ˌoʊvərˈbʊkt/,โอเวอร์บุคท์,(ที่นั่ง) ถูกจองเกินจำนวน,"The flight was overbooked, so some passengers could not board.",เที่ยวบินถูกจองเกินจำนวน ผู้โดยสารบางคนจึงขึ้นเครื่องไม่ได้,,,false
+3,travel-problems,1,5,rebook,verb,/ˌriːˈbʊk/,รีบุค,จองใหม่,The agent rebooked us on the next flight to Tokyo.,เจ้าหน้าที่จองเที่ยวบินถัดไปไปโตเกียวให้เราใหม่,rebook a flight,,false
+3,travel-problems,1,6,standby,noun,/ˈstændbaɪ/,สแตนด์บาย,การรอที่นั่งว่าง,I am on standby for the eight o'clock flight.,ฉันรอที่นั่งว่างสำหรับเที่ยวบินแปดโมง,on standby,,false
+3,travel-problems,1,7,final call,noun,/ˌfaɪnəl ˈkɔːl/,ไฟเนิล คอล,ประกาศเรียกขึ้นเครื่องครั้งสุดท้าย,This is the final call for flight TG 628 to Osaka.,นี่คือการเรียกขึ้นเครื่องครั้งสุดท้ายสำหรับเที่ยวบิน TG 628 ไปโอซากา,,,false
+3,travel-problems,1,8,excess baggage,noun,/ˌɛksɛs ˈbæɡɪdʒ/,เอคเซส แบกกิจ,สัมภาระน้ำหนักเกิน,I had to pay for excess baggage at check-in.,ฉันต้องจ่ายค่าสัมภาระน้ำหนักเกินตอนเช็กอิน,,,false
+3,travel-problems,1,9,seat assignment,noun,/ˈsiːt əˌsaɪnmənt/,ซีท อะไซน์เมินท์,การจัดที่นั่ง,"There was a problem with our seat assignment, so we sat apart.",การจัดที่นั่งมีปัญหา เราจึงต้องนั่งแยกกัน,,,false
+3,travel-problems,1,10,turbulence,noun,/ˈtɜːrbjələns/,เทอร์บิวเลินส์,การที่เครื่องบินสั่นเพราะกระแสอากาศ,Please fasten your seat belt because of turbulence.,กรุณารัดเข็มขัดนิรภัยเนื่องจากเครื่องบินตกหลุมอากาศ,,,false
+3,travel-problems,1,11,divert,verb,/daɪˈvɜːrt/,ไดเวิร์ท,เปลี่ยนเส้นทาง,Our plane was diverted to another airport because of the storm.,เครื่องบินของเราถูกเปลี่ยนไปลงอีกสนามบินเพราะพายุ,Noun: diversion,,false
+3,travel-problems,1,12,stranded,adjective,/ˈstrændɪd/,สแตรนดิด,ติดค้าง,Hundreds of travelers were stranded at the airport overnight.,นักเดินทางหลายร้อยคนติดค้างอยู่ที่สนามบินทั้งคืน,be stranded at the airport,,false
+3,travel-problems,1,13,airsick,adjective,/ˈɛrsɪk/,แอร์ซิค,เมาเครื่องบิน,"I get airsick, so I always sit near the wing.",ฉันเมาเครื่องบิน จึงนั่งใกล้ปีกเครื่องบินเสมอ,,,false
+3,travel-problems,1,14,gate change,noun,/ˈɡeɪt ˌtʃeɪndʒ/,เกท เชนจ์,การเปลี่ยนประตูขึ้นเครื่อง,Listen carefully for announcements about a gate change.,ฟังประกาศเรื่องการเปลี่ยนประตูขึ้นเครื่องให้ดี,,,false
+3,travel-problems,2,1,baggage claim,noun,/ˈbæɡɪdʒ ˌkleɪm/,แบกกิจ เคลม,จุดรับกระเป๋าเดินทาง,"I waited at baggage claim for an hour, but my bag never came.",ฉันรอที่จุดรับกระเป๋าหนึ่งชั่วโมง แต่กระเป๋าไม่มาเลย,,,false
+3,travel-problems,2,2,lost and found,noun,/ˌlɔːst ən ˈfaʊnd/,ลอสท์ แอน ฟาวด์,แผนกรับแจ้งของหาย,Ask at the lost and found office near the exit.,สอบถามที่แผนกรับแจ้งของหายใกล้ทางออก,,,false
+3,travel-problems,2,3,lost luggage,noun,/ˌlɔːst ˈlʌɡɪdʒ/,ลอสท์ ลักกิจ,กระเป๋าเดินทางที่หาย,The airline delivered my lost luggage to the hotel.,สายการบินส่งกระเป๋าที่หายมาให้ที่โรงแรม,,,false
+3,travel-problems,2,4,file a report,phrase,/ˌfaɪl ə rɪˈpɔːrt/,ไฟล์ อะ รีพอร์ท,"ยื่นรายงาน, แจ้งเรื่อง",You should file a report at the airline counter.,คุณควรแจ้งเรื่องที่เคาน์เตอร์ของสายการบิน,,,false
+3,travel-problems,2,5,embassy,noun,/ˈɛmbəsi/,เอมบะซี,สถานทูต,Go to the embassy if you lose your passport abroad.,ไปที่สถานทูตถ้าคุณทำหนังสือเดินทางหายในต่างประเทศ,,,false
+3,travel-problems,2,6,stolen,adjective,/ˈstoʊlən/,สโตเลิน,ถูกขโมย,My wallet was stolen on the train.,กระเป๋าสตางค์ของฉันถูกขโมยบนรถไฟ,,,false
+3,travel-problems,2,7,pickpocket,noun,/ˈpɪkˌpɑːkɪt/,พิคพอคิท,นักล้วงกระเป๋า,Watch out for pickpockets in crowded markets.,ระวังนักล้วงกระเป๋าในตลาดที่คนแน่น,Watch out for pickpockets.,,false
+3,travel-problems,2,8,personal items,noun,/ˌpɜːrsənəl ˈaɪtəmz/,เพอร์เซินเนิล ไอเทิมซ์,ของใช้ส่วนตัว,Please check that you have all your personal items.,กรุณาตรวจดูว่าคุณมีของใช้ส่วนตัวครบทุกชิ้น,,,false
+3,travel-problems,2,9,valuables,noun,/ˈvæljuəbəlz/,แวลยูอะเบิลซ์,ของมีค่า,Put your valuables in the hotel safe.,เก็บของมีค่าไว้ในตู้เซฟของโรงแรม,,,false
+3,travel-problems,2,10,police report,noun,/pəˈliːs rɪˌpɔːrt/,เพอลีส รีพอร์ท,บันทึกแจ้งความ,You need a police report to claim for a stolen phone.,คุณต้องมีบันทึกแจ้งความเพื่อเคลมโทรศัพท์ที่ถูกขโมย,,,false
+3,travel-problems,2,11,temporary passport,noun,/ˌtɛmpərɛri ˈpæspɔːrt/,เทมเพอเรรี แพสพอร์ท,หนังสือเดินทางชั่วคราว,The embassy gave me a temporary passport to fly home.,สถานทูตออกหนังสือเดินทางชั่วคราวให้ฉันเพื่อบินกลับบ้าน,,,false
+3,travel-problems,2,12,unattended,adjective,/ˌʌnəˈtɛndɪd/,อันอะเทนดิด,ไม่มีคนดูแล,Never leave your bags unattended at the station.,อย่าทิ้งกระเป๋าไว้โดยไม่มีคนดูแลที่สถานี,leave something unattended,,false
+3,travel-problems,2,13,emergency contact,noun,/ɪˈmɜːrdʒənsi ˌkɑːntækt/,อิเมอร์เจินซี คอนแทคท์,ผู้ติดต่อกรณีฉุกเฉิน,Write the name of an emergency contact on the form.,เขียนชื่อผู้ติดต่อกรณีฉุกเฉินในแบบฟอร์ม,Usually a family member.,,false
+3,travel-problems,2,14,luggage tag,noun,/ˈlʌɡɪdʒ ˌtæɡ/,ลักกิจ แทก,ป้ายชื่อติดกระเป๋า,Write your phone number on the luggage tag.,เขียนเบอร์โทรศัพท์ของคุณบนป้ายชื่อติดกระเป๋า,,🏷️,false
+3,travel-problems,3,1,overcharge,verb,/ˌoʊvərˈtʃɑːrdʒ/,โอเวอร์ชาร์จ,คิดเงินเกิน,The taxi driver overcharged us for a short ride.,คนขับแท็กซี่คิดเงินเราเกินสำหรับระยะทางสั้น ๆ,,,false
+3,travel-problems,3,2,double-booked,adjective,/ˌdʌbəl ˈbʊkt/,ดับเบิล บุคท์,ถูกจองซ้ำซ้อน,"Our room was double-booked, so the hotel moved us.",ห้องของเราถูกจองซ้ำ โรงแรมจึงย้ายเราไปห้องอื่น,Verb: double-book,,false
+3,travel-problems,3,3,mix-up,noun,/ˈmɪks ʌp/,มิกซ์ อัพ,ความผิดพลาดสับสน,There was a mix-up with our booking dates.,มีความผิดพลาดสับสนเรื่องวันที่จองของเรา,Verb: mix up,,false
+3,travel-problems,3,4,breakdown,noun,/ˈbreɪkdaʊn/,เบรคดาวน์,การที่รถเสีย,We had a breakdown on the highway and waited for help.,รถของเราเสียบนทางหลวงและต้องรอความช่วยเหลือ,Verb: break down,,false
+3,travel-problems,3,5,flat tire,noun,/ˌflæt ˈtaɪər/,แฟลท ไทเออร์,ยางแบน,We got a flat tire on the way to the beach.,ยางรถเราแบนระหว่างทางไปชายหาด,UK: flat tyre,,false
+3,travel-problems,3,6,detour,noun,/ˈdiːtʊr/,ดีทัวร์,"ทางเบี่ยง, ทางอ้อม","The road was closed, so we took a detour.",ถนนปิด เราจึงใช้ทางเบี่ยง,take a detour,,false
+3,travel-problems,3,7,strike,noun,/straɪk/,สไตรค์,การนัดหยุดงาน,A train strike stopped all services in the city.,การนัดหยุดงานของพนักงานรถไฟทำให้บริการทั้งเมืองหยุดลง,on strike,,false
+3,travel-problems,3,8,get lost,phrase,/ˌɡɛt ˈlɔːst/,เก็ท ลอสท์,หลงทาง,It is easy to get lost in the old part of town.,การหลงทางในย่านเมืองเก่าเป็นเรื่องง่าย,,,false
+3,travel-problems,3,9,out of order,phrase,/ˌaʊt əv ˈɔːrdər/,เอาท์ ออฟ ออร์เดอร์,"เสีย, ใช้การไม่ได้",The elevator in our hotel is out of order.,ลิฟต์ในโรงแรมของเราเสีย,,,false
+3,travel-problems,3,10,road closure,noun,/ˈroʊd ˌkloʊʒər/,โรด โคลเชอร์,การปิดถนน,A road closure made us thirty minutes late.,การปิดถนนทำให้เราสายไปสามสิบนาที,,,false
+3,travel-problems,3,11,hotel shuttle,noun,/hoʊˌtɛl ˈʃʌtəl/,โฮเทล ชัทเทิล,รถรับส่งของโรงแรม,"The hotel shuttle never came, so we took a taxi.",รถรับส่งของโรงแรมไม่มาเลย เราจึงนั่งแท็กซี่,,,false
+3,travel-problems,3,12,no-show,noun,/ˌnoʊ ˈʃoʊ/,โน โชว์,การไม่มาตามที่จองไว้,"If you do not cancel, the hotel will charge a no-show fee.",ถ้าคุณไม่ยกเลิก โรงแรมจะเก็บค่าธรรมเนียมกรณีไม่มาเข้าพัก,,,false
+3,travel-problems,3,13,rental car,noun,/ˈrɛntəl ˌkɑːr/,เรนทัล คาร์,รถเช่า,Our rental car broke down on the second day.,รถเช่าของเราเสียในวันที่สอง,,🚗,false
+3,travel-problems,3,14,refundable,adjective,/rɪˈfʌndəbəl/,รีฟันดะเบิล,ขอเงินคืนได้,Book a refundable room in case your plans change.,จองห้องแบบขอเงินคืนได้ เผื่อแผนของคุณเปลี่ยน,Opposite: non-refundable,,false
+3,news,1,1,headline,noun,/ˈhɛdlaɪn/,เฮดไลน์,พาดหัวข่าว,I usually just read the headlines on my phone.,ฉันมักอ่านแค่พาดหัวข่าวในโทรศัพท์,make the headlines,,false
+3,news,1,2,article,noun,/ˈɑːrtɪkəl/,อาร์ทิเคิล,บทความ,Did you read the article about the new train line?,คุณอ่านบทความเรื่องรถไฟสายใหม่หรือยัง,,,false
+3,news,1,3,journalist,noun,/ˈdʒɜːrnəlɪst/,เจอร์นะลิสท์,"นักข่าว, ผู้สื่อข่าว",The journalist asked the minister a difficult question.,นักข่าวถามคำถามยาก ๆ กับรัฐมนตรี,Noun: journalism,,false
+3,news,1,4,reporter,noun,/rɪˈpɔːrtər/,รีพอร์เทอร์,ผู้รายงานข่าว,A TV reporter is speaking live from the flood area.,ผู้รายงานข่าวโทรทัศน์กำลังรายงานสดจากพื้นที่น้ำท่วม,,,false
+3,news,1,5,breaking news,noun,/ˌbreɪkɪŋ ˈnuːz/,เบรคกิง นิวซ์,ข่าวด่วน,The show stopped for breaking news about the earthquake.,รายการหยุดเพื่อรายงานข่าวด่วนเรื่องแผ่นดินไหว,,,false
+3,news,1,6,source,noun,/sɔːrs/,ซอร์ส,"แหล่งที่มา, แหล่งข่าว",Always check the source before you share news online.,ตรวจสอบแหล่งที่มาเสมอก่อนแชร์ข่าวออนไลน์,,,false
+3,news,1,7,press conference,noun,/ˈprɛs ˌkɑːnfərəns/,เพรส คอนเฟอเรินส์,การแถลงข่าว,The company will hold a press conference this afternoon.,บริษัทจะจัดแถลงข่าวบ่ายนี้,hold a press conference,,false
+3,news,1,8,current affairs,noun,/ˌkɜːrənt əˈfɛrz/,เคอเรินท์ อะแฟร์ซ,ข่าวสารบ้านเมือง,I listen to a current affairs podcast on my way to work.,ฉันฟังพอดแคสต์ข่าวสารบ้านเมืองระหว่างเดินทางไปทำงาน,,,false
+3,news,1,9,media,noun,/ˈmiːdiə/,มีเดีย,สื่อมวลชน,The story got a lot of attention in the media.,เรื่องนี้ได้รับความสนใจมากในสื่อ,social media,,false
+3,news,1,10,editor,noun,/ˈɛdɪtər/,เอดิเทอร์,บรรณาธิการ,The editor decides which stories go on the front page.,บรรณาธิการเป็นผู้ตัดสินใจว่าข่าวไหนจะได้ลงหน้าหนึ่ง,,,false
+3,news,1,11,broadcast,verb,/ˈbrɔːdkæst/,บรอดแคสท์,"ออกอากาศ, ถ่ายทอด",The match will be broadcast live at nine p.m.,การแข่งขันจะถ่ายทอดสดตอนสามทุ่ม,,,false
+3,news,1,12,publish,verb,/ˈpʌblɪʃ/,พับลิช,"ตีพิมพ์, เผยแพร่",The newspaper published the story on Monday.,หนังสือพิมพ์ตีพิมพ์ข่าวนี้เมื่อวันจันทร์,Noun: publication,,false
+3,news,1,13,front page,noun,/ˌfrʌnt ˈpeɪdʒ/,ฟรันท์ เพจ,หน้าหนึ่งของหนังสือพิมพ์,The flood was on the front page of every newspaper.,ข่าวน้ำท่วมอยู่บนหน้าหนึ่งของหนังสือพิมพ์ทุกฉบับ,,,false
+3,news,1,14,according to,preposition,/əˈkɔːrdɪŋ tuː/,อะคอร์ดิง ทู,"ตามที่ระบุใน, ตามที่ ... กล่าว","According to the news, the new bridge will open in May.",ตามข่าว สะพานใหม่จะเปิดในเดือนพฤษภาคม,according to the report,,false
+3,news,2,1,parliament,noun,/ˈpɑːrləmənt/,พาร์เลอเมินท์,รัฐสภา,Parliament will vote on the new law next week.,รัฐสภาจะลงมติเรื่องกฎหมายใหม่สัปดาห์หน้า,,,false
+3,news,2,2,election,noun,/ɪˈlɛkʃən/,อิเลคชัน,การเลือกตั้ง,The next general election will be held in March.,การเลือกตั้งทั่วไปครั้งถัดไปจะจัดในเดือนมีนาคม,,,false
+3,news,2,3,politician,noun,/ˌpɑːləˈtɪʃən/,พอลิทิชัน,นักการเมือง,The politician promised to build more schools.,นักการเมืองสัญญาว่าจะสร้างโรงเรียนเพิ่ม,,,false
+3,news,2,4,minister,noun,/ˈmɪnɪstər/,มินิสเตอร์,รัฐมนตรี,The health minister spoke about the new vaccine.,รัฐมนตรีว่าการกระทรวงสาธารณสุขพูดถึงวัคซีนใหม่,prime minister,,false
+3,news,2,5,citizen,noun,/ˈsɪtɪzən/,ซิทิเซิน,พลเมือง,Every citizen over eighteen can vote.,พลเมืองทุกคนที่อายุเกินสิบแปดปีมีสิทธิ์เลือกตั้ง,,,false
+3,news,2,6,law,noun,/lɔː/,ลอ,กฎหมาย,A new law bans smoking in all parks.,กฎหมายใหม่ห้ามสูบบุหรี่ในสวนสาธารณะทุกแห่ง,,,false
+3,news,2,7,protest,noun,/ˈproʊtɛst/,โพรเทสท์,การประท้วง,Thousands of people joined the protest in the city center.,ผู้คนหลายพันคนเข้าร่วมการประท้วงในใจกลางเมือง,,,false
+3,news,2,8,crime,noun,/kraɪm/,ไครม์,อาชญากรรม,Crime in this area has gone down this year.,อาชญากรรมในพื้นที่นี้ลดลงในปีนี้,commit a crime,,false
+3,news,2,9,economy,noun,/ɪˈkɑːnəmi/,อิคอเนอมี,เศรษฐกิจ,Tourism is very important to the Thai economy.,การท่องเที่ยวสำคัญมากต่อเศรษฐกิจไทย,,,false
+3,news,2,10,inflation,noun,/ɪnˈfleɪʃən/,อินเฟลชัน,ภาวะเงินเฟ้อ,Inflation has made food and fuel more expensive.,ภาวะเงินเฟ้อทำให้อาหารและน้ำมันแพงขึ้น,the inflation rate,,false
+3,news,2,11,unemployment,noun,/ˌʌnɪmˈplɔɪmənt/,อันอิมพลอยเมินท์,การว่างงาน,Unemployment rose after many factories closed.,การว่างงานเพิ่มขึ้นหลังโรงงานหลายแห่งปิดตัว,unemployment rate,,false
+3,news,2,12,population,noun,/ˌpɑːpjəˈleɪʃən/,พอพิวเลชัน,ประชากร,The population of Bangkok is more than ten million.,ประชากรของกรุงเทพฯ มีมากกว่าสิบล้านคน,a large population,,false
+3,news,2,13,community,noun,/kəˈmjuːnəti/,เคอมิวนิที,ชุมชน,The local community cleaned the canal together.,ชุมชนในท้องถิ่นช่วยกันทำความสะอาดคลอง,,,false
+3,news,2,14,debate,noun,/dɪˈbeɪt/,ดีเบท,"การอภิปราย, การโต้วาที",The candidates had a debate on TV last night.,ผู้สมัครโต้วาทีกันทางโทรทัศน์เมื่อคืน,,,false
+3,news,3,1,flash flood,noun,/ˌflæʃ ˈflʌd/,แฟลช ฟลัด,น้ำท่วมฉับพลัน,A flash flood hit the village after the heavy rain.,น้ำท่วมฉับพลันเข้าท่วมหมู่บ้านหลังฝนตกหนัก,,,false
+3,news,3,2,hurricane,noun,/ˈhɜːrəkeɪn/,เฮอริเคน,พายุเฮอริเคน,The hurricane destroyed many homes along the coast.,พายุเฮอริเคนทำลายบ้านหลายหลังตามแนวชายฝั่ง,,🌀,false
+3,news,3,3,collapse,verb,/kəˈlæps/,เคอแลพส์,พังถล่ม,An old building collapsed after the storm.,อาคารเก่าหลังหนึ่งพังถล่มหลังพายุ,,,false
+3,news,3,4,disaster,noun,/dɪˈzæstər/,ดิแซสเตอร์,ภัยพิบัติ,The government sent help to the disaster area.,รัฐบาลส่งความช่วยเหลือไปยังพื้นที่ประสบภัยพิบัติ,natural disaster,,false
+3,news,3,5,injured,adjective,/ˈɪndʒərd/,อินเจอร์ด,ได้รับบาดเจ็บ,Two people were injured in the bus crash.,มีผู้ได้รับบาดเจ็บสองคนจากอุบัติเหตุรถบัส,,,false
+3,news,3,6,rescue,verb,/ˈrɛskjuː/,เรสคิว,"ช่วยชีวิต, กู้ภัย",Firefighters rescued a family from the burning house.,นักดับเพลิงช่วยครอบครัวหนึ่งออกจากบ้านที่ไฟไหม้,rescue someone from something,,false
+3,news,3,7,victim,noun,/ˈvɪktɪm/,วิคทิม,"ผู้ประสบภัย, เหยื่อ",People donated food and clothes to the flood victims.,ผู้คนบริจาคอาหารและเสื้อผ้าให้ผู้ประสบภัยน้ำท่วม,"flood victims, crime victims",,false
+3,news,3,8,shelter,noun,/ˈʃɛltər/,เชลเทอร์,ที่พักพิง,Families stayed in a school shelter during the flood.,ครอบครัวต่าง ๆ พักอยู่ที่ศูนย์พักพิงในโรงเรียนระหว่างน้ำท่วม,take shelter,,false
+3,news,3,9,emergency services,noun,/ɪˈmɜːrdʒənsi ˌsɜːrvɪsɪz/,อิเมอร์เจินซี เซอร์วิสซิซ,หน่วยบริการฉุกเฉิน,Call the emergency services if someone is badly hurt.,โทรเรียกหน่วยบริการฉุกเฉินถ้ามีคนบาดเจ็บสาหัส,,,false
+3,news,3,10,survivor,noun,/sərˈvaɪvər/,เซอร์ไวเวอร์,ผู้รอดชีวิต,Rescue teams are still looking for survivors.,ทีมกู้ภัยยังคงค้นหาผู้รอดชีวิต,Verb: survive,,false
+3,news,3,11,climate change,noun,/ˈklaɪmət ˌtʃeɪndʒ/,ไคลเมท เชนจ์,การเปลี่ยนแปลงสภาพภูมิอากาศ,Scientists say climate change is making storms stronger.,นักวิทยาศาสตร์กล่าวว่าการเปลี่ยนแปลงสภาพภูมิอากาศทำให้พายุรุนแรงขึ้น,,,false
+3,news,3,12,heatwave,noun,/ˈhiːtweɪv/,ฮีทเวฟ,คลื่นความร้อน,Schools closed early during the heatwave.,โรงเรียนปิดเร็วขึ้นในช่วงคลื่นความร้อน,,,false
+3,news,3,13,eyewitness,noun,/ˈaɪwɪtnəs/,อายวิทเนิส,ผู้เห็นเหตุการณ์,An eyewitness told reporters what happened.,ผู้เห็นเหตุการณ์เล่าให้ผู้สื่อข่าวฟังว่าเกิดอะไรขึ้น,,,false
+3,news,3,14,pollution,noun,/pəˈluːʃən/,เพอลูชัน,มลพิษ,Air pollution is very bad in the city this month.,มลพิษทางอากาศในเมืองแย่มากในเดือนนี้,"air pollution, water pollution",,false
+3,recruitment,1,1,recruitment agency,noun,/rɪˈkruːtmənt ˌeɪdʒənsi/,รีครูทเมินท์ เอเจินซี,บริษัทจัดหางาน,I found this job through a recruitment agency.,ฉันได้งานนี้ผ่านบริษัทจัดหางาน,,,false
+3,recruitment,1,2,job posting,noun,/ˈdʒɑːb ˌpoʊstɪŋ/,จ็อบ โพสทิง,ประกาศรับสมัครงาน,I saw the job posting on the company website.,ฉันเห็นประกาศรับสมัครงานบนเว็บไซต์บริษัท,,,false
+3,recruitment,1,3,talent,noun,/ˈtælənt/,แทเลินท์,"คนเก่ง, คนมีความสามารถ",Big companies compete to find young talent.,บริษัทใหญ่แข่งกันหาคนเก่งรุ่นใหม่,,,false
+3,recruitment,1,4,job opening,noun,/ˈdʒɑːb ˌoʊpənɪŋ/,จ็อบ โอเพนนิง,ตำแหน่งงานที่เปิดรับ,There are two job openings in the finance team.,มีตำแหน่งงานเปิดรับสองตำแหน่งในทีมการเงิน,,,false
+3,recruitment,1,5,candidate,noun,/ˈkændɪdət/,แคนดิเดท,ผู้สมัครที่ได้รับการพิจารณา,We will interview three candidates on Friday.,เราจะสัมภาษณ์ผู้สมัครสามคนในวันศุกร์,a strong candidate,,false
+3,recruitment,1,6,job board,noun,/ˈdʒɑːb ˌbɔːrd/,จ็อบ บอร์ด,เว็บไซต์ประกาศหางาน,We posted the position on three job boards.,เราลงประกาศตำแหน่งนี้ในเว็บไซต์หางานสามแห่ง,,,false
+3,recruitment,1,7,competitive salary,noun,/kəmˌpɛtətɪv ˈsæləri/,เคิมเพททิทิฟ แซเลอรี,เงินเดือนที่สูงพอแข่งขันได้,We offer a competitive salary and free lunch.,เราให้เงินเดือนที่แข่งขันได้และอาหารกลางวันฟรี,,,false
+3,recruitment,1,8,work experience,noun,/ˈwɜːrk ɪkˌspɪriəns/,เวิร์ค เอ็กซ์พีเรียนส์,ประสบการณ์ทำงาน,Do you have any work experience in sales?,คุณมีประสบการณ์ทำงานด้านการขายบ้างไหม,,,false
+3,recruitment,1,9,job description,noun,/ˈdʒɑːb dɪˌskrɪpʃən/,จ็อบ ดิสคริพชัน,รายละเอียดงาน,Read the job description carefully before you apply.,อ่านรายละเอียดงานให้ละเอียดก่อนสมัคร,Abbr.: JD,,false
+3,recruitment,1,10,salary range,noun,/ˈsæləri ˌreɪndʒ/,แซเลอรี เรนจ์,ช่วงเงินเดือน,"The salary range for this position is 25,000 to 30,000 baht.","ช่วงเงินเดือนสำหรับตำแหน่งนี้คือ 25,000 ถึง 30,000 บาท",,,false
+3,recruitment,1,11,negotiable,adjective,/nɪˈɡoʊʃiəbəl/,นิโกเชียเบิล,ต่อรองได้,The salary is negotiable for people with more experience.,เงินเดือนต่อรองได้สำหรับผู้ที่มีประสบการณ์มากกว่า,,,false
+3,recruitment,1,12,benefits package,noun,/ˈbɛnɪfɪts ˌpækɪdʒ/,เบเนฟิทส์ แพคคิจ,ชุดสวัสดิการ,The benefits package includes health insurance and ten days off.,ชุดสวัสดิการรวมประกันสุขภาพและวันหยุดสิบวัน,,,false
+3,recruitment,1,13,hiring process,noun,/ˈhaɪərɪŋ ˌprɑːsɛs/,ไฮเออริง พรอเซส,ขั้นตอนการจ้างงาน,The hiring process takes about three weeks.,ขั้นตอนการจ้างงานใช้เวลาประมาณสามสัปดาห์,,,false
+3,recruitment,1,14,entry-level,adjective,/ˌɛntri ˈlɛvəl/,เอนทรี เลเวิล,ระดับเริ่มต้น,"This is an entry-level job, so no experience is needed.",นี่เป็นงานระดับเริ่มต้น จึงไม่ต้องมีประสบการณ์,an entry-level job,,false
+3,recruitment,2,1,panel interview,noun,/ˈpænəl ˌɪntərvjuː/,แพเนิล อินเทอร์วิว,การสัมภาษณ์โดยคณะกรรมการ,"In a panel interview, three managers ask you questions.",ในการสัมภาษณ์โดยคณะกรรมการ ผู้จัดการสามคนจะถามคำถามคุณ,,,false
+3,recruitment,2,2,strong point,noun,/ˌstrɔːŋ ˈpɔɪnt/,สตรอง พอยท์,จุดเด่น,Patience is one of my strong points.,ความอดทนเป็นจุดเด่นอย่างหนึ่งของฉัน,,,false
+3,recruitment,2,3,weak point,noun,/ˌwiːk ˈpɔɪnt/,วีค พอยท์,จุดด้อย,"My weak point is public speaking, but I am improving.",จุดด้อยของฉันคือการพูดในที่สาธารณะ แต่ฉันกำลังพัฒนาอยู่,,,false
+3,recruitment,2,4,soft skills,noun,/ˈsɔːft ˌskɪlz/,ซอฟท์ สคิลซ์,ทักษะด้านมนุษยสัมพันธ์และการสื่อสาร,Soft skills like listening and teamwork are very important.,ทักษะด้านมนุษยสัมพันธ์ เช่น การฟังและการทำงานเป็นทีม สำคัญมาก,,,false
+3,recruitment,2,5,track record,noun,/ˈtræk ˌrɛkərd/,แทรค เรคเคิร์ด,ผลงานที่ผ่านมา,She has a good track record in sales.,เธอมีผลงานด้านการขายที่ดีมาตลอด,a proven track record,,false
+3,recruitment,2,6,background,noun,/ˈbækɡraʊnd/,แบคกราวนด์,พื้นฐานการศึกษาหรือการทำงาน,She has a background in accounting.,เธอมีพื้นฐานด้านบัญชี,a background in something,,false
+3,recruitment,2,7,employment history,noun,/ɪmˈplɔɪmənt ˌhɪstəri/,อิมพลอยเมินท์ ฮิสเทอรี,ประวัติการทำงาน,Please list your employment history on the form.,กรุณาระบุประวัติการทำงานของคุณในแบบฟอร์ม,,,false
+3,recruitment,2,8,salary expectations,noun,/ˈsæləri ˌɛkspɛkˈteɪʃənz/,แซเลอรี เอ็กซ์เพคเทชันซ์,เงินเดือนที่คาดหวัง,What are your salary expectations for this position?,คุณคาดหวังเงินเดือนเท่าไรสำหรับตำแหน่งนี้,,,false
+3,recruitment,2,9,passionate,adjective,/ˈpæʃənət/,แพชเชอเนิท,"มีใจรัก, หลงใหล",We want someone who is passionate about good service.,เราต้องการคนที่มีใจรักงานบริการที่ดี,,,false
+3,recruitment,2,10,motivated,adjective,/ˈmoʊtɪveɪtɪd/,โมทิเวทิด,"มีแรงจูงใจ, กระตือรือร้น",We are looking for a motivated person who loves sales.,เรากำลังมองหาคนที่กระตือรือร้นและรักงานขาย,highly motivated,,false
+3,recruitment,2,11,ambitious,adjective,/æmˈbɪʃəs/,แอมบิเชิส,มีความทะเยอทะยาน,He is ambitious and wants to be a manager in five years.,เขามีความทะเยอทะยานและอยากเป็นผู้จัดการภายในห้าปี,,,false
+3,recruitment,2,12,impress,verb,/ɪmˈprɛs/,อิมเพรส,ทำให้ประทับใจ,He impressed the manager with his good ideas.,เขาทำให้ผู้จัดการประทับใจด้วยไอเดียดี ๆ,Adjective: impressive,,false
+3,recruitment,2,13,detail-oriented,adjective,/ˈdiːteɪl ˌɔːriɛntɪd/,ดีเทล โอเรียนทิด,ใส่ใจในรายละเอียด,We need a detail-oriented person to check the invoices.,เราต้องการคนที่ใส่ใจรายละเอียดมาตรวจใบแจ้งหนี้,,,false
+3,recruitment,2,14,hardworking,adjective,/ˌhɑːrdˈwɜːrkɪŋ/,ฮาร์ดเวิร์คกิง,ขยัน,My last boss said I was hardworking and honest.,หัวหน้าคนก่อนบอกว่าฉันขยันและซื่อสัตย์,,,false
+3,recruitment,3,1,offer letter,noun,/ˈɔːfər ˌlɛtər/,ออฟเฟอร์ เลทเทอร์,จดหมายเสนองาน,HR will email you an offer letter this week.,ฝ่ายบุคคลจะอีเมลจดหมายเสนองานให้คุณสัปดาห์นี้,,,false
+3,recruitment,3,2,starting salary,noun,/ˌstɑːrtɪŋ ˈsæləri/,สตาร์ททิง แซเลอรี,เงินเดือนเริ่มต้น,"The starting salary is lower, but it goes up after a year.",เงินเดือนเริ่มต้นต่ำกว่า แต่จะเพิ่มขึ้นหลังหนึ่งปี,,,false
+3,recruitment,3,3,counteroffer,noun,/ˈkaʊntərˌɔːfər/,เคาน์เทอร์ออฟเฟอร์,ข้อเสนอโต้กลับ,My boss made a counteroffer when I said I was leaving.,หัวหน้ายื่นข้อเสนอโต้กลับเมื่อฉันบอกว่าจะลาออก,,,false
+3,recruitment,3,4,induction,noun,/ɪnˈdʌkʃən/,อินดัคชัน,การปฐมนิเทศพนักงานใหม่,The induction covers safety rules and company history.,การปฐมนิเทศครอบคลุมกฎความปลอดภัยและประวัติบริษัท,"induction day, induction training",,false
+3,recruitment,3,5,employer,noun,/ɪmˈplɔɪər/,อิมพลอยเออร์,นายจ้าง,My employer pays for my English classes.,นายจ้างของฉันจ่ายค่าเรียนภาษาอังกฤษให้,,,false
+3,recruitment,3,6,company culture,noun,/ˈkʌmpəni ˌkʌltʃər/,คัมพะนี คัลเชอร์,วัฒนธรรมองค์กร,I like the friendly company culture here.,ฉันชอบวัฒนธรรมองค์กรที่เป็นกันเองที่นี่,,,false
+3,recruitment,3,7,onboarding,noun,/ˈɑːnˌbɔːrdɪŋ/,ออนบอร์ดดิง,กระบวนการรับพนักงานใหม่เข้าทำงาน,Onboarding for new employees takes two days.,กระบวนการรับพนักงานใหม่ใช้เวลาสองวัน,Verb: onboard a new hire,,false
+3,recruitment,3,8,lay off,phrasal verb,/ˌleɪ ˈɔːf/,เล ออฟ,เลิกจ้าง,The factory had to lay off fifty workers last year.,โรงงานต้องเลิกจ้างคนงานห้าสิบคนเมื่อปีที่แล้ว,Noun: layoff,,false
+3,recruitment,3,9,notice period,noun,/ˈnoʊtɪs ˌpɪriəd/,โนทิส พีเรียด,ระยะเวลาแจ้งลาออกล่วงหน้า,"My notice period is one month, so I can start in June.",ฉันต้องแจ้งลาออกล่วงหน้าหนึ่งเดือน จึงเริ่มงานได้ในเดือนมิถุนายน,,,false
+3,recruitment,3,10,exit interview,noun,/ˈɛɡzɪt ˌɪntərvjuː/,เอ็กซิท อินเทอร์วิว,การสัมภาษณ์ก่อนลาออก,HR asked me why I was leaving in my exit interview.,ฝ่ายบุคคลถามเหตุผลที่ฉันลาออกในการสัมภาษณ์ก่อนออก,,,false
+3,recruitment,3,11,permanent,adjective,/ˈpɜːrmənənt/,เพอร์มะเนินท์,"ประจำ, ถาวร","After the trial period, she got a permanent position.",หลังผ่านการทดลองงาน เธอได้เป็นพนักงานประจำ,,,false
+3,recruitment,3,12,temporary,adjective,/ˈtɛmpərɛri/,เทมเพอเรรี,ชั่วคราว,We need temporary staff for the busy season.,เราต้องการพนักงานชั่วคราวสำหรับช่วงที่งานยุ่ง,,,false
+3,recruitment,3,13,recruit,verb,/rɪˈkruːt/,รีครูท,"สรรหา, รับคนเข้าทำงาน",The hotel is recruiting staff for its new branch.,โรงแรมกำลังรับสมัครพนักงานสำหรับสาขาใหม่,Noun: recruitment,,false
+3,recruitment,3,14,appoint,verb,/əˈpɔɪnt/,อะพอยท์,แต่งตั้ง,The company appointed a new sales director in May.,บริษัทแต่งตั้งผู้อำนวยการฝ่ายขายคนใหม่ในเดือนพฤษภาคม,Noun: appointment,,false
+3,teamwork,1,1,cooperate,verb,/koʊˈɑːpəreɪt/,โคออเพอเรท,ร่วมมือ,The two departments need to cooperate on this order.,สองแผนกต้องร่วมมือกันในคำสั่งซื้อนี้,cooperate with someone,,false
+3,teamwork,1,2,collaborate,verb,/kəˈlæbəreɪt/,เคอแลบอเรท,ทำงานร่วมกัน,Our team collaborates with designers in Singapore.,ทีมของเราทำงานร่วมกับนักออกแบบในสิงคโปร์,collaborate with someone on something,,false
+3,teamwork,1,3,team member,noun,/ˈtiːm ˌmɛmbər/,ทีม เมมเบอร์,สมาชิกในทีม,Each team member has a different job this week.,สมาชิกในทีมแต่ละคนมีงานต่างกันในสัปดาห์นี้,,,false
+3,teamwork,1,4,teammate,noun,/ˈtiːmmeɪt/,ทีมเมท,เพื่อนร่วมทีม,My teammate helped me finish the report on time.,เพื่อนร่วมทีมช่วยให้ฉันทำรายงานเสร็จทันเวลา,,,false
+3,teamwork,1,5,pitch in,phrasal verb,/ˌpɪtʃ ˈɪn/,พิทช์ อิน,ช่วยกันลงแรง,"If everyone can pitch in, we will finish today.",ถ้าทุกคนช่วยกันลงแรง เราจะเสร็จภายในวันนี้,,,false
+3,teamwork,1,6,rely on,phrasal verb,/rɪˈlaɪ ɑːn/,รีลาย ออน,"พึ่งพา, ไว้ใจ",You can always rely on Nok to finish her work.,คุณไว้ใจได้เสมอว่านกจะทำงานของเธอเสร็จ,,,false
+3,teamwork,1,7,team player,noun,/ˌtiːm ˈpleɪər/,ทีม เพลเยอร์,คนที่ทำงานเป็นทีมได้ดี,Somchai is a real team player who always helps others.,สมชายเป็นคนที่ทำงานเป็นทีมได้ดีและช่วยคนอื่นเสมอ,,,false
+3,teamwork,1,8,work closely,phrase,/ˌwɜːrk ˈkloʊsli/,เวิร์ค โคลสลี,ทำงานใกล้ชิด,Our team will work closely with the warehouse staff.,ทีมของเราทำงานใกล้ชิดกับพนักงานคลังสินค้า,work closely with someone,,false
+3,teamwork,1,9,leadership,noun,/ˈliːdərʃɪp/,ลีดเดอร์ชิพ,ภาวะผู้นำ,She showed good leadership during the busy season.,เธอแสดงภาวะผู้นำที่ดีในช่วงที่งานยุ่ง,,,false
+3,teamwork,1,10,communicate,verb,/kəˈmjuːnɪkeɪt/,เคอมิวนิเคท,สื่อสาร,We communicate by group chat and short meetings.,เราสื่อสารกันผ่านแชตกลุ่มและการประชุมสั้น ๆ,Noun: communication,,false
+3,teamwork,1,11,team spirit,noun,/ˌtiːm ˈspɪrɪt/,ทีม สปิริท,ความสามัคคีในทีม,The company trip helped build team spirit.,การไปเที่ยวกับบริษัทช่วยสร้างความสามัคคีในทีม,,,false
+3,teamwork,1,12,lend a hand,idiom,/ˌlɛnd ə ˈhænd/,เลนด์ อะ แฮนด์,ช่วยเหลือ,Can you lend a hand at the front desk this afternoon?,บ่ายนี้คุณช่วยงานที่เคาน์เตอร์ต้อนรับได้ไหม,,,false
+3,teamwork,1,13,on the same page,idiom,/ɑːn ðə ˌseɪm ˈpeɪdʒ/,ออน เธอะ เซม เพจ,เข้าใจตรงกัน,Let's check that we are all on the same page.,มาตรวจสอบกันว่าเราทุกคนเข้าใจตรงกัน,,,false
+3,teamwork,1,14,cover for,phrasal verb,/ˈkʌvər fɔːr/,คัฟเวอร์ ฟอร์,ทำงานแทน (ชั่วคราว),Can you cover for me while I am at the dentist?,คุณช่วยทำงานแทนฉันตอนที่ฉันไปหาหมอฟันได้ไหม,cover for a colleague,,false
+3,teamwork,2,1,show of hands,noun,/ˌʃoʊ əv ˈhændz/,โชว์ ออฟ แฮนด์ซ์,การยกมือลงคะแนน,Let's decide by a show of hands.,มาตัดสินใจด้วยการยกมือกันเถอะ,,,false
+3,teamwork,2,2,final say,noun,/ˌfaɪnəl ˈseɪ/,ไฟเนิล เซ,สิทธิ์ตัดสินใจขั้นสุดท้าย,The manager has the final say on the budget.,ผู้จัดการมีสิทธิ์ตัดสินใจขั้นสุดท้ายเรื่องงบประมาณ,have the final say,,false
+3,teamwork,2,3,point of view,noun,/ˌpɔɪnt əv ˈvjuː/,พอยท์ ออฟ วิว,มุมมอง,"I understand your point of view, but I disagree.",ฉันเข้าใจมุมมองของคุณ แต่ไม่เห็นด้วย,,,false
+3,teamwork,2,4,suggestion,noun,/səɡˈdʒɛstʃən/,เซินเจสชัน,ข้อเสนอแนะ,Thank you for your suggestion about the new schedule.,ขอบคุณสำหรับข้อเสนอแนะเรื่องตารางงานใหม่,make a suggestion,,false
+3,teamwork,2,5,majority,noun,/məˈdʒɔːrəti/,มะจอริที,"เสียงส่วนใหญ่, คนส่วนใหญ่",The majority of the team voted for Friday.,คนส่วนใหญ่ในทีมโหวตเลือกวันศุกร์,,,false
+3,teamwork,2,6,input,noun,/ˈɪnpʊt/,อินพุท,ความคิดเห็นที่ให้มา,We need your input before we make a decision.,เราต้องการความคิดเห็นของคุณก่อนตัดสินใจ,,,false
+3,teamwork,2,7,bring up,phrasal verb,/ˌbrɪŋ ˈʌp/,บริง อัพ,ยกขึ้นมาพูด,I want to bring up the parking problem at the meeting.,ฉันอยากยกเรื่องปัญหาที่จอดรถขึ้นมาพูดในที่ประชุม,bring up a topic,,false
+3,teamwork,2,8,misunderstand,verb,/ˌmɪsʌndərˈstænd/,มิสอันเดอร์สแตนด์,เข้าใจผิด,"Sorry, I think I misunderstand your idea.",ขอโทษ ฉันคิดว่าฉันเข้าใจไอเดียของคุณผิด,,,false
+3,teamwork,2,9,go with,phrasal verb,/ˈɡoʊ wɪð/,โก วิธ,เลือก (ตัวเลือกหนึ่ง),Let's go with the cheaper option this time.,ครั้งนี้เราเลือกตัวเลือกที่ถูกกว่ากันเถอะ,,,false
+3,teamwork,2,10,pros and cons,noun,/ˌproʊz ən ˈkɑːnz/,โพรซ แอน คอนซ์,ข้อดีและข้อเสีย,Let's list the pros and cons of each idea.,มาเขียนข้อดีและข้อเสียของแต่ละไอเดียกัน,,,false
+3,teamwork,2,11,unanimous,adjective,/juˈnænɪməs/,ยูแนนิมัส,เป็นเอกฉันท์,"The decision was unanimous, and everyone was happy.",การตัดสินใจเป็นเอกฉันท์ และทุกคนพอใจ,,,false
+3,teamwork,2,12,go along with,phrasal verb,/ˌɡoʊ əˈlɔːŋ wɪð/,โก อะลอง วิธ,"ยอมตาม, เห็นด้วยกับ",I will go along with the group's decision.,ฉันจะยอมตามการตัดสินใจของกลุ่ม,,,false
+3,teamwork,2,13,take turns,phrase,/ˌteɪk ˈtɜːrnz/,เทค เทิร์นซ์,ผลัดกัน,We take turns leading the morning meeting.,เราผลัดกันเป็นผู้นำการประชุมตอนเช้า,,,false
+3,teamwork,2,14,involve,verb,/ɪnˈvɑːlv/,อินวอลฟ์,ให้มีส่วนร่วม,Try to involve everyone in the discussion.,พยายามให้ทุกคนมีส่วนร่วมในการพูดคุย,involve someone in something,,false
+3,teamwork,3,1,conflict,noun,/ˈkɑːnflɪkt/,คอนฟลิคท์,ความขัดแย้ง,There is a conflict between the sales and design teams.,มีความขัดแย้งระหว่างทีมขายกับทีมออกแบบ,a conflict between two groups,,false
+3,teamwork,3,2,fall out,phrasal verb,/ˌfɔːl ˈaʊt/,ฟอล เอาท์,ทะเลาะจนผิดใจกัน,Try not to fall out with coworkers over small things.,พยายามอย่าผิดใจกับเพื่อนร่วมงานเพราะเรื่องเล็กน้อย,fall out with someone,,false
+3,teamwork,3,3,blame,verb,/bleɪm/,เบลม,"โทษ, กล่าวโทษ",Don't blame others for your own mistakes.,อย่าโทษคนอื่นสำหรับความผิดพลาดของตัวเอง,blame someone for something,,false
+3,teamwork,3,4,criticize,verb,/ˈkrɪtɪsaɪz/,คริทิไซซ์,"วิจารณ์, ติ",He criticized my report in front of everyone.,เขาติรายงานของฉันต่อหน้าทุกคน,Noun: criticism. UK: criticise,,false
+3,teamwork,3,5,tension,noun,/ˈtɛnʃən/,เทนชัน,ความตึงเครียด,You could feel the tension in the meeting room.,คุณรู้สึกได้ถึงความตึงเครียดในห้องประชุม,tension between people,,false
+3,teamwork,3,6,work things out,phrase,/ˌwɜːrk ˌθɪŋz ˈaʊt/,เวิร์ค ธิงซ์ เอาท์,คุยกันจนหาทางออกได้,They need to sit down and work things out.,พวกเขาต้องนั่งลงคุยกันเพื่อหาทางออก,,,false
+3,teamwork,3,7,spread rumors,phrase,/ˌsprɛd ˈruːmərz/,สเปรด รูเมอร์ซ,ปล่อยข่าวลือ,Please do not spread rumors about the new manager.,กรุณาอย่าปล่อยข่าวลือเกี่ยวกับผู้จัดการคนใหม่,,,false
+3,teamwork,3,8,unfair,adjective,/ʌnˈfɛr/,อันแฟร์,ไม่ยุติธรรม,It is unfair that only two people do all the work.,ไม่ยุติธรรมเลยที่มีแค่สองคนทำงานทั้งหมด,,,false
+3,teamwork,3,9,uncooperative,adjective,/ˌʌnkoʊˈɑːpərətɪv/,อันโคออพเพอเรทิฟ,ไม่ให้ความร่วมมือ,One uncooperative member can slow down the whole team.,สมาชิกที่ไม่ให้ความร่วมมือคนเดียวทำให้ทั้งทีมช้าลงได้,,,false
+3,teamwork,3,10,get along with,phrasal verb,/ɡɛt əˈlɔːŋ wɪð/,เก็ท อะลอง วิธ,เข้ากันได้ดีกับ,I get along with everyone in my department.,ฉันเข้ากับทุกคนในแผนกได้ดี,,,false
+3,teamwork,3,11,take sides,phrase,/ˌteɪk ˈsaɪdz/,เทค ไซด์ซ,เข้าข้าง,A good manager does not take sides in an argument.,ผู้จัดการที่ดีไม่เข้าข้างฝ่ายใดเมื่อมีการโต้เถียง,,,false
+3,teamwork,3,12,encourage,verb,/ɪnˈkɜːrɪdʒ/,อินเคอริจ,"สนับสนุน, ให้กำลังใจ",Good managers encourage their staff to share ideas.,ผู้จัดการที่ดีสนับสนุนให้พนักงานแสดงความคิดเห็น,,,false
+3,teamwork,3,13,attitude,noun,/ˈætɪtuːd/,แอททิทูด,ทัศนคติ,A positive attitude makes teamwork easier.,ทัศนคติเชิงบวกทำให้การทำงานเป็นทีมง่ายขึ้น,a positive attitude,,false
+3,teamwork,3,14,take credit,phrase,/ˌteɪk ˈkrɛdɪt/,เทค เครดิท,เอาความดีความชอบ,He tried to take credit for my idea.,เขาพยายามเอาความดีความชอบจากไอเดียของฉัน,take credit for something,,false
+3,projects,1,1,objective,noun,/əbˈdʒɛktɪv/,อับเจคทิฟ,วัตถุประสงค์,The main objective is to cut costs by ten percent.,วัตถุประสงค์หลักคือลดต้นทุนลงสิบเปอร์เซ็นต์,,,false
+3,projects,1,2,scope,noun,/skoʊp/,สโคป,ขอบเขต,The scope of the project does not include the website.,ขอบเขตของโครงการไม่รวมเว็บไซต์,the scope of the project,,false
+3,projects,1,3,timeline,noun,/ˈtaɪmlaɪn/,ไทม์ไลน์,"ลำดับเวลา, กรอบเวลา",We made a timeline for the next six months.,เราทำกรอบเวลาสำหรับหกเดือนข้างหน้า,set a timeline,,false
+3,projects,1,4,milestone,noun,/ˈmaɪlstoʊn/,ไมล์สโตน,หมุดหมายสำคัญ,Finishing the first design is an important milestone.,การออกแบบชิ้นแรกเสร็จเป็นหมุดหมายสำคัญ,,,false
+3,projects,1,5,phase,noun,/feɪz/,เฟส,"ระยะ, ช่วง",The first phase of the project ends in May.,ระยะแรกของโครงการสิ้นสุดในเดือนพฤษภาคม,,,false
+3,projects,1,6,resource,noun,/ˈriːsɔːrs/,รีซอร์ส,ทรัพยากร (คน เงิน เวลา),We don't have enough resources to start two projects.,เรามีทรัพยากรไม่พอที่จะเริ่มสองโครงการ,,,false
+3,projects,1,7,assign,verb,/əˈsaɪn/,อะไซน์,มอบหมาย,The manager assigned each task to a different person.,ผู้จัดการมอบหมายแต่ละงานให้คนละคน,assign a task to someone,,false
+3,projects,1,8,stakeholder,noun,/ˈsteɪkˌhoʊldər/,สเตคโฮลเดอร์,ผู้มีส่วนได้ส่วนเสีย,We will share the plan with all stakeholders.,เราจะแชร์แผนกับผู้มีส่วนได้ส่วนเสียทุกฝ่าย,,,false
+3,projects,1,9,proposal,noun,/prəˈpoʊzəl/,เพรอโพเซิล,ข้อเสนอ,She wrote a proposal for a new staff app.,เธอเขียนข้อเสนอสำหรับแอปพนักงานตัวใหม่,Verb: propose,,false
+3,projects,1,10,kick off,phrasal verb,/ˌkɪk ˈɔːf/,คิค ออฟ,เริ่มต้น (โครงการ การประชุม),We will kick off the project with a team meeting.,เราจะเริ่มโครงการด้วยการประชุมทีม,Noun: kickoff,,false
+3,projects,1,11,project manager,noun,/ˈprɑːdʒɛkt ˌmænɪdʒər/,พรอเจคท์ แมเนเจอร์,ผู้จัดการโครงการ,The project manager checks our progress every week.,ผู้จัดการโครงการตรวจความคืบหน้าของเราทุกสัปดาห์,,,false
+3,projects,1,12,outline,noun,/ˈaʊtlaɪn/,เอาท์ไลน์,โครงร่าง,Please send me a short outline of your plan.,กรุณาส่งโครงร่างแผนของคุณสั้น ๆ มาให้ฉัน,,,false
+3,projects,1,13,launch date,noun,/ˈlɔːntʃ ˌdeɪt/,ลอนช์ เดท,วันเปิดตัว,The launch date for the new app is 1 October.,วันเปิดตัวแอปใหม่คือวันที่ 1 ตุลาคม,,,false
+3,projects,1,14,draw up,phrasal verb,/ˌdrɔː ˈʌp/,ดรอ อัพ,ร่าง (แผน เอกสาร),Let's draw up a plan for the new office.,มาร่างแผนสำหรับสำนักงานใหม่กันเถอะ,,,false
+3,projects,2,1,carry out,phrasal verb,/ˌkæri ˈaʊt/,แครี เอาท์,ดำเนินการ,The team will carry out a customer survey next month.,ทีมจะดำเนินการสำรวจลูกค้าเดือนหน้า,,,false
+3,projects,2,2,behind schedule,phrase,/bɪˌhaɪnd ˈskɛdʒuːl/,บิไฮนด์ สเกจูล,ล่าช้ากว่ากำหนด,The project is two weeks behind schedule.,โครงการล่าช้ากว่ากำหนดสองสัปดาห์,,,false
+3,projects,2,3,ahead of schedule,phrase,/əˌhɛd əv ˈskɛdʒuːl/,อะเฮด ออฟ สเกจูล,เร็วกว่ากำหนด,We finished the testing ahead of schedule.,เราทดสอบเสร็จเร็วกว่ากำหนด,,,false
+3,projects,2,4,in progress,phrase,/ɪn ˈprɑːɡrɛs/,อิน พรอเกรส,กำลังดำเนินการ,The new website is still in progress.,เว็บไซต์ใหม่ยังอยู่ระหว่างดำเนินการ,,,false
+3,projects,2,5,coordinate,verb,/koʊˈɔːrdɪneɪt/,โคออร์ดิเนท,ประสานงาน,Nok coordinates the work between the three teams.,นกประสานงานระหว่างสามทีม,Noun: coordination,,false
+3,projects,2,6,implement,verb,/ˈɪmplɪmɛnt/,อิมพลิเมนท์,"นำไปใช้, ดำเนินการตามแผน",We will implement the new system in April.,เราจะเริ่มใช้ระบบใหม่ในเดือนเมษายน,,,false
+3,projects,2,7,keep track of,phrase,/ˌkiːp ˈtræk əv/,คีพ แทรค ออฟ,"ติดตาม, คอยตรวจดู",I use a spreadsheet to keep track of every task.,ฉันใช้สเปรดชีตติดตามทุกงาน,,,false
+3,projects,2,8,deliverable,noun,/dɪˈlɪvərəbəl/,ดิลิฟเวอระเบิล,ผลงานที่ต้องส่งมอบ,The main deliverable is a full report for the client.,ผลงานหลักที่ต้องส่งมอบคือรายงานฉบับเต็มให้ลูกค้า,,,false
+3,projects,2,9,workflow,noun,/ˈwɜːrkfloʊ/,เวิร์คโฟลว์,ลำดับขั้นตอนการทำงาน,The new workflow saves us two hours a day.,ขั้นตอนการทำงานแบบใหม่ช่วยให้เราประหยัดเวลาวันละสองชั่วโมง,improve the workflow,,false
+3,projects,2,10,revise,verb,/rɪˈvaɪz/,รีไวซ์,"แก้ไข, ปรับปรุง",Please revise the plan and send it back by Friday.,กรุณาแก้ไขแผนและส่งกลับมาภายในวันศุกร์,,,false
+3,projects,2,11,status update,noun,/ˈsteɪtəs ˌʌpdeɪt/,สเตทัส อัพเดท,การแจ้งสถานะความคืบหน้า,Please give a short status update at the start of the meeting.,กรุณาแจ้งความคืบหน้าสั้น ๆ ตอนเริ่มประชุม,,,false
+3,projects,2,12,progress report,noun,/ˈprɑːɡrɛs rɪˌpɔːrt/,พรอเกรส รีพอร์ท,รายงานความคืบหน้า,I send a progress report to my boss every Friday.,ฉันส่งรายงานความคืบหน้าให้หัวหน้าทุกวันศุกร์,,,false
+3,projects,2,13,prioritize,verb,/praɪˈɔːrətaɪz/,ไพรออริไทซ์,จัดลำดับความสำคัญ,We need to prioritize the most urgent tasks.,เราต้องจัดลำดับความสำคัญให้งานที่เร่งด่วนที่สุด,Noun: priority. UK: prioritise,,false
+3,projects,2,14,fall behind,phrasal verb,/ˌfɔːl bɪˈhaɪnd/,ฟอล บิไฮนด์,"ล่าช้า, ตามไม่ทัน","If we fall behind, the client will be unhappy.",ถ้างานของเราล่าช้า ลูกค้าจะไม่พอใจ,,,false
+3,projects,3,1,bottleneck,noun,/ˈbɑːtəlnɛk/,บอทเทิลเนค,จุดคอขวด,The approval step is a bottleneck in our process.,ขั้นตอนการอนุมัติเป็นจุดคอขวดในกระบวนการของเรา,,,false
+3,projects,3,2,obstacle,noun,/ˈɑːbstəkəl/,ออบสตะเคิล,อุปสรรค,The biggest obstacle is the lack of staff.,อุปสรรคใหญ่ที่สุดคือการขาดพนักงาน,overcome an obstacle,,false
+3,projects,3,3,setback,noun,/ˈsɛtbæk/,เซ็ทแบค,ปัญหาที่ทำให้งานสะดุด,The bad weather was a small setback for the building project.,สภาพอากาศที่แย่ทำให้โครงการก่อสร้างสะดุดเล็กน้อย,,,false
+3,projects,3,4,go over budget,phrase,/ˌɡoʊ ˌoʊvər ˈbʌdʒɪt/,โก โอเวอร์ บัดเจ็ท,ใช้งบประมาณเกิน,Projects often go over budget when plans change.,โครงการมักใช้งบเกินเมื่อแผนเปลี่ยน,,,false
+3,projects,3,5,workaround,noun,/ˈwɜːrkəraʊnd/,เวิร์คอะราวนด์,ทางแก้ชั่วคราว,We found a workaround until the system is fixed.,เราหาทางแก้ชั่วคราวได้จนกว่าระบบจะได้รับการแก้ไข,find a workaround,,false
+3,projects,3,6,evaluate,verb,/ɪˈvæljueɪt/,อิแวลยูเอท,ประเมิน,"After each project, we evaluate what went well.",หลังจบแต่ละโครงการ เราประเมินว่าอะไรทำได้ดี,,,false
+3,projects,3,7,accomplish,verb,/əˈkɑːmplɪʃ/,อะคอมพลิช,ทำได้สำเร็จ,We accomplished all our goals this quarter.,เราทำเป้าหมายทั้งหมดในไตรมาสนี้ได้สำเร็จ,,,false
+3,projects,3,8,successful,adjective,/səkˈsɛsfəl/,เซิคเซสเฟิล,ประสบความสำเร็จ,The product launch was very successful.,การเปิดตัวสินค้าประสบความสำเร็จอย่างมาก,,,false
+3,projects,3,9,failure,noun,/ˈfeɪljər/,เฟลเลียร์,ความล้มเหลว,We learned a lot from the failure of the first plan.,เราได้เรียนรู้มากจากความล้มเหลวของแผนแรก,,,false
+3,projects,3,10,lessons learned,noun,/ˌlɛsənz ˈlɜːrnd/,เลสเซินซ์ เลิร์นด์,บทเรียนที่ได้รับ,We wrote a list of lessons learned at the end of the project.,เราเขียนรายการบทเรียนที่ได้รับเมื่อจบโครงการ,,,false
+3,projects,3,11,final report,noun,/ˌfaɪnəl rɪˈpɔːrt/,ไฟเนิล รีพอร์ท,รายงานฉบับสุดท้าย,The final report is due at the end of June.,รายงานฉบับสุดท้ายต้องส่งปลายเดือนมิถุนายน,,,false
+3,projects,3,12,put on hold,phrase,/ˌpʊt ɑːn ˈhoʊld/,พุท ออน โฮลด์,"พักไว้ก่อน, ระงับชั่วคราว","Because of the budget cut, we must put on hold two projects.",เพราะงบประมาณถูกตัด เราจึงต้องพักสองโครงการไว้ก่อน,,,false
+3,projects,3,13,backup plan,noun,/ˈbækʌp ˌplæn/,แบคอัพ แพลน,แผนสำรอง,We need a backup plan in case the supplier is late.,เราต้องมีแผนสำรองเผื่อซัพพลายเออร์ส่งของช้า,,,false
+3,projects,3,14,underestimate,verb,/ˌʌndərˈɛstɪmeɪt/,อันเดอร์เอสทิเมท,ประเมินต่ำเกินไป,We underestimated how long the testing would take.,เราประเมินเวลาที่ต้องใช้ทดสอบต่ำเกินไป,Opposite: overestimate,,false
+3,presentations,1,1,slide deck,noun,/ˈslaɪd ˌdɛk/,สไลด์ เด็ค,ชุดสไลด์,Please email me the slide deck before the meeting.,กรุณาอีเมลชุดสไลด์มาให้ฉันก่อนการประชุม,,,false
+3,presentations,1,2,rehearse,verb,/rɪˈhɜːrs/,รีเฮิร์ส,ซ้อม,I rehearsed my talk twice the night before.,ฉันซ้อมการพูดสองรอบในคืนก่อนหน้า,Noun: rehearsal,,false
+3,presentations,1,3,visual aid,noun,/ˌvɪʒuəl ˈeɪd/,วิชชวล เอด,สื่อประกอบการนำเสนอ,Pictures and videos are useful visual aids.,รูปภาพและวิดีโอเป็นสื่อประกอบที่มีประโยชน์,,,false
+3,presentations,1,4,chart,noun,/tʃɑːrt/,ชาร์ท,แผนภูมิ,This chart shows our sales for each month.,แผนภูมินี้แสดงยอดขายของเราแต่ละเดือน,"bar chart, pie chart",📊,false
+3,presentations,1,5,graph,noun,/ɡræf/,แกรฟ,กราฟ,The line graph shows a big rise in March.,กราฟเส้นแสดงการเพิ่มขึ้นมากในเดือนมีนาคม,,📈,false
+3,presentations,1,6,bullet point,noun,/ˈbʊlɪt ˌpɔɪnt/,บุลลิท พอยท์,หัวข้อย่อย,Use three or four bullet points on each slide.,ใช้หัวข้อย่อยสามหรือสี่ข้อในแต่ละสไลด์,,,false
+3,presentations,1,7,key message,noun,/ˌkiː ˈmɛsɪdʒ/,คี เมสสิจ,ใจความสำคัญที่ต้องการสื่อ,What is the key message you want people to remember?,ใจความสำคัญที่คุณอยากให้คนจำได้คืออะไร,,,false
+3,presentations,1,8,script,noun,/skrɪpt/,สคริพท์,บทพูด,Don't read from your script all the time.,อย่าอ่านบทพูดตลอดเวลา,,,false
+3,presentations,1,9,structure,noun,/ˈstrʌktʃər/,สตรัคเชอร์,โครงสร้าง,A clear structure makes your talk easy to follow.,โครงสร้างที่ชัดเจนทำให้ผู้ฟังติดตามได้ง่าย,,,false
+3,presentations,1,10,introduction,noun,/ˌɪntrəˈdʌkʃən/,อินโทรดัคชัน,"บทนำ, ช่วงเปิด",Keep the introduction short and interesting.,ทำช่วงเปิดให้สั้นและน่าสนใจ,,,false
+3,presentations,1,11,main point,noun,/ˌmeɪn ˈpɔɪnt/,เมน พอยท์,ประเด็นหลัก,My talk today has three main points.,การพูดของฉันวันนี้มีประเด็นหลักสามข้อ,,,false
+3,presentations,1,12,template,noun,/ˈtɛmplət/,เทมเพลท,แม่แบบ,Please use the company template for all slides.,กรุณาใช้แม่แบบของบริษัทสำหรับทุกสไลด์,,,false
+3,presentations,1,13,time limit,noun,/ˈtaɪm ˌlɪmɪt/,ไทม์ ลิมิท,เวลาที่จำกัด,There is a ten-minute time limit for each speaker.,ผู้พูดแต่ละคนมีเวลาจำกัดสิบนาที,,,false
+3,presentations,1,14,statistics,noun,/stəˈtɪstɪks/,สเตอทิสทิคส์,สถิติ,The statistics show that more customers shop online.,สถิติแสดงว่าลูกค้าซื้อของออนไลน์มากขึ้น,,,false
+3,presentations,2,1,project your voice,phrase,/prəˌdʒɛkt jər ˈvɔɪs/,เพรอเจคท์ ยัวร์ วอยซ์,พูดเสียงดังฟังชัด,"In a big room, you need to project your voice.",ในห้องใหญ่ คุณต้องพูดเสียงดังฟังชัด,,,false
+3,presentations,2,2,gesture,noun,/ˈdʒɛstʃər/,เจสเชอร์,ท่าทางประกอบ,Use simple hand gestures to show your points.,ใช้ท่าทางมือง่าย ๆ ประกอบประเด็นของคุณ,,,false
+3,presentations,2,3,stage fright,noun,/ˈsteɪdʒ ˌfraɪt/,สเตจ ไฟรท์,อาการประหม่าเมื่อต้องขึ้นพูด,Deep breathing can help with stage fright.,การหายใจลึก ๆ ช่วยลดอาการประหม่าได้,,,false
+3,presentations,2,4,emphasize,verb,/ˈɛmfəsaɪz/,เอมฟะไซซ์,เน้นย้ำ,I want to emphasize that safety comes first.,ฉันขอเน้นย้ำว่าความปลอดภัยต้องมาก่อน,UK: emphasise,,false
+3,presentations,2,5,refer to,phrasal verb,/rɪˈfɜːr tuː/,รีเฟอร์ ทู,"ดู, อ้างถึง",Please refer to page five of the handout.,กรุณาดูหน้าห้าในเอกสารประกอบ,,,false
+3,presentations,2,6,highlight,verb,/ˈhaɪlaɪt/,ไฮไลท์,เน้นให้เห็นชัด,This slide highlights our three best products.,สไลด์นี้เน้นให้เห็นสินค้าที่ดีที่สุดสามตัวของเรา,,,false
+3,presentations,2,7,slow down,phrasal verb,/ˌsloʊ ˈdaʊn/,สโลว์ ดาวน์,พูดช้าลง,Slow down when you explain the important numbers.,พูดให้ช้าลงเวลาอธิบายตัวเลขสำคัญ,,,false
+3,presentations,2,8,move on,phrasal verb,/ˌmuːv ˈɑːn/,มูฟ ออน,ไปต่อที่หัวข้อถัดไป,Now let's move on to the next topic.,ตอนนี้ไปต่อที่หัวข้อถัดไปกันเลย,move on to,,false
+3,presentations,2,9,recap,verb,/ˈriːkæp/,รีแคพ,สรุปทบทวน,Let me recap the three main points.,ขอสรุปทบทวนประเด็นหลักสามข้อ,,,false
+3,presentations,2,10,as you can see,phrase,/æz juː kən ˈsiː/,แอส ยู แคน ซี,อย่างที่คุณเห็น,"As you can see, sales went up in the second quarter.",อย่างที่คุณเห็น ยอดขายเพิ่มขึ้นในไตรมาสที่สอง,,,false
+3,presentations,2,11,to sum up,phrase,/tə ˌsʌm ˈʌp/,ทู ซัม อัพ,โดยสรุป,"To sum up, the new system saves time and money.",โดยสรุป ระบบใหม่ช่วยประหยัดเวลาและเงิน,,,false
+3,presentations,2,12,to begin with,phrase,/tə bɪˈɡɪn wɪð/,ทู บิกิน วิธ,"อันดับแรก, เริ่มแรก","To begin with, I will talk about our goals.",อันดับแรก ฉันจะพูดถึงเป้าหมายของเรา,,,false
+3,presentations,2,13,body language,noun,/ˈbɑːdi ˌlæŋɡwɪdʒ/,บอดี แลงกวิจ,ภาษากาย,Good body language helps you look confident.,ภาษากายที่ดีช่วยให้คุณดูมั่นใจ,,,false
+3,presentations,2,14,illustrate,verb,/ˈɪləstreɪt/,อิลลัสเตรท,อธิบายให้เห็นภาพ,Let me illustrate this point with a short story.,ขอให้ฉันอธิบายประเด็นนี้ให้เห็นภาพด้วยเรื่องเล่าสั้น ๆ,illustrate a point,,false
+3,presentations,3,1,Q&A session,noun,/ˌkjuː ən ˈeɪ ˌsɛʃən/,คิว แอนด์ เอ เซสชัน,ช่วงถามตอบ,There will be a Q&A session after the talk.,จะมีช่วงถามตอบหลังการบรรยาย,Q&A means questions and answers.,,false
+3,presentations,3,2,insightful,adjective,/ˈɪnsaɪtfəl/,อินไซท์เฟิล,มีมุมมองลึกซึ้ง,Thank you for that insightful question.,ขอบคุณสำหรับคำถามที่มีมุมมองลึกซึ้ง,an insightful comment,,false
+3,presentations,3,3,follow-up question,noun,/ˈfɑːloʊ ʌp ˌkwɛstʃən/,ฟอลโล อัพ เควสชัน,คำถามต่อเนื่อง,Can I ask a follow-up question about the price?,ขอถามคำถามต่อเนื่องเรื่องราคาได้ไหม,,,false
+3,presentations,3,4,elaborate,verb,/ɪˈlæbəreɪt/,อิแลบอเรท,อธิบายเพิ่มเติม,Could you elaborate on the second point?,ช่วยอธิบายประเด็นที่สองเพิ่มเติมได้ไหม,elaborate on,,false
+3,presentations,3,5,good question,phrase,/ˌɡʊd ˈkwɛstʃən/,กุด เควสชัน,คำถามที่ดี,"That's a good question, and I'm glad you asked.",นั่นเป็นคำถามที่ดี และฉันดีใจที่คุณถาม,,,false
+3,presentations,3,6,relevant,adjective,/ˈrɛləvənt/,เรเลเวินท์,เกี่ยวข้อง,Only include information that is relevant to the audience.,ใส่เฉพาะข้อมูลที่เกี่ยวข้องกับผู้ฟัง,Opposite: irrelevant,,false
+3,presentations,3,7,convincing,adjective,/kənˈvɪnsɪŋ/,เคินวินซิง,"น่าเชื่อถือ, โน้มน้าวได้",His argument was clear and convincing.,ข้อโต้แย้งของเขาชัดเจนและน่าเชื่อถือ,,,false
+3,presentations,3,8,engaging,adjective,/ɪnˈɡeɪdʒɪŋ/,อินเกจิง,"น่าสนใจ, ดึงดูดใจ",Her talk was so engaging that nobody looked at their phones.,การพูดของเธอน่าสนใจมากจนไม่มีใครดูโทรศัพท์,,,false
+3,presentations,3,9,informative,adjective,/ɪnˈfɔːrmətɪv/,อินฟอร์เมทิฟ,ให้ข้อมูลที่เป็นประโยชน์,Thank you for a very informative presentation.,ขอบคุณสำหรับการนำเสนอที่ให้ข้อมูลเป็นประโยชน์มาก,,,false
+3,presentations,3,10,applause,noun,/əˈplɔːz/,อะพลอซ,เสียงปรบมือ,The speaker finished to loud applause.,ผู้พูดจบการนำเสนอท่ามกลางเสียงปรบมือดังกึกก้อง,,👏,false
+3,presentations,3,11,off topic,adjective,/ˌɔːf ˈtɑːpɪk/,ออฟ ทอพพิค,นอกเรื่อง,"Sorry, that question is a little off topic.",ขอโทษ คำถามนั้นค่อนข้างนอกเรื่อง,,,false
+3,presentations,3,12,take questions,phrase,/ˌteɪk ˈkwɛstʃənz/,เทค เควสชันซ์,รับคำถาม,I will take questions at the end.,ฉันจะรับคำถามตอนท้าย,,,false
+3,presentations,3,13,rephrase,verb,/ˌriːˈfreɪz/,รีเฟรซ,พูดใหม่ด้วยคำอื่น,"Sorry, could you rephrase your question?",ขอโทษ ช่วยถามใหม่ด้วยคำอื่นได้ไหม,,,false
+3,presentations,3,14,constructive,adjective,/kənˈstrʌktɪv/,เคินสตรัคทิฟ,เชิงสร้างสรรค์,Thank you for the constructive comments on my slides.,ขอบคุณสำหรับความคิดเห็นเชิงสร้างสรรค์ต่อสไลด์ของฉัน,constructive feedback,,false

@@ -1,0 +1,257 @@
+level,category,lesson,order,headword,pos,phonetic,reading_th,meaning_th,example_en,example_th,note_en,emoji,reviewed
+1,health,1,1,head,noun,/hɛd/,เฮด,"หัว, ศีรษะ",I hit my head on the door this morning.,ฉันเอาหัวโขกประตูเมื่อเช้านี้,,,false
+1,health,1,2,hair,noun,/hɛr/,แฮร์,ผม,She washes her hair every night before she goes to bed.,เธอสระผมทุกคืนก่อนเข้านอน,,💇,false
+1,health,1,3,face,noun,/feɪs/,เฟซ,ใบหน้า,I wash my face with cold water every morning.,ฉันล้างหน้าด้วยน้ำเย็นทุกเช้า,,,false
+1,health,1,4,eye,noun,/aɪ/,อาย,ตา,My eyes are tired after I look at the screen all day.,ตาของฉันล้าหลังจากจ้องหน้าจอทั้งวัน,,👁️,false
+1,health,1,5,ear,noun,/ɪr/,เอียร์,หู,The music is too loud and my ears hurt.,เพลงดังเกินไปจนหูของฉันเจ็บ,,👂,false
+1,health,1,6,nose,noun,/noʊz/,โนส,จมูก,My nose is red because I have a bad cold.,จมูกของฉันแดงเพราะเป็นหวัดหนัก,,👃,false
+1,health,1,7,mouth,noun,/maʊθ/,เมาธ์,ปาก,Please close your mouth when you eat your lunch.,เวลากินข้าวกลางวันให้หุบปากด้วยนะ,,👄,false
+1,health,1,8,tooth,noun,/tuθ/,ทูธ,ฟัน,My tooth hurts when I drink something very cold.,ฟันของฉันเสียวเวลาดื่มอะไรเย็นจัด,Plural: teeth.,🦷,false
+1,health,1,9,neck,noun,/nɛk/,เน็ค,คอ,My neck hurts after I sleep on a hard pillow.,ฉันปวดคอหลังจากนอนหมอนแข็ง,,,false
+1,health,1,10,shoulder,noun,/ˈʃoʊldər/,โชลเดอร์,ไหล่,She carries her heavy bag on one shoulder every day.,เธอสะพายกระเป๋าหนักไว้บนไหล่ข้างเดียวทุกวัน,,,false
+1,health,1,11,arm,noun,/ɑrm/,อาร์ม,แขน,Raise your arm if you know the answer.,ยกแขนขึ้นถ้าคุณรู้คำตอบ,,,false
+1,health,1,12,hand,noun,/hænd/,แฮนด์,มือ,Hold my hand when we cross the busy road.,จับมือฉันไว้ตอนข้ามถนนที่รถเยอะ,,✋,false
+1,health,1,13,finger,noun,/ˈfɪŋɡər/,ฟิงเกอร์,นิ้วมือ,I cut my finger with a knife in the kitchen.,ฉันโดนมีดบาดนิ้วในครัว,,☝️,false
+1,health,1,14,leg,noun,/lɛɡ/,เลก,ขา,My legs are tired after I walk up the hill.,ขาของฉันล้าหลังจากเดินขึ้นเนิน,,🦵,false
+1,health,1,15,knee,noun,/ni/,นี,เข่า,My grandmother's knee hurts when she climbs the stairs.,ยายปวดเข่าเวลาขึ้นบันได,,,false
+1,health,1,16,foot,noun,/fʊt/,ฟุต,เท้า,My left foot hurts because my new shoes are too small.,เท้าซ้ายของฉันเจ็บเพราะรองเท้าใหม่เล็กเกินไป,Plural: feet.,🦶,false
+1,health,2,1,sick,adjective,/sɪk/,ซิค,"ป่วย, ไม่สบาย","I am sick today, so I will stay at home.",วันนี้ฉันไม่สบาย เลยจะอยู่บ้าน,,,false
+1,health,2,2,headache,noun,/ˈhɛdeɪk/,เฮดเอค,อาการปวดหัว,I have a headache because I did not sleep well.,ฉันปวดหัวเพราะนอนไม่ค่อยหลับ,,,false
+1,health,2,3,stomachache,noun,/ˈstʌməkeɪk/,สตัมมัคเอค,อาการปวดท้อง,My son has a stomachache after eating too much candy.,ลูกชายฉันปวดท้องหลังจากกินลูกอมมากเกินไป,,,false
+1,health,2,4,fever,noun,/ˈfivər/,ฟีเวอร์,ไข้,"The baby has a high fever, so we will see a doctor.",ลูกมีไข้สูง เราเลยจะพาไปหาหมอ,,🤒,false
+1,health,2,5,cold,noun,/koʊld/,โคลด์,ไข้หวัด,"I have a cold, so I need some hot tea.",ฉันเป็นหวัด เลยอยากดื่มชาร้อน ๆ,"Say ""have a cold"" or ""catch a cold"".",,false
+1,health,2,6,cough,verb,/kɔf/,คอฟ,ไอ,He coughs a lot at night when the air is dry.,เขาไอบ่อยตอนกลางคืนเวลาอากาศแห้ง,,,false
+1,health,2,7,sore throat,noun,/ˌsɔr ˈθroʊt/,ซอร์ โธรท,อาการเจ็บคอ,"I have a sore throat, so I cannot talk much today.",ฉันเจ็บคอ วันนี้เลยพูดได้ไม่มาก,,,false
+1,health,2,8,toothache,noun,/ˈtuθeɪk/,ทูธเอค,อาการปวดฟัน,"I have a toothache, so I need to see a dentist.",ฉันปวดฟัน เลยต้องไปหาหมอฟัน,,,false
+1,health,2,9,hurt,verb,/hɜrt/,เฮิร์ท,"เจ็บ, ปวด",My arm hurts after I play tennis all afternoon.,ฉันปวดแขนหลังจากเล่นเทนนิสทั้งบ่าย,,,false
+1,health,2,10,pain,noun,/peɪn/,เพน,ความเจ็บปวด,She has a pain in her side when she runs.,เธอเจ็บสีข้างเวลาวิ่ง,,,false
+1,health,2,11,dizzy,adjective,/ˈdɪzi/,ดิซซี่,เวียนหัว,I feel dizzy when I stand up too fast.,ฉันรู้สึกเวียนหัวเวลาลุกขึ้นเร็วเกินไป,,😵‍💫,false
+1,health,2,12,runny nose,noun,/ˌrʌni ˈnoʊz/,รันนี่ โนส,น้ำมูกไหล,My daughter has a runny nose and needs some tissues.,ลูกสาวฉันมีน้ำมูกไหลและต้องใช้ทิชชู่,,,false
+1,health,2,13,rest,verb,/rɛst/,เรสท์,พักผ่อน,The doctor says I should rest at home for two days.,หมอบอกว่าฉันควรพักผ่อนอยู่บ้านสองวัน,,,false
+1,health,2,14,backache,noun,/ˈbækeɪk/,แบ็คเอค,อาการปวดหลัง,I get a backache when I sit at my desk too long.,ฉันปวดหลังเวลานั่งที่โต๊ะนานเกินไป,,,false
+1,health,2,15,flu,noun,/flu/,ฟลู,ไข้หวัดใหญ่,Many people get the flu in the rainy season.,หลายคนเป็นไข้หวัดใหญ่ในหน้าฝน,,,false
+1,health,2,16,sneeze,verb,/sniz/,สนีซ,จาม,Dust makes me sneeze every time I clean my room.,ฝุ่นทำให้ฉันจามทุกครั้งที่ทำความสะอาดห้อง,,🤧,false
+1,health,3,1,pharmacy,noun,/ˈfɑrməsi/,ฟาร์มะซี,ร้านขายยา,There is a pharmacy next to the bank on this street.,มีร้านขายยาอยู่ข้างธนาคารบนถนนนี้,,,false
+1,health,3,2,pharmacist,noun,/ˈfɑrməsɪst/,ฟาร์มะซิสท์,เภสัชกร,Ask the pharmacist which medicine is good for a cough.,ถามเภสัชกรว่ายาตัวไหนดีสำหรับแก้ไอ,,,false
+1,health,3,3,medicine,noun,/ˈmɛdəsən/,เมดิซิน,ยา,This medicine will help your cough get better soon.,ยานี้จะช่วยให้อาการไอดีขึ้นเร็ว ๆ,,💊,false
+1,health,3,4,pill,noun,/pɪl/,พิล,ยาเม็ด,Take one pill with a glass of water before bed.,กินยาหนึ่งเม็ดกับน้ำหนึ่งแก้วก่อนนอน,,💊,false
+1,health,3,5,cough syrup,noun,/ˈkɔf ˌsɪrəp/,คอฟ ไซรัป,ยาแก้ไอน้ำ,"This cough syrup tastes sweet, so children like it.",ยาแก้ไอน้ำนี้รสหวาน เด็ก ๆ เลยชอบ,,,false
+1,health,3,6,cream,noun,/krim/,ครีม,"ครีม, ยาทา",Put this cream on your skin two times a day.,ทาครีมนี้บนผิววันละสองครั้ง,,,false
+1,health,3,7,bandage,noun,/ˈbændɪdʒ/,แบนดิจ,ผ้าพันแผล,The nurse puts a bandage on my cut finger.,พยาบาลพันแผลที่นิ้วที่โดนบาดให้ฉัน,,🩹,false
+1,health,3,8,thermometer,noun,/θərˈmɑmətər/,เธอร์มอมิเตอร์,ปรอทวัดไข้,Use a thermometer to check if your son has a fever.,ใช้ปรอทวัดไข้เช็กว่าลูกชายมีไข้ไหม,,🌡️,false
+1,health,3,9,vitamin,noun,/ˈvaɪtəmɪn/,ไวตามิน,วิตามิน,My mother takes a vitamin every morning with breakfast.,แม่ของฉันกินวิตามินทุกเช้าพร้อมอาหารเช้า,,,false
+1,health,3,10,prescription,noun,/prɪˈskrɪpʃən/,พริสคริพชัน,ใบสั่งยา,You need a prescription from a doctor for this medicine.,ยานี้ต้องใช้ใบสั่งยาจากหมอ,,,false
+1,health,3,11,painkiller,noun,/ˈpeɪnˌkɪlər/,เพนคิลเลอร์,ยาแก้ปวด,I take a painkiller when I have a bad headache.,ฉันกินยาแก้ปวดเวลาปวดหัวมาก ๆ,,,false
+1,health,3,12,eye drops,noun,/ˈaɪ ˌdrɑps/,อาย ดร็อปส์,ยาหยอดตา,Put two eye drops in each eye before you sleep.,หยอดยาหยอดตาข้างละสองหยดก่อนนอน,,,false
+1,health,3,13,allergy,noun,/ˈælərdʒi/,แอลเลอร์จี้,อาการแพ้,I have an allergy to some kinds of medicine.,ฉันแพ้ยาบางชนิด,,,false
+1,health,3,14,face mask,noun,/ˈfeɪs ˌmæsk/,เฟซ มาสก์,หน้ากากอนามัย,Wear a face mask when you have a cold.,สวมหน้ากากอนามัยเวลาเป็นหวัด,,😷,false
+1,health,3,15,twice a day,phrase,/ˈtwaɪs ə ˈdeɪ/,ทไวซ์ อะ เดย์,วันละสองครั้ง,"Take this medicine twice a day, in the morning and at night.",กินยานี้วันละสองครั้ง ตอนเช้าและตอนกลางคืน,,,false
+1,health,3,16,after meals,phrase,/ˈæftər ˈmilz/,แอฟเตอร์ มีลส์,หลังอาหาร,Take two pills after meals with a full glass of water.,กินยาสองเม็ดหลังอาหารพร้อมน้ำเต็มแก้ว,,,false
+1,health,4,1,healthy,adjective,/ˈhɛlθi/,เฮลธี่,มีสุขภาพดี,"My grandfather is ninety, but he is still very healthy.",คุณตาอายุเก้าสิบแล้ว แต่ยังแข็งแรงมาก,,,false
+1,health,4,2,exercise,verb,/ˈɛksərsaɪz/,เอ็กเซอร์ไซส์,ออกกำลังกาย,I exercise in the park for thirty minutes every morning.,ฉันออกกำลังกายในสวนสาธารณะสามสิบนาทีทุกเช้า,,🤸,false
+1,health,4,3,sleep,verb,/slip/,สลีป,นอนหลับ,Try to sleep for eight hours every night.,พยายามนอนให้ได้แปดชั่วโมงทุกคืน,,😴,false
+1,health,4,4,jog,verb,/dʒɑɡ/,จ็อก,วิ่งเหยาะ ๆ,We jog around the lake every Sunday morning.,เราวิ่งเหยาะ ๆ รอบทะเลสาบทุกเช้าวันอาทิตย์,,🏃,false
+1,health,4,5,gym,noun,/dʒɪm/,จิม,"ยิม, ฟิตเนส",She goes to the gym after work three times a week.,เธอไปยิมหลังเลิกงานสัปดาห์ละสามครั้ง,,🏋️,false
+1,health,4,6,yoga,noun,/ˈjoʊɡə/,โยคะ,โยคะ,My sister does yoga at home before breakfast.,พี่สาวฉันเล่นโยคะที่บ้านก่อนอาหารเช้า,,🧘,false
+1,health,4,7,stretch,verb,/strɛtʃ/,สเตรทช์,ยืดเส้นยืดสาย,Stretch your arms and legs before you start to run.,ยืดแขนและขาก่อนเริ่มวิ่ง,,,false
+1,health,4,8,diet,noun,/ˈdaɪət/,ไดเอ็ท,อาหารการกิน,A good diet has lots of fruit and vegetables.,อาหารการกินที่ดีควรมีผลไม้และผักเยอะ ๆ,"""Diet"" often means the food you usually eat, not only eating less.",,false
+1,health,4,9,sweat,verb,/swɛt/,สเว็ท,เหงื่อออก,I sweat a lot when I run in the hot sun.,ฉันเหงื่อออกเยอะเวลาวิ่งกลางแดดร้อน ๆ,,💦,false
+1,health,4,10,strong,adjective,/strɔŋ/,สตรอง,แข็งแรง,Milk and exercise help children grow big and strong.,นมและการออกกำลังกายช่วยให้เด็ก ๆ โตและแข็งแรง,,💪,false
+1,health,4,11,fit,adjective,/fɪt/,ฟิต,"ฟิต, ร่างกายแข็งแรง",He walks to work every day to stay fit.,เขาเดินไปทำงานทุกวันเพื่อให้ร่างกายฟิต,,,false
+1,health,4,12,wash your hands,phrase,/ˌwɑʃ jər ˈhændz/,วอช ยัวร์ แฮนด์ส,ล้างมือ,Always wash your hands with soap before you eat.,ล้างมือด้วยสบู่ก่อนกินข้าวเสมอ,,🧼,false
+1,health,4,13,check-up,noun,/ˈtʃɛkʌp/,เช็คอัป,การตรวจสุขภาพ,I go to the hospital for a check-up once a year.,ฉันไปตรวจสุขภาพที่โรงพยาบาลปีละครั้ง,,,false
+1,health,4,14,relax,verb,/rɪˈlæks/,รีแลกซ์,ผ่อนคลาย,I listen to soft music to relax after a long day.,ฉันฟังเพลงเบา ๆ เพื่อผ่อนคลายหลังจากวันที่เหนื่อยมาทั้งวัน,,,false
+1,health,4,15,breathe,verb,/brið/,บรีธ,หายใจ,Close your eyes and breathe slowly through your nose.,หลับตาแล้วหายใจช้า ๆ ทางจมูก,,,false
+1,health,4,16,smoke,verb,/smoʊk/,สโมค,สูบบุหรี่,My father does not smoke because it is bad for his health.,พ่อไม่สูบบุหรี่เพราะไม่ดีต่อสุขภาพ,,🚭,false
+1,people,1,1,family,noun,/ˈfæməli/,แฟมมิลี่,ครอบครัว,My family eats dinner together every Sunday evening.,ครอบครัวฉันกินข้าวเย็นด้วยกันทุกเย็นวันอาทิตย์,,👪,false
+1,people,1,2,mother,noun,/ˈmʌðər/,มาเธอร์,แม่,My mother cooks rice soup for me when I am sick.,แม่ทำข้าวต้มให้ฉันเวลาฉันไม่สบาย,"""Mom"" is the friendly word.",,false
+1,people,1,3,father,noun,/ˈfɑðər/,ฟาเธอร์,พ่อ,My father drives me to school every morning.,พ่อขับรถไปส่งฉันที่โรงเรียนทุกเช้า,"""Dad"" is the friendly word.",,false
+1,people,1,4,parents,noun,/ˈpɛrənts/,แพเรนท์ส,พ่อแม่,My parents live in a small house near the sea.,พ่อแม่ของฉันอาศัยอยู่ในบ้านหลังเล็กใกล้ทะเล,,,false
+1,people,1,5,brother,noun,/ˈbrʌðər/,บราเธอร์,"พี่ชาย, น้องชาย",My older brother plays soccer with me after school.,พี่ชายเล่นฟุตบอลกับฉันหลังเลิกเรียน,"Say ""older brother"" or ""younger brother"" to show age.",,false
+1,people,1,6,sister,noun,/ˈsɪstər/,ซิสเตอร์,"พี่สาว, น้องสาว",My younger sister likes to draw pictures of cats.,น้องสาวชอบวาดรูปแมว,"Say ""older sister"" or ""younger sister"" to show age.",,false
+1,people,1,7,son,noun,/sʌn/,ซัน,ลูกชาย,Our son is six years old and loves trains.,ลูกชายของเราอายุหกขวบและชอบรถไฟมาก,,,false
+1,people,1,8,daughter,noun,/ˈdɔtər/,ดอเทอร์,ลูกสาว,Their daughter helps them wash the car on Saturday.,ลูกสาวของพวกเขาช่วยล้างรถทุกวันเสาร์,,,false
+1,people,1,9,grandmother,noun,/ˈɡrænˌmʌðər/,แกรนด์มาเธอร์,"ย่า, ยาย",My grandmother tells us stories before we go to sleep.,ยายเล่านิทานให้พวกเราฟังก่อนนอน,"""Grandma"" is the friendly short form.",👵,false
+1,people,1,10,grandfather,noun,/ˈɡrænˌfɑðər/,แกรนด์ฟาเธอร์,"ปู่, ตา",My grandfather reads the newspaper in the garden every morning.,ตาอ่านหนังสือพิมพ์ในสวนทุกเช้า,"""Grandpa"" is the friendly short form.",👴,false
+1,people,1,11,uncle,noun,/ˈʌŋkəl/,อังเคิล,"ลุง, น้า, อา",My uncle has a small farm with many cows.,ลุงของฉันมีฟาร์มเล็ก ๆ ที่มีวัวหลายตัว,,,false
+1,people,1,12,aunt,noun,/ænt/,แอนท์,"ป้า, น้า, อา (ผู้หญิง)",My aunt visits us every year at New Year.,ป้ามาเยี่ยมพวกเราทุกปีช่วงปีใหม่,,,false
+1,people,1,13,cousin,noun,/ˈkʌzən/,คัซซิน,ลูกพี่ลูกน้อง,My cousin and I are the same age.,ฉันกับลูกพี่ลูกน้องอายุเท่ากัน,,,false
+1,people,1,14,husband,noun,/ˈhʌzbənd/,ฮัซเบินด์,สามี,Her husband makes coffee for her every morning.,สามีของเธอชงกาแฟให้เธอทุกเช้า,,,false
+1,people,1,15,wife,noun,/waɪf/,ไวฟ์,ภรรยา,His wife works at the hospital near our house.,ภรรยาของเขาทำงานที่โรงพยาบาลใกล้บ้านเรา,Plural: wives.,,false
+1,people,1,16,baby,noun,/ˈbeɪbi/,เบบี้,ทารก,The baby sleeps a lot in the first few months.,ทารกนอนเยอะมากในช่วงไม่กี่เดือนแรก,,👶,false
+1,people,2,1,tall,adjective,/tɔl/,ทอล,สูง,"My brother is very tall, so he plays basketball.",พี่ชายฉันตัวสูงมาก เขาเลยเล่นบาสเกตบอล,,,false
+1,people,2,2,short,adjective,/ʃɔrt/,ชอร์ท,"เตี้ย, สั้น","My grandmother is short, so she cannot reach the top shelf.",ยายตัวเตี้ย เลยหยิบของบนชั้นบนสุดไม่ถึง,,,false
+1,people,2,3,young,adjective,/jʌŋ/,ยัง,อายุน้อย,Our new teacher is young and very friendly.,ครูคนใหม่ของเรายังอายุน้อยและเป็นกันเองมาก,,,false
+1,people,2,4,old,adjective,/oʊld/,โอลด์,"แก่, อายุมาก",The old man next door walks his dog every day.,คุณลุงข้างบ้านพาสุนัขไปเดินเล่นทุกวัน,"For things, ""old"" means เก่า.",,false
+1,people,2,5,slim,adjective,/slɪm/,สลิม,ผอมเพรียว,She is slim because she swims every day.,เธอหุ่นเพรียวเพราะว่ายน้ำทุกวัน,"""Slim"" is polite; ""thin"" can sound negative.",,false
+1,people,2,6,beautiful,adjective,/ˈbjutəfəl/,บิวทิฟูล,สวย,The bride looks beautiful in her white dress.,เจ้าสาวดูสวยมากในชุดสีขาว,,,false
+1,people,2,7,handsome,adjective,/ˈhænsəm/,แฮนซัม,หล่อ,Her boyfriend is tall and handsome with a nice smile.,แฟนของเธอตัวสูงและหล่อ มีรอยยิ้มน่ารัก,Usually used for men.,,false
+1,people,2,8,cute,adjective,/kjut/,คิวท์,น่ารัก,The baby has a cute smile and big round eyes.,ทารกมีรอยยิ้มน่ารักและตากลมโต,,,false
+1,people,2,9,curly,adjective,/ˈkɜrli/,เคอร์ลี่,หยิก (ผม),My daughter has long curly hair like her mother.,ลูกสาวฉันมีผมหยิกยาวเหมือนแม่,,,false
+1,people,2,10,glasses,noun,/ˈɡlæsɪz/,แกลสซิส,แว่นตา,My father wears glasses when he reads a book.,พ่อใส่แว่นตาเวลาอ่านหนังสือ,"Always plural: ""a pair of glasses"".",👓,false
+1,people,2,11,beard,noun,/bɪrd/,เบียร์ด,เครา,My uncle has a long gray beard and short hair.,ลุงของฉันมีเครายาวสีเทาและผมสั้น,,🧔,false
+1,people,2,12,pretty,adjective,/ˈprɪti/,พริตตี้,"สวย, น่ารัก",My little sister is very pretty with her long black hair.,น้องสาวของฉันสวยมากกับผมยาวสีดำ,,,false
+1,people,2,13,smart,adjective,/smɑrt/,สมาร์ท,ฉลาด,My son is smart and always gets good grades.,ลูกชายฉันฉลาดและได้เกรดดีเสมอ,,,false
+1,people,2,14,funny,adjective,/ˈfʌni/,ฟันนี่,ตลก,My friend is so funny that everyone laughs at his jokes.,เพื่อนฉันตลกมากจนทุกคนหัวเราะกับมุกของเขา,,,false
+1,people,2,15,quiet,adjective,/ˈkwaɪət/,ไควเอ็ท,"เงียบ, พูดน้อย","He is quiet in class, but he talks a lot at home.",เขาเงียบในห้องเรียน แต่พูดเยอะที่บ้าน,,,false
+1,people,2,16,shy,adjective,/ʃaɪ/,ชาย,ขี้อาย,The little girl is shy and hides behind her mother.,เด็กหญิงตัวน้อยขี้อายและหลบอยู่หลังแม่,,,false
+1,people,3,1,happy,adjective,/ˈhæpi/,แฮปปี้,มีความสุข,I am happy because my best friend is coming to visit.,ฉันมีความสุขเพราะเพื่อนสนิทกำลังจะมาเยี่ยม,,😊,false
+1,people,3,2,sad,adjective,/sæd/,แซด,เศร้า,She is sad because her cat is sick.,เธอเศร้าเพราะแมวของเธอป่วย,,😢,false
+1,people,3,3,angry,adjective,/ˈæŋɡri/,แองกรี้,โกรธ,My mother is angry because I broke her favorite cup.,แม่โกรธเพราะฉันทำแก้วใบโปรดของเธอแตก,,😠,false
+1,people,3,4,tired,adjective,/taɪərd/,ไทเอิร์ด,เหนื่อย,I am very tired after working for ten hours today.,วันนี้ฉันเหนื่อยมากหลังจากทำงานสิบชั่วโมง,,😩,false
+1,people,3,5,excited,adjective,/ɪkˈsaɪtɪd/,อิกไซทิด,ตื่นเต้น,The children are excited about the school trip tomorrow.,เด็ก ๆ ตื่นเต้นกับทัศนศึกษาพรุ่งนี้,,🤩,false
+1,people,3,6,scared,adjective,/skɛrd/,สแกร์ด,กลัว,My little brother is scared of big dogs.,น้องชายกลัวสุนัขตัวใหญ่,,😨,false
+1,people,3,7,bored,adjective,/bɔrd/,บอร์ด,เบื่อ,I am bored because there is nothing to do at home.,ฉันเบื่อเพราะที่บ้านไม่มีอะไรทำ,"""Bored"" is how you feel; ""boring"" is the thing that makes you feel it.",🥱,false
+1,people,3,8,worried,adjective,/ˈwɜrid/,เวอร์รีด,"กังวล, เป็นห่วง",My parents are worried because I come home very late.,พ่อแม่เป็นห่วงเพราะฉันกลับบ้านดึกมาก,,😟,false
+1,people,3,9,surprised,adjective,/sərˈpraɪzd/,เซอร์ไพรซ์ด,ประหลาดใจ,I am surprised to see my old teacher at the market.,ฉันประหลาดใจที่เจอครูคนเก่าที่ตลาด,,😮,false
+1,people,3,10,nervous,adjective,/ˈnɜrvəs/,เนอร์วัส,ประหม่า,I always feel nervous before I speak in front of people.,ฉันรู้สึกประหม่าทุกครั้งก่อนพูดต่อหน้าคนอื่น,,😬,false
+1,people,3,11,lonely,adjective,/ˈloʊnli/,โลนลี่,เหงา,She feels lonely when her family is away.,เธอรู้สึกเหงาเวลาครอบครัวไม่อยู่,,,false
+1,people,3,12,proud,adjective,/praʊd/,พราวด์,ภูมิใจ,My parents are very proud of my good grades.,พ่อแม่ภูมิใจในผลการเรียนที่ดีของฉันมาก,,,false
+1,people,3,13,sleepy,adjective,/ˈslipi/,สลีปปี้,ง่วงนอน,I always feel sleepy after a big lunch.,ฉันรู้สึกง่วงนอนทุกครั้งหลังกินข้าวกลางวันมื้อใหญ่,,😪,false
+1,people,3,14,love,verb,/lʌv/,ลัฟ,รัก,I love my family more than anything in the world.,ฉันรักครอบครัวมากกว่าสิ่งใดในโลก,,❤️,false
+1,people,3,15,glad,adjective,/ɡlæd/,แกลด,ดีใจ,I am glad you can come to my birthday party.,ฉันดีใจที่คุณมางานวันเกิดของฉันได้,,,false
+1,people,3,16,feel,verb,/fil/,ฟีล,รู้สึก,I feel much better after a cup of hot tea.,ฉันรู้สึกดีขึ้นมากหลังจากดื่มชาร้อนหนึ่งแก้ว,,,false
+1,people,4,1,friend,noun,/frɛnd/,เฟรนด์,เพื่อน,I play badminton with my friends every Saturday afternoon.,ฉันเล่นแบดมินตันกับเพื่อน ๆ ทุกบ่ายวันเสาร์,,,false
+1,people,4,2,best friend,noun,/ˌbɛst ˈfrɛnd/,เบสท์ เฟรนด์,เพื่อนสนิท,My best friend and I talk on the phone every night.,ฉันกับเพื่อนสนิทคุยโทรศัพท์กันทุกคืน,,,false
+1,people,4,3,neighbor,noun,/ˈneɪbər/,เนเบอร์,เพื่อนบ้าน,Our neighbor waters our plants when we go on vacation.,เพื่อนบ้านช่วยรดน้ำต้นไม้ให้เวลาเราไปเที่ยว,British spelling: neighbour.,,false
+1,people,4,4,classmate,noun,/ˈklæsmeɪt/,คลาสเมท,เพื่อนร่วมชั้น,My classmate helps me with my English homework.,เพื่อนร่วมชั้นช่วยฉันทำการบ้านภาษาอังกฤษ,,,false
+1,people,4,5,roommate,noun,/ˈrumˌmeɪt/,รูมเมท,เพื่อนร่วมห้อง,My roommate always cleans the room on Sunday.,เพื่อนร่วมห้องของฉันทำความสะอาดห้องทุกวันอาทิตย์,,,false
+1,people,4,6,visit,verb,/ˈvɪzɪt/,วิซิท,ไปเยี่ยม,We visit our grandparents in the country every summer.,เราไปเยี่ยมปู่ย่าที่ต่างจังหวัดทุกหน้าร้อน,,,false
+1,people,4,7,picnic,noun,/ˈpɪknɪk/,พิคนิค,ปิกนิก,We have a picnic with our neighbors in the park on Sunday.,เราไปปิกนิกกับเพื่อนบ้านที่สวนสาธารณะวันอาทิตย์,,🧺,false
+1,people,4,8,party,noun,/ˈpɑrti/,ปาร์ตี้,งานเลี้ยง,We have a small party at home for my birthday.,เราจัดงานเลี้ยงเล็ก ๆ ที่บ้านในวันเกิดของฉัน,,🎉,false
+1,people,4,9,wedding,noun,/ˈwɛdɪŋ/,เวดดิ้ง,งานแต่งงาน,My neighbor invites the whole street to her wedding.,เพื่อนบ้านเชิญคนทั้งซอยไปงานแต่งงานของเธอ,,💒,false
+1,people,4,10,hug,verb,/hʌɡ/,ฮัก,กอด,My little sister hugs me every time I come home.,น้องสาวกอดฉันทุกครั้งที่ฉันกลับบ้าน,,🫂,false
+1,people,4,11,laugh,verb,/læf/,แลฟ,หัวเราะ,My friends and I laugh a lot when we watch funny movies.,ฉันกับเพื่อน ๆ หัวเราะกันเยอะมากเวลาดูหนังตลก,,😂,false
+1,people,4,12,play,verb,/pleɪ/,เพลย์,เล่น,The children next door often play with my son after school.,เด็ก ๆ ข้างบ้านมักมาเล่นกับลูกชายฉันหลังเลิกเรียน,,,false
+1,people,4,13,neighborhood,noun,/ˈneɪbərˌhʊd/,เนเบอร์ฮูด,ละแวกบ้าน,There is a nice park in our neighborhood for kids.,ในละแวกบ้านเรามีสวนสาธารณะดี ๆ สำหรับเด็ก,British spelling: neighbourhood.,,false
+1,people,4,14,next door,adverb,/ˌnɛkst ˈdɔr/,เน็กซ์ ดอร์,ข้างบ้าน,A nice young family lives next door to us.,ครอบครัวหนุ่มสาวน่ารักครอบครัวหนึ่งอาศัยอยู่ข้างบ้านเรา,,,false
+1,people,4,15,hang out,phrase,/ˌhæŋ ˈaʊt/,แฮง เอาท์,ไปเที่ยวเล่นด้วยกัน,We like to hang out at the coffee shop after class.,เราชอบไปนั่งเล่นกันที่ร้านกาแฟหลังเลิกเรียน,Informal.,,false
+1,people,4,16,wave,verb,/weɪv/,เวฟ,โบกมือ,The children wave to their friends from the bus window.,เด็ก ๆ โบกมือให้เพื่อนจากหน้าต่างรถบัส,,👋,false
+1,time,1,1,Monday,noun,/ˈmʌndeɪ/,มันเดย์,วันจันทร์,I start my new English class on Monday morning.,ฉันเริ่มเรียนภาษาอังกฤษคลาสใหม่เช้าวันจันทร์,,,false
+1,time,1,2,Tuesday,noun,/ˈtuzdeɪ/,ทิวส์เดย์,วันอังคาร,The small library near my house is closed every Tuesday.,ห้องสมุดเล็ก ๆ ใกล้บ้านฉันปิดทุกวันอังคาร,,,false
+1,time,1,3,Wednesday,noun,/ˈwɛnzdeɪ/,เวนส์เดย์,วันพุธ,We play badminton together every Wednesday after work.,เราเล่นแบดมินตันด้วยกันทุกวันพุธหลังเลิกงาน,"Do not say the first ""d"".",,false
+1,time,1,4,Thursday,noun,/ˈθɜrzdeɪ/,เธิร์สเดย์,วันพฤหัสบดี,My sister comes home from university every Thursday night.,พี่สาวกลับบ้านจากมหาวิทยาลัยทุกคืนวันพฤหัสบดี,,,false
+1,time,1,5,Friday,noun,/ˈfraɪdeɪ/,ฟรายเดย์,วันศุกร์,"On Friday evening, we often eat dinner at a restaurant.",เย็นวันศุกร์เรามักไปกินข้าวที่ร้านอาหาร,,,false
+1,time,1,6,Saturday,noun,/ˈsætərdeɪ/,แซทเทอร์เดย์,วันเสาร์,I clean my room and wash my clothes on Saturday.,ฉันทำความสะอาดห้องและซักผ้าในวันเสาร์,,,false
+1,time,1,7,Sunday,noun,/ˈsʌndeɪ/,ซันเดย์,วันอาทิตย์,Many shops in this town are closed on Sunday.,ร้านค้าหลายแห่งในเมืองนี้ปิดวันอาทิตย์,,,false
+1,time,1,8,weekend,noun,/ˈwikɛnd/,วีคเอ็นด์,วันหยุดสุดสัปดาห์,What do you usually do on the weekend?,ปกติคุณทำอะไรในวันหยุดสุดสัปดาห์,,,false
+1,time,1,9,week,noun,/wik/,วีค,สัปดาห์,I go to the gym three times a week.,ฉันไปยิมสัปดาห์ละสามครั้ง,,,false
+1,time,1,10,month,noun,/mʌnθ/,มันธ์,เดือน,My cousin is coming to stay with us next month.,ลูกพี่ลูกน้องจะมาพักกับเราเดือนหน้า,,,false
+1,time,1,11,year,noun,/jɪr/,เยียร์,ปี,My son starts school next year when he is six.,ลูกชายจะเริ่มเข้าโรงเรียนปีหน้าตอนอายุหกขวบ,,,false
+1,time,1,12,January,noun,/ˈdʒænjuˌɛri/,แจนนิวเออรี่,เดือนมกราคม,January is the first month of the year.,มกราคมเป็นเดือนแรกของปี,,,false
+1,time,1,13,December,noun,/dɪˈsɛmbər/,ดิเซมเบอร์,เดือนธันวาคม,The weather in Bangkok is cool and nice in December.,อากาศที่กรุงเทพฯ เย็นสบายในเดือนธันวาคม,,,false
+1,time,1,14,today,adverb,/təˈdeɪ/,ทูเดย์,วันนี้,"It is very hot today, so let's stay inside.",วันนี้ร้อนมาก อยู่ในบ้านกันเถอะ,,,false
+1,time,1,15,tomorrow,adverb,/təˈmɑroʊ/,ทูมอโรว์,พรุ่งนี้,I have a dentist appointment at ten tomorrow morning.,พรุ่งนี้เช้าฉันมีนัดหมอฟันตอนสิบโมง,,,false
+1,time,1,16,yesterday,adverb,/ˈjɛstərdeɪ/,เยสเตอร์เดย์,เมื่อวาน,"It rained all day yesterday, so we stayed at home.",เมื่อวานฝนตกทั้งวัน เราเลยอยู่บ้าน,,,false
+1,time,2,1,wake up,phrase,/ˌweɪk ˈʌp/,เวค อัป,ตื่นนอน,I wake up at six o'clock every morning.,ฉันตื่นนอนตอนหกโมงทุกเช้า,,,false
+1,time,2,2,get up,phrase,/ˌɡɛt ˈʌp/,เก็ท อัป,ลุกจากเตียง,"I wake up early, but I get up ten minutes later.",ฉันตื่นเช้า แต่ลุกจากเตียงหลังจากนั้นสิบนาที,"""Wake up"" means open your eyes; ""get up"" means leave your bed.",,false
+1,time,2,3,take a shower,phrase,/ˌteɪk ə ˈʃaʊər/,เทค อะ ชาวเวอร์,อาบน้ำ (ฝักบัว),I take a shower before I eat breakfast.,ฉันอาบน้ำก่อนกินอาหารเช้า,,🚿,false
+1,time,2,4,brush,verb,/brʌʃ/,บรัช,แปรง,I brush my teeth two times a day.,ฉันแปรงฟันวันละสองครั้ง,,🪥,false
+1,time,2,5,get dressed,phrase,/ˌɡɛt ˈdrɛst/,เก็ท เดรสท์,แต่งตัว,My son can get dressed by himself now.,ตอนนี้ลูกชายฉันแต่งตัวเองได้แล้ว,,,false
+1,time,2,6,have breakfast,phrase,/ˌhæv ˈbrɛkfəst/,แฮฟ เบรคฟัสท์,กินอาหารเช้า,We have breakfast together at seven every morning.,เรากินอาหารเช้าด้วยกันตอนเจ็ดโมงทุกเช้า,,,false
+1,time,2,7,go to bed,phrase,/ˌɡoʊ tə ˈbɛd/,โก ทู เบด,เข้านอน,I usually go to bed at ten o'clock.,ปกติฉันเข้านอนตอนสี่ทุ่ม,,🛌,false
+1,time,2,8,morning,noun,/ˈmɔrnɪŋ/,มอร์นิ่ง,ตอนเช้า,I drink a cup of hot coffee every morning before work.,ฉันดื่มกาแฟร้อนหนึ่งแก้วทุกเช้าก่อนไปทำงาน,,,false
+1,time,2,9,afternoon,noun,/ˌæftərˈnun/,แอฟเตอร์นูน,ตอนบ่าย,The children play in the park in the afternoon.,เด็ก ๆ เล่นในสวนสาธารณะตอนบ่าย,,,false
+1,time,2,10,evening,noun,/ˈivnɪŋ/,อีฟนิ่ง,ตอนเย็น,"In the evening, I cook dinner and watch the news.",ตอนเย็นฉันทำอาหารเย็นและดูข่าว,,,false
+1,time,2,11,night,noun,/naɪt/,ไนท์,กลางคืน,The city is very bright and busy at night.,เมืองนี้สว่างและคึกคักมากตอนกลางคืน,,🌃,false
+1,time,2,12,alarm clock,noun,/əˈlɑrm ˌklɑk/,อะลาร์ม คล็อก,นาฬิกาปลุก,My alarm clock rings at six every morning.,นาฬิกาปลุกของฉันดังตอนหกโมงทุกเช้า,,⏰,false
+1,time,2,13,o'clock,adverb,/əˈklɑk/,อะคล็อก,นาฬิกา (บอกเวลาเต็มชั่วโมง),The shop opens at nine o'clock in the morning.,ร้านเปิดตอนเก้าโมงเช้า,"Use only with full hours: ""seven o'clock"", not ""seven thirty o'clock"".",🕘,false
+1,time,2,14,always,adverb,/ˈɔlweɪz/,ออลเวย์ส,เสมอ,I always drink a glass of water after I wake up.,ฉันดื่มน้ำหนึ่งแก้วหลังตื่นนอนเสมอ,,,false
+1,time,2,15,usually,adverb,/ˈjuʒuəli/,ยูชวลลี่,"ปกติ, มักจะ","I usually take the train to work, but today I walk.",ปกติฉันนั่งรถไฟไปทำงาน แต่วันนี้ฉันเดิน,,,false
+1,time,2,16,never,adverb,/ˈnɛvər/,เนเวอร์,ไม่เคย,My father never drinks coffee in the evening.,พ่อไม่เคยดื่มกาแฟตอนเย็นเลย,,,false
+1,time,3,1,weather,noun,/ˈwɛðər/,เวเธอร์,"อากาศ, สภาพอากาศ","The weather is nice today, so let's go to the beach.",วันนี้อากาศดี ไปทะเลกันเถอะ,,,false
+1,time,3,2,sunny,adjective,/ˈsʌni/,ซันนี่,แดดออก,"It is sunny today, so don't forget your hat.",วันนี้แดดออก อย่าลืมหมวกนะ,,☀️,false
+1,time,3,3,rainy,adjective,/ˈreɪni/,เรนนี่,ฝนตก,"On rainy days, I take a taxi to work.",ในวันที่ฝนตก ฉันนั่งแท็กซี่ไปทำงาน,,🌧️,false
+1,time,3,4,cloudy,adjective,/ˈklaʊdi/,คลาวดี้,มีเมฆมาก,"It is cloudy this morning, and it may rain later.",เช้านี้เมฆเยอะ อาจจะฝนตกทีหลัง,,☁️,false
+1,time,3,5,windy,adjective,/ˈwɪndi/,วินดี้,ลมแรง,It is too windy to fly a kite today.,วันนี้ลมแรงเกินไปที่จะเล่นว่าว,,🌬️,false
+1,time,3,6,hot,adjective,/hɑt/,ฮอท,ร้อน,"It is very hot in April, so we drink lots of water.",เดือนเมษายนร้อนมาก เราเลยดื่มน้ำเยอะ ๆ,,🥵,false
+1,time,3,7,warm,adjective,/wɔrm/,วอร์ม,อบอุ่น,"It is warm and sunny, so we eat lunch outside.",อากาศอบอุ่นและแดดดี เราเลยกินข้าวกลางวันข้างนอก,,,false
+1,time,3,8,cool,adjective,/kul/,คูล,เย็นสบาย,The air in the mountains is cool in the morning.,อากาศบนภูเขาเย็นสบายตอนเช้า,,,false
+1,time,3,9,rain,noun,/reɪn/,เรน,ฝน,Take an umbrella because there will be rain this afternoon.,เอาร่มไปด้วยเพราะบ่ายนี้ฝนจะตก,,,false
+1,time,3,10,snow,noun,/snoʊ/,สโนว์,หิมะ,My children want to see snow for the first time.,ลูก ๆ อยากเห็นหิมะเป็นครั้งแรก,,❄️,false
+1,time,3,11,storm,noun,/stɔrm/,สตอร์ม,พายุ,"There is a big storm tonight, so stay inside.",คืนนี้มีพายุใหญ่ อยู่ในบ้านนะ,,⛈️,false
+1,time,3,12,umbrella,noun,/ʌmˈbrɛlə/,อัมเบรลล่า,ร่ม,I always keep an umbrella in my bag in July.,ฉันพกร่มไว้ในกระเป๋าเสมอในเดือนกรกฎาคม,,☂️,false
+1,time,3,13,season,noun,/ˈsizən/,ซีซัน,ฤดู,"Thailand has three seasons: hot, rainy, and cool.",ประเทศไทยมีสามฤดู คือ ฤดูร้อน ฤดูฝน และฤดูหนาว,,,false
+1,time,3,14,summer,noun,/ˈsʌmər/,ซัมเมอร์,ฤดูร้อน,We go swimming at the beach every summer.,เราไปว่ายน้ำที่ชายหาดทุกหน้าร้อน,,,false
+1,time,3,15,winter,noun,/ˈwɪntər/,วินเทอร์,ฤดูหนาว,It is very cold in Japan in winter.,ที่ญี่ปุ่นอากาศหนาวมากในฤดูหนาว,,⛄,false
+1,time,3,16,spring,noun,/sprɪŋ/,สปริง,ฤดูใบไม้ผลิ,Many flowers open in the park in spring.,ดอกไม้หลายชนิดบานในสวนสาธารณะช่วงฤดูใบไม้ผลิ,,🌸,false
+1,time,4,1,hobby,noun,/ˈhɑbi/,ฮอบบี้,งานอดิเรก,My hobby is growing vegetables in my small garden.,งานอดิเรกของฉันคือปลูกผักในสวนเล็ก ๆ,,,false
+1,time,4,2,free time,noun,/ˌfri ˈtaɪm/,ฟรี ไทม์,เวลาว่าง,What do you like to do in your free time?,คุณชอบทำอะไรในเวลาว่าง,,,false
+1,time,4,3,movie,noun,/ˈmuvi/,มูวี่,"ภาพยนตร์, หนัง",We watch a funny movie at home every Friday night.,เราดูหนังตลกที่บ้านทุกคืนวันศุกร์,,🎬,false
+1,time,4,4,music,noun,/ˈmjuzɪk/,มิวสิค,"ดนตรี, เพลง",I listen to music on the train to work.,ฉันฟังเพลงบนรถไฟระหว่างไปทำงาน,,🎵,false
+1,time,4,5,video game,noun,/ˈvɪdioʊ ˌɡeɪm/,วิดีโอ เกม,วิดีโอเกม,My brother plays video games for hours on the weekend.,น้องชายเล่นวิดีโอเกมเป็นชั่วโมง ๆ ในวันหยุด,,🎮,false
+1,time,4,6,read,verb,/rid/,รีด,อ่าน,I like to read a book before I go to sleep.,ฉันชอบอ่านหนังสือก่อนนอน,,📖,false
+1,time,4,7,sing,verb,/sɪŋ/,ซิง,ร้องเพลง,My friends and I sing karaoke on Saturday nights.,ฉันกับเพื่อน ๆ ร้องคาราโอเกะทุกคืนวันเสาร์,,🎤,false
+1,time,4,8,dance,verb,/dæns/,แดนซ์,เต้น,My daughter loves to dance to pop music.,ลูกสาวฉันชอบเต้นตามเพลงป๊อป,,💃,false
+1,time,4,9,draw,verb,/drɔ/,ดรอว์,วาดรูป,He likes to draw animals and trees in his notebook.,เขาชอบวาดรูปสัตว์และต้นไม้ในสมุด,,✏️,false
+1,time,4,10,swim,verb,/swɪm/,สวิม,ว่ายน้ำ,I swim in the pool for an hour every Sunday.,ฉันว่ายน้ำในสระชั่วโมงหนึ่งทุกวันอาทิตย์,,🏊,false
+1,time,4,11,guitar,noun,/ɡɪˈtɑr/,กีตาร์,กีตาร์,My uncle teaches me to play the guitar on weekends.,ลุงสอนฉันเล่นกีตาร์ในวันหยุดสุดสัปดาห์,,🎸,false
+1,time,4,12,watch TV,phrase,/ˌwɑtʃ ˌtiˈvi/,วอทช์ ทีวี,ดูทีวี,My grandparents watch TV together in the living room after dinner.,ปู่กับย่าดูทีวีด้วยกันในห้องนั่งเล่นหลังอาหารเย็น,,📺,false
+1,time,4,13,listen to,phrase,/ˈlɪsən tu/,ลิสเซิน ทู,ฟัง,I listen to the radio while I cook dinner.,ฉันฟังวิทยุระหว่างทำอาหารเย็น,"Say ""listen to music"", not ""listen music"".",🎧,false
+1,time,4,14,soccer,noun,/ˈsɑkər/,ซอคเกอร์,ฟุตบอล,The boys play soccer in the park after school.,เด็กผู้ชายเล่นฟุตบอลในสวนหลังเลิกเรียน,British English: football.,⚽,false
+1,time,4,15,camping,noun,/ˈkæmpɪŋ/,แคมปิ้ง,การตั้งแคมป์,We go camping near the waterfall in the cool season.,เราไปตั้งแคมป์ใกล้น้ำตกในหน้าหนาว,,🏕️,false
+1,time,4,16,take photos,phrase,/ˌteɪk ˈfoʊtoʊz/,เทค โฟโต้ส์,ถ่ายรูป,She likes to take photos of flowers and birds.,เธอชอบถ่ายรูปดอกไม้และนก,,📷,false
+1,city,1,1,park,noun,/pɑrk/,พาร์ค,สวนสาธารณะ,Many people run in the park early in the morning.,หลายคนวิ่งในสวนสาธารณะตอนเช้าตรู่,,🏞️,false
+1,city,1,2,hospital,noun,/ˈhɑspɪtəl/,ฮอสพิทอล,โรงพยาบาล,The hospital is open twenty-four hours a day.,โรงพยาบาลเปิดตลอดยี่สิบสี่ชั่วโมง,,🏥,false
+1,city,1,3,school,noun,/skul/,สคูล,โรงเรียน,My children walk to school with their friends.,ลูก ๆ เดินไปโรงเรียนกับเพื่อน,,🏫,false
+1,city,1,4,library,noun,/ˈlaɪˌbrɛri/,ไลบรารี่,ห้องสมุด,I borrow three books from the library every month.,ฉันยืมหนังสือจากห้องสมุดเดือนละสามเล่ม,,,false
+1,city,1,5,museum,noun,/mjuˈziəm/,มิวเซียม,พิพิธภัณฑ์,The museum has many old things from our country.,พิพิธภัณฑ์มีของเก่ามากมายจากประเทศของเรา,,🏛️,false
+1,city,1,6,police station,noun,/pəˈlis ˌsteɪʃən/,โพลิส สเตชัน,สถานีตำรวจ,"I lost my bag, so I went to the police station.",ฉันทำกระเป๋าหาย เลยไปที่สถานีตำรวจ,,,false
+1,city,1,7,temple,noun,/ˈtɛmpəl/,เทมเพิล,วัด,We visit the temple with our family on special days.,เราไปวัดกับครอบครัวในวันสำคัญ,,🛕,false
+1,city,1,8,movie theater,noun,/ˈmuvi ˌθiətər/,มูวี่ เธียเตอร์,โรงภาพยนตร์,There is a new movie theater in the shopping center.,มีโรงภาพยนตร์แห่งใหม่ในศูนย์การค้า,British English: cinema.,,false
+1,city,1,9,zoo,noun,/zu/,ซู,สวนสัตว์,We take the children to the zoo to see the elephants.,เราพาเด็ก ๆ ไปสวนสัตว์เพื่อดูช้าง,,,false
+1,city,1,10,stadium,noun,/ˈsteɪdiəm/,สเตเดียม,สนามกีฬา,Thousands of people watch the soccer game at the stadium.,ผู้คนหลายพันคนชมการแข่งขันฟุตบอลที่สนามกีฬา,,🏟️,false
+1,city,1,11,university,noun,/ˌjunəˈvɜrsəti/,ยูนิเวอร์ซิตี้,มหาวิทยาลัย,My sister studies science at a university in the city.,พี่สาวเรียนวิทยาศาสตร์ที่มหาวิทยาลัยในเมือง,,,false
+1,city,1,12,fire station,noun,/ˈfaɪər ˌsteɪʃən/,ไฟเออร์ สเตชัน,สถานีดับเพลิง,The fire station is next to the police station.,สถานีดับเพลิงอยู่ข้างสถานีตำรวจ,,🚒,false
+1,city,1,13,bridge,noun,/brɪdʒ/,บริดจ์,สะพาน,We walk across the bridge to get to the market.,เราเดินข้ามสะพานไปตลาด,,🌉,false
+1,city,1,14,church,noun,/tʃɜrtʃ/,เชิร์ช,โบสถ์ (คริสต์),There is a beautiful old church near the river.,มีโบสถ์เก่าที่สวยงามอยู่ใกล้แม่น้ำ,,⛪,false
+1,city,1,15,playground,noun,/ˈpleɪˌɡraʊnd/,เพลย์กราวนด์,สนามเด็กเล่น,The kids play on the swings at the playground.,เด็ก ๆ เล่นชิงช้าที่สนามเด็กเล่น,,,false
+1,city,1,16,downtown,adverb,/ˌdaʊnˈtaʊn/,ดาวน์ทาวน์,ในตัวเมือง,I go downtown on Saturdays to meet my friends.,ฉันเข้าเมืองทุกวันเสาร์เพื่อไปเจอเพื่อน ๆ,,,false
+1,city,2,1,tree,noun,/tri/,ทรี,ต้นไม้,We sit under a big tree to stay out of the sun.,เรานั่งใต้ต้นไม้ใหญ่เพื่อหลบแดด,,🌳,false
+1,city,2,2,flower,noun,/ˈflaʊər/,ฟลาวเวอร์,ดอกไม้,My mother grows red flowers in front of our house.,แม่ปลูกดอกไม้สีแดงไว้หน้าบ้าน,,🌷,false
+1,city,2,3,river,noun,/ˈrɪvər/,ริเวอร์,แม่น้ำ,The children like to watch the boats on the river.,เด็ก ๆ ชอบดูเรือในแม่น้ำ,,,false
+1,city,2,4,mountain,noun,/ˈmaʊntən/,เมาเทิน,ภูเขา,We climb the mountain early to see the sunrise.,เราปีนภูเขาแต่เช้าเพื่อดูพระอาทิตย์ขึ้น,,⛰️,false
+1,city,2,5,sea,noun,/si/,ซี,ทะเล,The sea is blue and clear on this island.,ทะเลที่เกาะนี้ใสและเป็นสีฟ้า,,🌊,false
+1,city,2,6,lake,noun,/leɪk/,เลค,ทะเลสาบ,There are many ducks on the lake in the park.,มีเป็ดหลายตัวในทะเลสาบในสวนสาธารณะ,,,false
+1,city,2,7,forest,noun,/ˈfɔrɪst/,ฟอเรสท์,ป่า,Many wild animals live deep in the green forest.,สัตว์ป่าหลายชนิดอาศัยอยู่ลึกเข้าไปในป่า,,🌲,false
+1,city,2,8,island,noun,/ˈaɪlənd/,ไอแลนด์,เกาะ,We take a boat to a small island for the day.,เรานั่งเรือไปเที่ยวเกาะเล็ก ๆ หนึ่งวัน,"The ""s"" is silent.",🏝️,false
+1,city,2,9,sky,noun,/skaɪ/,สกาย,ท้องฟ้า,The sky is clear and blue after the rain.,ท้องฟ้าแจ่มใสและเป็นสีฟ้าหลังฝนตก,,,false
+1,city,2,10,sun,noun,/sʌn/,ซัน,ดวงอาทิตย์,"The sun is very strong at noon, so wear a hat.",แดดแรงมากตอนเที่ยง ใส่หมวกด้วยนะ,,🌞,false
+1,city,2,11,moon,noun,/mun/,มูน,ดวงจันทร์,"Look, the moon is big and bright in the sky tonight.",ดูสิ คืนนี้พระจันทร์บนฟ้าดวงใหญ่และสว่าง,,🌙,false
+1,city,2,12,star,noun,/stɑr/,สตาร์,ดวงดาว,You can see many stars in the countryside at night.,ในชนบทคุณสามารถเห็นดาวมากมายตอนกลางคืน,,⭐,false
+1,city,2,13,grass,noun,/ɡræs/,กราส,หญ้า,The children sit on the grass and eat their lunch.,เด็ก ๆ นั่งบนสนามหญ้าและกินข้าวกลางวัน,,,false
+1,city,2,14,rock,noun,/rɑk/,ร็อค,ก้อนหิน,We sit on a big rock near the river.,เรานั่งบนก้อนหินใหญ่ใกล้แม่น้ำ,,🪨,false
+1,city,2,15,waterfall,noun,/ˈwɔtərˌfɔl/,วอเทอร์ฟอล,น้ำตก,The waterfall is very beautiful in the rainy season.,น้ำตกสวยมากในหน้าฝน,,,false
+1,city,2,16,hill,noun,/hɪl/,ฮิล,เนินเขา,Our house is on a small hill near the village.,บ้านเราอยู่บนเนินเขาเล็ก ๆ ใกล้หมู่บ้าน,,,false
+1,city,3,1,dog,noun,/dɔɡ/,ด็อก,"สุนัข, หมา",I walk my dog in the park every evening.,ฉันพาหมาไปเดินเล่นในสวนทุกเย็น,,🐕,false
+1,city,3,2,cat,noun,/kæt/,แคท,แมว,Our cat sleeps on the sofa all afternoon.,แมวของเรานอนบนโซฟาทั้งบ่าย,,🐈,false
+1,city,3,3,bird,noun,/bɜrd/,เบิร์ด,นก,The birds sing in the tree outside my window.,นกร้องเพลงบนต้นไม้นอกหน้าต่างของฉัน,,🐦,false
+1,city,3,4,elephant,noun,/ˈɛləfənt/,เอเลเฟินท์,ช้าง,The elephant is a very big animal with big ears.,ช้างเป็นสัตว์ตัวใหญ่มากที่มีหูใหญ่,,🐘,false
+1,city,3,5,horse,noun,/hɔrs/,ฮอร์ส,ม้า,My daughter wants to ride a horse at the farm.,ลูกสาวอยากขี่ม้าที่ฟาร์ม,,🐎,false
+1,city,3,6,cow,noun,/kaʊ/,คาว,วัว,The cows eat grass in the field all day.,วัวกินหญ้าในทุ่งทั้งวัน,,🐄,false
+1,city,3,7,pig,noun,/pɪɡ/,พิก,หมู,The farmer has ten pigs and many chickens.,ชาวนามีหมูสิบตัวและไก่อีกหลายตัว,,🐖,false
+1,city,3,8,duck,noun,/dʌk/,ดัก,เป็ด,We give bread to the ducks at the lake.,เราให้ขนมปังเป็ดที่ทะเลสาบ,,🦆,false
+1,city,3,9,monkey,noun,/ˈmʌŋki/,มังกี้,ลิง,"Be careful, the monkeys at the temple take food from people.",ระวังนะ ลิงที่วัดแย่งอาหารจากคน,,🐒,false
+1,city,3,10,tiger,noun,/ˈtaɪɡər/,ไทเกอร์,เสือ,The tiger at the zoo sleeps most of the day.,เสือที่สวนสัตว์นอนเกือบทั้งวัน,,🐅,false
+1,city,3,11,snake,noun,/sneɪk/,สเนค,งู,"Be careful, there is a snake in the long grass.",ระวังนะ มีงูอยู่ในหญ้าสูง,,🐍,false
+1,city,3,12,rabbit,noun,/ˈræbɪt/,แรบบิท,กระต่าย,My son has a white rabbit as a pet.,ลูกชายเลี้ยงกระต่ายสีขาวเป็นสัตว์เลี้ยง,,🐇,false
+1,city,3,13,lion,noun,/ˈlaɪən/,ไลออน,สิงโต,The lion is sometimes called the king of animals.,บางครั้งสิงโตถูกเรียกว่าราชาแห่งสัตว์,,🦁,false
+1,city,3,14,frog,noun,/frɔɡ/,ฟร็อก,กบ,We hear frogs outside our house when it rains.,เราได้ยินเสียงกบนอกบ้านเวลาฝนตก,,🐸,false
+1,city,3,15,butterfly,noun,/ˈbʌtərˌflaɪ/,บัตเตอร์ฟลาย,ผีเสื้อ,A yellow butterfly is sitting on the flower.,ผีเสื้อสีเหลืองตัวหนึ่งเกาะอยู่บนดอกไม้,,🦋,false
+1,city,3,16,pet,noun,/pɛt/,เพ็ท,สัตว์เลี้ยง,"Do you have a pet at home, like a dog or cat?",คุณมีสัตว์เลี้ยงที่บ้านไหม เช่น หมาหรือแมว,,🐾,false
+1,city,4,1,bank,noun,/bæŋk/,แบงก์,ธนาคาร,The bank opens at nine and closes at four.,ธนาคารเปิดเก้าโมงและปิดสี่โมงเย็น,,🏦,false
+1,city,4,2,passbook,noun,/ˈpæsbʊk/,พาสบุ๊ค,สมุดบัญชีธนาคาร,Please bring your passbook when you come to the bank.,กรุณานำสมุดบัญชีมาด้วยเวลามาที่ธนาคาร,,,false
+1,city,4,3,bank account,noun,/ˈbæŋk əˌkaʊnt/,แบงก์ อะเคานท์,บัญชีธนาคาร,I want to open a bank account for my son.,ฉันอยากเปิดบัญชีธนาคารให้ลูกชาย,,,false
+1,city,4,4,deposit,verb,/dɪˈpɑzɪt/,ดิพอซิท,ฝากเงิน,I deposit some of my pay into the bank every month.,ฉันฝากเงินเดือนบางส่วนเข้าธนาคารทุกเดือน,,,false
+1,city,4,5,withdraw,verb,/wɪðˈdrɔ/,วิธดรอว์,ถอนเงิน,I need to withdraw some cash before we go to the market.,ฉันต้องถอนเงินสดหน่อยก่อนเราไปตลาด,,,false
+1,city,4,6,savings,noun,/ˈseɪvɪŋz/,เซฟวิ่งส์,เงินออม,She keeps her savings in a bank account.,เธอเก็บเงินออมไว้ในบัญชีธนาคาร,,,false
+1,city,4,7,PIN,noun,/pɪn/,พิน,รหัส PIN,Never tell anyone the PIN for your bank card.,อย่าบอกรหัส PIN ของบัตรธนาคารให้ใครรู้,"PIN means ""personal identification number"".",,false
+1,city,4,8,teller,noun,/ˈtɛlər/,เทลเลอร์,พนักงานเคาน์เตอร์ธนาคาร,The teller counts the cash and gives me a receipt.,พนักงานธนาคารนับเงินสดแล้วให้ใบเสร็จฉัน,,,false
+1,city,4,9,exchange,verb,/ɪksˈtʃeɪndʒ/,อิกซ์เชนจ์,แลกเงิน,You can exchange dollars for baht at this bank.,คุณแลกเงินดอลลาร์เป็นเงินบาทได้ที่ธนาคารนี้,,,false
+1,city,4,10,ID card,noun,/ˌaɪ ˈdi ˌkɑrd/,ไอดี การ์ด,บัตรประชาชน,Please show your ID card to open a new account.,กรุณาแสดงบัตรประชาชนเพื่อเปิดบัญชีใหม่,,🪪,false
+1,city,4,11,line up,phrase,/ˌlaɪn ˈʌp/,ไลน์ อัป,เข้าคิว,Please line up here and wait for your number.,กรุณาเข้าคิวตรงนี้และรอเรียกหมายเลข,,,false
+1,city,4,12,post office,noun,/ˈpoʊst ˌɔfɪs/,โพสท์ ออฟฟิศ,ที่ทำการไปรษณีย์,I go to the post office to send a letter to my aunt.,ฉันไปไปรษณีย์เพื่อส่งจดหมายถึงป้า,,🏤,false
+1,city,4,13,zip code,noun,/ˈzɪp ˌkoʊd/,ซิป โคด,รหัสไปรษณีย์,Please write the zip code at the end of the address.,กรุณาเขียนรหัสไปรษณีย์ไว้ท้ายที่อยู่,British English: postcode.,,false
+1,city,4,14,letter,noun,/ˈlɛtər/,เลทเทอร์,จดหมาย,I write a letter to my grandmother in the village every month.,ฉันเขียนจดหมายถึงยายที่ต่างจังหวัดทุกเดือน,,✉️,false
+1,city,4,15,postcard,noun,/ˈpoʊstkɑrd/,โพสท์การ์ด,โปสการ์ด,I send a postcard to my family from every city I visit.,ฉันส่งโปสการ์ดถึงครอบครัวจากทุกเมืองที่ไปเที่ยว,,,false
+1,city,4,16,mailbox,noun,/ˈmeɪlbɑks/,เมลบ็อกซ์,ตู้ไปรษณีย์,Put your letter in the red mailbox outside the post office.,หย่อนจดหมายลงตู้ไปรษณีย์สีแดงหน้าที่ทำการไปรษณีย์,British English: postbox.,📮,false

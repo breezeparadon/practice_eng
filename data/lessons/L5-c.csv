@@ -1,0 +1,25 @@
+level,family,category,category_en,category_th,category_order,lesson,title_en,title_th
+5,DAILY,cities,Cities and urban life,เมืองและชีวิตคนเมือง,9,1,Urban planning and growth,การวางผังและการเติบโตของเมือง
+5,DAILY,cities,Cities and urban life,เมืองและชีวิตคนเมือง,9,2,Housing and neighborhoods,ที่อยู่อาศัยและย่านชุมชน
+5,DAILY,cities,Cities and urban life,เมืองและชีวิตคนเมือง,9,3,City life and public services,ชีวิตในเมืองและบริการสาธารณะ
+5,DAILY,journalism,Journalism and critical reading,การข่าวและการอ่านเชิงวิพากษ์,10,1,How news is made,เบื้องหลังการผลิตข่าว
+5,DAILY,journalism,Journalism and critical reading,การข่าวและการอ่านเชิงวิพากษ์,10,2,Bias and spin,อคติและการบิดข่าว
+5,DAILY,journalism,Journalism and critical reading,การข่าวและการอ่านเชิงวิพากษ์,10,3,Checking facts and sources,การตรวจสอบข้อเท็จจริงและแหล่งข่าว
+5,DAILY,investing,Investing and wealth,การลงทุนและความมั่งคั่ง,11,1,Markets and assets,ตลาดและสินทรัพย์
+5,DAILY,investing,Investing and wealth,การลงทุนและความมั่งคั่ง,11,2,Risk and returns,ความเสี่ยงและผลตอบแทน
+5,DAILY,investing,Investing and wealth,การลงทุนและความมั่งคั่ง,11,3,Building long-term wealth,การสร้างความมั่งคั่งระยะยาว
+5,DAILY,wellbeing,Mental health and wellbeing,สุขภาพจิตและความเป็นอยู่ที่ดี,12,1,Stress and burnout,ความเครียดและภาวะหมดไฟ
+5,DAILY,wellbeing,Mental health and wellbeing,สุขภาพจิตและความเป็นอยู่ที่ดี,12,2,Emotions and resilience,อารมณ์และความเข้มแข็งทางใจ
+5,DAILY,wellbeing,Mental health and wellbeing,สุขภาพจิตและความเป็นอยู่ที่ดี,12,3,Therapy and self-care,การบำบัดและการดูแลตัวเอง
+5,WORK,crisis,Crisis management,การบริหารภาวะวิกฤต,21,1,When a crisis hits,เมื่อวิกฤตมาถึง
+5,WORK,crisis,Crisis management,การบริหารภาวะวิกฤต,21,2,Damage control and communication,การควบคุมความเสียหายและการสื่อสาร
+5,WORK,crisis,Crisis management,การบริหารภาวะวิกฤต,21,3,Recovery and lessons learned,การฟื้นตัวและบทเรียนที่ได้
+5,WORK,governance,Corporate governance,ธรรมาภิบาลองค์กร,22,1,Boards and oversight,คณะกรรมการและการกำกับดูแล
+5,WORK,governance,Corporate governance,ธรรมาภิบาลองค์กร,22,2,Ethics and misconduct,จริยธรรมและการประพฤติมิชอบ
+5,WORK,governance,Corporate governance,ธรรมาภิบาลองค์กร,22,3,Accountability and disclosure,ความรับผิดชอบและการเปิดเผยข้อมูล
+5,WORK,insights,Analytics and insights,การวิเคราะห์เชิงลึก,23,1,Working with data,การทำงานกับข้อมูล
+5,WORK,insights,Analytics and insights,การวิเคราะห์เชิงลึก,23,2,Finding patterns,การค้นหารูปแบบในข้อมูล
+5,WORK,insights,Analytics and insights,การวิเคราะห์เชิงลึก,23,3,From data to decisions,จากข้อมูลสู่การตัดสินใจ
+5,WORK,stakeholders,Stakeholder management,การบริหารผู้มีส่วนได้ส่วนเสีย,24,1,Mapping stakeholders,การระบุผู้มีส่วนได้ส่วนเสีย
+5,WORK,stakeholders,Stakeholder management,การบริหารผู้มีส่วนได้ส่วนเสีย,24,2,Building buy-in,การสร้างแรงสนับสนุน
+5,WORK,stakeholders,Stakeholder management,การบริหารผู้มีส่วนได้ส่วนเสีย,24,3,Managing expectations and conflict,การจัดการความคาดหวังและความขัดแย้ง

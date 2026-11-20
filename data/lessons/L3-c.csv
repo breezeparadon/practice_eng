@@ -1,0 +1,25 @@
+level,family,category,category_en,category_th,category_order,lesson,title_en,title_th
+3,DAILY,laws,Laws and everyday rules,กฎหมายและกฎในชีวิตประจำวัน,9,1,Rules in public places,กฎในที่สาธารณะ
+3,DAILY,laws,Laws and everyday rules,กฎหมายและกฎในชีวิตประจำวัน,9,2,Traffic rules,กฎจราจร
+3,DAILY,laws,Laws and everyday rules,กฎหมายและกฎในชีวิตประจำวัน,9,3,Crime and the courts,อาชญากรรมและศาล
+3,DAILY,traditions,Culture and traditions,วัฒนธรรมและประเพณี,10,1,Festivals and celebrations,เทศกาลและงานเฉลิมฉลอง
+3,DAILY,traditions,Culture and traditions,วัฒนธรรมและประเพณี,10,2,Customs and manners,ธรรมเนียมและมารยาท
+3,DAILY,traditions,Culture and traditions,วัฒนธรรมและประเพณี,10,3,Ceremonies and life events,พิธีและเหตุการณ์สำคัญในชีวิต
+3,DAILY,climate,Climate and nature,ภูมิอากาศและธรรมชาติ,11,1,Extreme weather,สภาพอากาศรุนแรง
+3,DAILY,climate,Climate and nature,ภูมิอากาศและธรรมชาติ,11,2,Climate change,การเปลี่ยนแปลงสภาพภูมิอากาศ
+3,DAILY,climate,Climate and nature,ภูมิอากาศและธรรมชาติ,11,3,Nature and wildlife,ธรรมชาติและสัตว์ป่า
+3,DAILY,opinions,Opinions and feelings,ความคิดเห็นและความรู้สึก,12,1,Giving your opinion,การแสดงความคิดเห็น
+3,DAILY,opinions,Opinions and feelings,ความคิดเห็นและความรู้สึก,12,2,Positive feelings,ความรู้สึกด้านบวก
+3,DAILY,opinions,Opinions and feelings,ความคิดเห็นและความรู้สึก,12,3,Negative feelings,ความรู้สึกด้านลบ
+3,WORK,it-support,IT support,ไอทีซัพพอร์ต,21,1,Computer problems,ปัญหาคอมพิวเตอร์
+3,WORK,it-support,IT support,ไอทีซัพพอร์ต,21,2,Accounts and security,บัญชีผู้ใช้และความปลอดภัย
+3,WORK,it-support,IT support,ไอทีซัพพอร์ต,21,3,The IT help desk,ฝ่ายช่วยเหลือด้านไอที
+3,WORK,supply-chain,Supply chain,ห่วงโซ่อุปทาน,22,1,Suppliers and purchasing,ผู้ขายและการจัดซื้อ
+3,WORK,supply-chain,Supply chain,ห่วงโซ่อุปทาน,22,2,Inventory and storage,สินค้าคงคลังและการจัดเก็บ
+3,WORK,supply-chain,Supply chain,ห่วงโซ่อุปทาน,22,3,Shipping and logistics,การขนส่งและโลจิสติกส์
+3,WORK,pay-benefits,Pay and benefits,ค่าตอบแทนและสวัสดิการ,23,1,Salary and payslips,เงินเดือนและสลิปเงินเดือน
+3,WORK,pay-benefits,Pay and benefits,ค่าตอบแทนและสวัสดิการ,23,2,Benefits and insurance,สวัสดิการและประกัน
+3,WORK,pay-benefits,Pay and benefits,ค่าตอบแทนและสวัสดิการ,23,3,Rewards and incentives,รางวัลและสิ่งจูงใจ
+3,WORK,business-travel,Business travel,การเดินทางเพื่อธุรกิจ,24,1,Planning a business trip,การวางแผนเดินทางเพื่อธุรกิจ
+3,WORK,business-travel,Business travel,การเดินทางเพื่อธุรกิจ,24,2,Flying for work,การเดินทางทางอากาศเพื่องาน
+3,WORK,business-travel,Business travel,การเดินทางเพื่อธุรกิจ,24,3,Hotels and meetings abroad,โรงแรมและการประชุมในต่างประเทศ

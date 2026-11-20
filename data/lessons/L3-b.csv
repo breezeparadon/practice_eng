@@ -1,0 +1,25 @@
+level,family,category,category_en,category_th,category_order,lesson,title_en,title_th
+3,DAILY,social-media,Social media,โซเชียลมีเดีย,5,1,Your profile and posts,โปรไฟล์และโพสต์ของคุณ
+3,DAILY,social-media,Social media,โซเชียลมีเดีย,5,2,Comments and messages,คอมเมนต์และข้อความ
+3,DAILY,social-media,Social media,โซเชียลมีเดีย,5,3,Staying safe online,ความปลอดภัยบนโลกออนไลน์
+3,DAILY,studying,Courses and studying,การเรียนและคอร์ส,6,1,Signing up for a course,สมัครเรียนคอร์ส
+3,DAILY,studying,Courses and studying,การเรียนและคอร์ส,6,2,In the classroom,ในห้องเรียน
+3,DAILY,studying,Courses and studying,การเรียนและคอร์ส,6,3,Exams and results,การสอบและผลสอบ
+3,DAILY,banking-insurance,Banking and insurance,ธนาคารและประกัน,7,1,At the bank,ที่ธนาคาร
+3,DAILY,banking-insurance,Banking and insurance,ธนาคารและประกัน,7,2,Loans and credit,เงินกู้และสินเชื่อ
+3,DAILY,banking-insurance,Banking and insurance,ธนาคารและประกัน,7,3,Insurance,ประกันภัย
+3,DAILY,community,Community services,บริการชุมชน,8,1,Local public services,บริการสาธารณะในท้องถิ่น
+3,DAILY,community,Community services,บริการชุมชน,8,2,Volunteering and charity,งานอาสาและการกุศล
+3,DAILY,community,Community services,บริการชุมชน,8,3,Official documents,เอกสารราชการ
+3,WORK,marketing,Marketing basics,พื้นฐานการตลาด,17,1,Brands and products,แบรนด์และสินค้า
+3,WORK,marketing,Marketing basics,พื้นฐานการตลาด,17,2,Ways to advertise,ช่องทางการโฆษณา
+3,WORK,marketing,Marketing basics,พื้นฐานการตลาด,17,3,Measuring results,การวัดผลการตลาด
+3,WORK,clients,Sales and clients,การขายและลูกค้า,18,1,Finding new clients,การหาลูกค้าใหม่
+3,WORK,clients,Sales and clients,การขายและลูกค้า,18,2,Making a deal,การตกลงซื้อขาย
+3,WORK,clients,Sales and clients,การขายและลูกค้า,18,3,Keeping clients happy,การดูแลลูกค้าให้พึงพอใจ
+3,WORK,complaints,Handling complaints,การจัดการข้อร้องเรียน,19,1,Listening to a complaint,รับฟังข้อร้องเรียน
+3,WORK,complaints,Handling complaints,การจัดการข้อร้องเรียน,19,2,Finding a solution,หาทางแก้ไข
+3,WORK,complaints,Handling complaints,การจัดการข้อร้องเรียน,19,3,Follow-up and prevention,การติดตามผลและการป้องกัน
+3,WORK,accounting,Accounting basics,พื้นฐานบัญชี,20,1,Money in and money out,รายรับและรายจ่าย
+3,WORK,accounting,Accounting basics,พื้นฐานบัญชี,20,2,Invoices and payments,ใบแจ้งหนี้และการชำระเงิน
+3,WORK,accounting,Accounting basics,พื้นฐานบัญชี,20,3,Budgets and financial reports,งบประมาณและรายงานการเงิน

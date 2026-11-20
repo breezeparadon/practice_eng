@@ -1,0 +1,25 @@
+level,family,category,category_en,category_th,category_order,lesson,title_en,title_th
+4,DAILY,science-tech,Science and technology,วิทยาศาสตร์และเทคโนโลยี,5,1,Research and discovery,การวิจัยและการค้นพบ
+4,DAILY,science-tech,Science and technology,วิทยาศาสตร์และเทคโนโลยี,5,2,Gadgets and devices,อุปกรณ์และแกดเจ็ต
+4,DAILY,science-tech,Science and technology,วิทยาศาสตร์และเทคโนโลยี,5,3,AI and data,ปัญญาประดิษฐ์และข้อมูล
+4,DAILY,sustainability,Sustainability,ความยั่งยืน,6,1,Climate and energy,สภาพภูมิอากาศและพลังงาน
+4,DAILY,sustainability,Sustainability,ความยั่งยืน,6,2,Reducing waste,การลดขยะ
+4,DAILY,sustainability,Sustainability,ความยั่งยืน,6,3,Nature and conservation,ธรรมชาติและการอนุรักษ์
+4,DAILY,conflict,Communication and conflict,การสื่อสารและความขัดแย้ง,7,1,Disagreeing politely,การไม่เห็นด้วยอย่างสุภาพ
+4,DAILY,conflict,Communication and conflict,การสื่อสารและความขัดแย้ง,7,2,Resolving conflicts,การแก้ไขความขัดแย้ง
+4,DAILY,conflict,Communication and conflict,การสื่อสารและความขัดแย้ง,7,3,Effective communication,การสื่อสารอย่างมีประสิทธิภาพ
+4,DAILY,self-growth,Personal development,การพัฒนาตนเอง,8,1,Habits and discipline,นิสัยและวินัยในตนเอง
+4,DAILY,self-growth,Personal development,การพัฒนาตนเอง,8,2,Learning new skills,การเรียนรู้ทักษะใหม่
+4,DAILY,self-growth,Personal development,การพัฒนาตนเอง,8,3,Mindset and confidence,กรอบความคิดและความมั่นใจ
+4,WORK,performance,Performance reviews,การประเมินผลงาน,17,1,Goals and targets,เป้าหมายและตัวชี้วัด
+4,WORK,performance,Performance reviews,การประเมินผลงาน,17,2,The review meeting,การประชุมประเมินผล
+4,WORK,performance,Performance reviews,การประเมินผลงาน,17,3,Rewards and consequences,รางวัลและผลที่ตามมา
+4,WORK,contracts,Contracts and legal terms,สัญญาและศัพท์กฎหมาย,18,1,Contract basics,พื้นฐานของสัญญา
+4,WORK,contracts,Contracts and legal terms,สัญญาและศัพท์กฎหมาย,18,2,Rights and obligations,สิทธิและหน้าที่
+4,WORK,contracts,Contracts and legal terms,สัญญาและศัพท์กฎหมาย,18,3,Disputes and ending a contract,ข้อพิพาทและการยกเลิกสัญญา
+4,WORK,quality,Operations and quality,การปฏิบัติการและคุณภาพ,19,1,Checking quality,การตรวจสอบคุณภาพ
+4,WORK,quality,Operations and quality,การปฏิบัติการและคุณภาพ,19,2,Production and processes,การผลิตและกระบวนการ
+4,WORK,quality,Operations and quality,การปฏิบัติการและคุณภาพ,19,3,Safety and standards,ความปลอดภัยและมาตรฐาน
+4,WORK,cybersecurity,IT and cybersecurity,ไอทีและความปลอดภัยไซเบอร์,20,1,Online threats,ภัยคุกคามออนไลน์
+4,WORK,cybersecurity,IT and cybersecurity,ไอทีและความปลอดภัยไซเบอร์,20,2,Staying secure,การรักษาความปลอดภัย
+4,WORK,cybersecurity,IT and cybersecurity,ไอทีและความปลอดภัยไซเบอร์,20,3,IT support and systems,ฝ่ายสนับสนุนไอทีและระบบ

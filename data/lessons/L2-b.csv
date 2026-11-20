@@ -1,0 +1,25 @@
+level,family,category,category_en,category_th,category_order,lesson,title_en,title_th
+2,DAILY,clinic,At the clinic,ที่คลินิก,5,1,Checking in at the clinic,ลงทะเบียนที่คลินิก
+2,DAILY,clinic,At the clinic,ที่คลินิก,5,2,Talking about symptoms,บอกอาการป่วย
+2,DAILY,clinic,At the clinic,ที่คลินิก,5,3,Treatment and recovery,การรักษาและการพักฟื้น
+2,DAILY,relationships,Relationships,ความสัมพันธ์,6,1,Family and partners,ครอบครัวและคู่รัก
+2,DAILY,relationships,Relationships,ความสัมพันธ์,6,2,Making friends,การผูกมิตร
+2,DAILY,relationships,Relationships,ความสัมพันธ์,6,3,Feelings and arguments,ความรู้สึกและการทะเลาะกัน
+2,DAILY,entertainment,Movies and music,ภาพยนตร์และดนตรี,7,1,At the cinema,ที่โรงภาพยนตร์
+2,DAILY,entertainment,Movies and music,ภาพยนตร์และดนตรี,7,2,Music and concerts,ดนตรีและคอนเสิร์ต
+2,DAILY,entertainment,Movies and music,ภาพยนตร์และดนตรี,7,3,Watching shows at home,ดูรายการที่บ้าน
+2,DAILY,phones-apps,Phones and apps,มือถือและแอป,8,1,Your smartphone,สมาร์ตโฟนของคุณ
+2,DAILY,phones-apps,Phones and apps,มือถือและแอป,8,2,Using apps,การใช้แอป
+2,DAILY,phones-apps,Phones and apps,มือถือและแอป,8,3,Social media and chat,โซเชียลมีเดียและแชต
+2,WORK,calls,Phone and video calls,โทรศัพท์และวิดีโอคอล,17,1,Making a business call,การโทรติดต่องาน
+2,WORK,calls,Phone and video calls,โทรศัพท์และวิดีโอคอล,17,2,Video meetings,การประชุมทางวิดีโอ
+2,WORK,calls,Phone and video calls,โทรศัพท์และวิดีโอคอล,17,3,Phone manners,มารยาทในการโทรศัพท์
+2,WORK,schedules,Schedules and appointments,ตารางงานและการนัดหมาย,18,1,Setting a time to meet,การนัดเวลาพบกัน
+2,WORK,schedules,Schedules and appointments,ตารางงานและการนัดหมาย,18,2,"Days, dates and times",วัน วันที่ และเวลา
+2,WORK,schedules,Schedules and appointments,ตารางงานและการนัดหมาย,18,3,Changing plans,การเปลี่ยนแผน
+2,WORK,customer-service,Customer service,บริการลูกค้า,19,1,At the service desk,ที่เคาน์เตอร์บริการ
+2,WORK,customer-service,Customer service,บริการลูกค้า,19,2,Handling problems,การจัดการปัญหาของลูกค้า
+2,WORK,customer-service,Customer service,บริการลูกค้า,19,3,Returns and refunds,การคืนสินค้าและคืนเงิน
+2,WORK,selling,Selling basics,พื้นฐานการขาย,20,1,Helping shoppers choose,ช่วยลูกค้าเลือกสินค้า
+2,WORK,selling,Selling basics,พื้นฐานการขาย,20,2,Prices and promotions,ราคาและโปรโมชั่น
+2,WORK,selling,Selling basics,พื้นฐานการขาย,20,3,Selling to clients,การขายให้ลูกค้าธุรกิจ

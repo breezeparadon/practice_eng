@@ -1,0 +1,25 @@
+level,family,category,category_en,category_th,category_order,lesson,title_en,title_th
+4,DAILY,advertising,Media and advertising,สื่อและโฆษณา,9,1,Advertising campaigns,แคมเปญโฆษณา
+4,DAILY,advertising,Media and advertising,สื่อและโฆษณา,9,2,News and journalism,ข่าวและงานข่าว
+4,DAILY,advertising,Media and advertising,สื่อและโฆษณา,9,3,Social media and online content,โซเชียลมีเดียและคอนเทนต์ออนไลน์
+4,DAILY,civic,Government and citizens,รัฐและพลเมือง,10,1,Elections and voting,การเลือกตั้ง
+4,DAILY,civic,Government and citizens,รัฐและพลเมือง,10,2,Laws and public services,กฎหมายและบริการสาธารณะ
+4,DAILY,civic,Government and citizens,รัฐและพลเมือง,10,3,Taxes and official documents,ภาษีและเอกสารราชการ
+4,DAILY,arts,Arts and literature,ศิลปะและวรรณกรรม,11,1,Visual arts and galleries,ทัศนศิลป์และหอศิลป์
+4,DAILY,arts,Arts and literature,ศิลปะและวรรณกรรม,11,2,Books and writing,หนังสือและการเขียน
+4,DAILY,arts,Arts and literature,ศิลปะและวรรณกรรม,11,3,"Theatre, music and film",ละคร ดนตรี และภาพยนตร์
+4,DAILY,travel-culture,Travel and culture,การเดินทางและวัฒนธรรม,12,1,Planning a trip abroad,การวางแผนเดินทางไปต่างประเทศ
+4,DAILY,travel-culture,Travel and culture,การเดินทางและวัฒนธรรม,12,2,Customs and traditions,ประเพณีและธรรมเนียม
+4,DAILY,travel-culture,Travel and culture,การเดินทางและวัฒนธรรม,12,3,Sightseeing and heritage,สถานที่ท่องเที่ยวและมรดกวัฒนธรรม
+4,WORK,data,Data and analysis,ข้อมูลและการวิเคราะห์,21,1,Collecting data,การเก็บรวบรวมข้อมูล
+4,WORK,data,Data and analysis,ข้อมูลและการวิเคราะห์,21,2,Analyzing data,การวิเคราะห์ข้อมูล
+4,WORK,data,Data and analysis,ข้อมูลและการวิเคราะห์,21,3,Reporting results,การรายงานผลข้อมูล
+4,WORK,customer-experience,Customer experience,ประสบการณ์ลูกค้า,22,1,Customer feedback,ความคิดเห็นของลูกค้า
+4,WORK,customer-experience,Customer experience,ประสบการณ์ลูกค้า,22,2,Handling complaints,การจัดการข้อร้องเรียน
+4,WORK,customer-experience,Customer experience,ประสบการณ์ลูกค้า,22,3,Loyalty and retention,ความภักดีและการรักษาลูกค้า
+4,WORK,procurement,Purchasing and suppliers,การจัดซื้อและซัพพลายเออร์,23,1,Finding suppliers,การหาซัพพลายเออร์
+4,WORK,procurement,Purchasing and suppliers,การจัดซื้อและซัพพลายเออร์,23,2,Contracts and terms,สัญญาและเงื่อนไข
+4,WORK,procurement,Purchasing and suppliers,การจัดซื้อและซัพพลายเออร์,23,3,"Orders, delivery and quality",คำสั่งซื้อ การส่งของ และคุณภาพ
+4,WORK,startups,Starting a business,การเริ่มต้นธุรกิจ,24,1,From idea to plan,จากไอเดียสู่แผนธุรกิจ
+4,WORK,startups,Starting a business,การเริ่มต้นธุรกิจ,24,2,Funding and investors,เงินทุนและนักลงทุน
+4,WORK,startups,Starting a business,การเริ่มต้นธุรกิจ,24,3,Growing the company,การขยายธุรกิจ

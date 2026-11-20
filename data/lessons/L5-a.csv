@@ -1,0 +1,25 @@
+level,family,category,category_en,category_th,category_order,lesson,title_en,title_th
+5,DAILY,debate,Debate and argument,การโต้แย้งและการให้เหตุผล,1,1,Making a case,การเสนอเหตุผลสนับสนุน
+5,DAILY,debate,Debate and argument,การโต้แย้งและการให้เหตุผล,1,2,Logic and fallacies,ตรรกะและเหตุผลวิบัติ
+5,DAILY,debate,Debate and argument,การโต้แย้งและการให้เหตุผล,1,3,Disagreeing well,การถกเถียงและความเห็นต่าง
+5,DAILY,psychology,Psychology and behavior,จิตวิทยาและพฤติกรรม,2,1,How the mind works,การทำงานของความคิด
+5,DAILY,psychology,Psychology and behavior,จิตวิทยาและพฤติกรรม,2,2,Emotions and wellbeing,อารมณ์และสุขภาวะทางใจ
+5,DAILY,psychology,Psychology and behavior,จิตวิทยาและพฤติกรรม,2,3,Habits and behavior,นิสัยและพฤติกรรม
+5,DAILY,economics,Economics in daily life,เศรษฐศาสตร์ในชีวิตประจำวัน,3,1,Prices and the cost of living,ราคาสินค้าและค่าครองชีพ
+5,DAILY,economics,Economics in daily life,เศรษฐศาสตร์ในชีวิตประจำวัน,3,2,Markets and incentives,ตลาดและแรงจูงใจ
+5,DAILY,economics,Economics in daily life,เศรษฐศาสตร์ในชีวิตประจำวัน,3,3,Personal money decisions,การตัดสินใจเรื่องเงินส่วนตัว
+5,DAILY,politics,Politics and power,การเมืองและอำนาจ,4,1,Elections and voters,การเลือกตั้งและผู้ลงคะแนน
+5,DAILY,politics,Politics and power,การเมืองและอำนาจ,4,2,Government and power,รัฐบาลและอำนาจรัฐ
+5,DAILY,politics,Politics and power,การเมืองและอำนาจ,4,3,Influence and public opinion,อิทธิพลและความคิดเห็นสาธารณะ
+5,WORK,strategy,Corporate strategy,กลยุทธ์องค์กร,13,1,Vision and direction,วิสัยทัศน์และทิศทาง
+5,WORK,strategy,Corporate strategy,กลยุทธ์องค์กร,13,2,Competing in the market,การแข่งขันในตลาด
+5,WORK,strategy,Corporate strategy,กลยุทธ์องค์กร,13,3,From plan to action,จากแผนสู่การลงมือทำ
+5,WORK,mergers,Mergers and investment,การควบรวมกิจการและการลงทุน,14,1,Deals and acquisitions,ข้อตกลงและการซื้อกิจการ
+5,WORK,mergers,Mergers and investment,การควบรวมกิจการและการลงทุน,14,2,Investors and capital,นักลงทุนและเงินทุน
+5,WORK,mergers,Mergers and investment,การควบรวมกิจการและการลงทุน,14,3,Risk and valuation,ความเสี่ยงและการประเมินมูลค่า
+5,WORK,compliance,Compliance and regulation,การกำกับดูแลและกฎระเบียบ,15,1,Rules and regulators,กฎและหน่วยงานกำกับดูแล
+5,WORK,compliance,Compliance and regulation,การกำกับดูแลและกฎระเบียบ,15,2,Audits and reporting,การตรวจสอบและการรายงาน
+5,WORK,compliance,Compliance and regulation,การกำกับดูแลและกฎระเบียบ,15,3,Violations and penalties,การละเมิดและบทลงโทษ
+5,WORK,change,Change management,การบริหารการเปลี่ยนแปลง,16,1,Leading change,การนำการเปลี่ยนแปลง
+5,WORK,change,Change management,การบริหารการเปลี่ยนแปลง,16,2,Resistance and adoption,การต่อต้านและการยอมรับ
+5,WORK,change,Change management,การบริหารการเปลี่ยนแปลง,16,3,Transition and new skills,การเปลี่ยนผ่านและทักษะใหม่

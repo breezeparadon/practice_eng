@@ -1,0 +1,337 @@
+level,category,lesson,order,headword,pos,phonetic,reading_th,meaning_th,example_en,example_th,note_en,emoji,reviewed
+2,money,1,1,ATM,noun,/ˌeɪ tiː ˈɛm/,เอทีเอ็ม,ตู้เอทีเอ็ม,I need to find an ATM before we go to the market.,ฉันต้องหาตู้เอทีเอ็มก่อนเราไปตลาด,,🏧,false
+2,money,1,2,debit card,noun,/ˈdɛbɪt kɑrd/,เด็บบิท คาร์ด,บัตรเดบิต,You can pay with a debit card at most shops here.,ร้านส่วนใหญ่แถวนี้จ่ายด้วยบัตรเดบิตได้,,💳,false
+2,money,1,3,bank transfer,noun,/ˈbæŋk ˌtrænsfɜr/,แบงก์ แทรนส์เฟอร์,การโอนเงินผ่านธนาคาร,I paid the hotel by bank transfer yesterday.,เมื่อวานฉันจ่ายค่าโรงแรมด้วยการโอนเงินผ่านธนาคาร,,,false
+2,money,1,4,account number,noun,/əˈkaʊnt ˌnʌmbər/,อะเคานท์ นัมเบอร์,เลขที่บัญชี,Please send me your account number so I can pay you.,ส่งเลขที่บัญชีมาให้ฉันหน่อย ฉันจะได้โอนเงินให้,,,false
+2,money,1,5,open an account,phrase,/ˈoʊpən ən əˈkaʊnt/,โอเพ่น แอน อะเคานท์,เปิดบัญชี,I want to open an account at the bank near my office.,ฉันอยากเปิดบัญชีที่ธนาคารใกล้ออฟฟิศ,,,false
+2,money,1,6,interest,noun,/ˈɪntrəst/,อินเทรสท์,ดอกเบี้ย,This savings account pays a little interest every month.,บัญชีออมทรัพย์นี้ให้ดอกเบี้ยเล็กน้อยทุกเดือน,,,false
+2,money,1,7,loan,noun,/loʊn/,โลน,เงินกู้,She got a loan from the bank to buy a car.,เธอกู้เงินจากธนาคารมาซื้อรถ,,,false
+2,money,1,8,owe,verb,/oʊ/,โอว์,ติดเงิน เป็นหนี้,I still owe my sister five hundred baht for lunch.,ฉันยังติดเงินค่าข้าวกลางวันพี่สาวอยู่ห้าร้อยบาท,,,false
+2,money,1,9,debt,noun,/dɛt/,เด็ท,หนี้,He works extra hours to pay his debt.,เขาทำงานเพิ่มชั่วโมงเพื่อใช้หนี้,The b in debt is silent.,,false
+2,money,1,10,mobile banking,noun,/ˈmoʊbəl ˈbæŋkɪŋ/,โมบายล์ แบงกิ้ง,บริการธนาคารบนมือถือ,I check my balance with mobile banking every morning.,ฉันเช็กยอดเงินด้วยแอปธนาคารบนมือถือทุกเช้า,,,false
+2,money,1,11,banknote,noun,/ˈbæŋknoʊt/,แบงก์โนท,ธนบัตร,The machine does not take old banknotes.,เครื่องนี้ไม่รับธนบัตรแบบเก่า,,💵,false
+2,money,1,12,currency,noun,/ˈkɜrənsi/,เคอเรนซี,สกุลเงิน,The baht is the currency we use in Thailand.,เงินบาทเป็นสกุลเงินที่เราใช้ในประเทศไทย,,,false
+2,money,1,13,money exchange,noun,/ˈmʌni ɪksˌtʃeɪndʒ/,มันนี่ เอ็กซ์เชนจ์,ร้านแลกเงิน,There is a money exchange next to the airport exit.,มีร้านแลกเงินอยู่ข้างทางออกสนามบิน,,,false
+2,money,1,14,security code,noun,/sɪˈkjʊrəti koʊd/,ซิเคียวริตี้ โค้ด,รหัสความปลอดภัย,Never tell anyone the security code on your card.,อย่าบอกรหัสความปลอดภัยบนบัตรให้ใครรู้เด็ดขาด,,,false
+2,money,2,1,cash register,noun,/ˈkæʃ ˌrɛdʒɪstər/,แคช เรจิสเตอร์,เครื่องเก็บเงิน,The cashier put the money in the cash register.,พนักงานเก็บเงินใส่เงินลงในเครื่องเก็บเงิน,,,false
+2,money,2,2,sale price,noun,/ˈseɪl praɪs/,เซล ไพรซ์,ราคาลด,The sale price of this shirt is only ninety-nine baht.,เสื้อตัวนี้ราคาลดเหลือแค่เก้าสิบเก้าบาท,,,false
+2,money,2,3,buy one get one free,phrase,/baɪ wʌn ɡɛt wʌn fri/,บาย วัน เก็ท วัน ฟรี,ซื้อหนึ่งแถมหนึ่ง,This week the shampoo is buy one get one free.,สัปดาห์นี้แชมพูซื้อหนึ่งแถมหนึ่ง,,,false
+2,money,2,4,scan to pay,phrase,/skæn tə peɪ/,สแกน ทู เพย์,สแกนจ่าย,Most street food sellers let you scan to pay with your phone.,ร้านอาหารริมทางส่วนใหญ่ให้สแกนจ่ายด้วยมือถือได้,,,false
+2,money,2,5,pricey,adjective,/ˈpraɪsi/,ไพรซี่,แพง(ภาษาพูด),"The coffee here is good, but it is a bit pricey.",กาแฟที่นี่อร่อย แต่แพงไปหน่อย,,,false
+2,money,2,6,checkout,noun,/ˈtʃekaʊt/,เช็กเอาต์,จุดชำระเงิน,There was a long line at the checkout this evening.,เย็นนี้มีคิวยาวที่จุดชำระเงิน,,,false
+2,money,2,7,shopping list,noun,/ˈʃɑpɪŋ lɪst/,ช็อปปิ้ง ลิสท์,รายการของที่จะซื้อ,I write a shopping list so I do not buy too much.,ฉันจดรายการของที่จะซื้อ จะได้ไม่ซื้อเกิน,,📝,false
+2,money,2,8,good value,phrase,/ɡʊd ˈvælju/,กู๊ด แวลิว,คุ้มราคา,The lunch set is good value at eighty baht.,ข้าวกลางวันชุดละแปดสิบบาทถือว่าคุ้มราคา,Often: good value for money.,,false
+2,money,2,9,installment,noun,/ɪnˈstɔlmənt/,อินสตอลเมนท์,งวดผ่อนชำระ,I pay for my new phone in twelve monthly installments.,ฉันผ่อนโทรศัพท์เครื่องใหม่สิบสองงวดรายเดือน,,,false
+2,money,2,10,reward points,noun,/rɪˈwɔrd pɔɪnts/,รีวอร์ด พอยท์ส,แต้มสะสม,I use my reward points to get a free coffee.,ฉันใช้แต้มสะสมแลกกาแฟฟรี,,,false
+2,money,2,11,haggle,verb,/ˈhæɡəl/,แฮกเกิล,ต่อราคา,Tourists often haggle with sellers at the night market.,นักท่องเที่ยวมักต่อราคากับแม่ค้าที่ตลาดกลางคืน,,,false
+2,money,2,12,shop around,phrasal verb,/ʃɑp əˈraʊnd/,ช็อป อะราวนด์,เดินดูหลายร้านก่อนซื้อ,It is a good idea to shop around before you buy a fridge.,ควรเดินดูหลายร้านก่อนซื้อตู้เย็น,,,false
+2,money,2,13,pay in cash,phrase,/peɪ ɪn kæʃ/,เพย์ อิน แคช,จ่ายเงินสด,"Can I pay in cash, or do you only take cards?",ฉันจ่ายเงินสดได้ไหม หรือรับแต่บัตร,,,false
+2,money,2,14,cash back,noun,/ˈkæʃ bæk/,แคช แบ็ก,เงินคืน,This card gives you two percent cash back on food.,บัตรนี้ให้เงินคืนสองเปอร์เซ็นต์เมื่อซื้ออาหาร,,,false
+2,money,3,1,money,noun,/ˈmʌni/,มันนี่,เงิน,I keep some money at home for small daily costs.,ฉันเก็บเงินไว้ที่บ้านบ้างสำหรับค่าใช้จ่ายเล็ก ๆ ในแต่ละวัน,,💰,false
+2,money,3,2,pocket money,noun,/ˈpɑkɪt ˌmʌni/,พ็อกเก็ต มันนี่,เงินค่าขนม,My son gets pocket money from us every Friday.,ลูกชายได้เงินค่าขนมจากเราทุกวันศุกร์,,,false
+2,money,3,3,piggy bank,noun,/ˈpɪɡi bæŋk/,พิกกี้ แบงก์,กระปุกออมสิน,My daughter puts her coins in a piggy bank.,ลูกสาวหยอดเหรียญใส่กระปุกออมสิน,,,false
+2,money,3,4,payday,noun,/ˈpeɪdeɪ/,เพย์เดย์,วันเงินเดือนออก,Payday is on the twenty-fifth of every month.,เงินเดือนออกทุกวันที่ยี่สิบห้าของเดือน,,,false
+2,money,3,5,cost of living,noun,/ˌkɔst əv ˈlɪvɪŋ/,คอสท์ ออฟ ลิฟวิ่ง,ค่าครองชีพ,The cost of living in Bangkok is higher than in my hometown.,ค่าครองชีพในกรุงเทพฯ สูงกว่าบ้านเกิดของฉัน,,,false
+2,money,3,6,electricity bill,noun,/ɪlɛkˈtrɪsəti bɪl/,อิเล็กทริซิตี้ บิล,ค่าไฟ,Our electricity bill is high in the hot season.,ค่าไฟของเราแพงในหน้าร้อน,,,false
+2,money,3,7,cut down,phrasal verb,/kʌt daʊn/,คัท ดาวน์,ลด(การใช้),I want to cut down on coffee to save money.,ฉันอยากลดกาแฟลงเพื่อประหยัดเงิน,Often: cut down on something.,,false
+2,money,3,8,emergency fund,noun,/ɪˈmɜrdʒənsi fʌnd/,อิเมอร์เจนซี ฟันด์,เงินสำรองฉุกเฉิน,Try to keep an emergency fund of three months' pay.,พยายามเก็บเงินสำรองฉุกเฉินไว้เท่ากับค่าจ้างสามเดือน,,,false
+2,money,3,9,save up,phrasal verb,/seɪv ʌp/,เซฟ อัพ,เก็บเงิน(เพื่อซื้อบางอย่าง),I want to save up for a new laptop.,ฉันอยากเก็บเงินซื้อแล็ปท็อปเครื่องใหม่,Often: save up for something.,,false
+2,money,3,10,spending,noun,/ˈspɛndɪŋ/,สเปนดิ้ง,รายจ่าย การใช้จ่าย,I check my spending on the app every week.,ฉันเช็กรายจ่ายของตัวเองในแอปทุกสัปดาห์,,,false
+2,money,3,11,rich,adjective,/rɪtʃ/,ริช,รวย,"He is not rich, but he is careful with money.",เขาไม่ได้รวย แต่ใช้เงินอย่างระมัดระวัง,,,false
+2,money,3,12,poor,adjective,/pʊr/,พัวร์,ยากจน,Many poor families in the village do not have a car.,หลายครอบครัวที่ยากจนในหมู่บ้านไม่มีรถ,,,false
+2,money,3,13,lottery,noun,/ˈlɑtəri/,ลอตเตอรี่,สลากกินแบ่ง ลอตเตอรี่,My uncle buys a lottery ticket twice a month.,ลุงซื้อลอตเตอรี่เดือนละสองครั้ง,,,false
+2,money,3,14,waste,verb,/weɪst/,เวสท์,ใช้อย่างสิ้นเปลือง,Don't waste your money on things you never use.,อย่าเปลืองเงินกับของที่คุณไม่เคยใช้,,,false
+2,environment,1,1,forecast,noun,/ˈfɔrkæst/,ฟอร์แคสท์,การพยากรณ์,The weather forecast says it will rain this afternoon.,พยากรณ์อากาศบอกว่าบ่ายนี้ฝนจะตก,,,false
+2,environment,1,2,sunshine,noun,/ˈsʌnʃaɪn/,ซันไชน์,แสงแดด,Let's sit outside and enjoy the morning sunshine.,ไปนั่งข้างนอกรับแดดยามเช้ากันเถอะ,,,false
+2,environment,1,3,degree,noun,/dɪˈɡriː/,ดีกรี,องศา,"It is thirty-five degrees outside, so drink lots of water.",ข้างนอกสามสิบห้าองศา ดื่มน้ำเยอะ ๆ นะ,,,false
+2,environment,1,4,humid,adjective,/ˈhjuːmɪd/,ฮิวมิด,ชื้น อบอ้าว,The air is very humid before a big storm.,อากาศชื้นมากก่อนพายุใหญ่จะมา,,,false
+2,environment,1,5,thunder,noun,/ˈθʌndər/,ธันเดอร์,ฟ้าร้อง,The children woke up because of the loud thunder.,เด็ก ๆ ตื่นเพราะเสียงฟ้าร้องดัง,,,false
+2,environment,1,6,lightning,noun,/ˈlaɪtnɪŋ/,ไลท์นิ่ง,ฟ้าแลบ ฟ้าผ่า,Stay inside when there is lightning in the sky.,อยู่ในอาคารเมื่อมีฟ้าแลบบนท้องฟ้า,,⚡,false
+2,environment,1,7,foggy,adjective,/ˈfɑɡi/,ฟ็อกกี้,มีหมอก,Please drive slowly on foggy mornings in the mountains.,กรุณาขับช้า ๆ ในเช้าที่มีหมอกบนภูเขา,,🌫️,false
+2,environment,1,8,rainbow,noun,/ˈreɪnboʊ/,เรนโบว์,รุ้งกินน้ำ,We saw a rainbow over the lake after the rain.,เราเห็นรุ้งกินน้ำเหนือทะเลสาบหลังฝนหยุด,,🌈,false
+2,environment,1,9,wind,noun,/wɪnd/,วินด์,ลม,The wind is very strong near the sea today.,วันนี้ลมแรงมากแถวชายทะเล,,,false
+2,environment,1,10,dry,adjective,/draɪ/,ดราย,แห้ง,The weather is dry and cool in December.,เดือนธันวาคมอากาศแห้งและเย็นสบาย,,,false
+2,environment,1,11,wet,adjective,/wɛt/,เว็ท,เปียก,My shoes got wet on the way to work.,รองเท้าฉันเปียกระหว่างทางไปทำงาน,,,false
+2,environment,1,12,rainy season,noun,/ˈreɪni ˌsiːzən/,เรนนี่ ซีซั่น,ฤดูฝน,Bring an umbrella every day in the rainy season.,ฤดูฝนต้องพกร่มทุกวัน,,,false
+2,environment,1,13,heat,noun,/hiːt/,ฮีท,ความร้อน,Old people should stay indoors in the midday heat.,ผู้สูงอายุควรอยู่ในบ้านช่วงเที่ยงที่อากาศร้อนจัด,,,false
+2,environment,1,14,freezing,adjective,/ˈfriːzɪŋ/,ฟรีซซิ่ง,หนาวจัด,The office is freezing because the air conditioner is too strong.,ออฟฟิศหนาวจัดเพราะแอร์แรงเกินไป,,,false
+2,environment,2,1,flood,noun,/flʌd/,ฟลัด,น้ำท่วม,The flood closed many roads in the city last year.,ปีที่แล้วน้ำท่วมทำให้ถนนในเมืองปิดหลายสาย,,,false
+2,environment,2,2,drought,noun,/draʊt/,เดราท์,ภัยแล้ง,Farmers lose a lot of rice during a long drought.,ชาวนาเสียข้าวไปมากในช่วงภัยแล้งที่ยาวนาน,,,false
+2,environment,2,3,earthquake,noun,/ˈɜrθkweɪk/,เอิร์ธเควค,แผ่นดินไหว,Our building shook a little during the earthquake.,อาคารของเราสั่นเล็กน้อยตอนแผ่นดินไหว,,,false
+2,environment,2,4,typhoon,noun,/taɪˈfuːn/,ไต้ฝุ่น,พายุไต้ฝุ่น,Many flights were cancelled because of the typhoon.,เที่ยวบินหลายเที่ยวถูกยกเลิกเพราะพายุไต้ฝุ่น,,🌀,false
+2,environment,2,5,wildfire,noun,/ˈwaɪldfaɪər/,ไวลด์ไฟเออร์,ไฟป่า,Smoke from the wildfire covered the whole town.,ควันจากไฟป่าปกคลุมทั้งเมือง,,,false
+2,environment,2,6,haze,noun,/heɪz/,เฮซ,หมอกควัน,The haze in the north is very bad in March.,หมอกควันทางภาคเหนือหนักมากในเดือนมีนาคม,,,false
+2,environment,2,7,air pollution,noun,/ɛr pəˈluːʃən/,แอร์ พอลลูชั่น,มลพิษทางอากาศ,"Air pollution is high today, so wear a mask outside.",วันนี้มลพิษทางอากาศสูง ออกไปข้างนอกให้ใส่หน้ากาก,,,false
+2,environment,2,8,plastic bag,noun,/ˈplæstɪk bæɡ/,พลาสติก แบ็ก,ถุงพลาสติก,Bring your own bag instead of taking a plastic bag.,นำถุงมาเองแทนการรับถุงพลาสติก,,,false
+2,environment,2,9,garbage,noun,/ˈɡɑrbɪdʒ/,การ์บิจ,ขยะ,Please put the garbage in the big bin outside.,กรุณาทิ้งขยะลงถังใบใหญ่ข้างนอก,,,false
+2,environment,2,10,bin,noun,/bɪn/,บิน,ถังขยะ,There is a recycling bin next to the lift.,มีถังขยะรีไซเคิลอยู่ข้างลิฟต์,,🗑️,false
+2,environment,2,11,environment,noun,/ɪnˈvaɪrənmənt/,เอ็นไวรอนเมนท์,สิ่งแวดล้อม,We should take care of the environment for our children.,เราควรดูแลสิ่งแวดล้อมเพื่อลูกหลานของเรา,,,false
+2,environment,2,12,nature,noun,/ˈneɪtʃər/,เนเจอร์,ธรรมชาติ,I like to walk in nature on the weekend.,ฉันชอบเดินเล่นท่ามกลางธรรมชาติในวันหยุดสุดสัปดาห์,,,false
+2,environment,2,13,pollute,verb,/pəˈluːt/,พอลลูท,ทำให้เป็นมลพิษ,Factories should not pollute the river with dirty water.,โรงงานไม่ควรปล่อยน้ำเสียทำให้แม่น้ำเป็นมลพิษ,,,false
+2,environment,2,14,protect,verb,/prəˈtɛkt/,โพรเท็คท์,ปกป้อง,We plant trees to protect the land from floods.,เราปลูกต้นไม้เพื่อปกป้องผืนดินจากน้ำท่วม,,,false
+2,environment,3,1,reuse,verb,/riːˈjuːz/,รียูส,นำกลับมาใช้ใหม่,I reuse glass jars to keep rice and beans.,ฉันนำขวดโหลแก้วกลับมาใช้ใส่ข้าวและถั่ว,,,false
+2,environment,3,2,reduce,verb,/rɪˈduːs/,รีดิวซ์,ลด,We can reduce waste by bringing our own cups.,เราลดขยะได้ด้วยการพกแก้วมาเอง,,,false
+2,environment,3,3,energy,noun,/ˈɛnərdʒi/,เอเนอร์จี,พลังงาน,Turn off the lights to save energy.,ปิดไฟเพื่อประหยัดพลังงาน,,,false
+2,environment,3,4,solar panel,noun,/ˈsoʊlər ˌpænəl/,โซลาร์ แพเนล,แผงโซลาร์เซลล์,We put a solar panel on the roof last year.,ปีที่แล้วเราติดแผงโซลาร์เซลล์บนหลังคา,,,false
+2,environment,3,5,plant,verb,/plænt/,แพลนท์,ปลูก,Our team will plant trees in the park on Saturday.,ทีมของเราจะไปปลูกต้นไม้ที่สวนสาธารณะวันเสาร์,,,false
+2,environment,3,6,cloth bag,noun,/ˈklɔθ bæɡ/,คลอธ แบ็ก,ถุงผ้า,I always keep a cloth bag in my backpack for shopping.,ฉันพกถุงผ้าไว้ในเป้เสมอเผื่อไปซื้อของ,,,false
+2,environment,3,7,recycling bin,noun,/riˈsaɪklɪŋ bɪn/,รีไซคลิง บิน,ถังขยะรีไซเคิล,Please put empty bottles and cans in the recycling bin.,กรุณาทิ้งขวดและกระป๋องเปล่าลงในถังขยะรีไซเคิล,,,false
+2,environment,3,8,public transport,noun,/ˈpʌblɪk ˈtrænspɔrt/,พับลิค ทรานสปอร์ต,ขนส่งสาธารณะ,Using public transport is better for the air than driving.,การใช้ขนส่งสาธารณะดีต่ออากาศมากกว่าการขับรถ,,,false
+2,environment,3,9,clean up,phrasal verb,/kliːn ʌp/,คลีน อัพ,เก็บกวาด ทำความสะอาด,Volunteers will clean up the beach on Sunday morning.,อาสาสมัครจะไปเก็บกวาดชายหาดเช้าวันอาทิตย์,,,false
+2,environment,3,10,litter,verb,/ˈlɪtər/,ลิทเทอร์,ทิ้งขยะไม่เป็นที่,Please do not litter in the park or on the street.,กรุณาอย่าทิ้งขยะเรี่ยราดในสวนหรือบนถนน,,,false
+2,environment,3,11,natural,adjective,/ˈnætʃərəl/,แนเชอรัล,จากธรรมชาติ,This soap is made from natural things like rice and honey.,สบู่นี้ทำจากของธรรมชาติอย่างข้าวและน้ำผึ้ง,,,false
+2,environment,3,12,wildlife,noun,/ˈwaɪldlaɪf/,ไวลด์ไลฟ์,สัตว์ป่า,The national park is home to a lot of wildlife.,อุทยานแห่งชาติเป็นที่อยู่ของสัตว์ป่ามากมาย,,,false
+2,environment,3,13,eco-friendly,adjective,/ˌiːkoʊ ˈfrɛndli/,อีโค เฟรนด์ลี่,เป็นมิตรต่อสิ่งแวดล้อม,These eco-friendly cups are made from paper.,แก้วที่เป็นมิตรต่อสิ่งแวดล้อมเหล่านี้ทำจากกระดาษ,,,false
+2,environment,3,14,climate,noun,/ˈklaɪmət/,ไคลเมท,ภูมิอากาศ,The climate in the south is hot and wet all year.,ภูมิอากาศทางภาคใต้ร้อนชื้นทั้งปี,,,false
+2,celebrations,1,1,party hat,noun,/ˈpɑrti hæt/,ปาร์ตี้ แฮท,หมวกปาร์ตี้,The kids all wore party hats at the birthday party.,เด็ก ๆ ทุกคนใส่หมวกปาร์ตี้ในงานวันเกิด,,,false
+2,celebrations,1,2,balloon,noun,/bəˈluːn/,บอลลูน,ลูกโป่ง,We put red balloons on the wall for the party.,เราติดลูกโป่งสีแดงบนผนังสำหรับงานเลี้ยง,,🎈,false
+2,celebrations,1,3,candle,noun,/ˈkændəl/,แคนเดิล,เทียน,There are thirty candles on the cake for her birthday.,บนเค้กวันเกิดของเธอมีเทียนสามสิบเล่ม,,🕯️,false
+2,celebrations,1,4,blow out,phrasal verb,/bloʊ aʊt/,โบลว์ เอาท์,เป่า(ให้ดับ),"Make a wish, then blow out the candles.",อธิษฐานก่อน แล้วค่อยเป่าเทียน,,,false
+2,celebrations,1,5,make a wish,phrase,/meɪk ə wɪʃ/,เมค อะ วิช,อธิษฐาน ขอพร,Close your eyes and make a wish before you cut the cake.,หลับตาแล้วอธิษฐานก่อนตัดเค้ก,,,false
+2,celebrations,1,6,present,noun,/ˈprɛzənt/,เพรสเซ้นท์,ของขวัญ,I bought a small present for my best friend.,ฉันซื้อของขวัญชิ้นเล็ก ๆ ให้เพื่อนสนิท,,🎁,false
+2,celebrations,1,7,wrapping paper,noun,/ˈræpɪŋ ˌpeɪpər/,แรพปิ้ง เพเพอร์,กระดาษห่อของขวัญ,We need more wrapping paper for these gifts.,เราต้องใช้กระดาษห่อของขวัญเพิ่มสำหรับของพวกนี้,,,false
+2,celebrations,1,8,greeting card,noun,/ˈɡriːtɪŋ kɑrd/,กรีททิ่ง คาร์ด,การ์ดอวยพร,Everyone in the team signed a greeting card for Nok.,ทุกคนในทีมเซ็นชื่อในการ์ดอวยพรให้นก,,,false
+2,celebrations,1,9,host,verb,/hoʊst/,โฮสต์,เป็นเจ้าภาพจัดงาน,We are hosting a small party for Mia's birthday on Saturday.,เราจะเป็นเจ้าภาพจัดงานเลี้ยงเล็ก ๆ ฉลองวันเกิดมีอาในวันเสาร์,,,false
+2,celebrations,1,10,potluck,noun,/ˈpɑtlʌk/,พ็อตลัค,งานเลี้ยงที่ทุกคนนำอาหารมาแบ่งกัน,"Our team is having a potluck, so please bring one dish.",ทีมเราจะจัดงานเลี้ยงแบบนำอาหารมาแบ่งกัน ช่วยนำอาหารมาคนละหนึ่งอย่าง,,,false
+2,celebrations,1,11,throw a party,phrase,/θroʊ ə ˈpɑrti/,โธรว์ อะ ปาร์ตี้,จัดงานเลี้ยง,We will throw a party when the project is finished.,เราจะจัดงานเลี้ยงเมื่อโปรเจกต์เสร็จ,,,false
+2,celebrations,1,12,surprise party,noun,/sərˈpraɪz ˌpɑrti/,เซอร์ไพรซ์ ปาร์ตี้,งานเลี้ยงเซอร์ไพรส์,We are planning a surprise party for our manager.,เรากำลังวางแผนจัดงานเลี้ยงเซอร์ไพรส์ให้ผู้จัดการ,,,false
+2,celebrations,1,13,decorate,verb,/ˈdɛkəreɪt/,เดคคอเรท,ตกแต่ง,Can you help me decorate the room before the guests arrive?,ช่วยฉันตกแต่งห้องก่อนแขกมาได้ไหม,,,false
+2,celebrations,1,14,guest list,noun,/ˈɡɛst lɪst/,เกสท์ ลิสท์,รายชื่อแขก,Please add my cousin to the guest list.,ช่วยเพิ่มชื่อลูกพี่ลูกน้องฉันในรายชื่อแขกด้วย,,,false
+2,celebrations,2,1,festival,noun,/ˈfɛstəvəl/,เฟสติวัล,เทศกาล,Songkran is the biggest festival in Thailand.,สงกรานต์เป็นเทศกาลที่ใหญ่ที่สุดในประเทศไทย,,,false
+2,celebrations,2,2,New Year,noun,/ˌnuː ˈjɪr/,นิว เยียร์,ปีใหม่,We go back to our parents' house every New Year.,เรากลับบ้านพ่อแม่ทุกปีใหม่,,,false
+2,celebrations,2,3,Christmas,noun,/ˈkrɪsməs/,คริสต์มาส,คริสต์มาส,The mall puts up a big tree for Christmas.,ห้างตั้งต้นไม้ใหญ่สำหรับคริสต์มาส,,🎄,false
+2,celebrations,2,4,fireworks,noun,/ˈfaɪərwɜrks/,ไฟเออร์เวิร์คส,ดอกไม้ไฟ,We watched the fireworks by the river at midnight.,เราดูดอกไม้ไฟริมแม่น้ำตอนเที่ยงคืน,,🎆,false
+2,celebrations,2,5,parade,noun,/pəˈreɪd/,พาเหรด,ขบวนพาเหรด,The children walked in the parade in colorful clothes.,เด็ก ๆ เดินในขบวนพาเหรดด้วยชุดสีสันสดใส,,,false
+2,celebrations,2,6,lantern,noun,/ˈlæntərn/,แลนเทิร์น,โคม,People let paper lanterns go into the night sky.,ผู้คนปล่อยโคมกระดาษขึ้นสู่ท้องฟ้ายามค่ำคืน,,🏮,false
+2,celebrations,2,7,costume,noun,/ˈkɑstuːm/,คอสตูม,ชุดแฟนซี ชุดแต่งกาย,She wore a cat costume to the Halloween party.,เธอใส่ชุดแมวไปงานปาร์ตี้ฮาโลวีน,,,false
+2,celebrations,2,8,long weekend,noun,/ˌlɔŋ ˈwiːkɛnd/,ลอง วีคเอนด์,วันหยุดยาว,Many people travel to the beach during the long weekend.,หลายคนไปเที่ยวทะเลช่วงวันหยุดยาว,,,false
+2,celebrations,2,9,tradition,noun,/trəˈdɪʃən/,เทรดิชั่น,ประเพณี,Pouring water on older people's hands is a Songkran tradition.,การรดน้ำที่มือผู้ใหญ่เป็นประเพณีสงกรานต์,,,false
+2,celebrations,2,10,traditional,adjective,/trəˈdɪʃənəl/,เทรดิชันนัล,แบบดั้งเดิม ตามประเพณี,My grandmother wears a traditional Thai dress at festivals.,คุณยายใส่ชุดไทยแบบดั้งเดิมไปงานเทศกาล,,,false
+2,celebrations,2,11,pray,verb,/preɪ/,เพรย์,สวดมนต์ อธิษฐาน,Many people go to the temple to pray on New Year's Day.,หลายคนไปวัดสวดมนต์ในวันขึ้นปีใหม่,,,false
+2,celebrations,2,12,monk,noun,/mʌŋk/,มังค์,พระสงฆ์,We give food to the monks early in the morning.,เราใส่บาตรพระตอนเช้าตรู่,,,false
+2,celebrations,2,13,hometown,noun,/ˈhoʊmtaʊn/,โฮมทาวน์,บ้านเกิด,Most of my coworkers go back to their hometown at Songkran.,เพื่อนร่วมงานส่วนใหญ่กลับบ้านเกิดช่วงสงกรานต์,,,false
+2,celebrations,2,14,countdown,noun,/ˈkaʊntdaʊn/,เคาท์ดาวน์,การนับถอยหลัง,We joined the New Year countdown at the mall.,เราไปร่วมนับถอยหลังปีใหม่ที่ห้าง,,,false
+2,celebrations,3,1,bride,noun,/braɪd/,ไบรด์,เจ้าสาว,The bride wore a beautiful white dress.,เจ้าสาวสวมชุดสีขาวที่สวยงาม,,👰,false
+2,celebrations,3,2,groom,noun,/ɡruːm/,กรูม,เจ้าบ่าว,The groom gave a short speech to thank everyone.,เจ้าบ่าวกล่าวขอบคุณทุกคนสั้น ๆ,,🤵,false
+2,celebrations,3,3,speech,noun,/spiːtʃ/,สปีช,การกล่าวสุนทรพจน์,Our CEO will give a speech at the New Year party.,ซีอีโอของเราจะขึ้นกล่าวในงานเลี้ยงปีใหม่,Often: give a speech.,,false
+2,celebrations,3,4,toast,noun,/toʊst/,โทสท์,การดื่มอวยพร,Let's make a toast to the happy couple!,มาดื่มอวยพรให้คู่บ่าวสาวกันเถอะ,,🥂,false
+2,celebrations,3,5,wedding ring,noun,/ˈwɛdɪŋ rɪŋ/,เวดดิ้ง ริง,แหวนแต่งงาน,He put the wedding ring on her finger.,เขาสวมแหวนแต่งงานที่นิ้วของเธอ,,💍,false
+2,celebrations,3,6,honeymoon,noun,/ˈhʌnimuːn/,ฮันนีมูน,การไปเที่ยวหลังแต่งงาน ฮันนีมูน,They went to Phuket for their honeymoon.,พวกเขาไปฮันนีมูนที่ภูเก็ต,,,false
+2,celebrations,3,7,anniversary,noun,/ˌænɪˈvɜrsəri/,แอนนิเวอร์ซารี,วันครบรอบ,The company will have a party for its tenth anniversary.,บริษัทจะจัดงานเลี้ยงฉลองครบรอบสิบปี,,,false
+2,celebrations,3,8,year-end party,noun,/ˌjɪr ˈɛnd ˌpɑrti/,เยียร์ เอ็นด์ ปาร์ตี้,งานเลี้ยงสิ้นปี,Our year-end party is at a hotel this year.,ปีนี้งานเลี้ยงสิ้นปีของเราจัดที่โรงแรม,,,false
+2,celebrations,3,9,lucky draw,noun,/ˈlʌki drɔ/,ลัคกี้ ดรอว์,การจับสลากรางวัล,I won a rice cooker in the lucky draw.,ฉันได้หม้อหุงข้าวจากการจับสลาก,,,false
+2,celebrations,3,10,award,noun,/əˈwɔːrd/,อะวอร์ด,รางวัล,She got an award for best employee at the year-end party.,เธอได้รับรางวัลพนักงานดีเด่นในงานเลี้ยงสิ้นปี,,,false
+2,celebrations,3,11,dance floor,noun,/ˈdæns flɔr/,แดนซ์ ฟลอร์,ฟลอร์เต้นรำ,Everyone went to the dance floor after dinner.,หลังอาหารเย็นทุกคนออกไปที่ฟลอร์เต้นรำ,,,false
+2,celebrations,3,12,best wishes,phrase,/best ˈwɪʃɪz/,เบสต์ วิชชิซ,คำอวยพร,We wrote our best wishes on a card for the happy couple.,เราเขียนคำอวยพรลงในการ์ดให้คู่บ่าวสาว,,,false
+2,celebrations,3,13,cheers,interjection,/tʃɪrz/,เชียร์ส,ไชโย ชนแก้ว,Cheers! Here's to a great year for our team.,ชนแก้ว! ขอให้ทีมเรามีปีที่ดี,,,false
+2,celebrations,3,14,DJ,noun,/ˈdiː dʒeɪ/,ดีเจ,ดีเจ,The DJ played music until midnight.,ดีเจเปิดเพลงจนถึงเที่ยงคืน,,,false
+2,fitness,1,1,sepak takraw,noun,/ˌseɪpɑːk ˈtɑːkrɔː/,เซปัก ตะกร้อ,กีฬาเซปักตะกร้อ,Sepak takraw is very popular in Thailand and Malaysia.,เซปักตะกร้อเป็นกีฬาที่นิยมมากในไทยและมาเลเซีย,,,false
+2,fitness,1,2,futsal,noun,/ˈfʊtsɑːl/,ฟุตซอล,กีฬาฟุตซอล,We play futsal with our coworkers every Wednesday evening.,เราเล่นฟุตซอลกับเพื่อนร่วมงานทุกเย็นวันพุธ,,,false
+2,fitness,1,3,baseball,noun,/ˈbeɪsbɔːl/,เบสบอล,กีฬาเบสบอล,Baseball is the most popular sport in Japan.,เบสบอลเป็นกีฬายอดนิยมที่สุดในญี่ปุ่น,,⚾,false
+2,fitness,1,4,rugby,noun,/ˈrʌɡbi/,รักบี้,กีฬารักบี้,"Rugby is a rough game, so players often get hurt.",รักบี้เป็นกีฬาที่รุนแรง ผู้เล่นจึงบาดเจ็บบ่อย,,🏉,false
+2,fitness,1,5,swimming,noun,/ˈswɪmɪŋ/,สวิมมิง,การว่ายน้ำ,Swimming is a great sport for people with back pain.,การว่ายน้ำเป็นกีฬาที่ดีสำหรับคนที่ปวดหลัง,,🏊,false
+2,fitness,1,6,athlete,noun,/ˈæθliːt/,แอธลีต,นักกีฬา,Thai athletes won three gold medals at the games.,นักกีฬาไทยได้เหรียญทองสามเหรียญในการแข่งขัน,,,false
+2,fitness,1,7,opponent,noun,/əˈpoʊnənt/,อะโพเนินต์,คู่แข่ง ฝ่ายตรงข้าม,Our opponent in the final is a very strong team.,คู่แข่งของเราในรอบชิงเป็นทีมที่แข็งมาก,,,false
+2,fitness,1,8,tournament,noun,/ˈtʊrnəmənt/,เทอร์นะเมินต์,การแข่งขันชิงแชมป์,Our company joins a futsal tournament every December.,บริษัทของเราเข้าร่วมการแข่งขันฟุตซอลทุกเดือนธันวาคม,,,false
+2,fitness,1,9,league,noun,/liːɡ/,ลีก,ลีกการแข่งขัน,Which team is at the top of the league this season?,ทีมไหนอยู่อันดับหนึ่งของลีกในฤดูกาลนี้,,,false
+2,fitness,1,10,half-time,noun,/ˈhæf taɪm/,ฮาล์ฟไทม์,ช่วงพักครึ่งเวลา,The players drank water and rested at half-time.,นักกีฬาดื่มน้ำและพักในช่วงพักครึ่งเวลา,,,false
+2,fitness,1,11,spectator,noun,/ˈspekteɪtər/,สเป็กเทเทอร์,ผู้ชมการแข่งขัน,More than five thousand spectators watched the final match.,ผู้ชมมากกว่าห้าพันคนดูการแข่งขันนัดชิง,,,false
+2,fitness,1,12,defend,verb,/dɪˈfend/,ดิเฟนด์,ป้องกัน ตั้งรับ,Our team needs to defend better in the second half.,ทีมเราต้องตั้งรับให้ดีกว่านี้ในครึ่งหลัง,,,false
+2,fitness,1,13,goalkeeper,noun,/ˈɡoʊlkiːpər/,โกลคีปเปอร์,ผู้รักษาประตู,The goalkeeper caught the ball with both hands.,ผู้รักษาประตูรับลูกบอลด้วยสองมือ,,,false
+2,fitness,1,14,shoot,verb,/ʃuːt/,ชูต,ยิงประตู,He shoots with his left foot and rarely misses.,เขายิงประตูด้วยเท้าซ้ายและแทบไม่เคยพลาด,,,false
+2,fitness,2,1,work out,phrasal verb,/wɜrk aʊt/,เวิร์ค เอาท์,ออกกำลังกาย,I work out at the gym three times a week.,ฉันออกกำลังกายที่ยิมสัปดาห์ละสามครั้ง,,,false
+2,fitness,2,2,treadmill,noun,/ˈtrɛdmɪl/,เทรดมิล,ลู่วิ่งไฟฟ้า,I run on the treadmill for twenty minutes every morning.,ฉันวิ่งบนลู่วิ่งไฟฟ้ายี่สิบนาทีทุกเช้า,,,false
+2,fitness,2,3,push-up,noun,/ˈpʊʃ ʌp/,พุช อัพ,การวิดพื้น,Can you do twenty push-ups without a break?,คุณวิดพื้นยี่สิบครั้งโดยไม่พักได้ไหม,,,false
+2,fitness,2,4,sit-up,noun,/ˈsɪt ʌp/,ซิท อัพ,การซิทอัพ,I do fifty sit-ups before I go to bed.,ฉันซิทอัพห้าสิบครั้งก่อนเข้านอน,,,false
+2,fitness,2,5,lift weights,phrase,/lɪft weɪts/,ลิฟท์ เวทส์,ยกน้ำหนัก,He likes to lift weights after work.,เขาชอบยกน้ำหนักหลังเลิกงาน,,,false
+2,fitness,2,6,dumbbell,noun,/ˈdʌmbɛl/,ดัมเบล,ดัมเบล,Use a light dumbbell if you are new to the gym.,ถ้าเพิ่งเริ่มเล่นยิม ให้ใช้ดัมเบลน้ำหนักเบา,,,false
+2,fitness,2,7,jump rope,noun,/ˈdʒʌmp roʊp/,จัมพ์ โรป,เชือกกระโดด,I keep a jump rope in my bag for a quick workout.,ฉันพกเชือกกระโดดไว้ในกระเป๋าเพื่อออกกำลังกายสั้น ๆ,,,false
+2,fitness,2,8,cool down,phrasal verb,/kuːl daʊn/,คูล ดาวน์,คลายกล้ามเนื้อหลังออกกำลังกาย,Walk slowly for a few minutes to cool down after a run.,เดินช้า ๆ สักสองสามนาทีเพื่อคลายร่างกายหลังวิ่ง,,,false
+2,fitness,2,9,muscle,noun,/ˈmʌsəl/,มัสเซิล,กล้ามเนื้อ,My leg muscles hurt after yesterday's class.,กล้ามเนื้อขาฉันปวดหลังเข้าคลาสเมื่อวาน,The c in muscle is silent.,💪,false
+2,fitness,2,10,in shape,phrase,/ɪn ʃeɪp/,อิน เชป,ร่างกายฟิต หุ่นดี,I go swimming every week to stay in shape.,ฉันไปว่ายน้ำทุกสัปดาห์เพื่อให้ร่างกายฟิต,"Often: stay in shape, get in shape.",,false
+2,fitness,2,11,locker,noun,/ˈlɑkər/,ล็อกเกอร์,ตู้ล็อกเกอร์,Put your bag in a locker before the class starts.,เก็บกระเป๋าไว้ในตู้ล็อกเกอร์ก่อนเริ่มคลาส,,,false
+2,fitness,2,12,personal trainer,noun,/ˈpɜrsənəl ˈtreɪnər/,เพอร์ซันนัล เทรนเนอร์,เทรนเนอร์ส่วนตัว,My personal trainer shows me how to use each machine.,เทรนเนอร์ส่วนตัวสอนฉันใช้เครื่องแต่ละเครื่อง,,,false
+2,fitness,2,13,mat,noun,/mæt/,แมท,เสื่อ แผ่นรอง,Put your yoga mat on the floor and lie down.,วางเสื่อโยคะบนพื้นแล้วนอนลง,,,false
+2,fitness,2,14,out of breath,phrase,/aʊt əv ˈbrɛθ/,เอาท์ ออฟ เบรธ,หอบ หายใจไม่ทัน,I was out of breath after I ran up the stairs.,ฉันหอบหลังวิ่งขึ้นบันได,,,false
+2,fitness,3,1,trail,noun,/treɪl/,เทรล,เส้นทางในป่าหรือภูเขา,We ran along a forest trail near the waterfall.,เราวิ่งไปตามเส้นทางในป่าใกล้น้ำตก,,,false
+2,fitness,3,2,lap,noun,/læp/,แลป,รอบสนาม,I run ten laps around the park every morning.,ฉันวิ่งรอบสวนสิบรอบทุกเช้า,,,false
+2,fitness,3,3,runner,noun,/ˈrʌnər/,รันเนอร์,นักวิ่ง,Hundreds of runners started the race at six in the morning.,นักวิ่งหลายร้อยคนเริ่มออกวิ่งตอนหกโมงเช้า,,🏃,false
+2,fitness,3,4,finish line,noun,/ˈfɪnɪʃ laɪn/,ฟินิช ไลน์,เส้นชัย,I was very tired when I crossed the finish line.,ฉันเหนื่อยมากตอนวิ่งเข้าเส้นชัย,,,false
+2,fitness,3,5,trophy,noun,/ˈtroʊfi/,โทรฟี,ถ้วยรางวัล,Our running team brought the trophy back to the office.,ทีมวิ่งของเรานำถ้วยรางวัลกลับมาที่ออฟฟิศ,,🏆,false
+2,fitness,3,6,running shoes,noun,/ˈrʌnɪŋ ʃuːz/,รันนิ่ง ชูส์,รองเท้าวิ่ง,I need new running shoes before the race.,ฉันต้องซื้อรองเท้าวิ่งคู่ใหม่ก่อนวันแข่ง,,👟,false
+2,fitness,3,7,hike,verb,/haɪk/,ไฮค์,เดินป่า เดินเขา,We like to hike in the mountains on long weekends.,เราชอบเดินป่าบนภูเขาในวันหยุดยาว,,🥾,false
+2,fitness,3,8,cycle,verb,/ˈsaɪkəl/,ไซเคิล,ปั่นจักรยาน,I cycle to work when the weather is good.,ฉันปั่นจักรยานไปทำงานเมื่ออากาศดี,,🚴,false
+2,fitness,3,9,rock climbing,noun,/ˈrɑːk ˌklaɪmɪŋ/,ร็อก ไคลมิง,การปีนหน้าผา,We tried rock climbing in Krabi last summer.,เราลองปีนหน้าผาที่กระบี่เมื่อหน้าร้อนที่แล้ว,,🧗,false
+2,fitness,3,10,surf,verb,/sɝːf/,เซิร์ฟ,โต้คลื่น เล่นเซิร์ฟ,My friends learned to surf in Phuket during the holiday.,เพื่อน ๆ ของฉันหัดเล่นเซิร์ฟที่ภูเก็ตช่วงวันหยุด,,🏄,false
+2,fitness,3,11,kayak,noun,/ˈkaɪæk/,ไคแอ็ก,เรือคายัค,We rented a kayak and paddled around the island.,เราเช่าเรือคายัคแล้วพายรอบเกาะ,,🛶,false
+2,fitness,3,12,skateboard,noun,/ˈskeɪtbɔːrd/,สเกตบอร์ด,สเกตบอร์ด,My son rides his skateboard in the park after school.,ลูกชายฉันเล่นสเกตบอร์ดที่สวนสาธารณะหลังเลิกเรียน,,🛹,false
+2,fitness,3,13,outdoor,adjective,/ˈaʊtdɔr/,เอาท์ดอร์,กลางแจ้ง,I prefer outdoor sports to working out in a gym.,ฉันชอบกีฬากลางแจ้งมากกว่าออกกำลังกายในยิม,,,false
+2,fitness,3,14,injury,noun,/ˈɪndʒəri/,อินจูรี,การบาดเจ็บ,Warm up well to avoid an injury.,อบอุ่นร่างกายให้ดีเพื่อป้องกันการบาดเจ็บ,,,false
+2,hospitality,1,1,luggage cart,noun,/ˈlʌɡɪdʒ kɑːrt/,ลักกิจ คาร์ต,รถเข็นกระเป๋าเดินทาง,The porter put all our bags on a luggage cart.,พนักงานยกกระเป๋าวางกระเป๋าทั้งหมดของเราไว้บนรถเข็น,,,false
+2,hospitality,1,2,vacancy,noun,/ˈveɪkənsi/,เวเคนซี,ห้องว่าง,Do you have a vacancy for two nights?,มีห้องว่างสำหรับสองคืนไหม,,,false
+2,hospitality,1,3,suite,noun,/swiːt/,สวีท,ห้องสวีท,The suite has a living room and a big balcony.,ห้องสวีทมีห้องนั่งเล่นและระเบียงใหญ่,Sounds like sweet.,,false
+2,hospitality,1,4,porter,noun,/ˈpɔrtər/,พอร์เตอร์,พนักงานยกกระเป๋า,The porter will take your bags to your room.,พนักงานยกกระเป๋าจะนำกระเป๋าไปส่งที่ห้องของคุณ,,,false
+2,hospitality,1,5,housekeeping,noun,/ˈhaʊskiːpɪŋ/,เฮาส์คีพปิ้ง,แผนกแม่บ้าน,Please call housekeeping if you need more towels.,ถ้าต้องการผ้าเช็ดตัวเพิ่ม โทรหาแผนกแม่บ้านได้เลย,,,false
+2,hospitality,1,6,wake-up call,noun,/ˈweɪk ʌp ˌkɔl/,เวค อัพ คอล,บริการโทรปลุก,Can I have a wake-up call at six tomorrow?,พรุ่งนี้ขอบริการโทรปลุกตอนหกโมงได้ไหม,,,false
+2,hospitality,1,7,late check-out,noun,/ˌleɪt ˈtʃɛk aʊt/,เลท เช็ค เอาท์,การเช็กเอาท์ช้ากว่าเวลาปกติ,We can offer you a late check-out until two o'clock.,เราให้คุณเช็กเอาท์ช้าได้ถึงบ่ายสองโมง,,,false
+2,hospitality,1,8,amenities,noun,/əˈmɛnətiz/,อะเมนนิตีส์,สิ่งอำนวยความสะดวก,"Hotel amenities include a pool, a gym and free Wi-Fi.",สิ่งอำนวยความสะดวกของโรงแรมมีสระว่ายน้ำ ยิม และไวไฟฟรี,,,false
+2,hospitality,1,9,view,noun,/vjuː/,วิว,วิว ทิวทัศน์,"I would like a room with a sea view, please.",ขอห้องที่เห็นวิวทะเลค่ะ,,,false
+2,hospitality,1,10,minibar,noun,/ˈmɪnibɑr/,มินิบาร์,ตู้เย็นเครื่องดื่มในห้องพัก,Drinks from the minibar will be added to your bill.,เครื่องดื่มจากมินิบาร์จะรวมอยู่ในบิลของคุณ,,,false
+2,hospitality,1,11,breakfast buffet,noun,/ˈbrɛkfəst bəˌfeɪ/,เบรคฟาสท์ บุฟเฟ่ต์,อาหารเช้าแบบบุฟเฟ่ต์,The breakfast buffet is open from six to ten.,อาหารเช้าบุฟเฟ่ต์เปิดตั้งแต่หกโมงถึงสิบโมง,,,false
+2,hospitality,1,12,do not disturb,phrase,/duː nɑt dɪˈstɜrb/,ดู น็อท ดิสเทิร์บ,ห้ามรบกวน,Hang the do not disturb sign on your door.,แขวนป้ายห้ามรบกวนไว้ที่ประตูห้อง,,,false
+2,hospitality,1,13,safe,noun,/seɪf/,เซฟ,ตู้เซฟ,Keep your passport in the safe in your room.,เก็บพาสปอร์ตไว้ในตู้เซฟในห้องพัก,,,false
+2,hospitality,1,14,upgrade,verb,/ʌpˈɡreɪd/,อัพเกรด,อัปเกรด เปลี่ยนเป็นระดับที่ดีขึ้น,We can upgrade your room to a suite for a small fee.,เราอัปเกรดห้องของคุณเป็นห้องสวีทได้โดยเสียค่าบริการเล็กน้อย,,,false
+2,hospitality,2,1,dine in,phrase,/daɪn ɪn/,ไดน์ อิน,ทานที่ร้าน,Would you like to dine in or take it home?,จะทานที่ร้านหรือรับกลับบ้านคะ,,,false
+2,hospitality,2,2,server,noun,/ˈsɝːvər/,เซิร์ฟเวอร์,พนักงานเสิร์ฟ,Our server brought the drinks before we ordered any food.,พนักงานเสิร์ฟนำเครื่องดื่มมาก่อนที่เราจะสั่งอาหาร,,,false
+2,hospitality,2,3,take an order,phrase,/teɪk ən ˈɔːrdər/,เทค แอน ออร์เดอร์,รับรายการอาหาร,"Can you take an order at table five, please?",ช่วยไปรับรายการอาหารที่โต๊ะห้าหน่อยได้ไหม,,,false
+2,hospitality,2,4,reserve,verb,/rɪˈzɜrv/,รีเซิร์ฟ,จอง,I would like to reserve a table for four at seven.,ฉันขอจองโต๊ะสำหรับสี่คนตอนหนึ่งทุ่ม,,,false
+2,hospitality,2,5,refill,noun,/ˈriːfɪl/,รีฟิล,การเติม(เครื่องดื่ม),Free refills are available for all soft drinks.,น้ำอัดลมทุกชนิดเติมฟรี,,,false
+2,hospitality,2,6,appetizer,noun,/ˈæpɪtaɪzər/,แอพพิไทเซอร์,อาหารเรียกน้ำย่อย,We ordered spring rolls as an appetizer.,เราสั่งปอเปี๊ยะเป็นอาหารเรียกน้ำย่อย,,,false
+2,hospitality,2,7,side dish,noun,/ˈsaɪd dɪʃ/,ไซด์ ดิช,เครื่องเคียง,The steak comes with a side dish of salad or fries.,สเต๊กเสิร์ฟพร้อมเครื่องเคียงเป็นสลัดหรือมันฝรั่งทอด,,,false
+2,hospitality,2,8,to go,phrase,/tə ɡoʊ/,ทู โก,ใส่กลับบ้าน,"Can I get two iced coffees to go, please?",ขอกาแฟเย็นสองแก้วใส่กลับบ้านค่ะ,,,false
+2,hospitality,2,9,jug,noun,/dʒʌɡ/,จัก,เหยือก,Could we have a jug of water for the table?,ขอน้ำเปล่าหนึ่งเหยือกสำหรับโต๊ะนี้ได้ไหม,,,false
+2,hospitality,2,10,cutlery,noun,/ˈkʌtləri/,คัตเลอรี,ช้อนส้อมและมีด,Please put clean cutlery on every table before we open.,กรุณาวางช้อนส้อมที่สะอาดบนทุกโต๊ะก่อนเปิดร้าน,,🍴,false
+2,hospitality,2,11,set the table,phrase,/set ðə ˈteɪbəl/,เซ็ต เดอะ เทเบิล,จัดโต๊ะอาหาร,Could you help me set the table for twelve guests?,ช่วยฉันจัดโต๊ะสำหรับแขกสิบสองคนได้ไหม,,,false
+2,hospitality,2,12,well-done,adjective,/ˌwel ˈdʌn/,เวลดัน,สุกมาก (เนื้อสเต๊ก),"I would like my steak well-done, please.",ขอสเต๊กแบบสุกมากค่ะ,,,false
+2,hospitality,2,13,clear the table,phrase,/klɪr ðə ˈteɪbəl/,เคลียร์ เดอะ เทเบิล,เก็บโต๊ะ,Please clear the table after the guests leave.,กรุณาเก็บโต๊ะหลังแขกกลับ,,,false
+2,hospitality,2,14,high chair,noun,/ˈhaɪ tʃer/,ไฮ แชร์,เก้าอี้สูงสำหรับเด็กเล็ก,"Can we get a high chair for our baby, please?",ขอเก้าอี้สูงสำหรับลูกเล็กหนึ่งตัวได้ไหมคะ,,,false
+2,hospitality,3,1,housekeeper,noun,/ˈhaʊskiːpər/,เฮาส์คีพเปอร์,แม่บ้าน(โรงแรม),The housekeeper cleans fifteen rooms every day.,แม่บ้านทำความสะอาดห้องวันละสิบห้าห้อง,,,false
+2,hospitality,3,2,bartender,noun,/ˈbɑrtɛndər/,บาร์เทนเดอร์,บาร์เทนเดอร์ คนผสมเครื่องดื่ม,The bartender made us two cold drinks.,บาร์เทนเดอร์ทำเครื่องดื่มเย็นให้เราสองแก้ว,,,false
+2,hospitality,3,3,dishwasher,noun,/ˈdɪʃwɑʃər/,ดิชวอชเชอร์,เครื่องล้างจาน,Put the plates in the dishwasher after lunch.,ใส่จานในเครื่องล้างจานหลังมื้อกลางวัน,,,false
+2,hospitality,3,4,apron,noun,/ˈeɪprən/,เอพรอน,ผ้ากันเปื้อน,All kitchen staff must wear a clean apron.,พนักงานครัวทุกคนต้องใส่ผ้ากันเปื้อนที่สะอาด,,,false
+2,hospitality,3,5,hairnet,noun,/ˈhernet/,แฮร์เน็ต,ตาข่ายคลุมผม,Kitchen staff must wear a hairnet at all times.,พนักงานในครัวต้องสวมตาข่ายคลุมผมตลอดเวลา,,,false
+2,hospitality,3,6,dining area,noun,/ˈdaɪnɪŋ ˌɛriə/,ไดนิ่ง แอเรีย,ส่วนรับประทานอาหาร,Please keep the dining area clean and tidy.,กรุณาดูแลส่วนรับประทานอาหารให้สะอาดเรียบร้อย,,,false
+2,hospitality,3,7,hygiene,noun,/ˈhaɪdʒiːn/,ไฮจีน,สุขอนามัย,Food hygiene is very important in our kitchen.,สุขอนามัยของอาหารสำคัญมากในครัวของเรา,,,false
+2,hospitality,3,8,ingredient,noun,/ɪnˈɡriːdiənt/,อินกรีเดียนท์,ส่วนผสม,Check that all the ingredients are fresh before you cook.,ตรวจดูว่าส่วนผสมทั้งหมดสดก่อนทำอาหาร,,,false
+2,hospitality,3,9,portion,noun,/ˈpɔrʃən/,พอร์ชั่น,ปริมาณอาหารต่อที่,"The portions here are big, so one dish is enough.",ที่นี่อาหารให้เยอะ สั่งจานเดียวก็พอ,,,false
+2,hospitality,3,10,peel,verb,/piːl/,พีล,ปอกเปลือก,Please peel the potatoes for the soup.,ช่วยปอกเปลือกมันฝรั่งสำหรับทำซุปหน่อย,,,false
+2,hospitality,3,11,slice,verb,/slaɪs/,สไลซ์,หั่นเป็นแผ่น,Slice the bread before you put it on the plate.,หั่นขนมปังเป็นแผ่นก่อนวางบนจาน,,,false
+2,hospitality,3,12,chopping board,noun,/ˈtʃɑːpɪŋ bɔːrd/,ช็อปปิง บอร์ด,เขียง,Use the green chopping board for vegetables only.,ใช้เขียงสีเขียวสำหรับผักเท่านั้น,,,false
+2,hospitality,3,13,spill,verb,/spɪl/,สปิล,ทำหก,Be careful not to spill the soup on the guest.,ระวังอย่าทำซุปหกใส่แขก,,,false
+2,hospitality,3,14,tablecloth,noun,/ˈteɪbəlklɔθ/,เทเบิลคลอธ,ผ้าปูโต๊ะ,Change the tablecloth after every guest leaves.,เปลี่ยนผ้าปูโต๊ะทุกครั้งที่แขกกลับ,,,false
+2,factory,1,1,factory,noun,/ˈfæktəri/,แฟคทอรี,โรงงาน,My father works at a car factory near Rayong.,พ่อทำงานที่โรงงานรถยนต์ใกล้ระยอง,,🏭,false
+2,factory,1,2,production line,noun,/prəˈdʌkʃən laɪn/,โพรดักชั่น ไลน์,สายการผลิต,The production line stops for one hour at noon.,สายการผลิตหยุดหนึ่งชั่วโมงตอนเที่ยง,,,false
+2,factory,1,3,machine,noun,/məˈʃiːn/,แมชชีน,เครื่องจักร,Turn off the machine before you clean it.,ปิดเครื่องจักรก่อนทำความสะอาด,,,false
+2,factory,1,4,lever,noun,/ˈlɛvər/,เลเวอร์,คันโยก,Pull the lever down to stop the belt.,ดึงคันโยกลงเพื่อหยุดสายพาน,,,false
+2,factory,1,5,assemble,verb,/əˈsɛmbəl/,แอสเซมเบิล,ประกอบ,Workers assemble the small parts by hand.,คนงานประกอบชิ้นส่วนเล็ก ๆ ด้วยมือ,,,false
+2,factory,1,6,part,noun,/pɑrt/,พาร์ท,ชิ้นส่วน,We are waiting for a new part for the machine.,เรากำลังรอชิ้นส่วนใหม่ของเครื่องจักร,,,false
+2,factory,1,7,worker,noun,/ˈwɜrkər/,เวิร์คเกอร์,คนงาน,The factory has five hundred workers on two shifts.,โรงงานมีคนงานห้าร้อยคนแบ่งเป็นสองกะ,,,false
+2,factory,1,8,produce,verb,/prəˈduːs/,โพรดิวซ์,ผลิต,This factory can produce two thousand bottles an hour.,โรงงานนี้ผลิตขวดได้ชั่วโมงละสองพันใบ,,,false
+2,factory,1,9,raw material,noun,/ˌrɔ məˈtɪriəl/,รอว์ มาทีเรียล,วัตถุดิบ,We buy our raw materials from a supplier in China.,เราซื้อวัตถุดิบจากผู้ขายในจีน,Usually plural: raw materials.,,false
+2,factory,1,10,conveyor belt,noun,/kənˈveɪər bɛlt/,คอนเวเยอร์ เบลท์,สายพานลำเลียง,The boxes move along the conveyor belt to the packing area.,กล่องเคลื่อนไปตามสายพานลำเลียงไปยังจุดแพ็กของ,,,false
+2,factory,1,11,output,noun,/ˈaʊtpʊt/,เอาท์พุท,ผลผลิต ปริมาณการผลิต,Our output went up by ten percent this month.,ผลผลิตของเราเพิ่มขึ้นสิบเปอร์เซ็นต์เดือนนี้,,,false
+2,factory,1,12,batch,noun,/bætʃ/,แบทช์,ล็อต ชุดการผลิต,Each batch of products is tested before we ship it.,สินค้าแต่ละล็อตจะถูกทดสอบก่อนส่ง,,,false
+2,factory,1,13,by hand,phrase,/baɪ ˈhænd/,บาย แฮนด์,ด้วยมือ,Some parts are still made by hand in our factory.,ชิ้นส่วนบางอย่างในโรงงานเรายังทำด้วยมือ,,,false
+2,factory,1,14,tool,noun,/tuːl/,ทูล,เครื่องมือ,Put every tool back in its box after use.,เก็บเครื่องมือทุกชิ้นกลับเข้ากล่องหลังใช้งาน,,,false
+2,factory,2,1,inspect,verb,/ɪnˈspɛkt/,อินสเปคท์,ตรวจสอบ,Inspect each bottle for cracks before packing.,ตรวจขวดทุกใบว่ามีรอยร้าวไหมก่อนแพ็ก,,,false
+2,factory,2,2,defect,noun,/ˈdiːfɛkt/,ดีเฟคท์,ข้อบกพร่อง ตำหนิ,We found a small defect in the paint on the door.,เราพบตำหนิเล็ก ๆ ที่สีบนประตู,,,false
+2,factory,2,3,crack,noun,/kræk/,แครก,รอยร้าว,There is a small crack in this glass bottle.,ขวดแก้วใบนี้มีรอยร้าวเล็ก ๆ,,,false
+2,factory,2,4,standard,noun,/ˈstændərd/,สแตนดาร์ด,มาตรฐาน,Our products must meet a high standard.,สินค้าของเราต้องได้มาตรฐานสูง,Often: meet a standard.,,false
+2,factory,2,5,test,verb,/tɛst/,เทสท์,ทดสอบ,We test every phone before it leaves the factory.,เราทดสอบโทรศัพท์ทุกเครื่องก่อนออกจากโรงงาน,,,false
+2,factory,2,6,break down,phrasal verb,/breɪk daʊn/,เบรค ดาวน์,(เครื่อง)เสีย,The machine may break down if you do not clean it.,เครื่องอาจเสียถ้าคุณไม่ทำความสะอาด,,,false
+2,factory,2,7,adjust,verb,/əˈdʒʌst/,อะจัสท์,ปรับ,Adjust the speed of the machine with this knob.,ปรับความเร็วของเครื่องด้วยปุ่มหมุนนี้,,,false
+2,factory,2,8,maintenance,noun,/ˈmeɪntənəns/,เมนเทนแนนซ์,การบำรุงรักษา,The line will stop on Sunday for maintenance.,สายการผลิตจะหยุดวันอาทิตย์เพื่อบำรุงรักษา,,,false
+2,factory,2,9,warning light,noun,/ˈwɔːrnɪŋ laɪt/,วอร์นิง ไลต์,ไฟเตือน,Stop the machine when the red warning light comes on.,หยุดเครื่องจักรเมื่อไฟเตือนสีแดงติดขึ้น,,🚨,false
+2,factory,2,10,oil,noun,/ɔɪl/,ออยล์,น้ำมัน(หล่อลื่น),Put a little oil on the machine every Monday.,หยอดน้ำมันเครื่องจักรเล็กน้อยทุกวันจันทร์,,,false
+2,factory,2,11,noisy,adjective,/ˈnɔɪzi/,นอยซี่,เสียงดัง,"The factory floor is very noisy, so we protect our ears.",ในพื้นที่โรงงานเสียงดังมาก เราจึงต้องป้องกันหู,,,false
+2,factory,2,12,reject,verb,/rɪˈdʒɛkt/,รีเจ็คท์,คัดออก ไม่ผ่าน,Quality control will reject any box with a broken seal.,ฝ่ายควบคุมคุณภาพจะคัดกล่องที่ซีลขาดออกทั้งหมด,,,false
+2,factory,2,13,checklist,noun,/ˈtʃɛklɪst/,เช็คลิสท์,รายการตรวจสอบ,Follow the checklist before you start the machine.,ทำตามรายการตรวจสอบก่อนเปิดเครื่อง,,,false
+2,factory,2,14,scrap,noun,/skræp/,สแครป,เศษวัสดุ,Put the metal scrap in the blue bin.,ทิ้งเศษโลหะลงถังสีน้ำเงิน,,,false
+2,factory,3,1,foreman,noun,/ˈfɔrmən/,โฟร์แมน,หัวหน้าคนงาน,The foreman gives us our tasks at the start of each shift.,หัวหน้าคนงานมอบงานให้เราตอนเริ่มกะ,,,false
+2,factory,3,2,line leader,noun,/ˈlaɪn ˌliːdər/,ไลน์ ลีดเดอร์,หัวหน้าไลน์ผลิต,Tell your line leader if a machine stops.,ถ้าเครื่องหยุด ให้แจ้งหัวหน้าไลน์,,,false
+2,factory,3,3,skilled,adjective,/skɪld/,สกิลด์,มีทักษะ ชำนาญ,We need skilled workers who can use the new machines.,เราต้องการคนงานที่ชำนาญและใช้เครื่องใหม่ได้,,,false
+2,factory,3,4,steel,noun,/stiːl/,สตีล,เหล็กกล้า,This factory makes steel pipes for buildings.,โรงงานนี้ผลิตท่อเหล็กสำหรับอาคาร,,,false
+2,factory,3,5,plastic,noun,/ˈplæstɪk/,พลาสติก,พลาสติก,The toys are made of hard plastic.,ของเล่นเหล่านี้ทำจากพลาสติกแข็ง,,,false
+2,factory,3,6,metal,noun,/ˈmɛtəl/,เมทัล,โลหะ,Cut the metal sheet into small pieces.,ตัดแผ่นโลหะเป็นชิ้นเล็ก ๆ,,,false
+2,factory,3,7,wood,noun,/wʊd/,วูด,ไม้,These chairs are made from strong wood.,เก้าอี้เหล่านี้ทำจากไม้แข็งแรง,,🪵,false
+2,factory,3,8,rubber,noun,/ˈrʌbər/,รับเบอร์,ยาง,The factory makes rubber gloves for hospitals.,โรงงานผลิตถุงมือยางให้โรงพยาบาล,,,false
+2,factory,3,9,cotton,noun,/ˈkɑtən/,คอตตอน,ฝ้าย ผ้าฝ้าย,This shirt is made of soft cotton.,เสื้อตัวนี้ทำจากผ้าฝ้ายเนื้อนุ่ม,,,false
+2,factory,3,10,weld,verb,/wɛld/,เวลด์,เชื่อม(โลหะ),He welds the metal parts together with a machine.,เขาเชื่อมชิ้นส่วนโลหะเข้าด้วยกันด้วยเครื่อง,,,false
+2,factory,3,11,press,verb,/prɛs/,เพรส,กด,Press the green button to start the machine.,กดปุ่มสีเขียวเพื่อเปิดเครื่อง,,,false
+2,factory,3,12,aluminum,noun,/əˈluːmɪnəm/,อะลูมินัม,อะลูมิเนียม,The window frames are made of light aluminum.,กรอบหน้าต่างทำจากอะลูมิเนียมน้ำหนักเบา,,,false
+2,factory,3,13,on schedule,phrase,/ɑn ˈskɛdʒuːl/,ออน สเกดจูล,ตามกำหนดการ,The new order is on schedule for Friday.,ออร์เดอร์ใหม่เป็นไปตามกำหนดส่งวันศุกร์,,,false
+2,factory,3,14,speed up,phrasal verb,/spiːd ʌp/,สปีด อัพ,เร่งให้เร็วขึ้น,We need to speed up the line to finish the order.,เราต้องเร่งสายการผลิตเพื่อให้ทันออร์เดอร์,,,false
+2,logistics,1,1,shipment,noun,/ˈʃɪpmənt/,ชิพเมนท์,สินค้าที่จัดส่ง ล็อตสินค้า,The shipment will arrive at the port on Friday.,สินค้าล็อตนี้จะถึงท่าเรือวันศุกร์,,,false
+2,logistics,1,2,port,noun,/pɔrt/,พอร์ท,ท่าเรือ,Laem Chabang is the biggest port in Thailand.,แหลมฉบังเป็นท่าเรือที่ใหญ่ที่สุดในประเทศไทย,,,false
+2,logistics,1,3,container,noun,/kənˈteɪnər/,คอนเทนเนอร์,ตู้คอนเทนเนอร์,We need two containers to ship all the furniture.,เราต้องใช้ตู้คอนเทนเนอร์สองตู้เพื่อส่งเฟอร์นิเจอร์ทั้งหมด,,,false
+2,logistics,1,4,cargo,noun,/ˈkɑrɡoʊ/,คาร์โก้,สินค้าที่บรรทุก,The ship carries cargo from Japan to Thailand.,เรือลำนี้ขนสินค้าจากญี่ปุ่นมาไทย,,,false
+2,logistics,1,5,export,verb,/ɪkˈspɔrt/,เอ็กซ์ปอร์ท,ส่งออก,Thailand exports a lot of rice to other countries.,ประเทศไทยส่งออกข้าวไปต่างประเทศเป็นจำนวนมาก,,,false
+2,logistics,1,6,import,verb,/ɪmˈpɔrt/,อิมพอร์ท,นำเข้า,We import coffee machines from Italy.,เรานำเข้าเครื่องชงกาแฟจากอิตาลี,,,false
+2,logistics,1,7,customs,noun,/ˈkʌstəmz/,คัสตอมส์,ศุลกากร,The boxes are still at customs at the airport.,กล่องยังติดอยู่ที่ศุลกากรที่สนามบิน,,,false
+2,logistics,1,8,freight,noun,/freɪt/,เฟรท,การขนส่งสินค้า,"Air freight is fast, but it is expensive.",การขนส่งสินค้าทางอากาศเร็วแต่แพง,,,false
+2,logistics,1,9,by sea,phrase,/baɪ ˈsiː/,บาย ซี,ทางเรือ,Sending goods by sea is cheaper than by air.,ส่งสินค้าทางเรือถูกกว่าทางอากาศ,,,false
+2,logistics,1,10,by air,phrase,/baɪ ˈɛr/,บาย แอร์,ทางอากาศ,We sent the urgent parts to the customer by air.,เราส่งชิ้นส่วนด่วนให้ลูกค้าทางอากาศ,,,false
+2,logistics,1,11,load,verb,/loʊd/,โหลด,ขนขึ้น บรรทุก,The workers load the truck every morning at seven.,คนงานขนของขึ้นรถบรรทุกทุกเช้าตอนเจ็ดโมง,,,false
+2,logistics,1,12,unload,verb,/ʌnˈloʊd/,อันโหลด,ขนลง,Please unload the boxes at gate two.,กรุณาขนกล่องลงที่ประตูสอง,,,false
+2,logistics,1,13,scale,noun,/skeɪl/,สเกล,เครื่องชั่ง,Put each parcel on the scale before you send it.,วางพัสดุแต่ละชิ้นบนเครื่องชั่งก่อนส่ง,,⚖️,false
+2,logistics,1,14,destination,noun,/ˌdɛstəˈneɪʃən/,เดสติเนชั่น,ปลายทาง,Write the destination clearly on each box.,เขียนปลายทางให้ชัดเจนบนกล่องทุกใบ,,,false
+2,logistics,2,1,dispatch,verb,/dɪˈspætʃ/,ดิสแพทช์,ส่งออกไป จัดส่ง,We dispatch all orders within two days.,เราจัดส่งคำสั่งซื้อทั้งหมดภายในสองวัน,,,false
+2,logistics,2,2,drop off,phrasal verb,/drɑp ˈɔf/,ดร็อป ออฟ,นำ(ของ)ไปส่งไว้,The driver will drop off the parcel at the front desk.,คนขับจะนำพัสดุไปวางไว้ที่เคาน์เตอร์ด้านหน้า,,,false
+2,logistics,2,3,arrival,noun,/əˈraɪvəl/,อะไรวัล,การมาถึง,The arrival time of the truck is two o'clock.,รถบรรทุกจะมาถึงตอนบ่ายสองโมง,,,false
+2,logistics,2,4,route,noun,/ruːt/,รูท,เส้นทาง,The driver takes the fastest route to the warehouse.,คนขับใช้เส้นทางที่เร็วที่สุดไปคลังสินค้า,,,false
+2,logistics,2,5,delivery address,noun,/dɪˈlɪvəri ˈædres/,ดิลิเวอรี แอดเดรส,ที่อยู่สำหรับจัดส่ง,Please check the delivery address before the driver leaves.,กรุณาตรวจสอบที่อยู่จัดส่งก่อนคนขับออกเดินทาง,,,false
+2,logistics,2,6,delivery driver,noun,/dɪˈlɪvəri ˌdraɪvər/,ดิลิเวอรี่ ไดรเวอร์,คนขับรถส่งของ,The delivery driver called me from outside the building.,คนขับรถส่งของโทรหาฉันจากหน้าตึก,,,false
+2,logistics,2,7,shipping label,noun,/ˈʃɪpɪŋ ˌleɪbəl/,ชิปปิ้ง เลเบิล,ใบปะหน้าพัสดุ,Print the shipping label and stick it on the box.,พิมพ์ใบปะหน้าพัสดุแล้วแปะบนกล่อง,,,false
+2,logistics,2,8,in transit,phrase,/ɪn ˈtrænzɪt/,อิน แทรนซิท,อยู่ระหว่างขนส่ง,Your order is in transit and will arrive tomorrow.,คำสั่งซื้อของคุณอยู่ระหว่างขนส่งและจะถึงพรุ่งนี้,,,false
+2,logistics,2,9,lost,adjective,/lɔst/,ลอสท์,สูญหาย,The customer says her parcel is lost.,ลูกค้าบอกว่าพัสดุของเธอหาย,,,false
+2,logistics,2,10,express,adjective,/ɪkˈsprɛs/,เอ็กซ์เพรส,ด่วน,"Express delivery costs more, but it arrives the next day.",ส่งด่วนแพงกว่า แต่ถึงวันรุ่งขึ้น,,,false
+2,logistics,2,11,same-day,adjective,/ˌseɪm ˈdeɪ/,เซม เดย์,ภายในวันเดียวกัน,We offer same-day delivery in Bangkok.,เรามีบริการส่งภายในวันเดียวในกรุงเทพฯ,,,false
+2,logistics,2,12,sign for,phrasal verb,/saɪn fɔr/,ไซน์ ฟอร์,เซ็นรับ,Someone must sign for the package at the door.,ต้องมีคนเซ็นรับพัสดุที่หน้าประตู,,,false
+2,logistics,2,13,pickup point,noun,/ˈpɪkʌp ˌpɔɪnt/,พิคอัพ พอยท์,จุดรับพัสดุ,You can collect your parcel at the pickup point near the station.,คุณรับพัสดุได้ที่จุดรับใกล้สถานี,,,false
+2,logistics,2,14,shipping fee,noun,/ˈʃɪpɪŋ fiː/,ชิปปิ้ง ฟี,ค่าส่ง,The shipping fee is free for orders over five hundred baht.,สั่งซื้อเกินห้าร้อยบาทส่งฟรี,,,false
+2,logistics,3,1,inventory,noun,/ˈɪnvənˌtɔri/,อินเวนทอรี,สินค้าคงคลัง,We count the inventory at the end of every month.,เรานับสินค้าคงคลังทุกสิ้นเดือน,,,false
+2,logistics,3,2,loading dock,noun,/ˈloʊdɪŋ dɑk/,โหลดดิ้ง ด็อค,ลานขนถ่ายสินค้า,The truck is waiting at the loading dock.,รถบรรทุกรออยู่ที่ลานขนถ่ายสินค้า,,,false
+2,logistics,3,3,crate,noun,/kreɪt/,เครท,ลังไม้,The glasses are packed in a wooden crate.,แก้วบรรจุอยู่ในลังไม้,,,false
+2,logistics,3,4,carton,noun,/ˈkɑrtən/,คาร์ตัน,ลังกระดาษ กล่อง,Each carton holds twenty-four bottles of water.,แต่ละลังบรรจุน้ำยี่สิบสี่ขวด,,,false
+2,logistics,3,5,hand truck,noun,/ˈhænd trʌk/,แฮนด์ ทรัค,รถเข็นของสองล้อ,Use a hand truck to move the heavy boxes.,ใช้รถเข็นของย้ายกล่องที่หนัก,,,false
+2,logistics,3,6,stack,verb,/stæk/,สแต็ค,วางซ้อน,Don't stack the boxes higher than your head.,อย่าวางกล่องซ้อนสูงเกินหัว,,,false
+2,logistics,3,7,barcode,noun,/ˈbɑrkoʊd/,บาร์โค้ด,บาร์โค้ด,Scan the barcode on each box when it arrives.,สแกนบาร์โค้ดบนกล่องทุกใบเมื่อของมาถึง,,,false
+2,logistics,3,8,aisle,noun,/aɪl/,ไอล์,ทางเดินระหว่างชั้นวาง,The printer paper is in aisle six on the top shelf.,กระดาษพิมพ์อยู่ทางเดินที่หกบนชั้นบนสุด,The s in aisle is silent.,,false
+2,logistics,3,9,shortage,noun,/ˈʃɔrtɪdʒ/,ชอร์ทเทจ,การขาดแคลน,There is a shortage of small boxes this week.,สัปดาห์นี้กล่องเล็กขาดแคลน,,,false
+2,logistics,3,10,pallet jack,noun,/ˈpælɪt dʒæk/,แพลเล็ท แจ็ค,แฮนด์ลิฟท์ ลากพาเลท,Use the pallet jack to move the pallets to the dock.,ใช้แฮนด์ลิฟท์ลากพาเลทไปที่ลานขนถ่าย,,,false
+2,logistics,3,11,capacity,noun,/kəˈpæsəti/,คาแพซิตี้,ความจุ,"The warehouse is at full capacity, so we need more space.",คลังสินค้าเต็มความจุแล้ว เราต้องการพื้นที่เพิ่ม,,,false
+2,logistics,3,12,restock,verb,/riːˈstɑk/,รีสต็อค,เติมสินค้า,We restock the shelves every Tuesday morning.,เราเติมสินค้าบนชั้นทุกเช้าวันอังคาร,,,false
+2,logistics,3,13,pick,verb,/pɪk/,พิค,หยิบ(สินค้าตามคำสั่งซื้อ),Workers pick the items for each order from the shelves.,พนักงานหยิบสินค้าของแต่ละคำสั่งซื้อจากชั้นวาง,,,false
+2,logistics,3,14,handle with care,phrase,/ˈhændəl wɪð ˈkɛr/,แฮนเดิล วิธ แคร์,โปรดระวัง ถือด้วยความระมัดระวัง,Please handle with care because the box has glass in it.,โปรดระวังด้วย เพราะในกล่องมีแก้ว,,,false
+2,rules,1,1,safety vest,noun,/ˈseɪfti vest/,เซฟตี เวสต์,เสื้อกั๊กสะท้อนแสง,Everyone in the warehouse must wear a bright safety vest.,ทุกคนในคลังสินค้าต้องสวมเสื้อกั๊กสะท้อนแสงสีสด,,🦺,false
+2,rules,1,2,goggles,noun,/ˈɡɑɡəlz/,ก็อกเกิลส์,แว่นตานิรภัย,Wear goggles when you work with chemicals.,สวมแว่นตานิรภัยเมื่อทำงานกับสารเคมี,,🥽,false
+2,rules,1,3,glove,noun,/ɡlʌv/,กลัฟ,ถุงมือ,Put on your gloves before you lift the boxes.,สวมถุงมือก่อนยกกล่อง,,🧤,false
+2,rules,1,4,earplugs,noun,/ˈɪrplʌɡz/,เอียร์ปลั๊กส์,ที่อุดหู,Wear earplugs when you work near the loud machines.,ใส่ที่อุดหูเมื่อทำงานใกล้เครื่องจักรที่เสียงดัง,,,false
+2,rules,1,5,fire,noun,/ˈfaɪər/,ไฟเออร์,ไฟไหม้,"If there is a fire, use the stairs, not the lift.",ถ้าเกิดไฟไหม้ ให้ใช้บันได อย่าใช้ลิฟต์,,🔥,false
+2,rules,1,6,sprinkler,noun,/ˈsprɪŋklər/,สปริงเกลอร์,หัวฉีดน้ำดับเพลิง,Do not hang anything from the sprinklers on the ceiling.,ห้ามแขวนสิ่งของใด ๆ ไว้กับหัวฉีดน้ำดับเพลิงบนเพดาน,,,false
+2,rules,1,7,fire alarm,noun,/ˈfaɪər əˌlɑrm/,ไฟเออร์ อะลาร์ม,สัญญาณเตือนไฟไหม้,"When the fire alarm rings, leave the building at once.",เมื่อสัญญาณเตือนไฟไหม้ดัง ให้ออกจากอาคารทันที,,,false
+2,rules,1,8,emergency exit,noun,/ɪˈmɜrdʒənsi ˌɛɡzɪt/,อิเมอร์เจนซี เอ็กซิท,ทางออกฉุกเฉิน,Never put boxes in front of the emergency exit.,ห้ามวางกล่องขวางทางออกฉุกเฉินเด็ดขาด,,,false
+2,rules,1,9,first aid,noun,/ˌfɜrst ˈeɪd/,เฟิร์สท์ เอด,การปฐมพยาบาล,Two people on each floor know first aid.,แต่ละชั้นมีสองคนที่ปฐมพยาบาลเป็น,,,false
+2,rules,1,10,danger,noun,/ˈdeɪndʒər/,เดนเจอร์,อันตราย,"The sign on the door says danger, so do not go in.",ป้ายที่ประตูเขียนว่าอันตราย อย่าเข้าไป,,,false
+2,rules,1,11,sharp,adjective,/ʃɑːrp/,ชาร์ป,คม,"Be careful, the edge of this metal sheet is very sharp.",ระวังนะ ขอบแผ่นโลหะนี้คมมาก,,,false
+2,rules,1,12,slippery,adjective,/ˈslɪpəri/,สลิปเปอรี่,ลื่น,"Be careful, the floor is slippery after cleaning.",ระวังนะ พื้นลื่นหลังทำความสะอาด,,,false
+2,rules,1,13,caution,noun,/ˈkɔːʃən/,คอชัน,ความระมัดระวัง,Use caution when you walk near the loading area.,ใช้ความระมัดระวังเมื่อเดินใกล้บริเวณขนถ่ายสินค้า,,,false
+2,rules,1,14,safety shoes,noun,/ˈseɪfti ʃuːz/,เซฟตี ชูส์,รองเท้านิรภัย,You cannot enter the factory floor without safety shoes.,คุณเข้าพื้นที่โรงงานไม่ได้ถ้าไม่ได้สวมรองเท้านิรภัย,,,false
+2,rules,2,1,rule,noun,/ruːl/,รูล,กฎ,Please read the company rules on your first day.,กรุณาอ่านกฎของบริษัทในวันแรกที่มาทำงาน,,,false
+2,rules,2,2,allow,verb,/əˈlaʊ/,อะลาว,อนุญาต,We do not allow pets in the office.,เราไม่อนุญาตให้นำสัตว์เลี้ยงเข้าออฟฟิศ,,,false
+2,rules,2,3,forbidden,adjective,/fərˈbɪdən/,เฟอร์บิดเดน,ต้องห้าม,Smoking is forbidden inside the building.,ห้ามสูบบุหรี่ภายในอาคาร,,,false
+2,rules,2,4,permission,noun,/pərˈmɪʃən/,เพอร์มิชชั่น,การอนุญาต,Ask your manager for permission before you leave early.,ขออนุญาตผู้จัดการก่อนกลับก่อนเวลา,,,false
+2,rules,2,5,badge,noun,/bædʒ/,แบดจ์,บัตรพนักงาน ป้ายชื่อ,Wear your staff badge at all times in the office.,ติดบัตรพนักงานตลอดเวลาที่อยู่ในออฟฟิศ,,,false
+2,rules,2,6,punctual,adjective,/ˈpʌŋktʃuəl/,พังค์ชวล,ตรงต่อเวลา,Please be punctual for the morning meeting.,กรุณามาประชุมเช้าให้ตรงเวลา,,,false
+2,rules,2,7,dress code,noun,/ˈdrɛs koʊd/,เดรส โค้ด,ระเบียบการแต่งกาย,The dress code at our office is a white shirt and dark pants.,ระเบียบการแต่งกายที่ออฟฟิศเราคือเสื้อเชิ้ตขาวกับกางเกงสีเข้ม,,,false
+2,rules,2,8,warning,noun,/ˈwɔrnɪŋ/,วอร์นนิ่ง,การตักเตือน,He got a written warning for being late three times.,เขาโดนตักเตือนเป็นลายลักษณ์อักษรเพราะมาสายสามครั้ง,,,false
+2,rules,2,9,employee handbook,noun,/ɪmˈplɔɪiː ˈhændbʊk/,เอ็มพลอยอี แฮนด์บุ๊ก,คู่มือพนักงาน,You can find all the rules in the employee handbook.,คุณดูกฎทั้งหมดได้ในคู่มือพนักงาน,,,false
+2,rules,2,10,visitor pass,noun,/ˈvɪzɪtər ˌpæs/,วิสิเตอร์ แพส,บัตรผู้มาติดต่อ,All guests must wear a visitor pass in the building.,แขกทุกคนต้องติดบัตรผู้มาติดต่อในอาคาร,,,false
+2,rules,2,11,confidential,adjective,/ˌkɑnfɪˈdɛnʃəl/,คอนฟิเดนเชียล,เป็นความลับ,Do not share confidential files with people outside the company.,อย่าแชร์ไฟล์ลับให้คนนอกบริษัท,,,false
+2,rules,2,12,keep out,phrasal verb,/kiːp ˈaʊt/,คีพ เอาท์,ห้ามเข้า,"The sign says keep out, so only staff may go in.",ป้ายเขียนว่าห้ามเข้า เฉพาะพนักงานเท่านั้นที่เข้าได้,,,false
+2,rules,2,13,staff only,phrase,/ˌstæf ˈoʊnli/,สตาฟ โอนลี่,เฉพาะพนักงาน,"This door is for staff only, not for customers.",ประตูนี้สำหรับพนักงานเท่านั้น ไม่ใช่สำหรับลูกค้า,,,false
+2,rules,2,14,attendance,noun,/əˈtɛndəns/,อะเทนแดนซ์,การมาทำงาน การเข้าร่วม,Good attendance is important for your yearly review.,การมาทำงานสม่ำเสมอสำคัญต่อการประเมินประจำปี,,,false
+2,rules,3,1,chemical,noun,/ˈkɛmɪkəl/,เคมิคอล,สารเคมี,Keep all chemicals in a locked cabinet.,เก็บสารเคมีทั้งหมดไว้ในตู้ที่ล็อก,,,false
+2,rules,3,2,safety training,noun,/ˈseɪfti ˌtreɪnɪŋ/,เซฟตี้ เทรนนิ่ง,การอบรมความปลอดภัย,All new staff must attend safety training in their first week.,พนักงานใหม่ทุกคนต้องเข้าอบรมความปลอดภัยในสัปดาห์แรก,,,false
+2,rules,3,3,evacuate,verb,/ɪˈvækjueɪt/,อีแวคคิวเอท,อพยพ,We evacuate the building when the alarm rings.,เราอพยพออกจากอาคารเมื่อสัญญาณเตือนดัง,,,false
+2,rules,3,4,fire drill,noun,/ˈfaɪər drɪl/,ไฟเออร์ ดริล,การซ้อมหนีไฟ,We have a fire drill every six months.,เรามีการซ้อมหนีไฟทุกหกเดือน,,,false
+2,rules,3,5,assembly point,noun,/əˈsɛmbli ˌpɔɪnt/,แอสเซมบลี พอยท์,จุดรวมพล,"After you leave the building, go to the assembly point.",หลังออกจากอาคาร ให้ไปที่จุดรวมพล,,,false
+2,rules,3,6,bend,verb,/bɛnd/,เบนด์,งอ ย่อ,Bend your knees when you lift a heavy box.,ย่อเข่าเมื่อยกกล่องที่หนัก,,,false
+2,rules,3,7,burn,noun,/bɜrn/,เบิร์น,แผลไหม้ แผลลวก,Put cold water on a burn right away.,ราดน้ำเย็นที่แผลไหม้ทันที,,,false
+2,rules,3,8,hazard,noun,/ˈhæzərd/,แฮซซาร์ด,สิ่งที่เป็นอันตราย,A loose cable on the floor is a hazard.,สายไฟที่หลุดอยู่บนพื้นเป็นสิ่งอันตราย,,,false
+2,rules,3,9,risk,noun,/rɪsk/,ริสค์,ความเสี่ยง,Running in the factory increases the risk of falls.,การวิ่งในโรงงานเพิ่มความเสี่ยงที่จะหกล้ม,,,false
+2,rules,3,10,trip over,phrasal verb,/trɪp ˈoʊvər/,ทริป โอเวอร์,สะดุด,Keep the floor clear so no one will trip over boxes.,เก็บพื้นให้โล่งจะได้ไม่มีใครสะดุดกล่อง,,,false
+2,rules,3,11,slip,verb,/slɪp/,สลิป,ลื่น,Wear safe shoes so you do not slip on the wet floor.,ใส่รองเท้านิรภัยจะได้ไม่ลื่นบนพื้นเปียก,,,false
+2,rules,3,12,fall,verb,/fɔl/,ฟอล,ตก หกล้ม,Hold the rail so you do not fall on the stairs.,จับราวไว้จะได้ไม่ล้มบนบันได,,,false
+2,rules,3,13,safety harness,noun,/ˈseɪfti ˈhɑːrnəs/,เซฟตี ฮาร์เนส,สายรัดนิรภัย,Wear a safety harness when you work on the roof.,สวมสายรัดนิรภัยเมื่อทำงานบนหลังคา,,,false
+2,rules,3,14,protective,adjective,/prəˈtɛktɪv/,โพรเท็คทีฟ,ที่ใช้ป้องกัน,Wear protective clothes when you use chemicals.,สวมชุดป้องกันเมื่อใช้สารเคมี,,,false

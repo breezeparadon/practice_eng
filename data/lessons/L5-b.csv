@@ -1,0 +1,25 @@
+level,family,category,category_en,category_th,category_order,lesson,title_en,title_th
+5,DAILY,ethics,Ethics and values,จริยธรรมและค่านิยม,5,1,Moral principles,หลักศีลธรรม
+5,DAILY,ethics,Ethics and values,จริยธรรมและค่านิยม,5,2,Fairness and justice,ความเป็นธรรมและความยุติธรรม
+5,DAILY,ethics,Ethics and values,จริยธรรมและค่านิยม,5,3,Personal values and choices,ค่านิยมและการตัดสินใจส่วนตัว
+5,DAILY,research,Science and research,วิทยาศาสตร์และงานวิจัย,6,1,The scientific method,กระบวนการทางวิทยาศาสตร์
+5,DAILY,research,Science and research,วิทยาศาสตร์และงานวิจัย,6,2,In the laboratory,ในห้องปฏิบัติการ
+5,DAILY,research,Science and research,วิทยาศาสตร์และงานวิจัย,6,3,Publishing and evidence,การตีพิมพ์และหลักฐาน
+5,DAILY,global,Global issues,ประเด็นระดับโลก,7,1,Climate and environment,สภาพภูมิอากาศและสิ่งแวดล้อม
+5,DAILY,global,Global issues,ประเด็นระดับโลก,7,2,Poverty and development,ความยากจนและการพัฒนา
+5,DAILY,global,Global issues,ประเด็นระดับโลก,7,3,Conflict and cooperation,ความขัดแย้งและความร่วมมือ
+5,DAILY,idioms,Idioms and nuance,สำนวนและความหมายแฝง,8,1,Idioms about time and effort,สำนวนเรื่องเวลาและความพยายาม
+5,DAILY,idioms,Idioms and nuance,สำนวนและความหมายแฝง,8,2,Idioms about people and feelings,สำนวนเรื่องคนและความรู้สึก
+5,DAILY,idioms,Idioms and nuance,สำนวนและความหมายแฝง,8,3,Nuance and tone,ความหมายแฝงและน้ำเสียง
+5,WORK,executive-comms,Executive communication,การสื่อสารระดับผู้บริหาร,17,1,Board presentations,การนำเสนอต่อคณะกรรมการ
+5,WORK,executive-comms,Executive communication,การสื่อสารระดับผู้บริหาร,17,2,Delivering difficult news,การแจ้งข่าวที่ไม่ดี
+5,WORK,executive-comms,Executive communication,การสื่อสารระดับผู้บริหาร,17,3,Inspiring and aligning teams,สร้างแรงบันดาลใจและให้ทีมไปทางเดียวกัน
+5,WORK,risk,Risk management,การบริหารความเสี่ยง,18,1,Identifying risk,การระบุความเสี่ยง
+5,WORK,risk,Risk management,การบริหารความเสี่ยง,18,2,Controls and mitigation,การควบคุมและลดความเสี่ยง
+5,WORK,risk,Risk management,การบริหารความเสี่ยง,18,3,Incidents and recovery,เหตุการณ์ฉุกเฉินและการฟื้นตัว
+5,WORK,innovation,Innovation and R&D,นวัตกรรมและการวิจัยพัฒนา,19,1,Generating ideas,การสร้างสรรค์ไอเดีย
+5,WORK,innovation,Innovation and R&D,นวัตกรรมและการวิจัยพัฒนา,19,2,From prototype to product,จากต้นแบบสู่ผลิตภัณฑ์
+5,WORK,innovation,Innovation and R&D,นวัตกรรมและการวิจัยพัฒนา,19,3,Protecting and funding ideas,การคุ้มครองและระดมทุนให้ไอเดีย
+5,WORK,international,International business,ธุรกิจระหว่างประเทศ,20,1,Trade and customs,การค้าและศุลกากร
+5,WORK,international,International business,ธุรกิจระหว่างประเทศ,20,2,Global markets and expansion,ตลาดโลกและการขยายธุรกิจ
+5,WORK,international,International business,ธุรกิจระหว่างประเทศ,20,3,Working across cultures,การทำงานข้ามวัฒนธรรม

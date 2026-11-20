@@ -1,0 +1,65 @@
+level,family,category,category_en,category_th,category_order,lesson,title_en,title_th
+1,DAILY,home,Home,บ้านและที่อยู่อาศัย,1,1,Rooms in a house,ห้องต่าง ๆ ในบ้าน
+1,DAILY,home,Home,บ้านและที่อยู่อาศัย,1,2,Furniture,เฟอร์นิเจอร์
+1,DAILY,home,Home,บ้านและที่อยู่อาศัย,1,3,In the kitchen,ในครัว
+1,DAILY,home,Home,บ้านและที่อยู่อาศัย,1,4,Housework,งานบ้าน
+1,DAILY,food,Food and drinks,อาหารและเครื่องดื่ม,2,1,Fruits and vegetables,ผักและผลไม้
+1,DAILY,food,Food and drinks,อาหารและเครื่องดื่ม,2,2,Meals and dishes,มื้ออาหารและเมนู
+1,DAILY,food,Food and drinks,อาหารและเครื่องดื่ม,2,3,Drinks and snacks,เครื่องดื่มและของว่าง
+1,DAILY,food,Food and drinks,อาหารและเครื่องดื่ม,2,4,Taste and cooking,รสชาติและการทำอาหาร
+1,DAILY,shopping,Shopping,การซื้อของ,3,1,At the market,ที่ตลาด
+1,DAILY,shopping,Shopping,การซื้อของ,3,2,Clothes,เสื้อผ้า
+1,DAILY,shopping,Shopping,การซื้อของ,3,3,Paying for things,การจ่ายเงิน
+1,DAILY,shopping,Shopping,การซื้อของ,3,4,Shops and places,ร้านค้าและสถานที่
+1,DAILY,travel,Travel and transport,การเดินทาง,4,1,Getting around town,การเดินทางในเมือง
+1,DAILY,travel,Travel and transport,การเดินทาง,4,2,At the airport,ที่สนามบิน
+1,DAILY,travel,Travel and transport,การเดินทาง,4,3,Directions,การบอกทาง
+1,DAILY,travel,Travel and transport,การเดินทาง,4,4,At the hotel,ที่โรงแรม
+1,DAILY,health,Health and body,สุขภาพและร่างกาย,5,1,Parts of the body,อวัยวะในร่างกาย
+1,DAILY,health,Health and body,สุขภาพและร่างกาย,5,2,Feeling sick,อาการป่วย
+1,DAILY,health,Health and body,สุขภาพและร่างกาย,5,3,At the pharmacy,ที่ร้านขายยา
+1,DAILY,health,Health and body,สุขภาพและร่างกาย,5,4,Staying healthy,การดูแลสุขภาพ
+1,DAILY,people,People and family,ผู้คนและครอบครัว,6,1,Family members,สมาชิกในครอบครัว
+1,DAILY,people,People and family,ผู้คนและครอบครัว,6,2,Describing people,การบรรยายลักษณะคน
+1,DAILY,people,People and family,ผู้คนและครอบครัว,6,3,Feelings,ความรู้สึก
+1,DAILY,people,People and family,ผู้คนและครอบครัว,6,4,Friends and neighbors,เพื่อนและเพื่อนบ้าน
+1,DAILY,time,Time and daily routine,เวลาและกิจวัตร,7,1,Days and months,วันและเดือน
+1,DAILY,time,Time and daily routine,เวลาและกิจวัตร,7,2,My daily routine,กิจวัตรประจำวัน
+1,DAILY,time,Time and daily routine,เวลาและกิจวัตร,7,3,Weather and seasons,อากาศและฤดูกาล
+1,DAILY,time,Time and daily routine,เวลาและกิจวัตร,7,4,Free time,เวลาว่าง
+1,DAILY,city,Places and nature,สถานที่และธรรมชาติ,8,1,Places in the city,สถานที่ในเมือง
+1,DAILY,city,Places and nature,สถานที่และธรรมชาติ,8,2,Nature,ธรรมชาติ
+1,DAILY,city,Places and nature,สถานที่และธรรมชาติ,8,3,Animals,สัตว์
+1,DAILY,city,Places and nature,สถานที่และธรรมชาติ,8,4,At the bank and post office,ที่ธนาคารและไปรษณีย์
+1,WORK,office,Office,ออฟฟิศ,9,1,Things on a desk,ของบนโต๊ะทำงาน
+1,WORK,office,Office,ออฟฟิศ,9,2,Office equipment,อุปกรณ์สำนักงาน
+1,WORK,office,Office,ออฟฟิศ,9,3,Places at work,สถานที่ในที่ทำงาน
+1,WORK,office,Office,ออฟฟิศ,9,4,Office actions,กิจกรรมในออฟฟิศ
+1,WORK,jobs,Jobs and people at work,อาชีพและคนในที่ทำงาน,10,1,Jobs,อาชีพ
+1,WORK,jobs,Jobs and people at work,อาชีพและคนในที่ทำงาน,10,2,Job titles in a company,ตำแหน่งในบริษัท
+1,WORK,jobs,Jobs and people at work,อาชีพและคนในที่ทำงาน,10,3,Departments,แผนกต่าง ๆ
+1,WORK,jobs,Jobs and people at work,อาชีพและคนในที่ทำงาน,10,4,Working hours,เวลาทำงาน
+1,WORK,communication,Phone and email,โทรศัพท์และอีเมล,11,1,Making a phone call,การโทรศัพท์
+1,WORK,communication,Phone and email,โทรศัพท์และอีเมล,11,2,Writing an email,การเขียนอีเมล
+1,WORK,communication,Phone and email,โทรศัพท์และอีเมล,11,3,Messages and notes,ข้อความและโน้ต
+1,WORK,communication,Phone and email,โทรศัพท์และอีเมล,11,4,Computer basics,คอมพิวเตอร์เบื้องต้น
+1,WORK,meetings,Meetings,การประชุม,12,1,Meeting room,ห้องประชุม
+1,WORK,meetings,Meetings,การประชุม,12,2,Planning a meeting,การนัดประชุม
+1,WORK,meetings,Meetings,การประชุม,12,3,Talking in a meeting,การพูดในที่ประชุม
+1,WORK,meetings,Meetings,การประชุม,12,4,After the meeting,หลังการประชุม
+1,WORK,customers,Customers and service,ลูกค้าและการบริการ,13,1,Welcoming customers,การต้อนรับลูกค้า
+1,WORK,customers,Customers and service,ลูกค้าและการบริการ,13,2,Asking and answering,การถามและตอบ
+1,WORK,customers,Customers and service,ลูกค้าและการบริการ,13,3,Problems and help,ปัญหาและการช่วยเหลือ
+1,WORK,customers,Customers and service,ลูกค้าและการบริการ,13,4,Polite words,คำสุภาพ
+1,WORK,numbers,Numbers and money at work,ตัวเลขและเงินในงาน,14,1,Numbers and amounts,ตัวเลขและจำนวน
+1,WORK,numbers,Numbers and money at work,ตัวเลขและเงินในงาน,14,2,Prices and costs,ราคาและค่าใช้จ่าย
+1,WORK,numbers,Numbers and money at work,ตัวเลขและเงินในงาน,14,3,Dates and deadlines,วันที่และกำหนดส่ง
+1,WORK,numbers,Numbers and money at work,ตัวเลขและเงินในงาน,14,4,Bills and receipts,บิลและใบเสร็จ
+1,WORK,tasks,Tasks and projects,งานและโครงการ,15,1,Daily tasks,งานประจำวัน
+1,WORK,tasks,Tasks and projects,งานและโครงการ,15,2,Asking for help,การขอความช่วยเหลือ
+1,WORK,tasks,Tasks and projects,งานและโครงการ,15,3,Finishing work,การทำงานให้เสร็จ
+1,WORK,tasks,Tasks and projects,งานและโครงการ,15,4,Simple instructions,คำสั่งง่าย ๆ
+1,WORK,goods,Products and delivery,สินค้าและการจัดส่ง,16,1,Boxes and packages,กล่องและพัสดุ
+1,WORK,goods,Products and delivery,สินค้าและการจัดส่ง,16,2,Sending and receiving,การส่งและรับของ
+1,WORK,goods,Products and delivery,สินค้าและการจัดส่ง,16,3,In the warehouse,ในคลังสินค้า
+1,WORK,goods,Products and delivery,สินค้าและการจัดส่ง,16,4,Orders,คำสั่งซื้อ

@@ -1,0 +1,25 @@
+level,family,category,category_en,category_th,category_order,lesson,title_en,title_th
+1,DAILY,colors-shapes,"Colors, shapes and sizes",สี รูปทรงและขนาด,17,1,Colors,สีต่าง ๆ
+1,DAILY,colors-shapes,"Colors, shapes and sizes",สี รูปทรงและขนาด,17,2,Shapes,รูปทรงต่าง ๆ
+1,DAILY,colors-shapes,"Colors, shapes and sizes",สี รูปทรงและขนาด,17,3,Big and small,ขนาดใหญ่และเล็ก
+1,DAILY,school,School and learning,โรงเรียนและการเรียน,18,1,In the classroom,ในห้องเรียน
+1,DAILY,school,School and learning,โรงเรียนและการเรียน,18,2,Studying and tests,การเรียนและการสอบ
+1,DAILY,school,School and learning,โรงเรียนและการเรียน,18,3,Subjects and language,วิชาเรียนและภาษา
+1,DAILY,sports,Sports and games,กีฬาและเกม,19,1,Ball sports,กีฬาที่ใช้ลูกบอล
+1,DAILY,sports,Sports and games,กีฬาและเกม,19,2,Keeping fit,การออกกำลังกาย
+1,DAILY,sports,Sports and games,กีฬาและเกม,19,3,Games and scores,เกมและการแข่งขัน
+1,DAILY,restaurant,At a restaurant,ที่ร้านอาหาร,20,1,Ordering food,การสั่งอาหาร
+1,DAILY,restaurant,At a restaurant,ที่ร้านอาหาร,20,2,Food and things on the table,อาหารและของบนโต๊ะ
+1,DAILY,restaurant,At a restaurant,ที่ร้านอาหาร,20,3,Eating out and paying,กินข้าวนอกบ้านและจ่ายเงิน
+1,WORK,tools,Tools and repairs,เครื่องมือและการซ่อม,21,1,Hand tools,เครื่องมือช่าง
+1,WORK,tools,Tools and repairs,เครื่องมือและการซ่อม,21,2,Fixing things,การซ่อมของ
+1,WORK,tools,Tools and repairs,เครื่องมือและการซ่อม,21,3,Electricity and safety,ไฟฟ้าและความปลอดภัย
+1,WORK,commute,Going to work,การไปทำงาน,22,1,Ways to get to work,วิธีเดินทางไปทำงาน
+1,WORK,commute,Going to work,การไปทำงาน,22,2,On the road,บนท้องถนน
+1,WORK,commute,Going to work,การไปทำงาน,22,3,Getting to the office,เดินทางถึงที่ทำงาน
+1,WORK,small-talk,Small talk at work,การคุยเล่นที่ทำงาน,23,1,Hello and goodbye,ทักทายและบอกลา
+1,WORK,small-talk,Small talk at work,การคุยเล่นที่ทำงาน,23,2,Free time and fun,เวลาว่างและความสนุก
+1,WORK,small-talk,Small talk at work,การคุยเล่นที่ทำงาน,23,3,Friendly chat,คุยกันอย่างเป็นมิตร
+1,WORK,work-verbs,Common work verbs,คำกริยาที่ใช้ในงาน,24,1,Basic actions,การกระทำพื้นฐาน
+1,WORK,work-verbs,Common work verbs,คำกริยาที่ใช้ในงาน,24,2,Working with others,ทำงานร่วมกับผู้อื่น
+1,WORK,work-verbs,Common work verbs,คำกริยาที่ใช้ในงาน,24,3,Getting things done,ทำงานให้สำเร็จ

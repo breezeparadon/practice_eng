@@ -1,0 +1,25 @@
+level,family,category,category_en,category_th,category_order,lesson,title_en,title_th
+2,DAILY,money,Personal money,การเงินส่วนตัว,9,1,Using the bank,ทำธุรกรรมที่ธนาคาร
+2,DAILY,money,Personal money,การเงินส่วนตัว,9,2,Paying for things,จ่ายเงินซื้อของ
+2,DAILY,money,Personal money,การเงินส่วนตัว,9,3,Planning your money,วางแผนการเงิน
+2,DAILY,environment,Weather and environment,สภาพอากาศและสิ่งแวดล้อม,10,1,The weather report,พยากรณ์อากาศ
+2,DAILY,environment,Weather and environment,สภาพอากาศและสิ่งแวดล้อม,10,2,Natural disasters,ภัยธรรมชาติ
+2,DAILY,environment,Weather and environment,สภาพอากาศและสิ่งแวดล้อม,10,3,Green habits,นิสัยรักษ์โลก
+2,DAILY,celebrations,Parties and festivals,งานเลี้ยงและเทศกาล,11,1,A birthday party,งานวันเกิด
+2,DAILY,celebrations,Parties and festivals,งานเลี้ยงและเทศกาล,11,2,Festivals,เทศกาลต่าง ๆ
+2,DAILY,celebrations,Parties and festivals,งานเลี้ยงและเทศกาล,11,3,Office parties and weddings,งานเลี้ยงบริษัทและงานแต่งงาน
+2,DAILY,fitness,Sports and fitness,กีฬาและการออกกำลังกาย,12,1,Popular sports,กีฬายอดนิยม
+2,DAILY,fitness,Sports and fitness,กีฬาและการออกกำลังกาย,12,2,Working out at the gym,ออกกำลังกายที่ยิม
+2,DAILY,fitness,Sports and fitness,กีฬาและการออกกำลังกาย,12,3,Running and outdoor sports,การวิ่งและกีฬากลางแจ้ง
+2,WORK,hospitality,Hotel and restaurant work,งานโรงแรมและร้านอาหาร,21,1,At the hotel,ที่โรงแรม
+2,WORK,hospitality,Hotel and restaurant work,งานโรงแรมและร้านอาหาร,21,2,Serving customers,บริการลูกค้าในร้านอาหาร
+2,WORK,hospitality,Hotel and restaurant work,งานโรงแรมและร้านอาหาร,21,3,Kitchen and service jobs,งานในครัวและงานบริการ
+2,WORK,factory,Factory and production,โรงงานและการผลิต,22,1,On the production line,สายการผลิต
+2,WORK,factory,Factory and production,โรงงานและการผลิต,22,2,Quality and machines,คุณภาพและเครื่องจักร
+2,WORK,factory,Factory and production,โรงงานและการผลิต,22,3,Materials and factory work,วัสดุและงานในโรงงาน
+2,WORK,logistics,Transport and logistics,ขนส่งและโลจิสติกส์,23,1,Shipping goods,การส่งสินค้า
+2,WORK,logistics,Transport and logistics,ขนส่งและโลจิสติกส์,23,2,Delivery and tracking,การจัดส่งและติดตามพัสดุ
+2,WORK,logistics,Transport and logistics,ขนส่งและโลจิสติกส์,23,3,In the warehouse,งานในคลังสินค้า
+2,WORK,rules,Workplace rules and safety,กฎและความปลอดภัยในที่ทำงาน,24,1,Safety at work,ความปลอดภัยในการทำงาน
+2,WORK,rules,Workplace rules and safety,กฎและความปลอดภัยในที่ทำงาน,24,2,Company rules,กฎของบริษัท
+2,WORK,rules,Workplace rules and safety,กฎและความปลอดภัยในที่ทำงาน,24,3,Safety training,การอบรมความปลอดภัย

@@ -1,0 +1,337 @@
+level,category,lesson,order,headword,pos,phonetic,reading_th,meaning_th,example_en,example_th,note_en,emoji,reviewed
+2,housing,1,1,rent,verb,/rɛnt/,เรนท์,เช่า,We rent a small apartment near the train station.,เราเช่าอพาร์ตเมนต์เล็ก ๆ ใกล้สถานีรถไฟ,,,false
+2,housing,1,2,landlord,noun,/ˈlændˌlɔrd/,แลนด์ลอร์ด,เจ้าของห้องเช่า,Our landlord lives on the first floor of the building.,เจ้าของห้องเช่าของเราอาศัยอยู่ชั้นหนึ่งของอาคาร,,,false
+2,housing,1,3,tenant,noun,/ˈtɛnənt/,เทนเนินท์,ผู้เช่า,The new tenant will move into room 305 next week.,ผู้เช่าคนใหม่จะย้ายเข้าห้อง 305 สัปดาห์หน้า,,,false
+2,housing,1,4,apartment,noun,/əˈpɑrtmənt/,อะพาร์ทเมินท์,อพาร์ตเมนต์,Her apartment has one bedroom and a small kitchen.,อพาร์ตเมนต์ของเธอมีหนึ่งห้องนอนและครัวเล็ก ๆ,,🏢,false
+2,housing,1,5,condo,noun,/ˈkɑndoʊ/,คอนโด,คอนโดมิเนียม,He wants to rent a condo close to his office.,เขาอยากเช่าคอนโดใกล้ที่ทำงาน,,,false
+2,housing,1,6,furnished,adjective,/ˈfɝnɪʃt/,เฟอร์นิชท์,มีเฟอร์นิเจอร์พร้อม,"The room is furnished with a bed, a desk and a wardrobe.",ห้องนี้มีเฟอร์นิเจอร์พร้อม ทั้งเตียง โต๊ะ และตู้เสื้อผ้า,,,false
+2,housing,1,7,studio,noun,/ˈstudioʊ/,สตูดิโอ,ห้องแบบเปิดโล่งไม่มีห้องนอนแยก,A studio is fine for one person who works all day.,ห้องสตูดิโอเหมาะกับคนอยู่คนเดียวที่ทำงานทั้งวัน,,,false
+2,housing,1,8,lease,noun,/lis/,ลีส,สัญญาเช่า,Please read the lease carefully before you sign it.,กรุณาอ่านสัญญาเช่าให้ละเอียดก่อนเซ็น,,,false
+2,housing,1,9,monthly rent,noun,/ˈmʌnθli ˈrɛnt/,มันธ์ลี เรนท์,ค่าเช่ารายเดือน,The monthly rent is eight thousand baht with water included.,ค่าเช่ารายเดือนแปดพันบาท รวมค่าน้ำแล้ว,,,false
+2,housing,1,10,location,noun,/loʊˈkeɪʃən/,โลเคชัน,ทำเลที่ตั้ง,The location is great because the subway is very close.,ทำเลดีมากเพราะรถไฟใต้ดินอยู่ใกล้มาก,,,false
+2,housing,1,11,loud,adjective,/laʊd/,ลาวด์,เสียงดัง,The room near the road is too loud at night.,ห้องที่อยู่ติดถนนเสียงดังเกินไปตอนกลางคืน,,,false
+2,housing,1,12,water bill,noun,/ˈwɔtər ˌbɪl/,วอเทอร์ บิล,ค่าน้ำประปา,The water bill is included in the monthly rent.,ค่าน้ำรวมอยู่ในค่าเช่ารายเดือนแล้ว,,,false
+2,housing,1,13,for rent,phrase,/fɔr ˈrɛnt/,ฟอร์ เรนท์,ให้เช่า,I saw a sign that said room for rent.,ฉันเห็นป้ายเขียนว่ามีห้องให้เช่า,,,false
+2,housing,1,14,floor plan,noun,/ˈflɔr ˌplæn/,ฟลอร์ แพลน,แผนผังห้อง,The agent showed us the floor plan of the condo.,นายหน้าให้เราดูแผนผังห้องของคอนโด,,,false
+2,housing,2,1,move in,phrasal verb,/ˌmuv ˈɪn/,มูฟ อิน,ย้ายเข้า,We will move in on the first day of next month.,เราจะย้ายเข้าในวันแรกของเดือนหน้า,,,false
+2,housing,2,2,move out,phrasal verb,/ˌmuv ˈaʊt/,มูฟ เอาท์,ย้ายออก,Tenants must clean the room before they move out.,ผู้เช่าต้องทำความสะอาดห้องก่อนย้ายออก,,,false
+2,housing,2,3,moving company,noun,/ˈmuvɪŋ ˌkʌmpəni/,มูฟวิ่ง คัมพะนี,บริษัทขนย้าย,We paid a moving company to carry the heavy things.,เราจ้างบริษัทขนย้ายมาขนของหนัก,,,false
+2,housing,2,4,unpack,verb,/ʌnˈpæk/,อันแพ็ค,แกะของออกจากกล่อง,I need two days to unpack all these boxes.,ฉันต้องใช้เวลาสองวันแกะของออกจากกล่องทั้งหมดนี้,,,false
+2,housing,2,5,cardboard,noun,/ˈkɑrdˌbɔrd/,คาร์ดบอร์ด,กระดาษลัง,You can get cardboard boxes free from the supermarket.,คุณขอกล่องกระดาษลังได้ฟรีจากซูเปอร์มาร์เก็ต,,📦,false
+2,housing,2,6,furniture,noun,/ˈfɝnɪtʃər/,เฟอร์นิเจอร์,เครื่องเรือน,Be careful when you carry the furniture down the stairs.,ระวังตอนยกเฟอร์นิเจอร์ลงบันได,,🛋️,false
+2,housing,2,7,upstairs,adverb,/ˌʌpˈstɛrz/,อัพสแตร์ส,ชั้นบน,Please take these boxes upstairs to the bedroom.,ช่วยยกกล่องพวกนี้ขึ้นไปห้องนอนชั้นบน,,,false
+2,housing,2,8,downstairs,adverb,/ˌdaʊnˈstɛrz/,ดาวน์สแตร์ส,ชั้นล่าง,The truck is waiting downstairs in front of the building.,รถบรรทุกรออยู่ข้างล่างหน้าตึก,,,false
+2,housing,2,9,belongings,noun,/bɪˈlɔŋɪŋz/,บีลองอิงส์,ข้าวของส่วนตัว,Keep your belongings in one bag on moving day.,เก็บข้าวของส่วนตัวไว้ในกระเป๋าใบเดียวในวันย้ายบ้าน,,,false
+2,housing,2,10,cover,verb,/ˈkʌvər/,คัฟเวอร์,คลุม,Cover the table with a blanket so it stays clean.,คลุมโต๊ะด้วยผ้าห่มเพื่อให้สะอาด,,,false
+2,housing,2,11,mattress,noun,/ˈmætrəs/,แมทเทรส,ฟูกที่นอน,The new mattress is too big for the elevator.,ฟูกที่นอนใหม่ใหญ่เกินกว่าจะเข้าลิฟต์,,,false
+2,housing,2,12,hand over,phrasal verb,/ˌhænd ˈoʊvər/,แฮนด์ โอเวอร์,ส่งมอบ,The landlord will hand over the keys on Friday.,เจ้าของห้องจะส่งมอบกุญแจวันศุกร์,,,false
+2,housing,2,13,mover,noun,/ˈmuvər/,มูฟเวอร์,คนขนของย้ายบ้าน,The movers carried the sofa up to the third floor.,คนขนของยกโซฟาขึ้นไปชั้นสาม,,,false
+2,housing,2,14,settle in,phrasal verb,/ˌsɛtəl ˈɪn/,เซ็ทเทิล อิน,ปรับตัวให้คุ้นกับที่อยู่ใหม่,It took us a week to settle in after the move.,เราใช้เวลาหนึ่งสัปดาห์กว่าจะคุ้นกับบ้านใหม่หลังย้ายมา,,,false
+2,housing,3,1,fix up,phrasal verb,/ˌfɪks ˈʌp/,ฟิกซ์ อัพ,ซ่อมแซมและตกแต่งให้ดีขึ้น,We want to fix up the old kitchen before we live there.,เราอยากซ่อมแซมครัวเก่าก่อนเข้าไปอยู่,,,false
+2,housing,3,2,drip,verb,/drɪp/,ดริพ,หยด,Water is dripping from the pipe under the sink.,น้ำหยดจากท่อใต้อ่างล้างจาน,,,false
+2,housing,3,3,water heater,noun,/ˈwɔtər ˌhitər/,วอเทอร์ ฮีทเทอร์,เครื่องทำน้ำอุ่น,The water heater in the bathroom is not working.,เครื่องทำน้ำอุ่นในห้องน้ำเสีย,,,false
+2,housing,3,4,electricity,noun,/ɪˌlɛkˈtrɪsəti/,อีเล็คทริซิตี,ไฟฟ้า,The rent does not include water and electricity.,ค่าเช่ายังไม่รวมค่าน้ำและค่าไฟฟ้า,,⚡,false
+2,housing,3,5,no pets,phrase,/ˌnoʊ ˈpɛts/,โน เพ็ทส์,ห้ามเลี้ยงสัตว์,The sign on the door says no pets in this building.,ป้ายที่ประตูเขียนว่าห้ามเลี้ยงสัตว์ในอาคารนี้,,,false
+2,housing,3,6,cockroach,noun,/ˈkɑkˌroʊtʃ/,ค็อกโรช,แมลงสาบ,I saw a cockroach in the kitchen last night.,เมื่อคืนฉันเห็นแมลงสาบในครัว,,🪳,false
+2,housing,3,7,trash bag,noun,/ˈtræʃ ˌbæɡ/,แทรช แบ็ก,ถุงขยะ,Tie the trash bag and put it in the big bin downstairs.,มัดถุงขยะแล้วเอาไปใส่ถังใหญ่ข้างล่าง,,,false
+2,housing,3,8,smell,verb,/smɛl/,สเมล,มีกลิ่น,"The bathroom smells bad, so please open the window.",ห้องน้ำมีกลิ่นเหม็น ช่วยเปิดหน้าต่างหน่อย,,,false
+2,housing,3,9,blocked,adjective,/blɑkt/,บล็อคท์,อุดตัน,The kitchen sink is blocked again.,อ่างล้างจานในครัวตันอีกแล้ว,,,false
+2,housing,3,10,faucet,noun,/ˈfɔsɪt/,ฟอซิท,ก๊อกน้ำ,Turn off the faucet when you brush your teeth.,ปิดก๊อกน้ำตอนแปรงฟัน,,🚰,false
+2,housing,3,11,mold,noun,/moʊld/,โมลด์,เชื้อรา,There is black mold on the bathroom ceiling.,มีเชื้อราสีดำบนเพดานห้องน้ำ,,,false
+2,housing,3,12,pipe,noun,/paɪp/,ไพพ์,ท่อ,A pipe under the floor is old and needs to be changed.,ท่อใต้พื้นเก่าแล้วและต้องเปลี่ยนใหม่,,,false
+2,housing,3,13,caretaker,noun,/ˈkɛrˌteɪkər/,แคร์เทคเกอร์,ผู้ดูแลอาคาร,Ask the caretaker if you lose your room key.,ถ้าทำกุญแจห้องหาย ให้ถามผู้ดูแลอาคาร,,,false
+2,housing,3,14,laundry room,noun,/ˈlɔndri ˌrum/,ลอนดรี รูม,ห้องซักผ้า,The laundry room has three washing machines.,ห้องซักผ้ามีเครื่องซักผ้าสามเครื่อง,,,false
+2,cooking,1,1,cutting board,noun,/ˈkʌtɪŋ ˌbɔrd/,คัทติ้ง บอร์ด,เขียง,Put the meat on the cutting board and cut it.,วางเนื้อบนเขียงแล้วหั่น,,,false
+2,cooking,1,2,wok,noun,/wɑk/,ว็อก,กระทะก้นลึก,My mother cooks fried rice in a big wok.,แม่ผัดข้าวในกระทะใบใหญ่,,,false
+2,cooking,1,3,ladle,noun,/ˈleɪdəl/,เลเดิล,ทัพพี,Use a ladle to put the soup into the bowls.,ใช้ทัพพีตักซุปใส่ชาม,,,false
+2,cooking,1,4,spatula,noun,/ˈspætʃələ/,สแปชูละ,ตะหลิว,Turn the egg over with a spatula.,ใช้ตะหลิวกลับไข่,,,false
+2,cooking,1,5,rice cooker,noun,/ˈraɪs ˌkʊkər/,ไรซ์ คุกเกอร์,หม้อหุงข้าว,The rice cooker turns off when the rice is ready.,หม้อหุงข้าวจะตัดเองเมื่อข้าวสุก,,,false
+2,cooking,1,6,blender,noun,/ˈblɛndər/,เบลนเดอร์,เครื่องปั่น,I make a mango smoothie in the blender every morning.,ฉันทำมะม่วงปั่นด้วยเครื่องปั่นทุกเช้า,,,false
+2,cooking,1,7,toaster,noun,/ˈtoʊstər/,โทสเตอร์,เครื่องปิ้งขนมปัง,Put two pieces of bread in the toaster.,ใส่ขนมปังสองแผ่นลงในเครื่องปิ้งขนมปัง,,,false
+2,cooking,1,8,peeler,noun,/ˈpilər/,พีลเลอร์,ที่ปอกเปลือก,A peeler is faster than a knife for carrots.,ที่ปอกเปลือกปอกแครอทได้เร็วกว่ามีด,,,false
+2,cooking,1,9,baking tray,noun,/ˈbeɪkɪŋ ˌtreɪ/,เบคกิ้ง เทรย์,ถาดอบ,Put the cookies on a baking tray and bake them.,วางคุกกี้บนถาดอบแล้วนำไปอบ,,,false
+2,cooking,1,10,lid,noun,/lɪd/,ลิด,ฝาหม้อ,Cover the pot with a lid so it boils faster.,ปิดฝาหม้อเพื่อให้น้ำเดือดเร็วขึ้น,,,false
+2,cooking,1,11,measuring cup,noun,/ˈmɛʒərɪŋ ˌkʌp/,เมเชอริ่ง คัพ,ถ้วยตวง,Use a measuring cup to add two cups of water.,ใช้ถ้วยตวงเติมน้ำสองถ้วย,,,false
+2,cooking,1,12,teaspoon,noun,/ˈtiˌspun/,ทีสปูน,ช้อนชา,Add one teaspoon of sugar to the sauce.,เติมน้ำตาลหนึ่งช้อนชาลงในซอส,,🥄,false
+2,cooking,1,13,mortar and pestle,noun,/ˈmɔrtər ən ˈpɛsəl/,มอร์เทอร์ แอนด์ เพสเซิล,ครกกับสาก,We use a mortar and pestle to make papaya salad.,เราใช้ครกกับสากทำส้มตำ,,,false
+2,cooking,1,14,oven mitt,noun,/ˈʌvən ˌmɪt/,อัฟเวิน มิท,ถุงมือจับของร้อน,Wear an oven mitt when you take the hot tray out.,ใส่ถุงมือจับของร้อนตอนหยิบถาดร้อนออกมา,,,false
+2,cooking,2,1,whisk,verb,/wɪsk/,วิสก์,ตีให้เข้ากัน,Whisk the milk and eggs together in a bowl.,ตีนมกับไข่ให้เข้ากันในชาม,,,false
+2,cooking,2,2,dice,verb,/daɪs/,ไดซ์,หั่นเป็นลูกเต๋า,Dice the carrots and potatoes for the soup.,หั่นแครอทและมันฝรั่งเป็นลูกเต๋าสำหรับทำซุป,,,false
+2,cooking,2,3,grate,verb,/ɡreɪt/,เกรท,ขูด (ให้เป็นฝอย),Grate some cheese on top of the pasta.,ขูดชีสโรยบนพาสต้า,,,false
+2,cooking,2,4,stir,verb,/stɝ/,สเตอร์,คน,Keep stirring the curry so it does not burn.,คนแกงไปเรื่อย ๆ จะได้ไม่ไหม้,,,false
+2,cooking,2,5,pour,verb,/pɔr/,พอร์,เท,Pour the hot water slowly into the cup.,เทน้ำร้อนลงในถ้วยช้า ๆ,,,false
+2,cooking,2,6,steam,verb,/stim/,สตีม,นึ่ง,We steam the fish with lime and garlic.,เรานึ่งปลากับมะนาวและกระเทียม,,,false
+2,cooking,2,7,roast,verb,/roʊst/,โรสท์,อบ (ในเตา),Roast the chicken in the oven for one hour.,อบไก่ในเตาอบหนึ่งชั่วโมง,,,false
+2,cooking,2,8,melt,verb,/mɛlt/,เมลท์,ละลาย,Melt the butter in a small pan.,ละลายเนยในกระทะใบเล็ก,,,false
+2,cooking,2,9,reheat,verb,/riˈhit/,รีฮีท,อุ่นอาหารซ้ำ,I reheat the soup in the microwave for lunch.,ฉันอุ่นซุปในไมโครเวฟเป็นมื้อกลางวัน,,,false
+2,cooking,2,10,squeeze,verb,/skwiz/,สควีซ,บีบ คั้น,Squeeze some lime juice over the fish.,บีบน้ำมะนาวราดบนปลา,,,false
+2,cooking,2,11,beat,verb,/bit/,บีท,ตี (ไข่),Beat the eggs with a fork for one minute.,ตีไข่ด้วยส้อมหนึ่งนาที,,,false
+2,cooking,2,12,drain,verb,/dreɪn/,เดรน,สะเด็ดน้ำ,Drain the noodles and put them in a bowl.,สะเด็ดน้ำเส้นแล้วใส่ชาม,,,false
+2,cooking,2,13,marinate,verb,/ˈmærəˌneɪt/,แมริเนท,หมัก,Marinate the pork in soy sauce for two hours.,หมักหมูในซีอิ๊วสองชั่วโมง,,,false
+2,cooking,2,14,simmer,verb,/ˈsɪmər/,ซิมเมอร์,เคี่ยวด้วยไฟอ่อน,Let the curry simmer for twenty minutes.,เคี่ยวแกงด้วยไฟอ่อนยี่สิบนาที,,,false
+2,cooking,3,1,pinch,noun,/pɪntʃ/,พินช์,หยิบมือ,Add a pinch of salt to the soup.,ใส่เกลือหนึ่งหยิบมือลงในซุป,,,false
+2,cooking,3,2,gram,noun,/ɡræm/,แกรม,กรัม,You need two hundred grams of flour for this cake.,เค้กนี้ต้องใช้แป้งสองร้อยกรัม,,,false
+2,cooking,3,3,medium heat,noun,/ˈmidiəm ˈhit/,มีเดียม ฮีท,ไฟกลาง,Cook the vegetables over medium heat for five minutes.,ผัดผักด้วยไฟกลางห้านาที,,,false
+2,cooking,3,4,tablespoon,noun,/ˈteɪbəlˌspun/,เทเบิลสปูน,ช้อนโต๊ะ,Add two tablespoons of fish sauce and stir well.,เติมน้ำปลาสองช้อนโต๊ะแล้วคนให้เข้ากัน,,,false
+2,cooking,3,5,flour,noun,/ˈflaʊər/,ฟลาวเออร์,แป้ง,Mix the flour and the eggs in a big bowl.,ผสมแป้งกับไข่ในชามใบใหญ่,,,false
+2,cooking,3,6,butter,noun,/ˈbʌtər/,บัทเทอร์,เนย,Spread some butter on the warm toast.,ทาเนยบนขนมปังปิ้งอุ่น ๆ,,🧈,false
+2,cooking,3,7,cooking oil,noun,/ˈkʊkɪŋ ˌɔɪl/,คุกกิ้ง ออยล์,น้ำมันพืชสำหรับทำอาหาร,Put a little cooking oil in the pan before frying.,ใส่น้ำมันเล็กน้อยในกระทะก่อนทอด,,,false
+2,cooking,3,8,chili,noun,/ˈtʃɪli/,ชิลลี,พริก,Add one red chili if you like it spicy.,ใส่พริกแดงหนึ่งเม็ดถ้าชอบเผ็ด,,🌶️,false
+2,cooking,3,9,fish sauce,noun,/ˈfɪʃ ˌsɔs/,ฟิช ซอส,น้ำปลา,Thai cooks add fish sauce to many dishes.,คนไทยใส่น้ำปลาในอาหารหลายอย่าง,,,false
+2,cooking,3,10,vinegar,noun,/ˈvɪnɪɡər/,วินิเกอร์,น้ำส้มสายชู,Mix a little vinegar into the sauce.,ผสมน้ำส้มสายชูเล็กน้อยลงในซอส,,,false
+2,cooking,3,11,lime juice,noun,/ˈlaɪm ˌdʒus/,ไลม์ จูซ,น้ำมะนาว,Add two spoons of lime juice to the salad.,เติมน้ำมะนาวสองช้อนลงในยำ,,,false
+2,cooking,3,12,raw,adjective,/rɔ/,รอ,ดิบ,Do not eat raw chicken because it can make you sick.,อย่ากินไก่ดิบเพราะอาจทำให้ป่วย,,,false
+2,cooking,3,13,soy sauce,noun,/ˈsɔɪ ˌsɔs/,ซอย ซอส,ซีอิ๊ว,Dip the dumplings in a little soy sauce.,จิ้มเกี๊ยวกับซีอิ๊วนิดหน่อย,,,false
+2,cooking,3,14,sprinkle,verb,/ˈsprɪŋkəl/,สปริงเคิล,โรย,Sprinkle some chopped green onion on the soup.,โรยต้นหอมซอยบนซุป,,,false
+2,online-shopping,1,1,shopping app,noun,/ˈʃɑpɪŋ ˌæp/,ชอปปิ้ง แอพ,แอปซื้อของ,I buy most of my clothes on a shopping app.,ฉันซื้อเสื้อผ้าส่วนใหญ่ผ่านแอปซื้อของ,,📱,false
+2,online-shopping,1,2,browse,verb,/braʊz/,บราวซ์,เลือกดู (สินค้า),I like to browse online stores before I sleep.,ฉันชอบเลือกดูร้านออนไลน์ก่อนนอน,,,false
+2,online-shopping,1,3,product page,noun,/ˈprɑdəkt ˌpeɪdʒ/,พรอดัคท์ เพจ,หน้าสินค้า,The product page shows the size and the price.,หน้าสินค้าแสดงขนาดและราคา,,,false
+2,online-shopping,1,4,sort by,phrasal verb,/ˈsɔrt baɪ/,ซอร์ท บาย,เรียงตาม,Sort by price to see the cheapest items first.,เรียงตามราคาเพื่อดูสินค้าที่ถูกที่สุดก่อน,,,false
+2,online-shopping,1,5,official store,noun,/əˈfɪʃəl ˈstɔr/,อะฟิเชิล สตอร์,ร้านค้าทางการของแบรนด์,Buy from the official store to get a real product.,ซื้อจากร้านค้าทางการเพื่อให้ได้สินค้าของแท้,,,false
+2,online-shopping,1,6,star rating,noun,/ˈstɑr ˌreɪtɪŋ/,สตาร์ เรทติ้ง,คะแนนดาว,This shop has a star rating of four point eight.,ร้านนี้ได้คะแนนดาวสี่จุดแปด,,⭐,false
+2,online-shopping,1,7,wishlist,noun,/ˈwɪʃˌlɪst/,วิชลิสต์,รายการของที่อยากได้,I added the bag to my wishlist for later.,ฉันเพิ่มกระเป๋าไว้ในรายการของที่อยากได้ ไว้ซื้อทีหลัง,,,false
+2,online-shopping,1,8,description,noun,/dɪˈskrɪpʃən/,ดิสคริปชัน,คำอธิบายสินค้า,Read the description to check the size of the table.,อ่านคำอธิบายสินค้าเพื่อดูขนาดของโต๊ะ,,,false
+2,online-shopping,1,9,product photo,noun,/ˈprɑdəkt ˌfoʊtoʊ/,พรอดัคท์ โฟโต,รูปสินค้า,The product photo looks better than the real bag.,รูปสินค้าดูดีกว่ากระเป๋าจริง,,,false
+2,online-shopping,1,10,promo code,noun,/ˈproʊmoʊ ˌkoʊd/,โพรโม โคด,โค้ดส่วนลด,Enter this promo code to get ten percent off.,ใส่โค้ดนี้เพื่อรับส่วนลดสิบเปอร์เซ็นต์,,,false
+2,online-shopping,1,11,flash sale,noun,/ˈflæʃ ˌseɪl/,แฟลช เซล,การลดราคาช่วงสั้น ๆ,The flash sale starts at midnight and ends at two.,การลดราคาพิเศษเริ่มตอนเที่ยงคืนและจบตอนตีสอง,,,false
+2,online-shopping,1,12,add to cart,phrase,/ˈæd tə ˈkɑrt/,แอด ทู คาร์ท,หยิบใส่ตะกร้า,Tap add to cart before the price goes up.,กดหยิบใส่ตะกร้าก่อนราคาจะขึ้น,,🛒,false
+2,online-shopping,1,13,fake,adjective,/feɪk/,เฟค,ปลอม,"Be careful, some cheap watches online are fake.",ระวังนะ นาฬิกาถูก ๆ บางเรือนในออนไลน์เป็นของปลอม,,,false
+2,online-shopping,1,14,size chart,noun,/ˈsaɪz ˌtʃɑrt/,ไซซ์ ชาร์ท,ตารางขนาด,Check the size chart before you order shoes.,ดูตารางขนาดก่อนสั่งรองเท้า,,,false
+2,online-shopping,2,1,create an account,phrase,/kriˈeɪt ən əˈkaʊnt/,ครีเอท แอน อะเคานท์,สร้างบัญชีผู้ใช้,You need to create an account before you can order.,คุณต้องสร้างบัญชีก่อนจึงจะสั่งซื้อได้,,,false
+2,online-shopping,2,2,buy now,phrase,/ˌbaɪ ˈnaʊ/,บาย นาว,ซื้อทันที,Tap buy now to pay for this item right away.,กดซื้อทันทีเพื่อจ่ายเงินสินค้าชิ้นนี้เลย,,,false
+2,online-shopping,2,3,shipping,noun,/ˈʃɪpɪŋ/,ชิพพิ้ง,การจัดส่ง,Shipping is free for orders over five hundred baht.,ส่งฟรีสำหรับคำสั่งซื้อเกินห้าร้อยบาท,,,false
+2,online-shopping,2,4,cash on delivery,phrase,/ˈkæʃ ɑn dɪˈlɪvəri/,แคช ออน ดีลิเวอรี,เก็บเงินปลายทาง,I usually choose cash on delivery for new shops.,ฉันมักเลือกเก็บเงินปลายทางเวลาซื้อกับร้านใหม่,,,false
+2,online-shopping,2,5,card number,noun,/ˈkɑrd ˌnʌmbər/,การ์ด นัมเบอร์,หมายเลขบัตร,Type your card number without any spaces.,พิมพ์หมายเลขบัตรโดยไม่เว้นวรรค,,💳,false
+2,online-shopping,2,6,e-wallet,noun,/ˈiˌwɑlɪt/,อีวอลเล็ท,กระเป๋าเงินอิเล็กทรอนิกส์,You can pay quickly with an e-wallet on your phone.,คุณจ่ายได้รวดเร็วด้วยกระเป๋าเงินอิเล็กทรอนิกส์ในโทรศัพท์,,,false
+2,online-shopping,2,7,one-time password,noun,/ˈwʌnˌtaɪm ˈpæsˌwɝd/,วันไทม์ พาสเวิร์ด,รหัสผ่านใช้ครั้งเดียว,The bank sends a one-time password to your phone.,ธนาคารส่งรหัสผ่านใช้ครั้งเดียวไปที่โทรศัพท์ของคุณ,,,false
+2,online-shopping,2,8,order summary,noun,/ˈɔrdər ˌsʌməri/,ออร์เดอร์ ซัมมะรี,สรุปรายการสั่งซื้อ,Check the order summary before you pay.,ตรวจสรุปรายการสั่งซื้อก่อนจ่ายเงิน,,,false
+2,online-shopping,2,9,pay later,phrase,/ˌpeɪ ˈleɪtər/,เพย์ เลเทอร์,ซื้อก่อนจ่ายทีหลัง,Some apps let you buy now and pay later.,บางแอปให้ซื้อตอนนี้แล้วจ่ายทีหลังได้,,,false
+2,online-shopping,2,10,order history,noun,/ˈɔrdər ˌhɪstəri/,ออร์เดอร์ ฮิสทอรี,ประวัติการสั่งซื้อ,You can find the receipt in your order history.,คุณหาใบเสร็จได้ในประวัติการสั่งซื้อ,,,false
+2,online-shopping,2,11,online banking,noun,/ˈɑnˌlaɪn ˈbæŋkɪŋ/,ออนไลน์ แบงกิ้ง,ธนาคารออนไลน์,I pay my bills with online banking on my phone.,ฉันจ่ายบิลผ่านธนาคารออนไลน์ในโทรศัพท์,,,false
+2,online-shopping,2,12,expiry date,noun,/ɪkˈspaɪəri ˌdeɪt/,อิกซ์สปายเออรี เดท,วันหมดอายุ,Type the expiry date that is on the front of your card.,พิมพ์วันหมดอายุที่อยู่ด้านหน้าบัตร,,,false
+2,online-shopping,2,13,saved card,noun,/ˈseɪvd ˌkɑrd/,เซฟด์ การ์ด,บัตรที่บันทึกไว้,Paying with a saved card is fast and easy.,การจ่ายด้วยบัตรที่บันทึกไว้ทำได้เร็วและง่าย,,💳,false
+2,online-shopping,2,14,order status,noun,/ˈɔrdər ˌsteɪtəs/,ออร์เดอร์ สเตทัส,สถานะคำสั่งซื้อ,Check the order status to see if the shop has received your payment.,ดูสถานะคำสั่งซื้อว่าร้านได้รับเงินแล้วหรือยัง,,,false
+2,online-shopping,3,1,out for delivery,phrase,/ˌaʊt fər dɪˈlɪvəri/,เอาท์ ฟอร์ ดีลิเวอรี,กำลังนำส่ง,The app says my parcel is out for delivery today.,แอปบอกว่าพัสดุของฉันกำลังนำส่งวันนี้,,,false
+2,online-shopping,3,2,rider,noun,/ˈraɪdər/,ไรเดอร์,คนส่งของที่ขี่มอเตอร์ไซค์,The rider called me when he arrived at the gate.,คนส่งของโทรหาฉันตอนมาถึงหน้าประตู,,🛵,false
+2,online-shopping,3,3,doorstep,noun,/ˈdɔrˌstɛp/,ดอร์สเต็ป,หน้าประตูบ้าน,The courier left the box on my doorstep.,พนักงานส่งของวางกล่องไว้หน้าประตูบ้านฉัน,,,false
+2,online-shopping,3,4,parcel locker,noun,/ˈpɑrsəl ˌlɑkər/,พาร์เซิล ล็อคเกอร์,ตู้รับพัสดุ,I collect my orders from a parcel locker near my office.,ฉันไปรับของจากตู้รับพัสดุใกล้ออฟฟิศ,,,false
+2,online-shopping,3,5,unbox,verb,/ʌnˈbɑks/,อันบ็อกซ์,แกะกล่อง,Take a video when you unbox an expensive item.,ถ่ายวิดีโอไว้ตอนแกะกล่องสินค้าราคาแพง,,,false
+2,online-shopping,3,6,torn,adjective,/tɔrn/,ทอร์น,ขาด,"The shirt arrived torn, so I asked for a refund.",เสื้อมาถึงแบบขาด ฉันเลยขอคืนเงิน,,,false
+2,online-shopping,3,7,dented,adjective,/ˈdɛntɪd/,เดนทิด,บุบ,"The box was dented, but the rice cooker was fine.",กล่องบุบ แต่หม้อหุงข้าวไม่เป็นอะไร,,,false
+2,online-shopping,3,8,return request,noun,/rɪˈtɝn rɪˌkwɛst/,รีเทิร์น รีเควสท์,คำขอคืนสินค้า,Send a return request within seven days.,ส่งคำขอคืนสินค้าภายในเจ็ดวัน,,,false
+2,online-shopping,3,9,send back,phrasal verb,/ˌsɛnd ˈbæk/,เซนด์ แบ็ค,ส่งคืน,"If the size is wrong, you can send back the shoes for free.",ถ้าไซซ์ไม่ถูก คุณส่งรองเท้าคืนได้ฟรี,,,false
+2,online-shopping,3,10,wrong item,noun,/ˌrɔŋ ˈaɪtəm/,รอง ไอเทม,สินค้าผิดชิ้น,"I ordered a blue cup, but I got the wrong item.",ฉันสั่งแก้วสีฟ้า แต่ได้สินค้าผิดชิ้น,,,false
+2,online-shopping,3,11,estimated delivery,noun,/ˈɛstəˌmeɪtɪd dɪˈlɪvəri/,เอสทิเมทิด ดีลิเวอรี,วันที่คาดว่าจะได้รับสินค้า,The estimated delivery is Monday or Tuesday.,คาดว่าจะได้รับสินค้าวันจันทร์หรือวันอังคาร,,,false
+2,online-shopping,3,12,scam,noun,/skæm/,สแกม,การหลอกลวง,"If the price is too low, it may be a scam.",ถ้าราคาถูกเกินไป อาจเป็นการหลอกลวง,,,false
+2,online-shopping,3,13,seller rating,noun,/ˈsɛlər ˌreɪtɪŋ/,เซลเลอร์ เรทติ้ง,คะแนนของร้านค้า,I only buy from shops with a high seller rating.,ฉันซื้อเฉพาะร้านที่มีคะแนนร้านค้าสูง,,,false
+2,online-shopping,3,14,leave a review,phrase,/ˌliv ə rɪˈvju/,ลีฟ อะ รีวิว,เขียนรีวิว,Please leave a review after you get your order.,กรุณาเขียนรีวิวหลังได้รับสินค้า,,,false
+2,trips,1,1,tourist,noun,/ˈtʊrɪst/,ทัวริสท์,นักท่องเที่ยว,The old town is full of tourists in December.,เมืองเก่าเต็มไปด้วยนักท่องเที่ยวในเดือนธันวาคม,,,false
+2,trips,1,2,low season,noun,/ˈloʊ ˌsizən/,โล ซีเซิน,ช่วงนักท่องเที่ยวน้อย,Hotels are much cheaper in the low season.,โรงแรมถูกกว่ามากในช่วงนักท่องเที่ยวน้อย,,,false
+2,trips,1,3,abroad,adverb,/əˈbrɔd/,อะบรอด,ต่างประเทศ,She wants to travel abroad for the first time this year.,ปีนี้เธออยากไปเที่ยวต่างประเทศเป็นครั้งแรก,,,false
+2,trips,1,4,holiday trip,noun,/ˈhɑləˌdeɪ ˌtrɪp/,ฮอลิเดย์ ทริป,ทริปเที่ยววันหยุด,We are planning a holiday trip for next April.,เรากำลังวางแผนทริปเที่ยววันหยุดเดือนเมษายนปีหน้า,,,false
+2,trips,1,5,sightseeing,noun,/ˈsaɪtˌsiɪŋ/,ไซท์ซีอิ้ง,การเที่ยวชมสถานที่,We will go sightseeing in the city on the first day.,วันแรกเราจะไปเที่ยวชมเมือง,,,false
+2,trips,1,6,attraction,noun,/əˈtrækʃən/,อะแทรคชัน,สถานที่ท่องเที่ยว,The night market is the main attraction in this town.,ตลาดกลางคืนเป็นสถานที่ท่องเที่ยวหลักของเมืองนี้,,,false
+2,trips,1,7,homestay,noun,/ˈhoʊmˌsteɪ/,โฮมสเตย์,ที่พักแบบโฮมสเตย์ในบ้านคนท้องถิ่น,We stayed at a homestay with a family in Nan.,เราพักโฮมสเตย์กับครอบครัวหนึ่งที่น่าน,,,false
+2,trips,1,8,countryside,noun,/ˈkʌntriˌsaɪd/,คันทรีไซด์,ชนบท,I prefer the countryside because the air is fresh.,ฉันชอบชนบทมากกว่าเพราะอากาศบริสุทธิ์,,,false
+2,trips,1,9,national park,noun,/ˌnæʃənəl ˈpɑrk/,แนชันนัล พาร์ค,อุทยานแห่งชาติ,We can see waterfalls and wild birds in the national park.,เราเห็นน้ำตกและนกป่าได้ในอุทยานแห่งชาติ,,,false
+2,trips,1,10,scenery,noun,/ˈsinəri/,ซีเนอรี,ทิวทัศน์,The scenery from the top of the hill is beautiful.,ทิวทัศน์จากบนยอดเขาสวยมาก,,,false
+2,trips,1,11,old town,noun,/ˌoʊld ˈtaʊn/,โอลด์ ทาวน์,ย่านเมืองเก่า,We walked around the old town and took many photos.,เราเดินเที่ยวย่านเมืองเก่าและถ่ายรูปเยอะมาก,,,false
+2,trips,1,12,peak season,noun,/ˈpik ˌsizən/,พีค ซีเซิน,ช่วงที่นักท่องเที่ยวเยอะที่สุด,Hotel prices are higher during peak season.,ราคาโรงแรมสูงขึ้นในช่วงที่นักท่องเที่ยวเยอะ,,,false
+2,trips,1,13,road trip,noun,/ˈroʊd ˌtrɪp/,โรด ทริป,การขับรถเที่ยว,We took a road trip along the coast last summer.,หน้าร้อนที่แล้วเราขับรถเที่ยวเลียบชายฝั่ง,,,false
+2,trips,1,14,day trip,noun,/ˈdeɪ ˌtrɪp/,เดย์ ทริป,ทริปไปเช้าเย็นกลับ,Ayutthaya is a nice day trip from Bangkok.,อยุธยาเหมาะกับการไปเที่ยวเช้าเย็นกลับจากกรุงเทพฯ,,,false
+2,trips,2,1,round trip,noun,/ˌraʊnd ˈtrɪp/,ราวด์ ทริป,เที่ยวไปกลับ,A round trip ticket to Phuket costs about three thousand baht.,ตั๋วไปกลับภูเก็ตราคาประมาณสามพันบาท,,,false
+2,trips,2,2,one-way,adjective,/ˌwʌnˈweɪ/,วันเวย์,เที่ยวเดียว,I bought a one-way ticket because my plans may change.,ฉันซื้อตั๋วเที่ยวเดียวเพราะแผนอาจเปลี่ยน,,,false
+2,trips,2,3,e-ticket,noun,/ˈiˌtɪkɪt/,อีทิกเก็ท,ตั๋วอิเล็กทรอนิกส์,Show the e-ticket on your phone at the gate.,แสดงตั๋วอิเล็กทรอนิกส์ในโทรศัพท์ที่ประตูขึ้นเครื่อง,,,false
+2,trips,2,4,travel agency,noun,/ˈtrævəl ˌeɪdʒənsi/,แทรเวิล เอเจนซี,บริษัทนำเที่ยว,We booked the whole trip through a travel agency.,เราจองทริปทั้งหมดผ่านบริษัทนำเที่ยว,,,false
+2,trips,2,5,package tour,noun,/ˈpækɪdʒ ˌtʊr/,แพ็คเกจ ทัวร์,ทัวร์แบบเหมาจ่าย,"The package tour includes hotels, meals and a guide.",ทัวร์เหมาจ่ายรวมโรงแรม อาหาร และไกด์,,,false
+2,trips,2,6,itinerary,noun,/aɪˈtɪnəˌrɛri/,ไอทินเนอเรอรี,กำหนดการเดินทาง,Please send me the itinerary for our three-day trip.,ช่วยส่งกำหนดการเดินทางสำหรับทริปสามวันมาให้หน่อย,,,false
+2,trips,2,7,hostel,noun,/ˈhɑstəl/,ฮอสเทิล,ที่พักราคาประหยัดแบบห้องรวม,Young travelers often stay in a cheap hostel.,นักเดินทางวัยรุ่นมักพักในโฮสเทลราคาถูก,,,false
+2,trips,2,8,resort,noun,/rɪˈzɔrt/,รีซอร์ท,รีสอร์ต,The resort has a big pool next to the sea.,รีสอร์ตมีสระว่ายน้ำใหญ่ติดทะเล,,,false
+2,trips,2,9,aisle seat,noun,/ˈaɪl ˌsit/,ไอล์ ซีท,ที่นั่งริมทางเดิน,I always ask for an aisle seat on long flights.,ฉันขอที่นั่งริมทางเดินทุกครั้งที่บินไกล,,,false
+2,trips,2,10,window seat,noun,/ˈwɪndoʊ ˌsit/,วินโดว์ ซีท,ที่นั่งริมหน้าต่าง,My son wants a window seat to see the clouds.,ลูกชายอยากนั่งริมหน้าต่างเพื่อดูก้อนเมฆ,,,false
+2,trips,2,11,direct flight,noun,/dəˌrɛkt ˈflaɪt/,ดิเรคท์ ไฟลท์,เที่ยวบินตรง,There is a direct flight from Bangkok to Tokyo every morning.,มีเที่ยวบินตรงจากกรุงเทพฯ ไปโตเกียวทุกเช้า,,,false
+2,trips,2,12,budget airline,noun,/ˈbʌdʒɪt ˈɛrˌlaɪn/,บัดเจ็ท แอร์ไลน์,สายการบินราคาประหยัด,"A budget airline is cheap, but bags cost extra.",สายการบินราคาประหยัดถูก แต่กระเป๋าต้องจ่ายเพิ่ม,,,false
+2,trips,2,13,booking site,noun,/ˈbʊkɪŋ ˌsaɪt/,บุคกิ้ง ไซท์,เว็บไซต์จองที่พัก,I compare hotel prices on two booking sites.,ฉันเปรียบเทียบราคาโรงแรมในเว็บจองที่พักสองเว็บ,,,false
+2,trips,2,14,travel insurance,noun,/ˈtrævəl ɪnˌʃʊrəns/,แทรเวิล อินชัวรันส์,ประกันการเดินทาง,Buy travel insurance before you fly to another country.,ซื้อประกันการเดินทางก่อนบินไปต่างประเทศ,,,false
+2,trips,3,1,packing list,noun,/ˈpækɪŋ ˌlɪst/,แพ็คกิ้ง ลิสท์,รายการของที่ต้องเตรียม,I write a packing list so I do not forget anything.,ฉันเขียนรายการของที่ต้องเตรียมจะได้ไม่ลืมอะไร,,,false
+2,trips,3,2,toiletries,noun,/ˈtɔɪlətriz/,ทอยเล็ทรีส์,ของใช้ในห้องน้ำ,Put your toiletries in a small clear bag.,ใส่ของใช้ในห้องน้ำไว้ในถุงใสใบเล็ก,,,false
+2,trips,3,3,sunscreen,noun,/ˈsʌnˌskrin/,ซันสกรีน,ครีมกันแดด,Don't forget sunscreen if you go to the beach.,อย่าลืมครีมกันแดดถ้าจะไปทะเล,,🧴,false
+2,trips,3,4,sunglasses,noun,/ˈsʌnˌɡlæsɪz/,ซันแกลสซิส,แว่นกันแดด,My sunglasses are in the side pocket of my bag.,แว่นกันแดดของฉันอยู่ในช่องข้างกระเป๋า,,🕶️,false
+2,trips,3,5,travel adapter,noun,/ˈtrævəl əˌdæptər/,แทรเวิล อะแดพเทอร์,ปลั๊กแปลงสำหรับเดินทาง,You need a travel adapter for the sockets in Europe.,คุณต้องใช้ปลั๊กแปลงสำหรับเต้าเสียบในยุโรป,,🔌,false
+2,trips,3,6,local money,noun,/ˌloʊkəl ˈmʌni/,โลเคิล มันนี,เงินสกุลท้องถิ่น,Change some local money at the airport for the taxi.,แลกเงินท้องถิ่นบางส่วนที่สนามบินไว้จ่ายค่าแท็กซี่,,,false
+2,trips,3,7,travel SIM,noun,/ˈtrævəl ˌsɪm/,แทรเวิล ซิม,ซิมสำหรับเดินทาง,A travel SIM gives you internet for eight days.,ซิมสำหรับเดินทางให้คุณใช้อินเทอร์เน็ตได้แปดวัน,,,false
+2,trips,3,8,carry-on,noun,/ˈkæriˌɑn/,แคร์รีออน,กระเป๋าถือขึ้นเครื่อง,My carry-on must be less than seven kilos.,กระเป๋าถือขึ้นเครื่องของฉันต้องหนักไม่เกินเจ็ดกิโล,,,false
+2,trips,3,9,luggage scale,noun,/ˈlʌɡɪdʒ ˌskeɪl/,ลักกิจ สเกล,ที่ชั่งกระเป๋า,Use a luggage scale at home before you go to the airport.,ใช้ที่ชั่งกระเป๋าที่บ้านก่อนไปสนามบิน,,,false
+2,trips,3,10,weather app,noun,/ˈwɛðər ˌæp/,เวเธอร์ แอพ,แอปพยากรณ์อากาศ,The weather app says it will rain in Phuket tomorrow.,แอปพยากรณ์อากาศบอกว่าพรุ่งนี้ฝนจะตกที่ภูเก็ต,,,false
+2,trips,3,11,souvenir,noun,/ˌsuvəˈnɪr/,ซูเวเนียร์,ของที่ระลึก,Leave space in your bag for souvenirs.,เว้นที่ในกระเป๋าไว้ใส่ของที่ระลึก,,,false
+2,trips,3,12,swimsuit,noun,/ˈswɪmˌsut/,สวิมซูท,ชุดว่ายน้ำ,Pack your swimsuit because the hotel has a pool.,เอาชุดว่ายน้ำไปด้วยเพราะโรงแรมมีสระว่ายน้ำ,,👙,false
+2,trips,3,13,raincoat,noun,/ˈreɪnˌkoʊt/,เรนโคท,เสื้อกันฝน,Pack a raincoat because it is the rainy season.,เอาเสื้อกันฝนไปด้วยเพราะเป็นหน้าฝน,,,false
+2,trips,3,14,mosquito spray,noun,/məˈskitoʊ ˌspreɪ/,มัสคีโต สเปรย์,สเปรย์กันยุง,Use mosquito spray when you walk in the forest.,ฉีดสเปรย์กันยุงเวลาเดินในป่า,,,false
+2,job-search,1,1,job ad,noun,/ˈdʒɑb ˌæd/,จ็อบ แอด,ประกาศรับสมัครงาน,I saw a job ad for a sales assistant online.,ฉันเห็นประกาศรับสมัครพนักงานขายในออนไลน์,,,false
+2,job-search,1,2,job website,noun,/ˈdʒɑb ˌwɛbsaɪt/,จ็อบ เว็บไซท์,เว็บไซต์หางาน,I check three job websites every morning.,ฉันเช็กเว็บไซต์หางานสามเว็บทุกเช้า,,,false
+2,job-search,1,3,hire,verb,/haɪər/,ไฮเออร์,จ้าง,The company plans to hire ten new staff this year.,บริษัทวางแผนจะจ้างพนักงานใหม่สิบคนปีนี้,,,false
+2,job-search,1,4,apply,verb,/əˈplaɪ/,อะพลาย,สมัคร (งาน),I applied to three companies last week.,สัปดาห์ที่แล้วฉันสมัครงานไปสามบริษัท,,,false
+2,job-search,1,5,applicant,noun,/ˈæplɪkənt/,แอพพลิเคินท์,ผู้สมัคร,Each applicant must send a photo with the form.,ผู้สมัครแต่ละคนต้องส่งรูปถ่ายมาพร้อมใบสมัคร,,,false
+2,job-search,1,6,salary,noun,/ˈsæləri/,แซลลารี,เงินเดือน,The starting salary is eighteen thousand baht a month.,เงินเดือนเริ่มต้นคือหนึ่งหมื่นแปดพันบาท,,,false
+2,job-search,1,7,job seeker,noun,/ˈdʒɑb ˌsikər/,จ็อบ ซีคเกอร์,ผู้หางาน,Many job seekers use websites to find work.,ผู้หางานหลายคนใช้เว็บไซต์หางาน,,,false
+2,job-search,1,8,experience,noun,/ɪkˈspɪriəns/,อิกซ์สปีเรียนซ์,ประสบการณ์,Do you have any experience in customer service?,คุณมีประสบการณ์ด้านบริการลูกค้าไหม,,,false
+2,job-search,1,9,job fair,noun,/ˈdʒɑb ˌfɛr/,จ็อบ แฟร์,งานนัดพบแรงงาน,More than fifty companies came to the job fair.,มีบริษัทมากกว่าห้าสิบแห่งมาที่งานนัดพบแรงงาน,,,false
+2,job-search,1,10,skill,noun,/skɪl/,สกิล,ทักษะ,Computer skills are important for most office jobs.,ทักษะคอมพิวเตอร์สำคัญสำหรับงานออฟฟิศส่วนใหญ่,,,false
+2,job-search,1,11,recruiter,noun,/rɪˈkrutər/,รีครูทเทอร์,เจ้าหน้าที่สรรหาพนักงาน,A recruiter called me about a job in a bank.,เจ้าหน้าที่สรรหาโทรมาคุยเรื่องงานที่ธนาคาร,,,false
+2,job-search,1,12,fresh graduate,noun,/ˌfrɛʃ ˈɡrædʒuət/,เฟรช แกรจูเอท,ผู้จบการศึกษาใหม่,This job is open to fresh graduates with no experience.,งานนี้เปิดรับผู้จบใหม่ที่ไม่มีประสบการณ์,,,false
+2,job-search,1,13,career,noun,/kəˈrɪr/,คะเรียร์,อาชีพการงาน,He wants to start a career in marketing.,เขาอยากเริ่มต้นอาชีพการงานด้านการตลาด,,,false
+2,job-search,1,14,job hunting,noun,/ˈdʒɑb ˌhʌntɪŋ/,จ็อบ ฮันทิ่ง,การหางาน,"Job hunting can take a few months, so be patient.",การหางานอาจใช้เวลาหลายเดือน ใจเย็น ๆ นะ,,,false
+2,job-search,2,1,resume,noun,/ˈrɛzəˌmeɪ/,เรซูเม่,ประวัติย่อสำหรับสมัครงาน,"Keep your resume short, clear and up to date.",เขียนเรซูเม่ให้สั้น ชัดเจน และเป็นปัจจุบัน,,,false
+2,job-search,2,2,cover letter,noun,/ˈkʌvər ˌlɛtər/,คัฟเวอร์ เลทเทอร์,จดหมายแนะนำตัวสมัครงาน,Write a short cover letter for each job you want.,เขียนจดหมายแนะนำตัวสั้น ๆ สำหรับแต่ละงานที่อยากได้,,,false
+2,job-search,2,3,job application,noun,/ˈdʒɑb ˌæpləˌkeɪʃən/,จ็อบ แอพพลิเคชัน,การสมัครงาน,I sent my job application by email this morning.,ฉันส่งใบสมัครงานทางอีเมลเมื่อเช้านี้,,,false
+2,job-search,2,4,reference,noun,/ˈrɛfərəns/,เรฟเฟอเรินซ์,บุคคลอ้างอิง,My old manager agreed to be my reference.,หัวหน้าเก่ายินดีเป็นบุคคลอ้างอิงให้ฉัน,,,false
+2,job-search,2,5,work history,noun,/ˈwɝk ˌhɪstəri/,เวิร์ค ฮิสทอรี,ประวัติการทำงาน,List your work history from the newest job.,เขียนประวัติการทำงานโดยเริ่มจากงานล่าสุด,,,false
+2,job-search,2,6,education,noun,/ˌɛdʒəˈkeɪʃən/,เอ็ดดิวเคชัน,การศึกษา,Write your education under your work history.,เขียนประวัติการศึกษาไว้ใต้ประวัติการทำงาน,,,false
+2,job-search,2,7,major,noun,/ˈmeɪdʒər/,เมเจอร์,วิชาเอก,My major at university was business English.,วิชาเอกของฉันตอนเรียนมหาวิทยาลัยคือภาษาอังกฤษธุรกิจ,,,false
+2,job-search,2,8,achievement,noun,/əˈtʃivmənt/,อะชีฟเมินท์,ผลงานที่ภูมิใจ,Write about one achievement you are proud of.,เขียนถึงผลงานหนึ่งอย่างที่คุณภูมิใจ,,,false
+2,job-search,2,9,portfolio,noun,/pɔrtˈfoʊlioʊ/,พอร์ทโฟลิโอ,แฟ้มสะสมผลงาน,Designers should send a portfolio of their best work.,นักออกแบบควรส่งแฟ้มผลงานที่ดีที่สุด,,,false
+2,job-search,2,10,photo ID,noun,/ˌfoʊtoʊ ˌaɪˈdi/,โฟโต ไอดี,บัตรที่มีรูปถ่าย,Bring a photo ID and a copy of your resume.,นำบัตรที่มีรูปถ่ายและสำเนาเรซูเม่มาด้วย,,,false
+2,job-search,2,11,language skills,noun,/ˈlæŋɡwɪdʒ ˌskɪlz/,แลงกวิจ สกิลส์,ทักษะด้านภาษา,Put your language skills near the top of your resume.,ใส่ทักษะด้านภาษาไว้ส่วนบนของเรซูเม่,,,false
+2,job-search,2,12,previous,adjective,/ˈpriviəs/,พรีเวียส,ก่อนหน้า,"In my previous job, I worked in a hotel.",ในงานก่อนหน้า ฉันทำงานในโรงแรม,,,false
+2,job-search,2,13,proofread,verb,/ˈprufˌrid/,พรูฟรีด,ตรวจทานคำผิด,Always proofread your resume before you send it.,ตรวจทานเรซูเม่ทุกครั้งก่อนส่ง,,,false
+2,job-search,2,14,qualified,adjective,/ˈkwɑləˌfaɪd/,ควอลิฟายด์,มีคุณสมบัติเหมาะสม,I think I am qualified for this position.,ฉันคิดว่าฉันมีคุณสมบัติเหมาะกับตำแหน่งนี้,,,false
+2,job-search,3,1,interview,noun,/ˈɪntərˌvju/,อินเทอร์วิว,การสัมภาษณ์,My job interview is on Tuesday at ten o'clock.,การสัมภาษณ์งานของฉันคือวันอังคารสิบโมง,,,false
+2,job-search,3,2,interviewer,noun,/ˈɪntərˌvjuər/,อินเทอร์วิวเออร์,ผู้สัมภาษณ์,The interviewer asked me about my last job.,ผู้สัมภาษณ์ถามฉันเรื่องงานล่าสุด,,,false
+2,job-search,3,3,strength,noun,/strɛŋθ/,สเตรงธ์,จุดแข็ง,My biggest strength is that I learn fast.,จุดแข็งที่สุดของฉันคือเรียนรู้เร็ว,,,false
+2,job-search,3,4,weakness,noun,/ˈwiknəs/,วีคเนส,จุดอ่อน,Talk about one weakness and how you work on it.,พูดถึงจุดอ่อนหนึ่งข้อและวิธีที่คุณพัฒนา,,,false
+2,job-search,3,5,describe,verb,/dɪˈskraɪb/,ดิสไครบ์,อธิบาย บรรยาย,Can you describe your daily tasks at your last job?,ช่วยอธิบายงานประจำวันในที่ทำงานล่าสุดได้ไหม,,,false
+2,job-search,3,6,tell me about yourself,phrase,/ˈtɛl mi əˌbaʊt jɔrˈsɛlf/,เทล มี อะเบาท์ ยัวร์เซลฟ์,เล่าเกี่ยวกับตัวคุณ,Most interviews begin with tell me about yourself.,การสัมภาษณ์ส่วนใหญ่เริ่มด้วยคำถามให้เล่าเกี่ยวกับตัวเอง,,,false
+2,job-search,3,7,confident,adjective,/ˈkɑnfɪdənt/,คอนฟิเดินท์,มั่นใจ,Smile and speak in a confident voice.,ยิ้มและพูดด้วยน้ำเสียงมั่นใจ,,,false
+2,job-search,3,8,eye contact,noun,/ˈaɪ ˌkɑntækt/,อาย คอนแทคท์,การสบตา,Make eye contact when you answer each question.,สบตาผู้ฟังเวลาตอบคำถามแต่ละข้อ,,,false
+2,job-search,3,9,shake hands,phrase,/ˌʃeɪk ˈhændz/,เชค แฮนด์ส,จับมือ,We shake hands at the start of the interview.,เราจับมือกันตอนเริ่มสัมภาษณ์,,🤝,false
+2,job-search,3,10,shortlist,verb,/ˈʃɔrtˌlɪst/,ช็อร์ทลิสท์,คัดเลือกเข้ารอบ,They shortlisted five people for the final interview.,พวกเขาคัดเลือกห้าคนเข้ารอบสัมภาษณ์สุดท้าย,,,false
+2,job-search,3,11,second round,noun,/ˌsɛkənd ˈraʊnd/,เซคันด์ ราวด์,รอบที่สอง,I was invited to the second round of interviews.,ฉันได้รับเชิญเข้าสัมภาษณ์รอบที่สอง,,,false
+2,job-search,3,12,job offer,noun,/ˈdʒɑb ˌɔfər/,จ็อบ ออฟเฟอร์,ข้อเสนองาน,I got a job offer from a bank yesterday.,เมื่อวานฉันได้รับข้อเสนองานจากธนาคาร,,,false
+2,job-search,3,13,expected salary,noun,/ɪkˌspɛktɪd ˈsæləri/,อิกซ์สเปคทิด แซลลารี,เงินเดือนที่ต้องการ,What is your expected salary for this position?,คุณต้องการเงินเดือนเท่าไรสำหรับตำแหน่งนี้,,,false
+2,job-search,3,14,decline,verb,/dɪˈklaɪn/,ดีไคลน์,ปฏิเสธอย่างสุภาพ,I declined the job because the office was too far.,ฉันปฏิเสธงานนั้นเพราะที่ทำงานไกลเกินไป,,,false
+2,first-day,1,1,orientation,noun,/ˌɔriənˈteɪʃən/,โอเรียนเทชัน,การปฐมนิเทศ,New staff have an orientation on their first morning.,พนักงานใหม่มีปฐมนิเทศในเช้าวันแรก,,,false
+2,first-day,1,2,access card,noun,/ˈæksɛs ˌkɑrd/,แอคเซส การ์ด,บัตรผ่านเข้าออก,Tap your access card to open the office door.,แตะบัตรผ่านเพื่อเปิดประตูออฟฟิศ,,,false
+2,first-day,1,3,new hire,noun,/ˌnu ˈhaɪər/,นิว ไฮเออร์,พนักงานที่เพิ่งเข้าใหม่,Every new hire gets a laptop on the first day.,พนักงานใหม่ทุกคนได้รับแล็ปท็อปในวันแรก,,,false
+2,first-day,1,4,smart casual,adjective,/ˌsmɑrt ˈkæʒuəl/,สมาร์ท แคชชวล,แต่งกายสุภาพลำลอง,"Our office is smart casual, so you can wear jeans on Friday.",ออฟฟิศเราแต่งกายสุภาพลำลอง วันศุกร์ใส่ยีนส์ได้,,,false
+2,first-day,1,5,workstation,noun,/ˈwɝkˌsteɪʃən/,เวิร์คสเตชัน,โต๊ะทำงานประจำ,"This is your workstation, next to the window.",นี่คือโต๊ะทำงานของคุณ อยู่ข้างหน้าต่าง,,,false
+2,first-day,1,6,tour,noun,/tʊr/,ทัวร์,การพาเดินชม,The HR officer gave me a tour of the building.,เจ้าหน้าที่ฝ่ายบุคคลพาฉันเดินชมอาคาร,,,false
+2,first-day,1,7,look around,phrasal verb,/ˌlʊk əˈraʊnd/,ลุค อะราวด์,เดินดูรอบ ๆ,Take some time to look around the office this morning.,ใช้เวลาเช้านี้เดินดูรอบ ๆ ออฟฟิศ,,,false
+2,first-day,1,8,colleague,noun,/ˈkɑliɡ/,คอลลีก,เพื่อนร่วมงาน,My new colleagues invited me to lunch.,เพื่อนร่วมงานใหม่ชวนฉันไปกินข้าวกลางวัน,,,false
+2,first-day,1,9,welcome lunch,noun,/ˈwɛlkəm ˌlʌntʃ/,เวลคัม ลันช์,มื้อกลางวันต้อนรับพนักงานใหม่,The team took me to a welcome lunch on my first day.,ทีมพาฉันไปกินมื้อกลางวันต้อนรับในวันแรก,,,false
+2,first-day,1,10,mentor,noun,/ˈmɛnˌtɔr/,เมนทอร์,พี่เลี้ยงในที่ทำงาน,Your mentor will answer your questions in the first month.,พี่เลี้ยงจะตอบคำถามของคุณในเดือนแรก,,,false
+2,first-day,1,11,handbook,noun,/ˈhændˌbʊk/,แฮนด์บุ๊ก,คู่มือพนักงาน,Read the staff handbook to learn the company rules.,อ่านคู่มือพนักงานเพื่อเรียนรู้กฎของบริษัท,,,false
+2,first-day,1,12,company email,noun,/ˈkʌmpəni ˈiˌmeɪl/,คัมพะนี อีเมล,อีเมลบริษัท,IT will give you a company email on your first day.,ฝ่ายไอทีจะให้อีเมลบริษัทคุณในวันแรก,,,false
+2,first-day,1,13,fingerprint,noun,/ˈfɪŋɡərˌprɪnt/,ฟิงเกอร์พรินท์,ลายนิ้วมือ,We scan our fingerprint to clock in every day.,เราสแกนลายนิ้วมือเพื่อลงเวลาเข้างานทุกวัน,,,false
+2,first-day,1,14,first impression,noun,/ˌfɝst ɪmˈprɛʃən/,เฟิร์สท์ อิมเพรสชัน,ความประทับใจแรก,Be on time to make a good first impression.,มาให้ตรงเวลาเพื่อสร้างความประทับใจแรกที่ดี,,,false
+2,first-day,2,1,responsibility,noun,/rɪˌspɑnsəˈbɪləti/,รีสพอนซิบิลิตี,หน้าที่ความรับผิดชอบ,Answering customer emails is one of my responsibilities.,การตอบอีเมลลูกค้าเป็นหนึ่งในหน้าที่ของฉัน,,,false
+2,first-day,2,2,duty,noun,/ˈduti/,ดิวตี,หน้าที่,My main duty is to check the stock every morning.,หน้าที่หลักของฉันคือตรวจสต็อกทุกเช้า,,,false
+2,first-day,2,3,role,noun,/roʊl/,โรล,บทบาท,Her role in the team is to support the sales staff.,บทบาทของเธอในทีมคือสนับสนุนพนักงานขาย,,,false
+2,first-day,2,4,in charge of,phrase,/ɪn ˈtʃɑrdʒ əv/,อิน ชาร์จ ออฟ,รับผิดชอบ ดูแล,Mr. Somchai is in charge of the warehouse.,คุณสมชายดูแลคลังสินค้า,,,false
+2,first-day,2,5,report to,phrasal verb,/rɪˈpɔrt tu/,รีพอร์ท ทู,ขึ้นตรงกับ,In this job you report to the store manager.,ในงานนี้คุณขึ้นตรงกับผู้จัดการร้าน,,,false
+2,first-day,2,6,step by step,phrase,/ˌstɛp baɪ ˈstɛp/,สเต็ป บาย สเต็ป,ทีละขั้นตอน,My mentor explained the new system step by step.,พี่เลี้ยงอธิบายระบบใหม่ทีละขั้นตอน,,,false
+2,first-day,2,7,system,noun,/ˈsɪstəm/,ซิสเต็ม,ระบบ,It takes time to learn the new computer system.,ต้องใช้เวลาเรียนรู้ระบบคอมพิวเตอร์ใหม่,,,false
+2,first-day,2,8,trainer,noun,/ˈtreɪnər/,เทรนเนอร์,ผู้ฝึกสอน,Our trainer showed us how to use the cash register.,ผู้ฝึกสอนสอนเราใช้เครื่องคิดเงิน,,,false
+2,first-day,2,9,learn from,phrasal verb,/ˈlɝn frəm/,เลิร์น ฟรอม,เรียนรู้จาก,"It is normal to make errors, so learn from them.",การทำผิดเป็นเรื่องปกติ ให้เรียนรู้จากมัน,,,false
+2,first-day,2,10,shadow,verb,/ˈʃædoʊ/,แชโดว์,ติดตามดูงาน,I will shadow Nok for my first two weeks.,ฉันจะติดตามดูงานของนกในสองสัปดาห์แรก,,,false
+2,first-day,2,11,probation,noun,/proʊˈbeɪʃən/,โพรเบชัน,ช่วงทดลองงาน,New staff are on probation for three months.,พนักงานใหม่อยู่ในช่วงทดลองงานสามเดือน,,,false
+2,first-day,2,12,figure out,phrasal verb,/ˌfɪɡjər ˈaʊt/,ฟิกเกอร์ เอาท์,หาวิธี ทำความเข้าใจ,I can't figure out how to use this printer.,ฉันยังหาวิธีใช้เครื่องพิมพ์นี้ไม่ได้,,,false
+2,first-day,2,13,get used to,phrase,/ɡɛt ˈjust tu/,เก็ท ยูสท์ ทู,เริ่มคุ้นเคย,It took me a month to get used to the new job.,ฉันใช้เวลาหนึ่งเดือนกว่าจะคุ้นกับงานใหม่,,,false
+2,first-day,2,14,daily task,noun,/ˈdeɪli ˌtæsk/,เดลี ทาสก์,งานประจำวัน,My daily tasks include checking stock and answering emails.,งานประจำวันของฉันรวมถึงการเช็กสต็อกและตอบอีเมล,,,false
+2,first-day,3,1,employment contract,noun,/ɪmˈplɔɪmənt ˌkɑntrækt/,อิมพลอยเมินท์ คอนแทรคท์,สัญญาจ้างงาน,Read your employment contract before you sign it.,อ่านสัญญาจ้างงานก่อนเซ็น,,,false
+2,first-day,3,2,no smoking,phrase,/ˌnoʊ ˈsmoʊkɪŋ/,โน สโมคกิ้ง,ห้ามสูบบุหรี่,There is no smoking anywhere inside the building.,ห้ามสูบบุหรี่ทุกที่ภายในอาคาร,,,false
+2,first-day,3,3,medical benefits,noun,/ˈmɛdɪkəl ˌbɛnəfɪts/,เมดิเคิล เบเนฟิทส์,สวัสดิการค่ารักษาพยาบาล,Full-time staff get medical benefits after probation.,พนักงานประจำได้สวัสดิการค่ารักษาพยาบาลหลังผ่านทดลองงาน,,,false
+2,first-day,3,4,pay slip,noun,/ˈpeɪ ˌslɪp/,เพย์ สลิป,สลิปเงินเดือน,Check your pay slip to see your tax and overtime.,ดูสลิปเงินเดือนเพื่อตรวจภาษีและค่าล่วงเวลา,,,false
+2,first-day,3,5,salary increase,noun,/ˈsæləri ˌɪnkris/,แซลลารี อินครีส,การขึ้นเงินเดือน,Staff get a salary increase every January.,พนักงานได้ขึ้นเงินเดือนทุกเดือนมกราคม,,,false
+2,first-day,3,6,bonus,noun,/ˈboʊnəs/,โบนัส,เงินรางวัลพิเศษ,Everyone got a bonus because sales were good this year.,ทุกคนได้โบนัสเพราะปีนี้ยอดขายดี,,,false
+2,first-day,3,7,allowance,noun,/əˈlaʊəns/,อะลาวเอินซ์,เงินช่วยเหลือ เช่น ค่าเดินทาง,The company gives a travel allowance of one thousand baht.,บริษัทให้ค่าเดินทางหนึ่งพันบาท,,,false
+2,first-day,3,8,personal leave,noun,/ˈpɝsənəl ˌliv/,เพอร์เซินเนิล ลีฟ,ลากิจ,I took personal leave to renew my passport.,ฉันลากิจไปต่อหนังสือเดินทาง,,,false
+2,first-day,3,9,staff discount,noun,/ˈstæf ˌdɪskaʊnt/,สแตฟ ดิสเคานท์,ส่วนลดพนักงาน,Employees get a staff discount of twenty percent.,พนักงานได้ส่วนลดพนักงานยี่สิบเปอร์เซ็นต์,,,false
+2,first-day,3,10,absent,adjective,/ˈæbsənt/,แอบเซินท์,ขาดงาน,"If you are absent, call your supervisor before nine.",ถ้าคุณขาดงาน ให้โทรบอกหัวหน้าก่อนเก้าโมง,,,false
+2,first-day,3,11,leave request,noun,/ˈliv rɪˌkwɛst/,ลีฟ รีเควสท์,ใบขอลา,Send your leave request to HR one week before.,ส่งใบขอลาให้ฝ่ายบุคคลล่วงหน้าหนึ่งสัปดาห์,,,false
+2,first-day,3,12,company car,noun,/ˈkʌmpəni ˌkɑr/,คัมพะนี คาร์,รถประจำตำแหน่ง,Managers can use a company car for work trips.,ผู้จัดการใช้รถบริษัทเดินทางไปทำงานได้,,,false
+2,first-day,3,13,working day,noun,/ˈwɝkɪŋ ˌdeɪ/,เวิร์คกิ้ง เดย์,วันทำงาน,We pay salaries on the last working day of the month.,เราจ่ายเงินเดือนในวันทำงานวันสุดท้ายของเดือน,,,false
+2,first-day,3,14,resign,verb,/rɪˈzaɪn/,รีไซน์,ลาออก,You must tell HR one month before you resign.,คุณต้องแจ้งฝ่ายบุคคลล่วงหน้าหนึ่งเดือนก่อนลาออก,,,false
+2,office-routine,1,1,travel time,noun,/ˈtrævəl ˌtaɪm/,แทรเวิล ไทม์,เวลาเดินทาง,My travel time to the office is about one hour.,เวลาเดินทางไปออฟฟิศของฉันประมาณหนึ่งชั่วโมง,,,false
+2,office-routine,1,2,early bird,noun,/ˈɝli ˌbɝd/,เออร์ลี เบิร์ด,คนที่ตื่นเช้าหรือมาก่อนเวลา,Nok is an early bird and gets to the office at seven.,นกเป็นคนมาเช้า ถึงออฟฟิศตั้งแต่เจ็ดโมง,,,false
+2,office-routine,1,3,busy day,noun,/ˈbɪzi ˌdeɪ/,บิซี เดย์,วันที่งานยุ่ง,Monday is always a busy day in our office.,วันจันทร์เป็นวันที่งานยุ่งเสมอในออฟฟิศของเรา,,,false
+2,office-routine,1,4,plan the day,phrase,/ˌplæn ðə ˈdeɪ/,แพลน เดอะ เดย์,วางแผนงานของวัน,I take ten minutes to plan the day before I start.,ฉันใช้เวลาสิบนาทีวางแผนงานของวันก่อนเริ่มทำงาน,,,false
+2,office-routine,1,5,shuttle bus,noun,/ˈʃʌtəl ˌbʌs/,ชัทเทิล บัส,รถรับส่ง,The company shuttle bus leaves the station at eight.,รถรับส่งของบริษัทออกจากสถานีตอนแปดโมง,,🚌,false
+2,office-routine,1,6,flexible hours,noun,/ˈflɛksəbəl ˈaʊərz/,เฟล็กซิเบิล อาวเออร์ส,เวลาทำงานแบบยืดหยุ่น,"Our team has flexible hours, so I start at ten.",ทีมเรามีเวลาทำงานยืดหยุ่น ฉันเลยเริ่มงานสิบโมง,,,false
+2,office-routine,1,7,first thing,phrase,/ˈfɝst ˈθɪŋ/,เฟิร์สท์ ธิง,เป็นอย่างแรกตอนเช้า,I check my emails first thing in the morning.,ฉันเช็กอีเมลเป็นอย่างแรกตอนเช้า,,,false
+2,office-routine,1,8,catch up,phrasal verb,/ˌkætʃ ˈʌp/,แคทช์ อัพ,ตามงานให้ทัน,I came in early to catch up on my work.,ฉันมาเช้าเพื่อตามงานให้ทัน,,,false
+2,office-routine,1,9,go through,phrasal verb,/ˌɡoʊ ˈθru/,โก ทรู,ตรวจดูทีละอย่าง,Let's go through today's tasks before we start.,มาดูงานของวันนี้ทีละอย่างก่อนเริ่มกัน,,,false
+2,office-routine,1,10,priority,noun,/praɪˈɔrəti/,ไพรออริตี,เรื่องที่ต้องทำก่อน,My first priority today is the sales report.,เรื่องที่ต้องทำก่อนของฉันวันนี้คือรายงานยอดขาย,,,false
+2,office-routine,1,11,workload,noun,/ˈwɝkˌloʊd/,เวิร์คโลด,ปริมาณงาน,My workload is heavy at the end of the month.,ปริมาณงานของฉันหนักช่วงปลายเดือน,,,false
+2,office-routine,1,12,get going,phrase,/ˌɡɛt ˈɡoʊɪŋ/,เก็ท โกอิ้ง,เริ่มลงมือ,"We have a lot to do, so let's get going.",เรามีงานต้องทำเยอะ เริ่มกันเลย,,,false
+2,office-routine,1,13,plan ahead,phrase,/ˌplæn əˈhɛd/,แพลน อะเฮด,วางแผนล่วงหน้า,I like to plan ahead for the busy days.,ฉันชอบวางแผนล่วงหน้าสำหรับวันที่งานยุ่ง,,,false
+2,office-routine,1,14,daily plan,noun,/ˈdeɪli ˌplæn/,เดลี แพลน,แผนงานประจำวัน,I write my daily plan in a small notebook.,ฉันเขียนแผนงานประจำวันในสมุดเล่มเล็ก,,,false
+2,office-routine,2,1,paper jam,noun,/ˈpeɪpər ˌdʒæm/,เพเพอร์ แจม,กระดาษติด,There is a paper jam in the printer again.,เครื่องพิมพ์กระดาษติดอีกแล้ว,,,false
+2,office-routine,2,2,run out of,phrasal verb,/ˌrʌn ˈaʊt əv/,รัน เอาท์ ออฟ,หมด (ของใช้),We often run out of coffee on Fridays.,ที่ออฟฟิศกาแฟมักหมดในวันศุกร์,,,false
+2,office-routine,2,3,office supplies,noun,/ˈɔfɪs səˌplaɪz/,ออฟฟิศ ซัพพลายส์,อุปกรณ์สำนักงาน,Order office supplies such as pens and paper from the admin team.,สั่งอุปกรณ์สำนักงานอย่างปากกาและกระดาษจากฝ่ายธุรการ,,,false
+2,office-routine,2,4,ink,noun,/ɪŋk/,อิงค์,หมึก,The printer is out of black ink.,เครื่องพิมพ์หมึกดำหมด,,,false
+2,office-routine,2,5,envelope,noun,/ˈɛnvəˌloʊp/,เอนเวโลพ,ซองจดหมาย,Put the documents in a large brown envelope.,ใส่เอกสารในซองสีน้ำตาลขนาดใหญ่,,✉️,false
+2,office-routine,2,6,document,noun,/ˈdɑkjəmənt/,ด็อคคิวเมินท์,เอกสาร,Please sign this document and give it back to me.,กรุณาเซ็นเอกสารนี้แล้วส่งคืนให้ฉัน,,📄,false
+2,office-routine,2,7,sales figures,noun,/ˈseɪlz ˌfɪɡjərz/,เซลส์ ฟิกเกอร์ส,ตัวเลขยอดขาย,I put the sales figures into a table every week.,ฉันใส่ตัวเลขยอดขายลงตารางทุกสัปดาห์,,,false
+2,office-routine,2,8,data,noun,/ˈdeɪtə/,เดทะ,ข้อมูล,We need more data before we can make a decision.,เราต้องมีข้อมูลมากกว่านี้ก่อนจะตัดสินใจได้,,,false
+2,office-routine,2,9,enter,verb,/ˈɛntər/,เอนเทอร์,ป้อน (ข้อมูล),I enter the new orders into the system every afternoon.,ฉันป้อนคำสั่งซื้อใหม่เข้าระบบทุกบ่าย,,,false
+2,office-routine,2,10,double-check,verb,/ˌdʌbəl ˈtʃɛk/,ดับเบิล เช็ค,ตรวจซ้ำ,Always double-check the numbers before you send the report.,ตรวจตัวเลขซ้ำทุกครั้งก่อนส่งรายงาน,,,false
+2,office-routine,2,11,send over,phrasal verb,/ˌsɛnd ˈoʊvər/,เซนด์ โอเวอร์,ส่งมาให้,Please send over the file when it is ready.,ไฟล์เสร็จแล้วช่วยส่งมาให้ด้วย,,,false
+2,office-routine,2,12,look over,phrasal verb,/ˌlʊk ˈoʊvər/,ลุค โอเวอร์,ตรวจดูคร่าว ๆ,Can you look over my slides before the meeting?,ช่วยดูสไลด์ของฉันคร่าว ๆ ก่อนประชุมได้ไหม,,,false
+2,office-routine,2,13,drop by,phrasal verb,/ˌdrɑp ˈbaɪ/,ดร็อป บาย,แวะมา,Please drop by my desk after lunch.,ช่วยแวะมาที่โต๊ะฉันหลังมื้อกลางวัน,,,false
+2,office-routine,2,14,multitask,verb,/ˌmʌltiˈtæsk/,มัลติทาสก์,ทำหลายอย่างพร้อมกัน,In this job you must multitask and stay calm.,งานนี้คุณต้องทำหลายอย่างพร้อมกันและใจเย็น,,,false
+2,office-routine,3,1,shut down,phrasal verb,/ˌʃʌt ˈdaʊn/,ชัท ดาวน์,ปิดเครื่อง,Shut down your computer before you go home.,ปิดคอมพิวเตอร์ก่อนกลับบ้าน,,,false
+2,office-routine,3,2,unplug,verb,/ʌnˈplʌɡ/,อันปลั๊ก,ถอดปลั๊ก,Unplug the coffee machine before you leave.,ถอดปลั๊กเครื่องชงกาแฟก่อนกลับ,,,false
+2,office-routine,3,3,lock up,phrasal verb,/ˌlɑk ˈʌp/,ล็อค อัพ,ปิดล็อกให้เรียบร้อย,The last person to leave must lock up the office.,คนสุดท้ายที่กลับต้องล็อกออฟฟิศให้เรียบร้อย,,,false
+2,office-routine,3,4,timesheet,noun,/ˈtaɪmˌʃit/,ไทม์ชีท,ใบบันทึกเวลาทำงาน,Fill in your timesheet every Friday afternoon.,กรอกใบบันทึกเวลาทำงานทุกบ่ายวันศุกร์,,,false
+2,office-routine,3,5,pending,adjective,/ˈpɛndɪŋ/,เพนดิ้ง,ค้างอยู่ รอดำเนินการ,I still have two pending tasks for tomorrow.,ฉันยังมีงานค้างอยู่สองอย่างสำหรับพรุ่งนี้,,,false
+2,office-routine,3,6,end of the day,phrase,/ˌɛnd əv ðə ˈdeɪ/,เอนด์ ออฟ เดอะ เดย์,ก่อนเลิกงานวันนี้,Please send me the file by the end of the day.,กรุณาส่งไฟล์ให้ฉันก่อนเลิกงานวันนี้,,,false
+2,office-routine,3,7,leave work,phrase,/ˌliv ˈwɝk/,ลีฟ เวิร์ค,เลิกงาน ออกจากที่ทำงาน,I usually leave work at six and go to the gym.,ปกติฉันเลิกงานหกโมงแล้วไปยิม,,,false
+2,office-routine,3,8,off work,phrase,/ˌɔf ˈwɝk/,ออฟ เวิร์ค,เลิกงาน,"I am off work at six, so let's meet at seven.",ฉันเลิกงานหกโมง เจอกันหนึ่งทุ่มนะ,,,false
+2,office-routine,3,9,head home,phrase,/ˌhɛd ˈhoʊm/,เฮด โฮม,มุ่งหน้ากลับบ้าน,"It's late, so I'm going to head home now.",ดึกแล้ว ฉันจะกลับบ้านแล้วนะ,,,false
+2,office-routine,3,10,exhausted,adjective,/ɪɡˈzɔstɪd/,อิกซอสทิด,เหนื่อยมาก,"After ten hours at work, I felt exhausted.",หลังทำงานสิบชั่วโมง ฉันรู้สึกเหนื่อยมาก,,,false
+2,office-routine,3,11,happy hour,noun,/ˈhæpi ˌaʊər/,แฮปปี้ อาวเออร์,ช่วงเวลาเครื่องดื่มลดราคาหลังเลิกงาน,The team often goes to happy hour on Friday evenings.,ทีมมักไปร้านช่วงเครื่องดื่มลดราคาตอนเย็นวันศุกร์,,,false
+2,office-routine,3,12,work-life balance,noun,/ˌwɝkˈlaɪf ˈbæləns/,เวิร์คไลฟ์ บาลานซ์,ความสมดุลระหว่างงานกับชีวิต,Leaving on time helps my work-life balance.,การเลิกงานตรงเวลาช่วยให้ชีวิตกับงานสมดุล,,,false
+2,office-routine,3,13,see you tomorrow,phrase,/ˌsi ju təˈmɑroʊ/,ซี ยู ทูมอร์โรว์,แล้วเจอกันพรุ่งนี้,I said see you tomorrow to everyone and went home.,ฉันบอกทุกคนว่าเจอกันพรุ่งนี้แล้วก็กลับบ้าน,,,false
+2,office-routine,3,14,back up,phrasal verb,/ˌbæk ˈʌp/,แบ็ค อัพ,สำรองข้อมูล,Back up your files before you shut down the computer.,สำรองไฟล์ก่อนปิดคอมพิวเตอร์,,,false
+2,emails,1,1,salutation,noun,/ˌsæljəˈteɪʃən/,แซลลิวเทชัน,คำขึ้นต้นจดหมาย,Use Dear and the person's name as the salutation.,ใช้คำว่า เรียน ตามด้วยชื่อผู้รับเป็นคำขึ้นต้น,,,false
+2,emails,1,2,hope you are well,phrase,/ˈhoʊp ju ɑr ˈwɛl/,โฮพ ยู อาร์ เวล,หวังว่าคุณสบายดี,"Hi Mark, I hope you are well this week.",สวัสดีมาร์ก หวังว่าสัปดาห์นี้คุณสบายดีนะ,,,false
+2,emails,1,3,regarding,preposition,/rɪˈɡɑrdɪŋ/,รีการ์ดดิ้ง,เกี่ยวกับ,I am writing regarding your order from last week.,ฉันเขียนมาเกี่ยวกับคำสั่งซื้อของคุณเมื่อสัปดาห์ที่แล้ว,,,false
+2,emails,1,4,look forward to,phrase,/lʊk ˈfɔrwərd tu/,ลุค ฟอร์เวิร์ด ทู,ตั้งตารอ,I look forward to hearing from you soon.,ฉันตั้งตารอคำตอบจากคุณ,,,false
+2,emails,1,5,kind regards,phrase,/ˌkaɪnd rɪˈɡɑrdz/,ไคนด์ รีการ์ดส,ขอแสดงความนับถือ,End the email with kind regards and your name.,ปิดท้ายอีเมลด้วยคำว่า ขอแสดงความนับถือ และชื่อของคุณ,,,false
+2,emails,1,6,yours faithfully,phrase,/ˌjʊrz ˈfeɪθfəli/,ยัวร์ส เฟธฟูลลี,ขอแสดงความนับถือ (เมื่อไม่รู้ชื่อผู้รับ),Formal letters to a company often end with Yours faithfully.,จดหมายทางการถึงบริษัทมักลงท้ายด้วยขอแสดงความนับถือ,,,false
+2,emails,1,7,sign off,phrasal verb,/ˌsaɪn ˈɔf/,ไซน์ ออฟ,ลงท้ายอีเมล,How should I sign off an email to a new client?,ฉันควรลงท้ายอีเมลถึงลูกค้าใหม่อย่างไร,,,false
+2,emails,1,8,cc,verb,/ˌsiˈsi/,ซีซี,ส่งสำเนาถึง,Please cc my manager when you reply.,เวลาตอบกลับ กรุณาส่งสำเนาถึงหัวหน้าของฉันด้วย,,,false
+2,emails,1,9,formal,adjective,/ˈfɔrməl/,ฟอร์เมิล,เป็นทางการ,Use formal language when you write to a customer.,ใช้ภาษาทางการเมื่อเขียนถึงลูกค้า,,,false
+2,emails,1,10,informal,adjective,/ɪnˈfɔrməl/,อินฟอร์เมิล,ไม่เป็นทางการ,Emails to close coworkers can be more informal.,อีเมลถึงเพื่อนร่วมงานที่สนิทใช้ภาษาไม่เป็นทางการได้มากขึ้น,,,false
+2,emails,1,11,contact details,noun,/ˈkɑntækt ˌditeɪlz/,คอนแทคท์ ดีเทลส์,ข้อมูลติดต่อ,Put your contact details under your name.,ใส่ข้อมูลติดต่อไว้ใต้ชื่อของคุณ,,,false
+2,emails,1,12,on behalf of,phrase,/ɑn bɪˈhæf əv/,ออน บีแฮฟ ออฟ,ในนามของ,"I am writing on behalf of my manager, Ms. Kim.",ฉันเขียนมาในนามของหัวหน้า คุณคิม,,,false
+2,emails,1,13,first name,noun,/ˈfɝst ˌneɪm/,เฟิร์สท์ เนม,ชื่อจริง,In this company we call everyone by their first name.,ในบริษัทนี้เราเรียกทุกคนด้วยชื่อจริง,,,false
+2,emails,1,14,last name,noun,/ˈlæst ˌneɪm/,ลาสท์ เนม,นามสกุล,Please write your last name in capital letters.,กรุณาเขียนนามสกุลด้วยตัวพิมพ์ใหญ่,,,false
+2,emails,2,1,inquiry,noun,/ˈɪŋkwəri/,อินควิรี,การสอบถาม,Thank you for your inquiry about our prices.,ขอบคุณที่สอบถามเรื่องราคาของเรา,,,false
+2,emails,2,2,would you mind,phrase,/ˈwʊd ju ˈmaɪnd/,วูด ยู ไมนด์,รบกวนช่วย (ขออย่างสุภาพ),Would you mind sending me the file again?,รบกวนส่งไฟล์มาให้ฉันอีกครั้งได้ไหม,,,false
+2,emails,2,3,clarify,verb,/ˈklærəˌfaɪ/,แคลริฟาย,ชี้แจงให้ชัดเจน,Could you clarify the delivery date for us?,ช่วยชี้แจงวันส่งของให้เราชัดเจนหน่อยได้ไหม,,,false
+2,emails,2,4,respond,verb,/rɪˈspɑnd/,รีสพอนด์,ตอบกลับ,We will respond to your email within one working day.,เราจะตอบกลับอีเมลของคุณภายในหนึ่งวันทำการ,,,false
+2,emails,2,5,as requested,phrase,/æz rɪˈkwɛstɪd/,แอส รีเควสทิด,ตามที่ขอ,"As requested, I have added the price list.",ตามที่ขอ ฉันแนบรายการราคามาให้แล้ว,,,false
+2,emails,2,6,please find attached,phrase,/ˌpliz ˈfaɪnd əˈtætʃt/,พลีส ไฟนด์ อะแทชท์,กรุณาดูไฟล์แนบ,Please find attached the report for this month.,กรุณาดูรายงานประจำเดือนนี้ในไฟล์แนบ,,,false
+2,emails,2,7,further,adjective,/ˈfɝðər/,เฟอร์เธอร์,เพิ่มเติม,Please call me if you need further information.,กรุณาโทรหาฉันถ้าต้องการข้อมูลเพิ่มเติม,,,false
+2,emails,2,8,meanwhile,adverb,/ˈminˌwaɪl/,มีนไวล์,ระหว่างนี้,"The part will arrive Monday. Meanwhile, you can use this printer.",อะไหล่จะมาถึงวันจันทร์ ระหว่างนี้คุณใช้เครื่องพิมพ์เครื่องนี้ไปก่อนได้,,,false
+2,emails,2,9,I'm afraid,phrase,/aɪm əˈfreɪd/,แอม อะเฟรด,เกรงว่า (ใช้บอกข่าวไม่ดีอย่างสุภาพ),I'm afraid the meeting room is not free on Monday.,เกรงว่าห้องประชุมจะไม่ว่างวันจันทร์,,,false
+2,emails,2,10,sorry for the delay,phrase,/ˌsɑri fər ðə dɪˈleɪ/,ซอร์รี ฟอร์ เดอะ ดีเลย์,ขออภัยที่ตอบช้า,"Sorry for the delay, I was out of town.",ขออภัยที่ตอบช้า ฉันไม่อยู่ในเมือง,,,false
+2,emails,2,11,shortly,adverb,/ˈʃɔrtli/,ช็อร์ทลี,ในไม่ช้า,Our sales team will contact you shortly.,ทีมขายของเราจะติดต่อคุณในไม่ช้า,,,false
+2,emails,2,12,for your information,phrase,/fɔr jʊr ˌɪnfərˈmeɪʃən/,ฟอร์ ยัวร์ อินฟอร์เมชัน,เพื่อโปรดทราบ,"For your information, the office will close early on Friday.",เพื่อโปรดทราบ ออฟฟิศจะปิดเร็ววันศุกร์นี้,,,false
+2,emails,2,13,check with,phrasal verb,/ˈtʃɛk wɪð/,เช็ค วิธ,สอบถามกับ,I will check with my team and reply tomorrow.,ฉันจะสอบถามทีมแล้วตอบกลับพรุ่งนี้,,,false
+2,emails,2,14,noted,adjective,/ˈnoʊtɪd/,โนททิด,รับทราบ,"Noted, I will send the report by Friday.",รับทราบ ฉันจะส่งรายงานภายในวันศุกร์,,,false
+2,emails,3,1,out-of-office reply,noun,/ˌaʊt əv ˈɔfɪs rɪˌplaɪ/,เอาท์ออฟออฟฟิศ รีพลาย,ข้อความแจ้งว่าไม่อยู่,Set an out-of-office reply before your vacation starts.,ตั้งข้อความแจ้งว่าไม่อยู่ก่อนเริ่มลาพักร้อน,,,false
+2,emails,3,2,auto-reply,noun,/ˈɔtoʊ rɪˌplaɪ/,ออโต รีพลาย,ข้อความตอบกลับอัตโนมัติ,I got an auto-reply saying she is on leave.,ฉันได้รับข้อความตอบกลับอัตโนมัติว่าเธอลาอยู่,,,false
+2,emails,3,3,bounce back,phrasal verb,/ˌbaʊns ˈbæk/,บาวนซ์ แบ็ค,(อีเมล) ตีกลับ,Emails will bounce back if the address has a mistake.,อีเมลจะตีกลับถ้าที่อยู่อีเมลผิด,,,false
+2,emails,3,4,typo,noun,/ˈtaɪpoʊ/,ไทโพ,คำพิมพ์ผิด,There is a typo in the subject line.,มีคำพิมพ์ผิดในหัวเรื่อง,,,false
+2,emails,3,5,mailing list,noun,/ˈmeɪlɪŋ ˌlɪst/,เมลลิ่ง ลิสท์,รายชื่อผู้รับอีเมล,Please add the new staff to the mailing list.,กรุณาเพิ่มพนักงานใหม่ในรายชื่อผู้รับอีเมล,,,false
+2,emails,3,6,unsubscribe,verb,/ˌʌnsəbˈskraɪb/,อันซับสไครบ์,ยกเลิกการรับข่าวสาร,Click here to unsubscribe from our emails.,คลิกที่นี่เพื่อยกเลิกการรับอีเมลจากเรา,,,false
+2,emails,3,7,web link,noun,/ˈwɛb ˌlɪŋk/,เว็บ ลิงก์,ลิงก์เว็บไซต์,Click the web link to see the full price list.,คลิกลิงก์เว็บไซต์เพื่อดูรายการราคาทั้งหมด,,🔗,false
+2,emails,3,8,junk mail,noun,/ˈdʒʌŋk ˌmeɪl/,จังค์ เมล,อีเมลขยะ,Check your junk mail if you cannot find my email.,ดูในอีเมลขยะถ้าคุณหาอีเมลของฉันไม่เจอ,,,false
+2,emails,3,9,email thread,noun,/ˈiˌmeɪl ˌθrɛd/,อีเมล เธรด,ชุดอีเมลที่ตอบต่อกัน,Please reply in the same email thread.,กรุณาตอบในชุดอีเมลเดิม,,,false
+2,emails,3,10,resend,verb,/riˈsɛnd/,รีเซนด์,ส่งอีกครั้ง,Could you resend the invoice? I can't find it.,ช่วยส่งใบแจ้งหนี้มาอีกครั้งได้ไหม ฉันหาไม่เจอ,,,false
+2,emails,3,11,all caps,noun,/ˌɔl ˈkæps/,ออล แคพส์,ตัวพิมพ์ใหญ่ทั้งหมด,Writing in all caps looks like you are shouting.,การพิมพ์ตัวใหญ่ทั้งหมดดูเหมือนคุณกำลังตะโกน,,,false
+2,emails,3,12,brief,adjective,/brif/,บรีฟ,สั้นกระชับ,Keep your emails brief and easy to read.,เขียนอีเมลให้สั้นกระชับและอ่านง่าย,,,false
+2,emails,3,13,flag,verb,/flæɡ/,แฟล็ก,ติดธง ทำเครื่องหมาย,I flagged the email so I will not forget to reply.,ฉันติดธงอีเมลไว้จะได้ไม่ลืมตอบ,,,false
+2,emails,3,14,archive,verb,/ˈɑrˌkaɪv/,อาร์ไคฟ์,จัดเก็บเข้าคลัง,I archive old emails to keep my inbox clean.,ฉันจัดเก็บอีเมลเก่าเพื่อให้กล่องจดหมายเป็นระเบียบ,,,false

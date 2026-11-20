@@ -1,0 +1,257 @@
+level,category,lesson,order,headword,pos,phonetic,reading_th,meaning_th,example_en,example_th,note_en,emoji,reviewed
+1,customers,1,1,customer,noun,/ˈkʌstəmɚ/,คัสเทิมเมอร์,ลูกค้า,A customer is waiting at the front desk for help.,มีลูกค้ารอความช่วยเหลืออยู่ที่เคาน์เตอร์ด้านหน้า,,,false
+1,customers,1,2,welcome,verb,/ˈwɛlkəm/,เวลคัม,ต้อนรับ,We always welcome new customers with a big smile.,เราต้อนรับลูกค้าใหม่ด้วยรอยยิ้มกว้างเสมอ,,,false
+1,customers,1,3,greet,verb,/ɡriːt/,กรีท,ทักทาย,Please greet every guest when they come into the office.,กรุณาทักทายแขกทุกคนเมื่อพวกเขาเข้ามาในสำนักงาน,,👋,false
+1,customers,1,4,guest,noun,/ɡɛst/,เกสท์,แขก,Our guest from the other company will be here at ten.,แขกของเราจากอีกบริษัทหนึ่งจะมาถึงตอนสิบโมง,,,false
+1,customers,1,5,visitor,noun,/ˈvɪzɪtɚ/,วิสิทเทอร์,ผู้มาติดต่อ,Every visitor must write their name in the book.,ผู้มาติดต่อทุกคนต้องเขียนชื่อลงในสมุด,,,false
+1,customers,1,6,entrance,noun,/ˈɛntrəns/,เอ็นทรานซ์,ทางเข้า,"Please wait near the entrance, and someone will come to meet you.",กรุณารอใกล้ทางเข้า แล้วจะมีคนมาพบคุณ,,,false
+1,customers,1,7,smile,verb,/smaɪl/,สไมล์,ยิ้ม,Smile and say hello when a customer walks in.,ยิ้มและกล่าวสวัสดีเมื่อลูกค้าเดินเข้ามา,,😊,false
+1,customers,1,8,come in,phrase,/kʌm ɪn/,คัม อิน,เชิญเข้ามา,Please come in and sit down while you wait.,เชิญเข้ามานั่งระหว่างที่รอได้เลยครับ,,,false
+1,customers,1,9,have a seat,phrase,/hæv ə siːt/,แฮฟ อะ ซีท,เชิญนั่ง,"Please have a seat, and I will call my team.",เชิญนั่งก่อนครับ แล้วผมจะเรียกทีมของผมมา,Polite way to ask someone to sit down.,🪑,false
+1,customers,1,10,wait,verb,/weɪt/,เวท,รอ,"Could you wait here for five minutes, please?",คุณช่วยรอตรงนี้สักห้านาทีได้ไหมคะ,,⏳,false
+1,customers,1,11,sign in,phrase,/saɪn ɪn/,ไซน์ อิน,ลงชื่อเข้า,All visitors sign in at the front desk first.,ผู้มาติดต่อทุกคนต้องลงชื่อที่เคาน์เตอร์ด้านหน้าก่อน,,,false
+1,customers,1,12,front desk,noun,/frʌnt dɛsk/,ฟรันท์ เดสค์,เคาน์เตอร์ด้านหน้า,Please ask at the front desk if you need help.,ถ้าต้องการความช่วยเหลือ กรุณาสอบถามที่เคาน์เตอร์ด้านหน้า,,,false
+1,customers,1,13,service,noun,/ˈsɝːvɪs/,เซอร์วิส,การบริการ,"Good service makes our customers happy, so they come back.",การบริการที่ดีทำให้ลูกค้ามีความสุข พวกเขาจึงกลับมาอีก,,,false
+1,customers,1,14,friendly,adjective,/ˈfrɛndli/,เฟรนด์ลี,เป็นมิตร,Our staff are friendly and always ready to help.,พนักงานของเราเป็นมิตรและพร้อมช่วยเหลือเสมอ,,,false
+1,customers,1,15,introduce,verb,/ˌɪntrəˈduːs/,อินโทรดิวซ์,แนะนำ (ให้รู้จัก),Let me introduce you to the person who can help.,ขอแนะนำให้คุณรู้จักกับคนที่ช่วยคุณได้ครับ,,,false
+1,customers,1,16,nice to meet you,phrase,/naɪs tə miːt juː/,ไนซ์ ทู มีท ยู,ยินดีที่ได้รู้จัก,"Nice to meet you, and thank you for coming today.",ยินดีที่ได้รู้จักครับ และขอบคุณที่มาในวันนี้,Say this the first time you meet someone.,🤝,false
+1,customers,2,1,ask,verb,/æsk/,แอสค์,ถาม,You can ask me any question about our service.,คุณถามฉันได้ทุกเรื่องเกี่ยวกับบริการของเรา,,,false
+1,customers,2,2,answer,verb,/ˈænsɚ/,แอนเซอร์,ตอบ,I will answer your question after I look at the file.,ฉันจะตอบคำถามของคุณหลังจากดูแฟ้มแล้ว,,,false
+1,customers,2,3,question,noun,/ˈkwɛstʃən/,เควสชั่น,คำถาม,The customer has a question about the new product.,ลูกค้ามีคำถามเกี่ยวกับสินค้าใหม่,,❓,false
+1,customers,2,4,information,noun,/ˌɪnfɚˈmeɪʃən/,อินฟอร์เมชั่น,ข้อมูล,Please give me some information about your order.,กรุณาให้ข้อมูลเกี่ยวกับคำสั่งซื้อของคุณหน่อย,"Uncountable: say some information, not an information.",ℹ️,false
+1,customers,2,5,explain,verb,/ɪkˈspleɪn/,อิคซ์เพลน,อธิบาย,"Can you explain how this machine works, please?",ช่วยอธิบายหน่อยได้ไหมว่าเครื่องนี้ทำงานอย่างไร,,,false
+1,customers,2,6,repeat,verb,/rɪˈpiːt/,รีพีท,พูดซ้ำ,"Sorry, could you repeat that one more time, please?",ขอโทษค่ะ ช่วยพูดอีกครั้งได้ไหมคะ,,🔁,false
+1,customers,2,7,understand,verb,/ˌʌndɚˈstænd/,อันเดอร์สแตนด์,เข้าใจ,"I understand your problem, and I will help you now.",ฉันเข้าใจปัญหาของคุณ และจะช่วยคุณเดี๋ยวนี้,,,false
+1,customers,2,8,mean,verb,/miːn/,มีน,หมายถึง,"Sorry, what do you mean by a late order?",ขอโทษครับ คำว่าคำสั่งซื้อล่าช้าหมายถึงอะไรครับ,,,false
+1,customers,2,9,sure,adjective,/ʃʊr/,ชัวร์,แน่ใจ,Are you sure this is the right address for delivery?,คุณแน่ใจไหมว่านี่คือที่อยู่ที่ถูกต้องสำหรับการจัดส่ง,,,false
+1,customers,2,10,detail,noun,/ˈdiːteɪl/,ดีเทล,รายละเอียด,"Please send me the details, and I will look at them today.",กรุณาส่งรายละเอียดมาให้ฉัน แล้วฉันจะดูวันนี้,Often used in the plural: details.,,false
+1,customers,2,11,tell,verb,/tɛl/,เทล,บอก,"Please tell me what you need, and I will help.",กรุณาบอกฉันว่าคุณต้องการอะไร แล้วฉันจะช่วย,,,false
+1,customers,2,12,know,verb,/noʊ/,โน,รู้,"I do not know the answer, but I can ask.",ฉันไม่รู้คำตอบ แต่ฉันถามให้ได้,,,false
+1,customers,2,13,check,verb,/tʃɛk/,เช็ค,ตรวจสอบ,Let me check that for you on the computer.,ขอฉันตรวจสอบเรื่องนั้นในคอมพิวเตอร์ให้นะคะ,,✅,false
+1,customers,2,14,of course,phrase,/əv kɔːrs/,ออฟ คอร์ส,แน่นอน,"Of course, I can help you with that right now.",แน่นอนค่ะ ฉันช่วยคุณเรื่องนั้นได้เดี๋ยวนี้เลย,,,false
+1,customers,2,15,contact,verb,/ˈkɑːntækt/,คอนแทคท์,ติดต่อ,Please contact me if you have more questions later.,ถ้ามีคำถามเพิ่มเติมภายหลัง กรุณาติดต่อฉัน,"Say contact me, not contact to me.",,false
+1,customers,2,16,find out,phrase,/faɪnd aʊt/,ไฟนด์ เอาท์,"หาข้อมูล, สืบดู",I will find out the answer and tell you soon.,ฉันจะหาคำตอบแล้วบอกคุณเร็ว ๆ นี้,,,false
+1,customers,3,1,problem,noun,/ˈprɑːbləm/,พรอบเบลม,ปัญหา,There is a problem with the customer's order today.,วันนี้คำสั่งซื้อของลูกค้ามีปัญหา,,,false
+1,customers,3,2,help,verb,/hɛlp/,เฮลพ์,ช่วย,How can I help you with your problem today?,วันนี้ให้ฉันช่วยเรื่องปัญหาของคุณอย่างไรดีคะ,,,false
+1,customers,3,3,complain,verb,/kəmˈpleɪn/,คอมเพลน,"ร้องเรียน, บ่น",The customer called to complain about the slow delivery.,ลูกค้าโทรมาร้องเรียนเรื่องการจัดส่งที่ช้า,,,false
+1,customers,3,4,complaint,noun,/kəmˈpleɪnt/,คอมเพลนท์,คำร้องเรียน,"We got a complaint, so the team must fix it.",เราได้รับคำร้องเรียน ทีมจึงต้องแก้ไข,,,false
+1,customers,3,5,broken,adjective,/ˈbroʊkən/,โบรคเคิน,"เสีย, แตก",The customer says one item in the box is broken.,ลูกค้าบอกว่ามีของชิ้นหนึ่งในกล่องแตก,,,false
+1,customers,3,6,wrong,adjective,/rɔːŋ/,รอง,ผิด,"We sent the wrong color, so we will send another.",เราส่งสีผิดไป จึงจะส่งอันใหม่ไปให้,,❌,false
+1,customers,3,7,fix,verb,/fɪks/,ฟิกซ์,"ซ่อม, แก้ไข",Our team will fix the problem by this afternoon.,ทีมของเราจะแก้ปัญหาให้เสร็จภายในบ่ายนี้,,🔧,false
+1,customers,3,8,solve,verb,/sɑːlv/,ซอลฟ์,แก้ (ปัญหา),We work together to solve problems for our customers.,เราทำงานร่วมกันเพื่อแก้ปัญหาให้ลูกค้า,,,false
+1,customers,3,9,issue,noun,/ˈɪʃuː/,อิชชู,"ปัญหา, เรื่อง",Please tell me more about the issue with your order.,กรุณาเล่ารายละเอียดเพิ่มเติมเกี่ยวกับปัญหาของคำสั่งซื้อ,A softer word for problem.,,false
+1,customers,3,10,damaged,adjective,/ˈdæmɪdʒd/,แดมมิจด์,"ชำรุด, เสียหาย","The box arrived damaged, so we will send a new one.",กล่องมาถึงในสภาพเสียหาย เราจึงจะส่งอันใหม่ให้,,,false
+1,customers,3,11,replace,verb,/rɪˈpleɪs/,รีเพลส,เปลี่ยนให้ใหม่,We will replace the old part with a new one.,เราจะเปลี่ยนชิ้นส่วนเก่าเป็นชิ้นใหม่ให้,,,false
+1,customers,3,12,return,verb,/rɪˈtɝːn/,รีเทิร์น,ส่งคืน,You can return the item within seven days.,คุณส่งคืนสินค้าได้ภายในเจ็ดวัน,,,false
+1,customers,3,13,upset,adjective,/ʌpˈsɛt/,อัพเซ็ท,"ไม่พอใจ, เสียใจ",The customer was upset because the order was late.,ลูกค้าไม่พอใจเพราะคำสั่งซื้อมาช้า,,😟,false
+1,customers,3,14,calm,adjective,/kɑːm/,คาล์ม,"ใจเย็น, สงบ",Stay calm and listen when a customer is angry.,ใจเย็นและตั้งใจฟังเมื่อลูกค้าโกรธ,,,false
+1,customers,3,15,listen,verb,/ˈlɪsən/,ลิสเซิน,ฟัง,Listen to the customer carefully before you answer.,ตั้งใจฟังลูกค้าก่อนที่คุณจะตอบ,Say listen to someone.,👂,false
+1,customers,3,16,support,noun,/səˈpɔːrt/,ซัพพอร์ท,"ฝ่ายช่วยเหลือ, การสนับสนุน",Call our support team if the machine stops working.,ถ้าเครื่องหยุดทำงาน โทรหาทีมฝ่ายช่วยเหลือของเรา,,,false
+1,customers,4,1,please,adverb,/pliːz/,พลีซ,กรุณา,Please sign here and write the date below.,กรุณาเซ็นชื่อตรงนี้และเขียนวันที่ไว้ด้านล่าง,,🙏,false
+1,customers,4,2,thank you,phrase,/θæŋk juː/,แธงค์ ยู,ขอบคุณ,"Thank you for waiting, your order is ready now.",ขอบคุณที่รอค่ะ คำสั่งซื้อของคุณพร้อมแล้ว,,,false
+1,customers,4,3,sorry,adjective,/ˈsɑːri/,ซอรี่,"ขอโทษ, เสียใจ",I am sorry for the problem with your delivery.,ฉันขอโทษสำหรับปัญหาเรื่องการจัดส่งของคุณ,,,false
+1,customers,4,4,excuse me,phrase,/ɪkˈskjuːz miː/,เอ็กซ์คิวส์ มี,ขอโทษ (เวลาเรียกหรือขอทาง),"Excuse me, can I ask you a quick question?",ขอโทษนะคะ ขอถามอะไรสั้น ๆ หน่อยได้ไหมคะ,Use it to get attention before you ask.,,false
+1,customers,4,5,you're welcome,phrase,/jʊr ˈwɛlkəm/,ยัวร์ เวลคัม,"ไม่เป็นไร, ด้วยความยินดี","You're welcome, please call us again any time.",ด้วยความยินดีค่ะ โทรหาเราได้อีกทุกเมื่อ,The answer to thank you.,,false
+1,customers,4,6,may,verb,/meɪ/,เม,ขออนุญาต (สุภาพ),May I come in and talk to you for a minute?,ขออนุญาตเข้าไปคุยกับคุณสักครู่ได้ไหมคะ,May I...? is a very polite way to ask.,,false
+1,customers,4,7,could,verb,/kʊd/,คูด,ช่วย...ได้ไหม (สุภาพ),"Could you send me the file before noon, please?",ช่วยส่งไฟล์ให้ฉันก่อนเที่ยงได้ไหมคะ,Could you...? is more polite than Can you...?,,false
+1,customers,4,8,would like,phrase,/wʊd laɪk/,วูด ไลค์,ต้องการ (สุภาพ),I would like to ask about the price of this service.,ฉันอยากสอบถามราคาของบริการนี้ค่ะ,More polite than want.,,false
+1,customers,4,9,kind,adjective,/kaɪnd/,ไคนด์,ใจดี,"Thank you, that is very kind of you to help.",ขอบคุณค่ะ คุณใจดีมากที่ช่วย,,,false
+1,customers,4,10,apologize,verb,/əˈpɑːlədʒaɪz/,อะพอละไจซ์,ขอโทษ (ทางการ),We apologize for the late delivery of your order.,เราขออภัยที่จัดส่งคำสั่งซื้อของคุณล่าช้า,,,false
+1,customers,4,11,appreciate,verb,/əˈpriːʃieɪt/,อะพรีชิเอท,"ซาบซึ้ง, ขอบคุณ",We appreciate your help with this order very much.,เราขอบคุณมากที่คุณช่วยเรื่องคำสั่งซื้อนี้,,,false
+1,customers,4,12,polite,adjective,/pəˈlaɪt/,พะไลท์,สุภาพ,Always be polite when you talk to a customer.,สุภาพเสมอเวลาพูดคุยกับลูกค้า,,,false
+1,customers,4,13,no problem,phrase,/noʊ ˈprɑːbləm/,โน พรอบเบลม,"ไม่มีปัญหา, ได้เลย","No problem, I can send the papers again today.",ไม่มีปัญหาค่ะ วันนี้ฉันส่งเอกสารให้อีกครั้งได้,,,false
+1,customers,4,14,have a nice day,phrase,/hæv ə naɪs deɪ/,แฮฟ อะ ไนซ์ เดย์,ขอให้เป็นวันที่ดี,"Thank you for coming, and have a nice day.",ขอบคุณที่มานะคะ ขอให้เป็นวันที่ดีค่ะ,,,false
+1,customers,4,15,one moment,phrase,/wʌn ˈmoʊmənt/,วัน โมเมนท์,สักครู่,"One moment, please, I will check that for you.",สักครู่นะคะ ฉันจะตรวจสอบให้,,,false
+1,customers,4,16,pardon,phrase,/ˈpɑːrdən/,พาร์เดิน,ขอโทษนะ (ขอให้พูดอีกครั้ง),"Pardon, could you say the number again more slowly?",ขอโทษค่ะ ช่วยพูดตัวเลขอีกครั้งช้า ๆ ได้ไหมคะ,Also: Pardon me?,,false
+1,numbers,1,1,number,noun,/ˈnʌmbɚ/,นัมเบอร์,"ตัวเลข, จำนวน",Please write the number of boxes on this form.,กรุณาเขียนจำนวนกล่องลงในแบบฟอร์มนี้,,🔢,false
+1,numbers,1,2,amount,noun,/əˈmaʊnt/,อะเมานท์,จำนวน (เงิน),Look at the amount on the paper before you sign it.,ดูจำนวนเงินบนกระดาษก่อนที่คุณจะเซ็นชื่อ,,,false
+1,numbers,1,3,plus,preposition,/plʌs/,พลัส,บวก,"Five plus five is ten, so please order ten boxes.",ห้าบวกห้าเท่ากับสิบ ดังนั้นกรุณาสั่งสิบกล่อง,,,false
+1,numbers,1,4,count,verb,/kaʊnt/,เคานท์,นับ,Please count the boxes before the truck leaves.,กรุณานับกล่องก่อนรถบรรทุกออกไป,,,false
+1,numbers,1,5,add,verb,/æd/,แอด,"บวก, เพิ่ม",Add these two numbers to get the total cost.,บวกตัวเลขสองตัวนี้เพื่อหาค่าใช้จ่ายรวม,,➕,false
+1,numbers,1,6,half,noun,/hæf/,แฮฟ,ครึ่ง,Half of the team works from home on some days.,ทีมครึ่งหนึ่งทำงานจากบ้านในบางวัน,,,false
+1,numbers,1,7,hundred,number,/ˈhʌndrəd/,ฮันเดร็ด,ร้อย,We need one hundred copies for the training tomorrow.,เราต้องการเอกสารหนึ่งร้อยชุดสำหรับการอบรมพรุ่งนี้,"Say two hundred, not two hundreds.",💯,false
+1,numbers,1,8,thousand,number,/ˈθaʊzənd/,เธาเซินด์,พัน,The company sends a thousand bags to shops every week.,บริษัทส่งกระเป๋าหนึ่งพันใบไปยังร้านค้าทุกสัปดาห์,,,false
+1,numbers,1,9,percent,noun,/pɚˈsɛnt/,เพอร์เซ็นต์,เปอร์เซ็นต์,"Sales went up ten percent this month, which is great news.",ยอดขายเดือนนี้เพิ่มขึ้นสิบเปอร์เซ็นต์ ซึ่งเป็นข่าวดีมาก,,,false
+1,numbers,1,10,more,determiner,/mɔːr/,มอร์,"มากขึ้น, เพิ่ม",We need more paper for the printer this week.,สัปดาห์นี้เราต้องการกระดาษสำหรับเครื่องพิมพ์เพิ่ม,,,false
+1,numbers,1,11,less,determiner,/lɛs/,เลส,น้อยลง,This job takes less time than the last one.,งานนี้ใช้เวลาน้อยกว่างานที่แล้ว,,,false
+1,numbers,1,12,about,adverb,/əˈbaʊt/,อะเบาท์,ประมาณ,The meeting room holds about twenty people at one time.,ห้องประชุมจุคนได้ประมาณยี่สิบคนในคราวเดียว,,,false
+1,numbers,1,13,each,determiner,/iːtʃ/,อีช,แต่ละ,Each box has twelve bottles of water inside.,แต่ละกล่องมีน้ำสิบสองขวดอยู่ข้างใน,,,false
+1,numbers,1,14,zero,number,/ˈzɪroʊ/,ซีโร่,ศูนย์,We have had zero problems with the new system so far.,จนถึงตอนนี้ระบบใหม่ยังไม่มีปัญหาเลย,,0️⃣,false
+1,numbers,1,15,double,verb,/ˈdʌbəl/,ดับเบิล,เพิ่มเป็นสองเท่า,Our orders double at the end of the year.,คำสั่งซื้อของเราเพิ่มเป็นสองเท่าในช่วงปลายปี,,,false
+1,numbers,1,16,minus,preposition,/ˈmaɪnəs/,ไมนัส,ลบ,"Ten minus three is seven, so we need seven more.",สิบลบสามเท่ากับเจ็ด เราจึงต้องการอีกเจ็ด,,➖,false
+1,numbers,2,1,estimate,noun,/ˈɛstɪmət/,เอสติเมท,ราคาประเมิน,Can you give me an estimate for the repair work?,ช่วยประเมินราคางานซ่อมให้ฉันหน่อยได้ไหม,As a verb it is /ˈɛstɪmeɪt/.,,false
+1,numbers,2,2,afford,verb,/əˈfɔːrd/,อะฟอร์ด,มีเงินพอจ่าย,We cannot afford new computers for everyone this year.,ปีนี้เราไม่มีเงินพอซื้อคอมพิวเตอร์ใหม่ให้ทุกคน,Often used with can or cannot.,,false
+1,numbers,2,3,budget,noun,/ˈbʌdʒɪt/,บัดเจ็ท,งบประมาณ,Our team has a small budget for the party this year.,ปีนี้ทีมของเรามีงบประมาณจัดงานเลี้ยงไม่มาก,,,false
+1,numbers,2,4,costly,adjective,/ˈkɔːstli/,คอสท์ลี,"สิ้นเปลือง, แพง",Late deliveries can be very costly for our small company.,การจัดส่งล่าช้าอาจทำให้บริษัทเล็ก ๆ ของเราเสียเงินมาก,,,false
+1,numbers,2,5,low,adjective,/loʊ/,โลว์,ต่ำ,"Our prices are low, so many shops buy from us.",ราคาของเราต่ำ ร้านค้าหลายร้านจึงซื้อจากเรา,,,false
+1,numbers,2,6,save,verb,/seɪv/,เซฟ,"ประหยัด, เก็บ (เงิน)",We can save money if we get paper in big boxes.,เราประหยัดเงินได้ถ้าซื้อกระดาษแบบกล่องใหญ่,,,false
+1,numbers,2,7,fee,noun,/fiː/,ฟี,ค่าธรรมเนียม,There is a small fee for fast delivery.,มีค่าธรรมเนียมเล็กน้อยสำหรับการจัดส่งด่วน,,,false
+1,numbers,2,8,quote,noun,/kwoʊt/,โควท,ใบเสนอราคา,Please send the customer a quote for one hundred chairs.,กรุณาส่งใบเสนอราคาเก้าอี้หนึ่งร้อยตัวให้ลูกค้า,,,false
+1,numbers,2,9,spend,verb,/spɛnd/,สเปนด์,ใช้จ่าย,We spend a lot of money on paper every month.,เราใช้เงินกับกระดาษเยอะทุกเดือน,,,false
+1,numbers,2,10,earn,verb,/ɝːn/,เอิร์น,หาเงินได้,The company wants to earn more money from online sales.,บริษัทอยากหาเงินได้มากขึ้นจากการขายออนไลน์,,,false
+1,numbers,2,11,profit,noun,/ˈprɑːfɪt/,พรอฟิท,กำไร,The company made a good profit from the new product.,บริษัทได้กำไรดีจากสินค้าใหม่,,📈,false
+1,numbers,2,12,income,noun,/ˈɪnkʌm/,อินคัม,รายได้,Our income from online orders went up this year.,รายได้จากคำสั่งซื้อออนไลน์ของเราเพิ่มขึ้นในปีนี้,,,false
+1,numbers,2,13,per,preposition,/pɝː/,เพอร์,ต่อ,The price is fifty baht per box for this order.,ราคาคือกล่องละห้าสิบบาทสำหรับคำสั่งซื้อนี้,,,false
+1,numbers,2,14,extra,adjective,/ˈɛkstrə/,เอ็กซ์ตร้า,"เพิ่มเติม, พิเศษ",There is an extra cost for delivery on the weekend.,การจัดส่งในวันหยุดสุดสัปดาห์มีค่าใช้จ่ายเพิ่ม,,,false
+1,numbers,2,15,value,noun,/ˈvæljuː/,แวลู,มูลค่า,What is the total value of the goods in this box?,สินค้าในกล่องนี้มีมูลค่ารวมเท่าไร,,,false
+1,numbers,2,16,rate,noun,/reɪt/,เรท,อัตรา (ราคา),What is your rate for one hour of cleaning work?,ค่าบริการทำความสะอาดของคุณชั่วโมงละเท่าไร,,,false
+1,numbers,3,1,deadline,noun,/ˈdɛdlaɪn/,เดดไลน์,กำหนดส่ง,The deadline for this report is Friday at five.,กำหนดส่งรายงานนี้คือวันศุกร์ตอนห้าโมงเย็น,,⏰,false
+1,numbers,3,2,date,noun,/deɪt/,เดท,วันที่,Please write the date at the top of the form.,กรุณาเขียนวันที่ไว้ด้านบนของแบบฟอร์ม,,📅,false
+1,numbers,3,3,due,adjective,/duː/,ดิว,ถึงกำหนด,"The report is due next Monday, so please start soon.",รายงานต้องส่งวันจันทร์หน้า ดังนั้นกรุณาเริ่มเร็ว ๆ,,,false
+1,numbers,3,4,on time,phrase,/ɑːn taɪm/,ออน ไทม์,ตรงเวลา,Please finish the work on time so the customer is happy.,กรุณาทำงานให้เสร็จตรงเวลาเพื่อให้ลูกค้าพอใจ,,,false
+1,numbers,3,5,late,adjective,/leɪt/,เลท,"ช้า, สาย",The order is late because of the heavy rain.,คำสั่งซื้อมาช้าเพราะฝนตกหนัก,,,false
+1,numbers,3,6,early,adverb,/ˈɝːli/,เอิร์ลี,"ก่อนเวลา, เร็ว","We finished the project early, two days before the deadline.",เราทำโครงการเสร็จก่อนเวลา ก่อนกำหนดส่งสองวัน,,,false
+1,numbers,3,7,delay,noun,/dɪˈleɪ/,ดีเล,ความล่าช้า,There is a delay with the delivery because of rain.,การจัดส่งล่าช้าเพราะฝนตก,,,false
+1,numbers,3,8,timetable,noun,/ˈtaɪmteɪbəl/,ไทม์เทเบิล,ตารางเวลา,Check the bus timetable before you leave the office.,ดูตารางเวลารถเมล์ก่อนออกจากออฟฟิศ,,,false
+1,numbers,3,9,start date,noun,/stɑːrt deɪt/,สตาร์ท เดท,วันเริ่ม,The start date for the new project is next week.,วันเริ่มโครงการใหม่คือสัปดาห์หน้า,,,false
+1,numbers,3,10,until,preposition,/ənˈtɪl/,อันทิล,จนถึง,The office is open until six in the evening.,สำนักงานเปิดจนถึงหกโมงเย็น,,,false
+1,numbers,3,11,by,preposition,/baɪ/,บาย,ภายใน (ไม่เกิน),Please send the report by Friday afternoon at the latest.,กรุณาส่งรายงานภายในบ่ายวันศุกร์อย่างช้าที่สุด,By + time means not later than that time.,,false
+1,numbers,3,12,extend,verb,/ɪkˈstɛnd/,อิคซ์เทนด์,ขยาย (เวลา),Can we extend the deadline by two more days?,เราขยายกำหนดส่งออกไปอีกสองวันได้ไหม,,,false
+1,numbers,3,13,remind,verb,/rɪˈmaɪnd/,รีไมนด์,เตือน,Please remind me about the deadline tomorrow morning.,พรุ่งนี้เช้าช่วยเตือนฉันเรื่องกำหนดส่งด้วย,,,false
+1,numbers,3,14,urgent,adjective,/ˈɝːdʒənt/,เอิร์เจนท์,ด่วน,"This job is urgent, so please do it first today.",งานนี้ด่วน วันนี้กรุณาทำงานนี้ก่อน,,🚨,false
+1,numbers,3,15,in advance,phrase,/ɪn ədˈvæns/,อิน แอดแวนซ์,ล่วงหน้า,Please tell us two days in advance if you need leave.,ถ้าต้องการลางาน กรุณาแจ้งล่วงหน้าสองวัน,,,false
+1,numbers,3,16,overdue,adjective,/ˌoʊvɚˈduː/,โอเวอร์ดิว,เลยกำหนด,"This bill is overdue, so we must pay it today.",บิลนี้เลยกำหนดแล้ว เราต้องจ่ายวันนี้,,,false
+1,numbers,4,1,bill,noun,/bɪl/,บิล,"บิล, ใบแจ้งค่าใช้จ่าย",The electricity bill for the office came this morning.,บิลค่าไฟของสำนักงานมาถึงเมื่อเช้านี้,,,false
+1,numbers,4,2,statement,noun,/ˈsteɪtmənt/,สเตทเมนท์,ใบแจ้งยอด,The monthly statement shows all the bills we paid.,ใบแจ้งยอดรายเดือนแสดงบิลทั้งหมดที่เราจ่ายแล้ว,,,false
+1,numbers,4,3,invoice,noun,/ˈɪnvɔɪs/,อินวอยซ์,ใบแจ้งหนี้,Please send the invoice to our accounts team by Friday.,กรุณาส่งใบแจ้งหนี้ให้ฝ่ายบัญชีของเราภายในวันศุกร์,,,false
+1,numbers,4,4,tax,noun,/tæks/,แท็กซ์,ภาษี,The price on this bill does not include tax.,ราคาในบิลนี้ยังไม่รวมภาษี,,,false
+1,numbers,4,5,sign,verb,/saɪn/,ไซน์,เซ็นชื่อ,Please sign the receipt to show you got the money.,กรุณาเซ็นใบเสร็จเพื่อแสดงว่าคุณได้รับเงินแล้ว,The g is silent.,✍️,false
+1,numbers,4,6,total amount,noun,/ˈtoʊtəl əˈmaʊnt/,โททัล อะเมานต์,ยอดรวม,The total amount is at the bottom of the bill.,ยอดรวมอยู่ด้านล่างของบิล,,,false
+1,numbers,4,7,paid,adjective,/peɪd/,เพด,จ่ายแล้ว,"This bill is paid, so put it in the done box.",บิลนี้จ่ายแล้ว ใส่ไว้ในกล่องที่เสร็จแล้ว,,,false
+1,numbers,4,8,unpaid,adjective,/ʌnˈpeɪd/,อันเพด,ยังไม่ได้จ่าย,We still have three unpaid bills from last month.,เรายังมีบิลที่ยังไม่ได้จ่ายสามใบจากเดือนที่แล้ว,,,false
+1,numbers,4,9,balance,noun,/ˈbæləns/,แบลานซ์,ยอดคงเหลือ,The balance on this bill is two thousand baht.,ยอดคงเหลือในบิลนี้คือสองพันบาท,,,false
+1,numbers,4,10,expense,noun,/ɪkˈspɛns/,อิคซ์เพนซ์,ค่าใช้จ่าย,"Write your taxi expense on the form, and add the receipt.",เขียนค่าแท็กซี่ลงในแบบฟอร์ม และแนบใบเสร็จด้วย,,,false
+1,numbers,4,11,claim,verb,/kleɪm/,เคลม,เบิก (เงิน),You can claim the cost of your train ticket from the company.,คุณเบิกค่าตั๋วรถไฟจากบริษัทได้,,,false
+1,numbers,4,12,record,noun,/ˈrɛkɚd/,เร็คเคิร์ด,"บันทึก, หลักฐาน",We keep a record of every bill we pay.,เราเก็บบันทึกบิลทุกใบที่เราจ่าย,As a verb it is /rɪˈkɔːrd/.,,false
+1,numbers,4,13,amount due,noun,/əˈmaʊnt duː/,อะเมานท์ ดิว,ยอดที่ต้องชำระ,The amount due is at the bottom of the bill.,ยอดที่ต้องชำระอยู่ด้านล่างของบิล,,,false
+1,numbers,4,14,charge,noun,/tʃɑːrdʒ/,ชาร์จ,ค่าบริการ,There is a charge for each extra page we print.,มีค่าบริการสำหรับทุกหน้าที่พิมพ์เพิ่ม,,,false
+1,numbers,4,15,payment,noun,/ˈpeɪmənt/,เพย์เมนท์,การชำระเงิน,We got the payment from the customer this morning.,เราได้รับเงินจากลูกค้าเมื่อเช้านี้,,,false
+1,numbers,4,16,stamp,noun,/stæmp/,สแตมป์,ตราประทับ,Put the company stamp on the receipt before you send it.,ประทับตราบริษัทบนใบเสร็จก่อนส่ง,,,false
+1,tasks,1,1,task,noun,/tæsk/,แทสค์,"งาน, ภารกิจ",My first task every morning is to read my messages.,งานแรกของฉันทุกเช้าคืออ่านข้อความ,,,false
+1,tasks,1,2,routine,noun,/ruːˈtiːn/,รูทีน,กิจวัตร,My morning routine is to look at my list and plan.,กิจวัตรตอนเช้าของฉันคือดูรายการงานและวางแผน,,,false
+1,tasks,1,3,to-do list,noun,/tə ˈduː lɪst/,ทู ดู ลิสท์,รายการสิ่งที่ต้องทำ,I write a to-do list before I start work.,ฉันเขียนรายการสิ่งที่ต้องทำก่อนเริ่มงาน,,📝,false
+1,tasks,1,4,plan,verb,/plæn/,แพลน,วางแผน,I plan my day before I open my computer.,ฉันวางแผนวันของฉันก่อนเปิดคอมพิวเตอร์,,,false
+1,tasks,1,5,busy,adjective,/ˈbɪzi/,บิซี่,ยุ่ง,"I am very busy today, so can we talk tomorrow?",วันนี้ฉันยุ่งมาก เราคุยกันพรุ่งนี้ได้ไหม,,,false
+1,tasks,1,6,check off,phrasal verb,/tʃek ɔːf/,เช็ก ออฟ,ขีดเครื่องหมายว่าทำเสร็จแล้ว,Check off each task on the list when you finish it.,ขีดเครื่องหมายที่งานแต่ละอย่างในรายการเมื่อทำเสร็จ,,,false
+1,tasks,1,7,wipe,verb,/waɪp/,ไวพ์,เช็ด,We wipe our desks before we go home every evening.,เราเช็ดโต๊ะก่อนกลับบ้านทุกเย็น,,,false
+1,tasks,1,8,prepare,verb,/prɪˈpɛr/,พรีแพร์,เตรียม,I prepare the papers for the team every morning.,ฉันเตรียมเอกสารให้ทีมทุกเช้า,,,false
+1,tasks,1,9,sort,verb,/sɔːrt/,ซอร์ท,"คัดแยก, จัดเรียง",Please sort these letters by name before lunch.,กรุณาจัดเรียงจดหมายเหล่านี้ตามชื่อก่อนพักเที่ยง,,,false
+1,tasks,1,10,fill in,phrase,/fɪl ɪn/,ฟิล อิน,กรอก (แบบฟอร์ม),Please fill in this form and give it back to me.,กรุณากรอกแบบฟอร์มนี้แล้วส่งคืนให้ฉัน,,,false
+1,tasks,1,11,arrange,verb,/əˈreɪndʒ/,อะเรนจ์,"จัด, จัดเตรียม",Can you arrange the chairs for the training room?,ช่วยจัดเก้าอี้สำหรับห้องอบรมได้ไหม,,,false
+1,tasks,1,12,report,noun,/rɪˈpɔːrt/,รีพอร์ท,รายงาน,I write a short report at the end of each day.,ฉันเขียนรายงานสั้น ๆ ตอนท้ายของแต่ละวัน,,,false
+1,tasks,1,13,organize,verb,/ˈɔːrɡənaɪz/,ออร์กะไนซ์,จัดระเบียบ,Please organize the files on the shelf by date.,กรุณาจัดแฟ้มบนชั้นให้เป็นระเบียบตามวันที่,,,false
+1,tasks,1,14,daily,adjective,/ˈdeɪli/,เดลี่,ประจำวัน,Our daily work starts at eight thirty in the morning.,งานประจำวันของเราเริ่มตอนแปดโมงครึ่ง,,,false
+1,tasks,1,15,shift,noun,/ʃɪft/,ชิฟท์,กะ (การทำงาน),My shift starts at seven and ends at four.,กะของฉันเริ่มเจ็ดโมงและเลิกสี่โมง,,,false
+1,tasks,1,16,break,noun,/breɪk/,เบรค,ช่วงพัก,Let's take a short break after we finish this.,เราพักสั้น ๆ หลังจากทำอันนี้เสร็จกันเถอะ,Say take a break.,☕,false
+1,tasks,2,1,need,verb,/niːd/,นีด,ต้องการ,I need your help with this report for a minute.,ฉันต้องการให้คุณช่วยเรื่องรายงานนี้สักครู่,,,false
+1,tasks,2,2,show,verb,/ʃoʊ/,โชว์,"แสดงให้ดู, สอน",Can you show me how to use this machine?,ช่วยสอนฉันใช้เครื่องนี้หน่อยได้ไหม,,,false
+1,tasks,2,3,teach,verb,/tiːtʃ/,ทีช,สอน,Could you teach me how to make this chart?,ช่วยสอนฉันทำแผนภูมินี้หน่อยได้ไหม,,,false
+1,tasks,2,4,give me a hand,phrase,/ɡɪv miː ə hænd/,กิฟ มี อะ แฮนด์,ช่วยหน่อย,Can you give me a hand with these heavy boxes?,ช่วยฉันยกกล่องหนัก ๆ พวกนี้หน่อยได้ไหม,Informal way to ask for help.,🤝,false
+1,tasks,2,5,favor,noun,/ˈfeɪvɚ/,เฟเวอร์,การช่วยเหลือ (ขอให้ช่วย),Could you do me a favor and close the window?,ช่วยฉันหน่อยได้ไหม ปิดหน้าต่างให้หน่อย,Say do me a favor.,,false
+1,tasks,2,6,stuck,adjective,/stʌk/,สตัค,"ติดขัด, ทำต่อไม่ได้","I am stuck on this task, can you help me?",ฉันติดอยู่กับงานนี้ ช่วยฉันหน่อยได้ไหม,,,false
+1,tasks,2,7,idea,noun,/aɪˈdiːə/,ไอเดีย,"ความคิด, ไอเดีย",Do you have any idea how to fix this?,คุณพอมีไอเดียไหมว่าจะแก้อันนี้อย่างไร,,💡,false
+1,tasks,2,8,advice,noun,/ədˈvaɪs/,แอดไวซ์,คำแนะนำ,I need your advice about this customer's request.,ฉันต้องการคำแนะนำจากคุณเรื่องคำขอของลูกค้ารายนี้,"Uncountable: some advice, not an advice.",,false
+1,tasks,2,9,suggest,verb,/səˈdʒɛst/,ซักเจสท์,"แนะนำ, เสนอ",Can you suggest a better way to do this job?,คุณช่วยแนะนำวิธีที่ดีกว่าในการทำงานนี้ได้ไหม,,,false
+1,tasks,2,10,try,verb,/traɪ/,ทราย,"ลอง, พยายาม","Let me try again, and I will tell you if it works.",ขอฉันลองอีกครั้ง แล้วจะบอกว่าได้ผลไหม,,,false
+1,tasks,2,11,together,adverb,/təˈɡɛðɚ/,ทูเกเธอร์,ด้วยกัน,Let's work together to finish this task today.,มาทำงานด้วยกันเพื่อให้งานนี้เสร็จวันนี้,,,false
+1,tasks,2,12,available,adjective,/əˈveɪləbəl/,อะเวละเบิล,ว่าง (พร้อมช่วย),Are you available to help me for ten minutes?,คุณว่างช่วยฉันสักสิบนาทีไหม,,,false
+1,tasks,2,13,quick,adjective,/kwɪk/,ควิค,"สั้น ๆ, รวดเร็ว",Can I ask you a quick question about this form?,ขอถามคำถามสั้น ๆ เกี่ยวกับแบบฟอร์มนี้หน่อยได้ไหม,,,false
+1,tasks,2,14,lend,verb,/lɛnd/,เลนด์,ให้ยืม,Can you lend me your pen for a moment?,ขอยืมปากกาของคุณสักครู่ได้ไหม,Lend = give for a short time. Borrow = take for a short time.,,false
+1,tasks,2,15,borrow,verb,/ˈbɑːroʊ/,บอโรว์,ยืม,"Can I borrow your charger for one hour, please?",ขอยืมที่ชาร์จของคุณสักชั่วโมงได้ไหม,,,false
+1,tasks,2,16,guide,verb,/ɡaɪd/,ไกด์,"แนะนำ, ชี้แนะ",Our senior staff guide new workers in their first week.,พนักงานอาวุโสของเราคอยชี้แนะพนักงานใหม่ในสัปดาห์แรก,,,false
+1,tasks,3,1,finish,verb,/ˈfɪnɪʃ/,ฟินิช,ทำให้เสร็จ,I will finish this report before I go home today.,ฉันจะทำรายงานนี้ให้เสร็จก่อนกลับบ้านวันนี้,,🏁,false
+1,tasks,3,2,done,adjective,/dʌn/,ดัน,เสร็จแล้ว,"Are you done with the printer, or do you need it?",คุณใช้เครื่องพิมพ์เสร็จหรือยัง หรือยังต้องใช้อยู่,,,false
+1,tasks,3,3,complete,verb,/kəmˈpliːt/,คอมพลีท,ทำให้เสร็จสมบูรณ์,Please complete all the tasks on the list by Friday.,กรุณาทำงานทั้งหมดในรายการให้เสร็จภายในวันศุกร์,,,false
+1,tasks,3,4,ready,adjective,/ˈrɛdi/,เรดี้,พร้อม,The papers are ready for you on my desk now.,เอกสารพร้อมแล้ว อยู่บนโต๊ะของฉัน,,,false
+1,tasks,3,5,submit,verb,/səbˈmɪt/,ซับมิท,ส่ง (งาน),Please submit your report to the team by noon.,กรุณาส่งรายงานของคุณให้ทีมภายในเที่ยงวัน,,,false
+1,tasks,3,6,hand in,phrase,/hænd ɪn/,แฮนด์ อิน,"ส่ง (งาน, เอกสาร)",Please hand in your forms at the front desk today.,กรุณาส่งแบบฟอร์มของคุณที่เคาน์เตอร์ด้านหน้าวันนี้,,,false
+1,tasks,3,7,review,verb,/rɪˈvjuː/,รีวิว,ตรวจทาน,Can you review my work before I send it out?,ช่วยตรวจทานงานของฉันก่อนที่ฉันจะส่งออกไปได้ไหม,,,false
+1,tasks,3,8,almost,adverb,/ˈɔːlmoʊst/,ออลโมสท์,เกือบ,"I am almost finished, just five more minutes, please.",ฉันเกือบเสร็จแล้ว ขออีกแค่ห้านาที,,,false
+1,tasks,3,9,still,adverb,/stɪl/,สติล,ยังคง,"I am still working on the report, sorry for the wait.",ฉันยังทำรายงานอยู่ ขอโทษที่ให้รอ,,,false
+1,tasks,3,10,progress,noun,/ˈprɑːɡrɛs/,โพรเกรส,ความคืบหน้า,Please tell me about your progress on the project.,กรุณาเล่าความคืบหน้าของโครงการให้ฉันฟัง,,,false
+1,tasks,3,11,project,noun,/ˈprɑːdʒɛkt/,โพรเจ็คท์,โครงการ,Our team finished the big project two days early.,ทีมของเราทำโครงการใหญ่เสร็จก่อนกำหนดสองวัน,,,false
+1,tasks,3,12,result,noun,/rɪˈzʌlt/,รีซัลท์,ผลลัพธ์,The results of the test were very good this time.,ผลการทดสอบครั้งนี้ดีมาก,,,false
+1,tasks,3,13,goal,noun,/ɡoʊl/,โกล,เป้าหมาย,Our goal is to answer every customer in one day.,เป้าหมายของเราคือตอบลูกค้าทุกคนภายในหนึ่งวัน,,🎯,false
+1,tasks,3,14,step,noun,/stɛp/,สเต็ป,ขั้นตอน,The last step is to send the file to the customer.,ขั้นตอนสุดท้ายคือส่งไฟล์ให้ลูกค้า,,,false
+1,tasks,3,15,final,adjective,/ˈfaɪnəl/,ไฟนัล,สุดท้าย,"This is the final version of the report, please print it.",นี่คือรายงานฉบับสุดท้าย กรุณาพิมพ์ออกมา,,,false
+1,tasks,3,16,on track,phrase,/ɑːn træk/,ออน แทร็ค,เป็นไปตามแผน,The project is on track to finish next week.,โครงการเป็นไปตามแผนและจะเสร็จสัปดาห์หน้า,,,false
+1,tasks,4,1,open,verb,/ˈoʊpən/,โอเพ่น,เปิด,Open the box carefully and look at what is inside.,เปิดกล่องอย่างระมัดระวังแล้วดูว่ามีอะไรอยู่ข้างใน,,,false
+1,tasks,4,2,close,verb,/kloʊz/,โคลส,ปิด,Please close the door when you leave the room.,กรุณาปิดประตูเมื่อคุณออกจากห้อง,,,false
+1,tasks,4,3,turn on,phrase,/tɝːn ɑːn/,เทิร์น ออน,"เปิด (ไฟ, เครื่อง)",Please turn on the lights when you come in.,กรุณาเปิดไฟเมื่อคุณเข้ามา,,💡,false
+1,tasks,4,4,turn off,phrase,/tɝːn ɔːf/,เทิร์น ออฟ,"ปิด (ไฟ, เครื่อง)",Turn off the computer before you go home tonight.,ปิดคอมพิวเตอร์ก่อนกลับบ้านคืนนี้,,,false
+1,tasks,4,5,put,verb,/pʊt/,พุท,วาง,Put the new papers on the table near the door.,วางเอกสารใหม่ไว้บนโต๊ะใกล้ประตู,,,false
+1,tasks,4,6,take,verb,/teɪk/,เทค,"หยิบ, เอาไป",Take one copy and pass the rest to the next person.,หยิบไปหนึ่งชุดแล้วส่งที่เหลือให้คนถัดไป,,,false
+1,tasks,4,7,bring,verb,/brɪŋ/,บริง,"นำมา, เอามา",Please bring your ID card to work tomorrow.,พรุ่งนี้กรุณานำบัตรประจำตัวมาที่ทำงานด้วย,,,false
+1,tasks,4,8,move,verb,/muːv/,มูฟ,ย้าย,Can you move these chairs to the other room?,ช่วยย้ายเก้าอี้พวกนี้ไปอีกห้องได้ไหม,,,false
+1,tasks,4,9,follow,verb,/ˈfɑːloʊ/,ฟอลโล,ทำตาม,Follow the steps on the paper to start the machine.,ทำตามขั้นตอนบนกระดาษเพื่อเปิดเครื่อง,,,false
+1,tasks,4,10,keep,verb,/kiːp/,คีพ,"เก็บ, รักษาไว้","Keep this door closed at all times, please.",กรุณาปิดประตูนี้ไว้ตลอดเวลา,,,false
+1,tasks,4,11,use,verb,/juːz/,ยูซ,ใช้,Use the blue pen to sign the forms.,ใช้ปากกาสีน้ำเงินเซ็นแบบฟอร์ม,,,false
+1,tasks,4,12,write down,phrase,/raɪt daʊn/,ไรท์ ดาวน์,จดไว้,Please write down the customer's name and phone number.,กรุณาจดชื่อและเบอร์โทรศัพท์ของลูกค้าไว้,,,false
+1,tasks,4,13,first,adverb,/fɝːst/,เฟิร์สท์,"ก่อนอื่น, อันดับแรก","First, wash your hands, and then start the work.",ก่อนอื่นล้างมือ แล้วจึงเริ่มทำงาน,,,false
+1,tasks,4,14,then,adverb,/ðɛn/,เดน,"แล้วจึง, จากนั้น","Open the file, then print two copies for the team.",เปิดไฟล์ จากนั้นพิมพ์สองชุดให้ทีม,,,false
+1,tasks,4,15,make sure,phrase,/meɪk ʃʊr/,เมค ชัวร์,ทำให้แน่ใจ,Make sure the door is locked before you leave.,ตรวจให้แน่ใจว่าประตูล็อกแล้วก่อนที่คุณจะออกไป,,,false
+1,tasks,4,16,careful,adjective,/ˈkɛrfəl/,แคร์ฟูล,ระมัดระวัง,"Be careful, the floor is wet near the door.",ระวังนะ พื้นใกล้ประตูเปียก,,⚠️,false
+1,goods,1,1,box,noun,/bɑːks/,บ็อกซ์,กล่อง,Put the books in a box and close it well.,ใส่หนังสือลงในกล่องแล้วปิดให้ดี,,📦,false
+1,goods,1,2,package,noun,/ˈpækɪdʒ/,แพ็คเกจ,พัสดุ,A package for you is at the front desk.,มีพัสดุของคุณอยู่ที่เคาน์เตอร์ด้านหน้า,,,false
+1,goods,1,3,parcel,noun,/ˈpɑːrsəl/,พาร์เซิล,"พัสดุ, ห่อของ","The parcel is small, so it can go by post.",พัสดุชิ้นนี้เล็ก จึงส่งทางไปรษณีย์ได้,Americans often say package.,,false
+1,goods,1,4,tape,noun,/teɪp/,เทป,เทปกาว,Use strong tape to close the box before you send it.,ใช้เทปที่แข็งแรงปิดกล่องก่อนส่ง,,,false
+1,goods,1,5,label,noun,/ˈleɪbəl/,เลเบิล,"ฉลาก, ป้าย",Put a label with the address on every box.,ติดป้ายที่มีที่อยู่บนกล่องทุกใบ,,🏷️,false
+1,goods,1,6,wrap,verb,/ræp/,แรพ,ห่อ,Please wrap the glass in paper so it is safe.,กรุณาห่อแก้วด้วยกระดาษเพื่อให้ปลอดภัย,The w is silent.,,false
+1,goods,1,7,pack,verb,/pæk/,แพ็ค,"แพ็ค, บรรจุ",We pack the orders every morning after nine.,เราแพ็คคำสั่งซื้อทุกเช้าหลังเก้าโมง,,,false
+1,goods,1,8,heavy,adjective,/ˈhɛvi/,เฮฟวี่,หนัก,This box is too heavy for one person to lift.,กล่องนี้หนักเกินกว่าที่คนเดียวจะยกได้,,,false
+1,goods,1,9,light,adjective,/laɪt/,ไลท์,เบา,"The package is light, so you can carry it alone.",พัสดุเบา คุณจึงถือไปคนเดียวได้,,,false
+1,goods,1,10,measure,verb,/ˈmɛʒɚ/,เมเชอร์,วัด,Please measure the box before you choose a truck.,กรุณาวัดขนาดกล่องก่อนเลือกรถบรรทุก,,📏,false
+1,goods,1,11,weight,noun,/weɪt/,เวท,น้ำหนัก,Please look at the weight of the box before you send it.,กรุณาดูน้ำหนักของกล่องก่อนส่ง,,⚖️,false
+1,goods,1,12,fragile,adjective,/ˈfrædʒəl/,แฟรจเจิล,แตกง่าย,Write fragile on the box because there are glasses inside.,เขียนคำว่าแตกง่ายบนกล่อง เพราะข้างในมีแก้ว,,,false
+1,goods,1,13,seal,verb,/siːl/,ซีล,ปิดผนึก,Seal the box with tape before you put it on the truck.,ปิดผนึกกล่องด้วยเทปก่อนนำขึ้นรถบรรทุก,,,false
+1,goods,1,14,bubble wrap,noun,/ˈbʌbəl ræp/,บับเบิล แรพ,พลาสติกกันกระแทก,Put bubble wrap around the plates to keep them safe.,ห่อจานด้วยพลาสติกกันกระแทกเพื่อให้ปลอดภัย,,,false
+1,goods,1,15,contents,noun,/ˈkɑːntɛnts/,คอนเทนท์ส,ของที่อยู่ข้างใน,Please look at the contents of the box and the list.,กรุณาดูของในกล่องเทียบกับรายการ,,,false
+1,goods,1,16,empty,adjective,/ˈɛmpti/,เอ็มพ์ตี้,ว่างเปล่า,Put the empty boxes behind the door for recycling.,วางกล่องเปล่าไว้หลังประตูเพื่อนำไปรีไซเคิล,,,false
+1,goods,2,1,send,verb,/sɛnd/,เซนด์,ส่ง,We send our products to customers all over the country.,เราส่งสินค้าไปให้ลูกค้าทั่วประเทศ,,,false
+1,goods,2,2,receive,verb,/rɪˈsiːv/,รีซีฟ,ได้รับ,Did you receive the package from us last week?,คุณได้รับพัสดุจากเราเมื่อสัปดาห์ที่แล้วไหม,,,false
+1,goods,2,3,deliver,verb,/dɪˈlɪvɚ/,ดีลิฟเวอร์,ส่ง (ของ),The driver will deliver the boxes to your office tomorrow.,คนขับจะส่งกล่องไปที่สำนักงานของคุณพรุ่งนี้,,,false
+1,goods,2,4,delivery,noun,/dɪˈlɪvəri/,ดีลิฟเวอรี่,การจัดส่ง,The delivery will arrive at your office before noon.,ของที่จัดส่งจะถึงสำนักงานของคุณก่อนเที่ยง,,,false
+1,goods,2,5,collect,verb,/kəˈlɛkt/,คอลเล็คท์,รับ (ของ),You can collect your package at the front desk after two.,คุณมารับพัสดุได้ที่เคาน์เตอร์ด้านหน้าหลังบ่ายสอง,,,false
+1,goods,2,6,address,noun,/ˈædrɛs/,แอดเดรส,ที่อยู่,Please write the full address on the label.,กรุณาเขียนที่อยู่แบบเต็มบนป้าย,,,false
+1,goods,2,7,courier,noun,/ˈkʊriɚ/,คูเรียร์,"บริษัทส่งของด่วน, คนส่งเอกสาร",A courier will come at two to take the box.,พนักงานส่งของจะมาตอนบ่ายสองเพื่อรับกล่อง,,,false
+1,goods,2,8,pick up,phrase,/pɪk ʌp/,พิค อัพ,"ไปรับ, มารับ",Please pick up the package from the front desk.,กรุณามารับพัสดุที่เคาน์เตอร์ด้านหน้า,,,false
+1,goods,2,9,track,verb,/træk/,แทร็ค,ติดตาม,You can track your package on our website.,คุณติดตามพัสดุของคุณได้บนเว็บไซต์ของเรา,,,false
+1,goods,2,10,tracking number,noun,/ˈtrækɪŋ ˈnʌmbɚ/,แทร็คกิ้ง นัมเบอร์,เลขพัสดุ,Please give the customer the tracking number for the package.,กรุณาให้เลขพัสดุแก่ลูกค้า,,,false
+1,goods,2,11,post,noun,/poʊst/,โพสท์,ไปรษณีย์,The letter for the customer will go out in the post today.,จดหมายถึงลูกค้าจะส่งทางไปรษณีย์วันนี้,Americans often say mail.,,false
+1,goods,2,12,truck,noun,/trʌk/,ทรัค,รถบรรทุก,The truck comes at three to take the boxes.,รถบรรทุกจะมาตอนบ่ายสามเพื่อขนกล่อง,,🚚,false
+1,goods,2,13,sender,noun,/ˈsɛndɚ/,เซนเดอร์,ผู้ส่ง,Write the sender's name at the top of the box.,เขียนชื่อผู้ส่งไว้ด้านบนของกล่อง,,,false
+1,goods,2,14,receiver,noun,/rɪˈsiːvɚ/,รีซีฟเวอร์,ผู้รับ,The receiver must sign when the box arrives.,ผู้รับต้องเซ็นชื่อเมื่อกล่องมาถึง,,,false
+1,goods,2,15,on the way,phrase,/ɑːn ðə weɪ/,ออน เดอะ เวย์,กำลังเดินทางมา,Your order is on the way and will arrive today.,คำสั่งซื้อของคุณกำลังมาและจะถึงวันนี้,,,false
+1,goods,2,16,ship,verb,/ʃɪp/,ชิพ,จัดส่ง,We ship most orders on the same day.,เราจัดส่งคำสั่งซื้อส่วนใหญ่ภายในวันเดียวกัน,,,false
+1,goods,3,1,warehouse,noun,/ˈwɛrhaʊs/,แวร์เฮาส์,คลังสินค้า,All our products are kept in the warehouse near the port.,สินค้าทั้งหมดของเราเก็บไว้ในคลังสินค้าใกล้ท่าเรือ,,🏭,false
+1,goods,3,2,stock,noun,/stɑːk/,สต็อก,สินค้าคงคลัง,We have enough stock of blue shirts for this month.,เรามีเสื้อสีน้ำเงินในสต็อกพอสำหรับเดือนนี้,,,false
+1,goods,3,3,rack,noun,/ræk/,แร็ค,ชั้นวางของ,"Put the small boxes on the top rack, please.",กรุณาวางกล่องเล็กไว้บนชั้นบนสุด,,,false
+1,goods,3,4,product,noun,/ˈprɑːdʌkt/,โพรดัคท์,"สินค้า, ผลิตภัณฑ์",This product is very popular with our young customers.,สินค้านี้ได้รับความนิยมมากในกลุ่มลูกค้าวัยรุ่น,,,false
+1,goods,3,5,item,noun,/ˈaɪtəm/,ไอเท็ม,"ชิ้น, รายการ",Each item has a number on a small label.,สินค้าแต่ละชิ้นมีหมายเลขอยู่บนป้ายเล็ก ๆ,,,false
+1,goods,3,6,goods,noun,/ɡʊdz/,กู๊ดส์,สินค้า,The goods are ready to leave the warehouse this afternoon.,สินค้าพร้อมออกจากคลังบ่ายนี้,Always plural.,,false
+1,goods,3,7,lift,verb,/lɪft/,ลิฟท์,ยก,Bend your knees when you lift a heavy box.,งอเข่าเวลาคุณยกกล่องหนัก,,,false
+1,goods,3,8,carry,verb,/ˈkæri/,แคร์รี่,"ถือ, ขน",Can you help me carry these boxes to the truck?,ช่วยฉันขนกล่องพวกนี้ไปที่รถบรรทุกได้ไหม,,,false
+1,goods,3,9,storage,noun,/ˈstɔːrɪdʒ/,สตอเรจ,ที่เก็บของ,We keep old files in the storage room downstairs.,เราเก็บแฟ้มเก่าไว้ในห้องเก็บของชั้นล่าง,,,false
+1,goods,3,10,store,verb,/stɔːr/,สโตร์,เก็บ (ของ),We store the paper in a dry place.,เราเก็บกระดาษไว้ในที่แห้ง,,,false
+1,goods,3,11,full,adjective,/fʊl/,ฟูล,เต็ม,"The shelf is full, so put the boxes on the floor.",ชั้นเต็มแล้ว วางกล่องไว้บนพื้นแทน,,,false
+1,goods,3,12,out of stock,phrase,/aʊt əv stɑːk/,เอาท์ ออฟ สต็อก,สินค้าหมด,"Sorry, this item is out of stock until next week.",ขอโทษค่ะ สินค้านี้หมดจนถึงสัปดาห์หน้า,,,false
+1,goods,3,13,pallet,noun,/ˈpælɪt/,แพลเล็ท,พาเลท,Put twenty boxes on each pallet before the truck comes.,วางกล่องยี่สิบใบบนพาเลทแต่ละอันก่อนรถบรรทุกมา,,,false
+1,goods,3,14,forklift,noun,/ˈfɔːrklɪft/,ฟอร์คลิฟท์,รถยก,Only trained staff can drive the forklift in the warehouse.,เฉพาะพนักงานที่ผ่านการฝึกเท่านั้นที่ขับรถยกในคลังสินค้าได้,,,false
+1,goods,3,15,row,noun,/roʊ/,โรว์,แถว,"The new stock is in row five, near the back door.",สินค้าใหม่อยู่แถวที่ห้า ใกล้ประตูหลัง,,,false
+1,goods,3,16,safety,noun,/ˈseɪfti/,เซฟตี้,ความปลอดภัย,Wear a hard hat for safety when you work in the warehouse.,สวมหมวกนิรภัยเพื่อความปลอดภัยเมื่อทำงานในคลังสินค้า,,🦺,false
+1,goods,4,1,order,noun,/ˈɔːrdɚ/,ออร์เดอร์,คำสั่งซื้อ,We got a big order from a new customer today.,วันนี้เราได้คำสั่งซื้อใหญ่จากลูกค้าใหม่,,,false
+1,goods,4,2,place an order,phrase,/pleɪs ən ˈɔːrdɚ/,เพลส แอน ออร์เดอร์,สั่งซื้อ,You can place an order by phone or on our website.,คุณสั่งซื้อได้ทางโทรศัพท์หรือบนเว็บไซต์ของเรา,,,false
+1,goods,4,3,cancel,verb,/ˈkænsəl/,แคนเซิล,ยกเลิก,The customer wants to cancel the order for ten chairs.,ลูกค้าต้องการยกเลิกคำสั่งซื้อเก้าอี้สิบตัว,,,false
+1,goods,4,4,confirm,verb,/kənˈfɝːm/,คอนเฟิร์ม,ยืนยัน,Please call the customer to confirm the order today.,วันนี้กรุณาโทรหาลูกค้าเพื่อยืนยันคำสั่งซื้อ,,,false
+1,goods,4,5,quantity,noun,/ˈkwɑːntəti/,ควอนทิตี้,"ปริมาณ, จำนวน",Please look at the quantity before you send the order out.,กรุณาดูจำนวนสินค้าก่อนส่งคำสั่งซื้อออกไป,,,false
+1,goods,4,6,delivery date,noun,/dɪˈlɪvəri deɪt/,ดิลิเวอรี เดต,วันส่งของ,What is the delivery date for this order?,คำสั่งซื้อนี้จะส่งของวันไหน,,,false
+1,goods,4,7,order form,noun,/ˈɔːrdɚ fɔːrm/,ออร์เดอร์ ฟอร์ม,ใบสั่งซื้อ,Fill in the order form and send it to the sales team.,กรอกใบสั่งซื้อแล้วส่งให้ทีมขาย,,,false
+1,goods,4,8,order number,noun,/ˈɔːrdɚ ˈnʌmbɚ/,ออร์เดอร์ นัมเบอร์,เลขที่คำสั่งซื้อ,Please tell me your order number so I can help you.,กรุณาบอกเลขที่คำสั่งซื้อเพื่อให้ฉันช่วยคุณได้,,,false
+1,goods,4,9,supplier,noun,/səˈplaɪɚ/,ซัพพลายเออร์,ผู้จัดหาสินค้า,Our supplier sends new paper every two weeks.,ผู้จัดหาสินค้าของเราส่งกระดาษใหม่มาทุกสองสัปดาห์,,,false
+1,goods,4,10,request,noun,/rɪˈkwɛst/,รีเควสท์,คำขอ,We got a request from the customer for faster delivery.,เราได้รับคำขอจากลูกค้าให้จัดส่งเร็วขึ้น,,,false
+1,goods,4,11,status,noun,/ˈsteɪtəs/,สเตตัส,สถานะ,The customer called to ask about the status of the order.,ลูกค้าโทรมาสอบถามสถานะของคำสั่งซื้อ,,,false
+1,goods,4,12,in stock,phrase,/ɪn stɑːk/,อิน สต็อก,มีสินค้า,"Good news, the red bags are in stock again.",ข่าวดีค่ะ กระเป๋าสีแดงมีสินค้าอีกแล้ว,,,false
+1,goods,4,13,price list,noun,/praɪs lɪst/,ไพรซ์ ลิสท์,รายการราคา,Please send the new price list to all our customers.,กรุณาส่งรายการราคาใหม่ให้ลูกค้าทุกคน,,,false
+1,goods,4,14,catalog,noun,/ˈkætəlɔːɡ/,แคทะล็อก,แคตตาล็อก,Customers can choose products from our new catalog on the website.,ลูกค้าเลือกสินค้าจากแคตตาล็อกใหม่บนเว็บไซต์ได้,,,false
+1,goods,4,15,process,verb,/ˈprɑːsɛs/,โพรเซส,ดำเนินการ,We process all new orders within one working day.,เราดำเนินการคำสั่งซื้อใหม่ทั้งหมดภายในหนึ่งวันทำการ,,,false
+1,goods,4,16,regular,adjective,/ˈrɛɡjəlɚ/,เรกกิวลาร์,ประจำ,She is a regular customer and orders from us every month.,เธอเป็นลูกค้าประจำและสั่งซื้อจากเราทุกเดือน,,,false

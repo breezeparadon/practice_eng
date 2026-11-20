@@ -1,0 +1,257 @@
+level,category,lesson,order,headword,pos,phonetic,reading_th,meaning_th,example_en,example_th,note_en,emoji,reviewed
+1,office,1,1,pen,noun,/pɛn/,เพ็น,ปากกา,Please sign the form with a blue pen at the bottom.,กรุณาเซ็นแบบฟอร์มด้วยปากกาสีน้ำเงินที่ด้านล่าง,,🖊️,false
+1,office,1,2,pencil,noun,/ˈpɛnsəl/,เพ็นซึล,ดินสอ,I use a pencil to write notes on the draft.,ฉันใช้ดินสอเขียนโน้ตบนร่างเอกสาร,,✏️,false
+1,office,1,3,stapler,noun,/ˈsteɪplər/,สเตเพลอร์,ที่เย็บกระดาษ,Can I use your stapler to put these pages together?,ขอใช้ที่เย็บกระดาษของคุณรวมหน้าพวกนี้หน่อยได้ไหม,,,false
+1,office,1,4,paper clip,noun,/ˈpeɪpər klɪp/,เพเพอร์ คลิป,คลิปหนีบกระดาษ,Put a paper clip on the forms before you give them to me.,หนีบคลิปที่แบบฟอร์มก่อนส่งให้ฉันนะ,,📎,false
+1,office,1,5,notebook,noun,/ˈnoʊtbʊk/,โน้ตบุ๊ก,สมุดจด,I write my tasks for the day in a small notebook.,ฉันจดงานของวันนี้ไว้ในสมุดเล่มเล็ก,"In Thai, โน้ตบุ๊ก often means a laptop; in English a notebook is usually paper.",📓,false
+1,office,1,6,folder,noun,/ˈfoʊldər/,โฟลเดอร์,แฟ้มเอกสาร,Please keep all the signed forms in this red folder.,กรุณาเก็บแบบฟอร์มที่เซ็นแล้วทั้งหมดไว้ในแฟ้มสีแดงนี้,,📁,false
+1,office,1,7,eraser,noun,/ɪˈreɪsər/,อีเรเซอร์,ยางลบ,I need an eraser to fix a mistake on this page.,ฉันต้องใช้ยางลบแก้ที่ผิดในหน้านี้,,,false
+1,office,1,8,ruler,noun,/ˈruːlər/,รูลเลอร์,ไม้บรรทัด,Use a ruler to draw a straight line under the title.,ใช้ไม้บรรทัดขีดเส้นตรงใต้หัวข้อ,,📏,false
+1,office,1,9,scissors,noun,/ˈsɪzərz/,ซิสเซอร์ส,กรรไกร,Can you pass me the scissors to cut this paper?,ช่วยส่งกรรไกรให้หน่อยได้ไหม จะตัดกระดาษนี้,,✂️,false
+1,office,1,10,glue stick,noun,/ɡluː stɪk/,กลู สติก,กาวแท่ง,Use a glue stick to put the photo on the form.,ใช้กาวแท่งติดรูปลงบนแบบฟอร์ม,,,false
+1,office,1,11,calculator,noun,/ˈkælkjəleɪtər/,แคลคิวเลเตอร์,เครื่องคิดเลข,I use a calculator to add up the numbers in this table.,ฉันใช้เครื่องคิดเลขบวกตัวเลขในตารางนี้,,,false
+1,office,1,12,sticky note,noun,/ˈstɪki noʊt/,สติกกี้ โน้ต,กระดาษโน้ตแบบมีกาว,I put a sticky note on my screen so I don't forget.,ฉันแปะกระดาษโน้ตไว้ที่หน้าจอจะได้ไม่ลืม,,,false
+1,office,1,13,desk lamp,noun,/dɛsk læmp/,เดสก์ แลมป์,โคมไฟตั้งโต๊ะ,Please turn off your desk lamp when you go home.,กรุณาปิดโคมไฟตั้งโต๊ะตอนกลับบ้าน,,,false
+1,office,1,14,hole punch,noun,/hoʊl pʌntʃ/,โฮล พันช์,ที่เจาะรูกระดาษ,Use the hole punch before you put the pages in the folder.,ใช้ที่เจาะรูกระดาษก่อนใส่เอกสารลงแฟ้ม,,,false
+1,office,1,15,clipboard,noun,/ˈklɪpbɔrd/,คลิปบอร์ด,"คลิปบอร์ด, แผ่นรองเขียน",The guard holds a clipboard to write down each visitor's name.,รปภ. ถือคลิปบอร์ดไว้จดชื่อแขกแต่ละคน,,📋,false
+1,office,1,16,highlighter,noun,/ˈhaɪlaɪtər/,ไฮไลเตอร์,ปากกาเน้นข้อความ,I mark the important dates with a yellow highlighter.,ฉันใช้ปากกาเน้นข้อความสีเหลืองทำเครื่องหมายวันที่สำคัญ,,,false
+1,office,2,1,computer,noun,/kəmˈpjuːtər/,คอมพิวเตอร์,คอมพิวเตอร์,"My computer is very slow this morning, so I called for help.",เช้านี้คอมพิวเตอร์ของฉันช้ามาก เลยโทรขอความช่วยเหลือ,,🖥️,false
+1,office,2,2,laptop,noun,/ˈlæptɑːp/,แล็ปท็อป,คอมพิวเตอร์โน้ตบุ๊ก,I bring my laptop to every meeting to take notes.,ฉันเอาแล็ปท็อปไปทุกการประชุมเพื่อจดโน้ต,,💻,false
+1,office,2,3,printer,noun,/ˈprɪntər/,พรินเตอร์,เครื่องพิมพ์,The printer on our floor has no paper again.,เครื่องพิมพ์ที่ชั้นเราไม่มีกระดาษอีกแล้ว,,🖨️,false
+1,office,2,4,photocopier,noun,/ˈfoʊtoʊkɑːpiər/,โฟโตคอปปี้เออร์,เครื่องถ่ายเอกสาร,The photocopier is next to the kitchen on the second floor.,เครื่องถ่ายเอกสารอยู่ข้างห้องครัวที่ชั้นสอง,,,false
+1,office,2,5,scanner,noun,/ˈskænər/,สแกนเนอร์,เครื่องสแกน,You can use the scanner to make a copy of your ID card.,คุณใช้เครื่องสแกนทำสำเนาบัตรประชาชนได้,,,false
+1,office,2,6,keyboard,noun,/ˈkiːbɔrd/,คีย์บอร์ด,แป้นพิมพ์,Some keys on my keyboard do not work well.,ปุ่มบางปุ่มบนแป้นพิมพ์ของฉันใช้งานไม่ค่อยได้,,⌨️,false
+1,office,2,7,mouse,noun,/maʊs/,เมาส์,เมาส์ (คอมพิวเตอร์),"My mouse stopped working, so I asked for a new one.",เมาส์ของฉันเสีย เลยขออันใหม่,,🖱️,false
+1,office,2,8,monitor,noun,/ˈmɑːnɪtər/,มอนิเตอร์,จอคอมพิวเตอร์,I use two monitors so I can see two files at once.,ฉันใช้จอสองจอจะได้ดูไฟล์สองไฟล์พร้อมกัน,,,false
+1,office,2,9,shredder,noun,/ˈʃrɛdər/,ชเรดเดอร์,เครื่องทำลายเอกสาร,Put old papers with names on them in the shredder.,เอาเอกสารเก่าที่มีชื่อคนอยู่ใส่เครื่องทำลายเอกสาร,,,false
+1,office,2,10,desk phone,noun,/dɛsk foʊn/,เดสก์ โฟน,โทรศัพท์ตั้งโต๊ะ,"If my desk phone rings, please answer it for me.",ถ้าโทรศัพท์ตั้งโต๊ะของฉันดัง ช่วยรับให้หน่อยนะ,,☎️,false
+1,office,2,11,headset,noun,/ˈhɛdsɛt/,เฮดเซ็ต,หูฟังพร้อมไมค์,I wear a headset when I take calls at my desk.,ฉันใส่หูฟังพร้อมไมค์เวลารับสายที่โต๊ะ,,🎧,false
+1,office,2,12,cable,noun,/ˈkeɪbəl/,เคเบิล,"สายเคเบิล, สายต่อ",This cable connects the laptop to the big screen.,สายนี้ต่อแล็ปท็อปเข้ากับจอใหญ่,,,false
+1,office,2,13,charger,noun,/ˈtʃɑrdʒər/,ชาร์จเจอร์,ที่ชาร์จ,Can I borrow your phone charger for an hour?,ขอยืมที่ชาร์จโทรศัพท์ของคุณสักชั่วโมงได้ไหม,,🔌,false
+1,office,2,14,desk fan,noun,/dɛsk fæn/,เดสก์ แฟน,พัดลมตั้งโต๊ะ,"It is hot today, so I turned on my desk fan.",วันนี้อากาศร้อน ฉันเลยเปิดพัดลมตั้งโต๊ะ,,,false
+1,office,2,15,water dispenser,noun,/ˈwɔtər dɪˈspɛnsər/,วอเทอร์ ดิสเพนเซอร์,ตู้กดน้ำ,There is a water dispenser near the elevator on every floor.,มีตู้กดน้ำใกล้ลิฟต์ทุกชั้น,,,false
+1,office,2,16,coffee machine,noun,/ˈkɔfi məˈʃiːn/,คอฟฟี่ มะชีน,เครื่องชงกาแฟ,The coffee machine in the pantry is broken again.,เครื่องชงกาแฟในห้องแพนทรีเสียอีกแล้ว,,☕,false
+1,office,3,1,office,noun,/ˈɔfɪs/,ออฟฟิศ,"ออฟฟิศ, สำนักงาน","Our office is small, but it has a lot of light.",ออฟฟิศของเราเล็ก แต่แสงเข้าเยอะ,,🏢,false
+1,office,3,2,mailroom,noun,/ˈmeɪlruːm/,เมลรูม,ห้องรับส่งเอกสาร,All letters for our team go to the mailroom first.,จดหมายทั้งหมดของทีมเราจะไปที่ห้องรับส่งเอกสารก่อน,,,false
+1,office,3,3,locker room,noun,/ˈlɑːkər ruːm/,ล็อกเกอร์ รูม,ห้องล็อกเกอร์,I leave my bag in the locker room before I start work.,ฉันเก็บกระเป๋าไว้ในห้องล็อกเกอร์ก่อนเริ่มงาน,,,false
+1,office,3,4,server room,noun,/ˈsɜrvər ruːm/,เซิร์ฟเวอร์ รูม,ห้องเซิร์ฟเวอร์,Only IT staff can go into the server room.,เฉพาะเจ้าหน้าที่ไอทีเท่านั้นที่เข้าห้องเซิร์ฟเวอร์ได้,,,false
+1,office,3,5,restroom,noun,/ˈrɛstruːm/,เรสต์รูม,ห้องน้ำ,The restroom is at the end of the hall on the right.,ห้องน้ำอยู่สุดทางเดินทางขวา,,🚻,false
+1,office,3,6,pantry,noun,/ˈpæntri/,แพนทรี,"ห้องแพนทรี, ห้องเตรียมเครื่องดื่ม",I make tea in the pantry during my morning break.,ฉันชงชาในห้องแพนทรีช่วงพักตอนเช้า,,,false
+1,office,3,7,canteen,noun,/kænˈtiːn/,แคนทีน,โรงอาหาร,Many of us eat lunch together in the canteen at noon.,พวกเราหลายคนกินข้าวกลางวันด้วยกันที่โรงอาหารตอนเที่ยง,,,false
+1,office,3,8,parking lot,noun,/ˈpɑrkɪŋ lɑːt/,พาร์คกิ้ง ล็อต,ลานจอดรถ,"The parking lot is full, so I parked on the street.",ลานจอดรถเต็ม ฉันเลยจอดริมถนน,,🅿️,false
+1,office,3,9,storeroom,noun,/ˈstɔrruːm/,สโตร์รูม,ห้องเก็บของ,You can find more printer paper in the storeroom.,คุณหากระดาษพิมพ์เพิ่มได้ในห้องเก็บของ,,,false
+1,office,3,10,break room,noun,/breɪk ruːm/,เบรก รูม,ห้องพักพนักงาน,We have a small fridge and a sofa in the break room.,ในห้องพักพนักงานมีตู้เย็นเล็ก ๆ กับโซฟา,,,false
+1,office,3,11,hallway,noun,/ˈhɔlweɪ/,ฮอลเวย์,ทางเดิน,Please do not leave any boxes in the hallway.,กรุณาอย่าวางกล่องไว้ที่ทางเดิน,,,false
+1,office,3,12,training room,noun,/ˈtreɪnɪŋ ruːm/,เทรนนิ่ง รูม,ห้องฝึกอบรม,New staff learn about the company in the training room.,พนักงานใหม่เรียนรู้เรื่องบริษัทในห้องฝึกอบรม,,,false
+1,office,3,13,exit,noun,/ˈɛɡzɪt/,เอ็กซิต,ทางออก,The fire exit is next to the stairs at the back.,ทางหนีไฟอยู่ข้างบันไดด้านหลัง,,,false
+1,office,3,14,cubicle,noun,/ˈkjuːbɪkəl/,คิวบิเคิล,คอกทำงาน,"My cubicle is near the window, next to my manager's desk.",คอกทำงานของฉันอยู่ใกล้หน้าต่าง ข้างโต๊ะหัวหน้า,,,false
+1,office,3,15,copy room,noun,/ˈkɑːpi ruːm/,คอปปี้ รูม,ห้องถ่ายเอกสาร,The new printer is in the copy room down the hall.,เครื่องพิมพ์ใหม่อยู่ในห้องถ่ายเอกสารตรงทางเดินนั้น,,,false
+1,office,3,16,smoking area,noun,/ˈsmoʊkɪŋ ˈɛriə/,สโมกกิ้ง แอเรีย,พื้นที่สูบบุหรี่,"The smoking area is outside, behind the parking lot.",พื้นที่สูบบุหรี่อยู่ข้างนอก หลังลานจอดรถ,,🚬,false
+1,office,4,1,print,verb,/prɪnt/,พรินต์,พิมพ์ (เอกสาร),Please print ten pages of the report for the meeting.,ช่วยพิมพ์รายงานสิบหน้าสำหรับการประชุมหน่อย,,,false
+1,office,4,2,copy,verb,/ˈkɑːpi/,คอปปี้,ถ่ายสำเนา,Can you copy this form for everyone in the team?,ช่วยถ่ายสำเนาแบบฟอร์มนี้ให้ทุกคนในทีมได้ไหม,,,false
+1,office,4,3,scan,verb,/skæn/,สแกน,สแกน,Please scan the signed contract and email it to me.,ช่วยสแกนสัญญาที่เซ็นแล้วส่งอีเมลมาให้ฉัน,,,false
+1,office,4,4,fold,verb,/foʊld/,โฟลด์,พับ,Please fold each letter before you put it in the envelope.,กรุณาพับจดหมายแต่ละฉบับก่อนใส่ซอง,,,false
+1,office,4,5,staple,verb,/ˈsteɪpəl/,สเตเพิล,เย็บกระดาษ,Please staple each set of pages before the meeting starts.,ช่วยเย็บกระดาษแต่ละชุดก่อนเริ่มประชุม,,,false
+1,office,4,6,unlock,verb,/ʌnˈlɑːk/,อันล็อก,"ปลดล็อก, ไขกุญแจ",The guard will unlock the office door at seven thirty.,รปภ. จะไขกุญแจประตูออฟฟิศตอนเจ็ดโมงครึ่ง,,🔓,false
+1,office,4,7,plug in,phrase,/plʌɡ ɪn/,ปลั๊ก อิน,เสียบปลั๊ก,"Please plug in the laptop, the battery is almost empty.",ช่วยเสียบปลั๊กแล็ปท็อปหน่อย แบตใกล้หมดแล้ว,,🔌,false
+1,office,4,8,tidy up,phrase,/ˈtaɪdi ʌp/,ไทดี้ อัพ,"จัดให้เรียบร้อย, เก็บกวาด",Please tidy up your desk before you go home on Friday.,กรุณาเก็บโต๊ะให้เรียบร้อยก่อนกลับบ้านวันศุกร์,,,false
+1,office,4,9,throw away,phrase,/θroʊ əˈweɪ/,โธรว์ อะเวย์,ทิ้ง,Please throw away the old coffee cups on the table.,ช่วยทิ้งแก้วกาแฟเก่าบนโต๊ะหน่อย,,🗑️,false
+1,office,4,10,recycle,verb,/riːˈsaɪkəl/,รีไซเคิล,รีไซเคิล,We recycle all used paper in the blue bin.,เรารีไซเคิลกระดาษใช้แล้วทั้งหมดในถังสีน้ำเงิน,,♻️,false
+1,office,4,11,lock,verb,/lɑːk/,ล็อก,"ล็อก, ใส่กุญแจ",The last person must lock the door at night.,คนสุดท้ายต้องล็อกประตูตอนกลางคืน,,🔒,false
+1,office,4,12,shred,verb,/ʃrɛd/,ชเรด,ทำลายเอกสาร (ด้วยเครื่อง),Please shred these old papers because they have private information.,ช่วยทำลายเอกสารเก่าพวกนี้ เพราะมีข้อมูลส่วนตัว,,,false
+1,office,4,13,look for,phrase,/lʊk fɔr/,ลุก ฟอร์,"มองหา, ค้นหา",I need to look for the old contract in this cabinet.,ฉันต้องหาสัญญาเก่าในตู้นี้,,,false
+1,office,4,14,put away,phrase,/pʊt əˈweɪ/,พุท อะเวย์,เก็บเข้าที่,Please put away the files when you finish with them.,กรุณาเก็บแฟ้มเข้าที่เมื่อใช้เสร็จ,,,false
+1,office,4,15,erase,verb,/ɪˈreɪs/,อีเรส,ลบ (ข้อความบนกระดาน),Please erase the whiteboard after your meeting is over.,กรุณาลบไวต์บอร์ดหลังประชุมเสร็จ,,,false
+1,office,4,16,sharpen,verb,/ˈʃɑːrpən/,ชาร์เพิน,เหลา (ดินสอ),Please sharpen these pencils before the meeting.,ช่วยเหลาดินสอพวกนี้ก่อนประชุมด้วย,,,false
+1,jobs,1,1,engineer,noun,/ˌɛndʒɪˈnɪr/,เอ็นจิเนียร์,วิศวกร,The engineer is checking the machine on the factory floor.,วิศวกรกำลังตรวจเครื่องจักรในโรงงาน,,,false
+1,jobs,1,2,accountant,noun,/əˈkaʊntənt/,อะเคานต์เทินต์,นักบัญชี,Our accountant checks all the bills at the end of the month.,นักบัญชีของเราตรวจบิลทั้งหมดตอนสิ้นเดือน,,,false
+1,jobs,1,3,cleaner,noun,/ˈkliːnər/,คลีนเนอร์,"พนักงานทำความสะอาด, แม่บ้าน",The cleaner comes every evening to clean our office.,แม่บ้านมาทำความสะอาดออฟฟิศเราทุกเย็น,,🧹,false
+1,jobs,1,4,driver,noun,/ˈdraɪvər/,ไดรเวอร์,คนขับรถ,The company driver will take you to the airport at six.,คนขับรถของบริษัทจะพาคุณไปสนามบินตอนหกโมง,,,false
+1,jobs,1,5,security guard,noun,/sɪˈkjʊrəti ɡɑrd/,ซิเคียวริตี้ การ์ด,"พนักงานรักษาความปลอดภัย, รปภ.",The security guard checks everyone's card at the front door.,รปภ. ตรวจบัตรของทุกคนที่ประตูหน้า,,,false
+1,jobs,1,6,receptionist,noun,/rɪˈsɛpʃənɪst/,รีเซปชันนิสต์,พนักงานต้อนรับ,The receptionist answers the phone and greets every visitor.,พนักงานต้อนรับรับโทรศัพท์และทักทายแขกทุกคน,,,false
+1,jobs,1,7,salesperson,noun,/ˈseɪlzpɜrsən/,เซลส์เพอร์เซิน,พนักงานขาย,A salesperson visits new shops in the city every week.,พนักงานขายไปเยี่ยมร้านใหม่ ๆ ในเมืองทุกสัปดาห์,,,false
+1,jobs,1,8,programmer,noun,/ˈproʊɡræmər/,โปรแกรมเมอร์,โปรแกรมเมอร์,The programmer is fixing a problem in our booking app.,โปรแกรมเมอร์กำลังแก้ปัญหาในแอปจองของเรา,,🧑‍💻,false
+1,jobs,1,9,designer,noun,/dɪˈzaɪnər/,ดีไซเนอร์,นักออกแบบ,Our designer made a new poster for the sales event.,นักออกแบบของเราทำโปสเตอร์ใหม่สำหรับงานขาย,,,false
+1,jobs,1,10,lawyer,noun,/ˈlɔɪər/,ลอว์เยอร์,ทนายความ,Our lawyer reads every contract before we sign it.,ทนายของเราอ่านสัญญาทุกฉบับก่อนเราเซ็น,,,false
+1,jobs,1,11,mechanic,noun,/məˈkænɪk/,มะแคนิก,"ช่างซ่อมรถ, ช่างเครื่อง",The mechanic is fixing the company van in the garage.,ช่างกำลังซ่อมรถตู้ของบริษัทในอู่,,🧑‍🔧,false
+1,jobs,1,12,technician,noun,/tɛkˈnɪʃən/,เทคนิเชียน,ช่างเทคนิค,A technician is coming to fix the air conditioner today.,วันนี้ช่างเทคนิคจะมาซ่อมแอร์,,,false
+1,jobs,1,13,teacher,noun,/ˈtiːtʃər/,ทีชเชอร์,ครู,An English teacher comes to our office every Tuesday afternoon.,ครูสอนภาษาอังกฤษมาที่ออฟฟิศเราทุกบ่ายวันอังคาร,,🧑‍🏫,false
+1,jobs,1,14,translator,noun,/trænsˈleɪtər/,ทรานสเลเตอร์,นักแปล,We asked a translator to help with the Japanese emails.,เราขอให้นักแปลช่วยเรื่องอีเมลภาษาญี่ปุ่น,,,false
+1,jobs,1,15,messenger,noun,/ˈmɛsɪndʒər/,เมสเซนเจอร์,พนักงานส่งเอกสาร,The messenger takes these documents to the bank every morning.,แมสเซนเจอร์เอาเอกสารพวกนี้ไปธนาคารทุกเช้า,,,false
+1,jobs,1,16,office worker,noun,/ˈɔfɪs ˌwɜrkər/,ออฟฟิศ เวิร์กเกอร์,พนักงานออฟฟิศ,Most office workers in this building start work at nine.,พนักงานออฟฟิศส่วนใหญ่ในตึกนี้เริ่มงานเก้าโมง,,,false
+1,jobs,2,1,manager,noun,/ˈmænɪdʒər/,แมเนเจอร์,ผู้จัดการ,Please ask your manager before you take a day off.,กรุณาถามผู้จัดการก่อนลางาน,,,false
+1,jobs,2,2,assistant,noun,/əˈsɪstənt/,แอสซิสเทินต์,ผู้ช่วย,My assistant will send you the files this afternoon.,ผู้ช่วยของฉันจะส่งไฟล์ให้คุณบ่ายนี้,,,false
+1,jobs,2,3,boss,noun,/bɔs/,บอส,"เจ้านาย, หัวหน้า",My boss wants the report on her desk by Monday.,หัวหน้าอยากได้รายงานวางบนโต๊ะภายในวันจันทร์,"""Boss"" is informal; in emails, use ""manager"".",,false
+1,jobs,2,4,director,noun,/dəˈrɛktər/,ไดเร็กเตอร์,ผู้อำนวยการ,The director will visit our team next week.,ผู้อำนวยการจะมาเยี่ยมทีมเราสัปดาห์หน้า,,,false
+1,jobs,2,5,supervisor,noun,/ˈsuːpərvaɪzər/,ซูเปอร์ไวเซอร์,หัวหน้างาน,Tell your supervisor if you need to leave early.,บอกหัวหน้างานถ้าคุณต้องกลับก่อน,,,false
+1,jobs,2,6,team leader,noun,/tiːm ˈliːdər/,ทีม ลีดเดอร์,หัวหน้าทีม,Our team leader gives us our tasks every Monday morning.,หัวหน้าทีมแจกงานให้เราทุกเช้าวันจันทร์,,,false
+1,jobs,2,7,staff,noun,/stæf/,สตาฟ,พนักงาน (ทั้งหมด),All staff must wear their ID cards in the office.,พนักงานทุกคนต้องห้อยบัตรในออฟฟิศ,"""Staff"" means the whole group; for one person say ""a staff member"".",,false
+1,jobs,2,8,employee,noun,/ɪmˈplɔɪiː/,เอ็มพลอยอี,"พนักงาน, ลูกจ้าง",Our company has about two hundred employees in this city.,บริษัทเรามีพนักงานประมาณสองร้อยคนในเมืองนี้,,,false
+1,jobs,2,9,intern,noun,/ˈɪntɜrn/,อินเทิร์น,นักศึกษาฝึกงาน,The new intern will help our team for three months.,เด็กฝึกงานคนใหม่จะช่วยทีมเราสามเดือน,,,false
+1,jobs,2,10,owner,noun,/ˈoʊnər/,โอนเนอร์,เจ้าของ,The owner of the company started it twenty years ago.,เจ้าของบริษัทก่อตั้งบริษัทนี้เมื่อยี่สิบปีก่อน,,,false
+1,jobs,2,11,secretary,noun,/ˈsɛkrətɛri/,เซเครทารี,เลขานุการ,The secretary keeps the director's calendar and books his meetings.,เลขาดูแลตารางของผู้อำนวยการและนัดประชุมให้,,,false
+1,jobs,2,12,coworker,noun,/ˈkoʊwɜrkər/,โคเวิร์กเกอร์,เพื่อนร่วมงาน,My coworker helped me fix the problem with my laptop.,เพื่อนร่วมงานช่วยฉันแก้ปัญหาแล็ปท็อป,,,false
+1,jobs,2,13,trainee,noun,/treɪˈniː/,เทรนนี,"ผู้ฝึกงาน, พนักงานใหม่ที่กำลังฝึกงาน",Each new trainee learns the job from a team member for one month.,ผู้ฝึกงานใหม่แต่ละคนเรียนงานจากคนในทีมหนึ่งเดือน,,,false
+1,jobs,2,14,officer,noun,/ˈɔfɪsər/,ออฟฟิสเซอร์,เจ้าหน้าที่,Please talk to the HR officer about your leave.,กรุณาคุยกับเจ้าหน้าที่ฝ่ายบุคคลเรื่องการลา,,,false
+1,jobs,2,15,job title,noun,/dʒɑːb ˈtaɪtəl/,จ็อบ ไทเทิล,ตำแหน่งงาน,Please write your name and job title under your signature.,กรุณาเขียนชื่อและตำแหน่งงานใต้ลายเซ็น,,,false
+1,jobs,2,16,position,noun,/pəˈzɪʃən/,พะซิชัน,ตำแหน่ง,We have an open position for a sales assistant.,เรามีตำแหน่งว่างสำหรับผู้ช่วยฝ่ายขาย,,,false
+1,jobs,3,1,department,noun,/dɪˈpɑrtmənt/,ดีพาร์ตเมินต์,"แผนก, ฝ่าย",Which department do you work in at the company?,คุณทำงานแผนกไหนในบริษัท,,,false
+1,jobs,3,2,sales,noun,/seɪlz/,เซลส์,ฝ่ายขาย,She works in sales and meets new clients every week.,เธอทำงานฝ่ายขายและเจอลูกค้าใหม่ทุกสัปดาห์,,,false
+1,jobs,3,3,marketing,noun,/ˈmɑrkɪtɪŋ/,มาร์เก็ตติ้ง,ฝ่ายการตลาด,The marketing team is making a video for the new product.,ทีมการตลาดกำลังทำวิดีโอสำหรับสินค้าใหม่,,,false
+1,jobs,3,4,accounting,noun,/əˈkaʊntɪŋ/,อะเคานต์ติ้ง,ฝ่ายบัญชี,Send your travel bills to accounting by the end of the month.,ส่งบิลค่าเดินทางให้ฝ่ายบัญชีภายในสิ้นเดือน,,,false
+1,jobs,3,5,finance,noun,/ˈfaɪnæns/,ไฟแนนซ์,ฝ่ายการเงิน,The finance team pays all the staff on the last day.,ทีมการเงินจ่ายเงินเดือนพนักงานทุกคนในวันสุดท้ายของเดือน,,,false
+1,jobs,3,6,human resources,noun,/ˈhjuːmən ˈriːsɔrsɪz/,ฮิวแมน รีซอร์สเซส,"ฝ่ายบุคคล, ฝ่ายทรัพยากรบุคคล",Ask human resources if you have questions about your leave.,ถามฝ่ายบุคคลถ้ามีคำถามเรื่องวันลา,"Often shortened to ""HR"".",,false
+1,jobs,3,7,purchasing,noun,/ˈpɜrtʃəsɪŋ/,เพอร์เชสซิ่ง,ฝ่ายจัดซื้อ,Ask purchasing to order more paper for the printer.,ขอให้ฝ่ายจัดซื้อสั่งกระดาษสำหรับเครื่องพิมพ์เพิ่ม,,,false
+1,jobs,3,8,production,noun,/prəˈdʌkʃən/,โพรดักชัน,ฝ่ายผลิต,The production team works in the factory next to our office.,ทีมฝ่ายผลิตทำงานในโรงงานข้างออฟฟิศเรา,,,false
+1,jobs,3,9,operations,noun,/ˌɑːpəˈreɪʃənz/,ออปเปอเรชันส์,ฝ่ายปฏิบัติการ,The operations team makes sure everything runs well every day.,ทีมปฏิบัติการดูแลให้ทุกอย่างดำเนินไปได้ดีทุกวัน,,,false
+1,jobs,3,10,admin,noun,/ˈædmɪn/,แอดมิน,ฝ่ายธุรการ,Ask admin for a new staff card if you lose yours.,ขอบัตรพนักงานใหม่จากฝ่ายธุรการถ้าทำหาย,,,false
+1,jobs,3,11,research,noun,/ˈriːsɜrtʃ/,รีเสิร์ช,"ฝ่ายวิจัย, การวิจัย",The research team tests new ideas before we sell them.,ทีมวิจัยทดลองไอเดียใหม่ก่อนที่เราจะขาย,,,false
+1,jobs,3,12,quality control,noun,/ˈkwɑːləti kənˈtroʊl/,ควอลิตี้ คอนโทรล,ฝ่ายควบคุมคุณภาพ,Quality control checks every product before it leaves the factory.,ฝ่ายควบคุมคุณภาพตรวจสินค้าทุกชิ้นก่อนออกจากโรงงาน,,,false
+1,jobs,3,13,team,noun,/tiːm/,ทีม,ทีม,Our team has six people and one team leader.,ทีมเรามีหกคนกับหัวหน้าทีมหนึ่งคน,,,false
+1,jobs,3,14,branch,noun,/bræntʃ/,บรานช์,สาขา,Our company has a new branch in Chiang Mai.,บริษัทเรามีสาขาใหม่ที่เชียงใหม่,,,false
+1,jobs,3,15,head office,noun,/hɛd ˈɔfɪs/,เฮด ออฟฟิศ,สำนักงานใหญ่,"The head office is in Bangkok, near the train station.",สำนักงานใหญ่อยู่ที่กรุงเทพฯ ใกล้สถานีรถไฟ,,🏢,false
+1,jobs,3,16,engineering,noun,/ˌɛndʒɪˈnɪrɪŋ/,เอ็นจิเนียริ่ง,ฝ่ายวิศวกรรม,He works in engineering and fixes the big machines.,เขาทำงานฝ่ายวิศวกรรมและซ่อมเครื่องจักรใหญ่ ๆ,,,false
+1,jobs,4,1,working hours,noun,/ˈwɜrkɪŋ ˈaʊərz/,เวิร์กกิ้ง เอาเวอร์ส,เวลาทำงาน,Our working hours are from nine in the morning to six.,เวลาทำงานของเราคือเก้าโมงเช้าถึงหกโมงเย็น,,,false
+1,jobs,4,2,day shift,noun,/deɪ ʃɪft/,เดย์ ชิฟต์,กะกลางวัน,"I work the day shift, from eight to five.",ฉันทำกะกลางวัน ตั้งแต่แปดโมงถึงห้าโมง,,,false
+1,jobs,4,3,night shift,noun,/naɪt ʃɪft/,ไนต์ ชิฟต์,กะดึก,He works the night shift and sleeps during the day.,เขาทำกะดึกและนอนตอนกลางวัน,,,false
+1,jobs,4,4,full-time,adjective,/ˌfʊlˈtaɪm/,ฟูลไทม์,เต็มเวลา,She has a full-time job and works five days a week.,เธอทำงานเต็มเวลา ทำงานสัปดาห์ละห้าวัน,,,false
+1,jobs,4,5,part-time,adjective,/ˌpɑrtˈtaɪm/,พาร์ตไทม์,"พาร์ตไทม์, ไม่เต็มเวลา",The student has a part-time job in our office on weekends.,นักศึกษาคนนี้ทำงานพาร์ตไทม์ที่ออฟฟิศเราวันเสาร์อาทิตย์,,,false
+1,jobs,4,6,overtime,noun,/ˈoʊvərtaɪm/,โอเวอร์ไทม์,"การทำงานล่วงเวลา, โอที",We did two hours of overtime to finish the order.,เราทำโอทีสองชั่วโมงเพื่อทำออร์เดอร์ให้เสร็จ,,,false
+1,jobs,4,7,lunch break,noun,/lʌntʃ breɪk/,ลันช์ เบรก,พักเที่ยง,"Our lunch break is one hour, from twelve to one.",พักเที่ยงของเราหนึ่งชั่วโมง ตั้งแต่เที่ยงถึงบ่ายโมง,,,false
+1,jobs,4,8,coffee break,noun,/ˈkɔfi breɪk/,คอฟฟี่ เบรก,พักดื่มกาแฟ,Let's have a short coffee break after this meeting.,หลังประชุมนี้พักดื่มกาแฟสั้น ๆ กันเถอะ,,,false
+1,jobs,4,9,day off,noun,/deɪ ɔf/,เดย์ ออฟ,"วันหยุด, วันลา",I want to take a day off next Friday for my family.,ฉันอยากลาหยุดวันศุกร์หน้าเพื่อครอบครัว,,,false
+1,jobs,4,10,sick leave,noun,/sɪk liːv/,ซิก ลีฟ,ลาป่วย,I am on sick leave today because I have a fever.,วันนี้ฉันลาป่วยเพราะเป็นไข้,,,false
+1,jobs,4,11,annual leave,noun,/ˈænjuəl liːv/,แอนนวล ลีฟ,ลาพักร้อน,We get ten days of annual leave every year.,เราได้วันลาพักร้อนสิบวันทุกปี,,,false
+1,jobs,4,12,clock in,phrase,/klɑːk ɪn/,คล็อก อิน,ตอกบัตรเข้างาน,Please clock in with your card when you arrive at work.,กรุณาสแกนบัตรเข้างานเมื่อมาถึงที่ทำงาน,,,false
+1,jobs,4,13,clock out,phrase,/klɑːk aʊt/,คล็อก เอาต์,ตอกบัตรออกงาน,Don't forget to clock out before you go home.,อย่าลืมตอกบัตรออกก่อนกลับบ้าน,,,false
+1,jobs,4,14,start work,phrase,/stɑrt wɜrk/,สตาร์ต เวิร์ก,เริ่มงาน,I start work at eight thirty every morning.,ฉันเริ่มงานแปดโมงครึ่งทุกเช้า,,,false
+1,jobs,4,15,finish work,phrase,/ˈfɪnɪʃ wɜrk/,ฟินิช เวิร์ก,เลิกงาน,I usually finish work at six and take the bus home.,ปกติฉันเลิกงานหกโมงแล้วนั่งรถเมล์กลับบ้าน,,,false
+1,jobs,4,16,work from home,phrase,/wɜrk frəm hoʊm/,เวิร์ก ฟรอม โฮม,ทำงานจากบ้าน,I can work from home on Wednesdays and Fridays.,ฉันทำงานจากบ้านได้ทุกวันพุธกับวันศุกร์,,🏠,false
+1,communication,1,1,call,verb,/kɔl/,คอล,โทร,Please call me when you get to the office.,โทรหาฉันเมื่อคุณถึงออฟฟิศนะ,,,false
+1,communication,1,2,phone call,noun,/foʊn kɔl/,โฟน คอล,การโทรศัพท์,I have a phone call with a client at ten.,ฉันมีนัดโทรคุยกับลูกค้าตอนสิบโมง,,📞,false
+1,communication,1,3,missed call,noun,/mɪst kɔl/,มิสต์ คอล,สายที่ไม่ได้รับ,I had three missed calls from my boss this morning.,เช้านี้ฉันมีสายที่ไม่ได้รับจากหัวหน้าสามสาย,,,false
+1,communication,1,4,hang up,phrase,/hæŋ ʌp/,แฮง อัพ,วางสาย,"Please don't hang up, I will get her for you.",อย่าเพิ่งวางสายนะคะ เดี๋ยวจะไปตามเธอมาให้,,,false
+1,communication,1,5,hold on,phrase,/hoʊld ɑːn/,โฮลด์ ออน,รอสักครู่ (ทางโทรศัพท์),Please hold on for a moment while I check the file.,กรุณารอสักครู่ ขอตรวจไฟล์ก่อน,,,false
+1,communication,1,6,phone number,noun,/foʊn ˈnʌmbər/,โฟน นัมเบอร์,เบอร์โทรศัพท์,Can I have your phone number in case I need to call?,ขอเบอร์โทรของคุณไว้เผื่อต้องโทรหาได้ไหม,,,false
+1,communication,1,7,extension,noun,/ɪkˈstɛnʃən/,เอ็กซ์เทนชัน,เบอร์ต่อภายใน,Please call me at extension 205 if you need help.,ถ้าต้องการความช่วยเหลือ โทรหาฉันที่เบอร์ต่อ 205 ได้เลย,,,false
+1,communication,1,8,voicemail,noun,/ˈvɔɪsmeɪl/,วอยซ์เมล,ข้อความเสียง,I left a voicemail because nobody answered the phone.,ฉันฝากข้อความเสียงไว้เพราะไม่มีใครรับสาย,,,false
+1,communication,1,9,ring,verb,/rɪŋ/,ริง,(โทรศัพท์) ดัง,"The phone is ringing, can you get it please?",โทรศัพท์ดังอยู่ ช่วยรับหน่อยได้ไหม,,,false
+1,communication,1,10,dial,verb,/ˈdaɪəl/,ไดอัล,กดเบอร์,Dial nine first to make a call outside the office.,กดเลขเก้าก่อนเพื่อโทรออกนอกออฟฟิศ,,,false
+1,communication,1,11,speak to,phrase,/spiːk tuː/,สปีก ทู,"ขอสาย, คุยกับ","Hello, can I speak to the sales manager, please?",สวัสดีครับ ขอสายผู้จัดการฝ่ายขายหน่อยครับ,,,false
+1,communication,1,12,call back,phrase,/kɔl bæk/,คอล แบ็ก,โทรกลับ,"She is in a meeting, can she call back later?",เธอติดประชุมอยู่ ให้เธอโทรกลับทีหลังได้ไหม,,,false
+1,communication,1,13,wrong number,noun,/rɔŋ ˈnʌmbər/,รอง นัมเบอร์,เบอร์ผิด,"Sorry, I think you have called the wrong number.",ขอโทษค่ะ คิดว่าคุณโทรผิดเบอร์,,,false
+1,communication,1,14,mobile phone,noun,/ˈmoʊbəl foʊn/,โมบายล์ โฟน,โทรศัพท์มือถือ,Please put your mobile phone on silent during the meeting.,กรุณาปิดเสียงโทรศัพท์มือถือระหว่างประชุม,,📱,false
+1,communication,1,15,line,noun,/laɪn/,ไลน์,สาย (โทรศัพท์),"The line is bad, can you say that again?",สัญญาณสายไม่ดี พูดอีกครั้งได้ไหม,,,false
+1,communication,1,16,caller,noun,/ˈkɔlər/,คอลเลอร์,ผู้โทรเข้า,The caller wants to speak to someone in accounting.,ผู้โทรต้องการคุยกับคนในฝ่ายบัญชี,,,false
+1,communication,2,1,email,noun,/ˈiːmeɪl/,อีเมล,อีเมล,I check my email first thing every morning.,ฉันเช็กอีเมลเป็นอย่างแรกทุกเช้า,,📧,false
+1,communication,2,2,reply all,phrase,/rɪˈplaɪ ɔl/,รีพลาย ออล,ตอบกลับทุกคน,Only reply all if everyone needs to read your answer.,กดตอบกลับทุกคนเฉพาะเมื่อทุกคนต้องอ่านคำตอบของคุณ,,,false
+1,communication,2,3,reply,verb,/rɪˈplaɪ/,รีพลาย,ตอบกลับ,Please reply to this email by Friday afternoon.,กรุณาตอบกลับอีเมลนี้ภายในบ่ายวันศุกร์,,,false
+1,communication,2,4,forward,verb,/ˈfɔrwərd/,ฟอร์เวิร์ด,ส่งต่อ,Can you forward this email to the rest of the team?,ช่วยส่งต่ออีเมลนี้ให้คนอื่นในทีมได้ไหม,,,false
+1,communication,2,5,subject,noun,/ˈsʌbdʒɪkt/,ซับเจ็กต์,หัวเรื่อง (อีเมล),"Write a short, clear subject so people know what the email is about.",เขียนหัวเรื่องสั้น ๆ ให้ชัด คนจะได้รู้ว่าอีเมลเกี่ยวกับอะไร,,,false
+1,communication,2,6,attachment,noun,/əˈtætʃmənt/,อะแทชเมินต์,ไฟล์แนบ,Please open the attachment to see the new schedule.,กรุณาเปิดไฟล์แนบเพื่อดูตารางใหม่,,,false
+1,communication,2,7,inbox,noun,/ˈɪnbɑːks/,อินบ็อกซ์,กล่องจดหมายเข้า,My inbox has fifty new emails after my holiday.,หลังวันหยุด กล่องจดหมายของฉันมีอีเมลใหม่ห้าสิบฉบับ,,📥,false
+1,communication,2,8,email address,noun,/ˈiːmeɪl əˈdrɛs/,อีเมล แอดเดรส,ที่อยู่อีเมล,Please check that you typed my email address correctly.,กรุณาเช็กว่าพิมพ์ที่อยู่อีเมลของฉันถูกต้อง,,,false
+1,communication,2,9,attach,verb,/əˈtætʃ/,อะแทช,แนบ (ไฟล์),Don't forget to attach the photos to your email.,อย่าลืมแนบรูปไปกับอีเมลนะ,,,false
+1,communication,2,10,unread,adjective,/ʌnˈrɛd/,อันเรด,ยังไม่ได้อ่าน,I still have twenty unread emails from this morning.,ฉันยังมีอีเมลที่ยังไม่ได้อ่านจากเมื่อเช้าอีกยี่สิบฉบับ,,,false
+1,communication,2,11,draft,noun,/dræft/,ดราฟต์,ฉบับร่าง,I saved the email as a draft and will finish it later.,ฉันบันทึกอีเมลเป็นฉบับร่างไว้ แล้วจะเขียนต่อทีหลัง,,,false
+1,communication,2,12,spam,noun,/spæm/,สแปม,อีเมลขยะ,"Your email went to my spam folder, so I missed it.",อีเมลของคุณไปอยู่ในโฟลเดอร์สแปม ฉันเลยไม่เห็น,,,false
+1,communication,2,13,dear,adjective,/dɪr/,เดียร์,เรียน (คำขึ้นต้นจดหมาย),"Start a formal email with ""Dear"" and the person's name.","ขึ้นต้นอีเมลแบบทางการด้วย ""Dear"" ตามด้วยชื่อผู้รับ",,,false
+1,communication,2,14,best regards,phrase,/bɛst rɪˈɡɑrdz/,เบสต์ รีการ์ดส์,ขอแสดงความนับถือ,"I end my work emails with ""Best regards"" and my name.","ฉันลงท้ายอีเมลงานด้วย ""Best regards"" และชื่อของฉัน",,,false
+1,communication,2,15,recipient,noun,/rɪˈsɪpiənt/,รีซิพเพียนต์,ผู้รับ,Check the recipient's name before you click send.,เช็กชื่อผู้รับก่อนกดส่ง,,,false
+1,communication,2,16,signature,noun,/ˈsɪɡnətʃər/,ซิกเนเจอร์,"ลายเซ็นท้ายอีเมล, ลายเซ็น","My email signature has my name, job title and phone number.",ลายเซ็นท้ายอีเมลของฉันมีชื่อ ตำแหน่ง และเบอร์โทร,,,false
+1,communication,3,1,message,noun,/ˈmɛsɪdʒ/,เมสเสจ,ข้อความ,I got a message from my manager about the meeting.,ฉันได้ข้อความจากผู้จัดการเรื่องการประชุม,,💬,false
+1,communication,3,2,note,noun,/noʊt/,โน้ต,"โน้ต, ข้อความสั้น ๆ",I left a note on her desk to call me back.,ฉันทิ้งโน้ตไว้บนโต๊ะเธอให้โทรกลับหาฉัน,,🗒️,false
+1,communication,3,3,leave a message,phrase,/liːv ə ˈmɛsɪdʒ/,ลีฟ อะ เมสเสจ,ฝากข้อความ,"He is not here now, would you like to leave a message?",ตอนนี้เขาไม่อยู่ คุณต้องการฝากข้อความไหม,,,false
+1,communication,3,4,take a message,phrase,/teɪk ə ˈmɛsɪdʒ/,เทค อะ เมสเสจ,รับฝากข้อความ,"She is out of the office, can I take a message?",เธอไม่อยู่ออฟฟิศ ให้ฉันรับฝากข้อความไว้ไหม,,,false
+1,communication,3,5,text message,noun,/tɛkst ˈmɛsɪdʒ/,เท็กซ์ เมสเสจ,ข้อความ (SMS),I will send you a text message when I arrive.,ฉันจะส่งข้อความหาคุณเมื่อไปถึง,,,false
+1,communication,3,6,memo,noun,/ˈmɛmoʊ/,เมโม,บันทึกภายใน,The manager sent a memo about the new holiday dates.,ผู้จัดการส่งบันทึกภายในเรื่องวันหยุดใหม่,,,false
+1,communication,3,7,notice,noun,/ˈnoʊtɪs/,โนทิส,ประกาศ,There is a notice about the fire drill near the elevator.,มีประกาศเรื่องการซ้อมหนีไฟอยู่ใกล้ลิฟต์,,,false
+1,communication,3,8,notice board,noun,/ˈnoʊtɪs bɔrd/,โนทิส บอร์ด,บอร์ดประกาศ,Please read the notice board in the pantry every week.,กรุณาอ่านบอร์ดประกาศในห้องแพนทรีทุกสัปดาห์,,,false
+1,communication,3,9,reminder,noun,/rɪˈmaɪndər/,รีไมน์เดอร์,"การแจ้งเตือน, ข้อความเตือนความจำ",I set a reminder on my phone for the two o'clock call.,ฉันตั้งเตือนในโทรศัพท์ไว้สำหรับการโทรตอนบ่ายสอง,,,false
+1,communication,3,10,chat,verb,/tʃæt/,แชท,"แชท, คุยผ่านข้อความ",We chat online when we work from home.,เราแชทกันออนไลน์ตอนทำงานจากบ้าน,,,false
+1,communication,3,11,group chat,noun,/ɡruːp tʃæt/,กรุ๊ป แชท,กลุ่มแชท,I will post the meeting time in our team group chat.,ฉันจะโพสต์เวลาประชุมในกลุ่มแชทของทีม,,,false
+1,communication,3,12,important,adjective,/ɪmˈpɔrtənt/,อิมพอร์เทินต์,สำคัญ,"This message is important, so please read it today.",ข้อความนี้สำคัญ กรุณาอ่านภายในวันนี้,,,false
+1,communication,3,13,announcement,noun,/əˈnaʊnsmənt/,อะนาวซ์เมินต์,"ประกาศ, การประกาศ",The director will make an announcement at the end of the day.,ผู้อำนวยการจะมีประกาศตอนท้ายวัน,,📢,false
+1,communication,3,14,get back to,phrase,/ɡɛt bæk tuː/,เก็ต แบ็ก ทู,ติดต่อกลับ,I will get back to you after I talk to my manager.,ฉันจะติดต่อกลับหลังจากคุยกับผู้จัดการ,,,false
+1,communication,3,15,let me know,phrase,/lɛt mi noʊ/,เล็ต มี โน,บอกให้ฉันรู้ด้วย,Please let me know when the printer is working again.,ช่วยบอกฉันด้วยเมื่อเครื่องพิมพ์ใช้ได้อีกครั้ง,,,false
+1,communication,3,16,as soon as possible,phrase,/æz suːn æz ˈpɑːsəbəl/,แอส ซูน แอส พอสซิเบิล,โดยเร็วที่สุด,Please send me the signed form as soon as possible.,กรุณาส่งแบบฟอร์มที่เซ็นแล้วให้ฉันโดยเร็วที่สุด,"Often written as ""ASAP"" in short messages.",,false
+1,communication,4,1,screen,noun,/skriːn/,สกรีน,หน้าจอ,"My screen is too dark, so I made it brighter.",หน้าจอของฉันมืดเกินไป ฉันเลยปรับให้สว่างขึ้น,,,false
+1,communication,4,2,click,verb,/klɪk/,คลิก,คลิก,Click the blue button to open the new file.,คลิกปุ่มสีน้ำเงินเพื่อเปิดไฟล์ใหม่,,,false
+1,communication,4,3,type,verb,/taɪp/,ไทป์,พิมพ์ (ด้วยแป้นพิมพ์),Please type your name in the box at the top.,กรุณาพิมพ์ชื่อของคุณในช่องด้านบน,,,false
+1,communication,4,4,copy and paste,phrase,/ˈkɑːpi ən peɪst/,คอปปี้ แอนด์ เพสต์,คัดลอกและวาง,You can copy and paste the address into your email.,คุณคัดลอกที่อยู่แล้ววางลงในอีเมลได้,,,false
+1,communication,4,5,delete,verb,/dɪˈliːt/,ดีลีต,ลบ,Please delete the old files from the shared folder.,กรุณาลบไฟล์เก่าออกจากโฟลเดอร์ที่ใช้ร่วมกัน,,,false
+1,communication,4,6,file,noun,/faɪl/,ไฟล์,ไฟล์,I can't open this file on my computer.,ฉันเปิดไฟล์นี้ในคอมพิวเตอร์ไม่ได้,,,false
+1,communication,4,7,password,noun,/ˈpæswɜrd/,พาสเวิร์ด,รหัสผ่าน,Do not share your password with anyone at work.,อย่าบอกรหัสผ่านของคุณให้ใครในที่ทำงานรู้,,🔑,false
+1,communication,4,8,log in,phrase,/lɔɡ ɪn/,ล็อก อิน,เข้าสู่ระบบ,Use your staff number to log in to the system.,ใช้รหัสพนักงานเพื่อเข้าสู่ระบบ,,,false
+1,communication,4,9,log out,phrase,/lɔɡ aʊt/,ล็อก เอาต์,ออกจากระบบ,Always log out when you leave your computer.,ออกจากระบบทุกครั้งเมื่อลุกจากคอมพิวเตอร์,,,false
+1,communication,4,10,internet,noun,/ˈɪntərnɛt/,อินเทอร์เน็ต,อินเทอร์เน็ต,The internet is very slow in the meeting room today.,วันนี้อินเทอร์เน็ตในห้องประชุมช้ามาก,,🌐,false
+1,communication,4,11,website,noun,/ˈwɛbsaɪt/,เว็บไซต์,เว็บไซต์,You can find our office address on the company website.,คุณหาที่อยู่ออฟฟิศเราได้ในเว็บไซต์บริษัท,,,false
+1,communication,4,12,download,verb,/ˈdaʊnloʊd/,ดาวน์โหลด,ดาวน์โหลด,Please download the form and fill it in at home.,กรุณาดาวน์โหลดแบบฟอร์มแล้วกรอกที่บ้าน,,,false
+1,communication,4,13,upload,verb,/ˈʌploʊd/,อัปโหลด,อัปโหลด,Please upload your photos to the team folder by Friday.,กรุณาอัปโหลดรูปไปที่โฟลเดอร์ทีมภายในวันศุกร์,,,false
+1,communication,4,14,restart,verb,/riːˈstɑrt/,รีสตาร์ต,"เปิดเครื่องใหม่, รีสตาร์ต","If your computer is slow, try to restart it.",ถ้าคอมพิวเตอร์ช้า ลองรีสตาร์ตเครื่องดู,,,false
+1,communication,4,15,username,noun,/ˈjuːzərneɪm/,ยูสเซอร์เนม,ชื่อผู้ใช้,"Type your username and password, then click the button.",พิมพ์ชื่อผู้ใช้และรหัสผ่าน แล้วคลิกปุ่ม,,,false
+1,communication,4,16,search,verb,/sɜrtʃ/,เสิร์ช,ค้นหา,You can search for old emails by typing a name.,คุณค้นหาอีเมลเก่าได้โดยพิมพ์ชื่อ,,🔍,false
+1,meetings,1,1,meeting room,noun,/ˈmiːtɪŋ ruːm/,มีตติ้ง รูม,ห้องประชุม,I booked the small meeting room for two o'clock.,ฉันจองห้องประชุมเล็กไว้ตอนบ่ายสอง,,,false
+1,meetings,1,2,meeting table,noun,/ˈmiːtɪŋ ˈteɪbəl/,มีตติ้ง เทเบิล,โต๊ะประชุม,Please put a bottle of water on the meeting table for each person.,กรุณาวางน้ำขวดบนโต๊ะประชุมให้ทุกคน,,,false
+1,meetings,1,3,office chair,noun,/ˈɔfɪs tʃɛr/,ออฟฟิศ แชร์,เก้าอี้สำนักงาน,We need two more office chairs for the visitors today.,วันนี้เราต้องการเก้าอี้สำนักงานเพิ่มอีกสองตัวสำหรับแขก,,🪑,false
+1,meetings,1,4,projector,noun,/prəˈdʒɛktər/,โปรเจกเตอร์,"เครื่องฉายภาพ, โปรเจกเตอร์",Can you turn on the projector before the meeting starts?,ช่วยเปิดโปรเจกเตอร์ก่อนเริ่มประชุมได้ไหม,,,false
+1,meetings,1,5,whiteboard,noun,/ˈwaɪtbɔrd/,ไวต์บอร์ด,กระดานไวต์บอร์ด,She wrote our ideas on the whiteboard during the meeting.,เธอเขียนไอเดียของเราบนไวต์บอร์ดระหว่างประชุม,,,false
+1,meetings,1,6,marker,noun,/ˈmɑrkər/,มาร์กเกอร์,"ปากกาไวต์บอร์ด, ปากกาเมจิก","This marker is dry, do you have a new one?",ปากกาแท่งนี้หมึกหมด มีแท่งใหม่ไหม,,,false
+1,meetings,1,7,microphone,noun,/ˈmaɪkrəfoʊn/,ไมโครโฟน,ไมโครโฟน,Please speak into the microphone so everyone can hear you.,กรุณาพูดใส่ไมโครโฟนเพื่อให้ทุกคนได้ยิน,,🎤,false
+1,meetings,1,8,speaker,noun,/ˈspiːkər/,สปีกเกอร์,ลำโพง,Turn up the speaker so we can hear the video call.,เปิดลำโพงให้ดังขึ้นหน่อย เราจะได้ยินวิดีโอคอล,"""Speaker"" can also mean the person who is talking.",🔊,false
+1,meetings,1,9,slide,noun,/slaɪd/,สไลด์,สไลด์ (งานนำเสนอ),I need to add two more slides to my talk.,ฉันต้องเพิ่มสไลด์อีกสองหน้าในการนำเสนอ,,,false
+1,meetings,1,10,handout,noun,/ˈhændaʊt/,แฮนด์เอาต์,เอกสารแจก,Please print a handout for each person at the meeting.,กรุณาพิมพ์เอกสารแจกให้ทุกคนในที่ประชุม,,,false
+1,meetings,1,11,name card,noun,/neɪm kɑrd/,เนม การ์ด,ป้ายชื่อตั้งโต๊ะ,Put a name card in front of each seat for the guests.,วางป้ายชื่อหน้าที่นั่งแต่ละที่สำหรับแขก,"In some countries, ""name card"" also means a business card.",,false
+1,meetings,1,12,video call,noun,/ˈvɪdioʊ kɔl/,วิดีโอ คอล,วิดีโอคอล,We have a video call with the Tokyo office every Monday.,เรามีวิดีโอคอลกับออฟฟิศโตเกียวทุกวันจันทร์,,📹,false
+1,meetings,1,13,webcam,noun,/ˈwɛbkæm/,เว็บแคม,กล้องเว็บแคม,Please turn on your webcam so we can see you.,กรุณาเปิดเว็บแคมเพื่อให้เราเห็นคุณ,,,false
+1,meetings,1,14,flip chart,noun,/flɪp tʃɑrt/,ฟลิป ชาร์ต,กระดาษชาร์ตแบบพลิก,Write the main points on the flip chart for everyone.,เขียนประเด็นหลักบนกระดาษชาร์ตให้ทุกคนดู,,,false
+1,meetings,1,15,laser pointer,noun,/ˈleɪzər ˈpɔɪntər/,เลเซอร์ พอยน์เตอร์,เลเซอร์พอยน์เตอร์,She used a laser pointer to show the numbers on the slide.,เธอใช้เลเซอร์พอยน์เตอร์ชี้ตัวเลขบนสไลด์,,,false
+1,meetings,1,16,extension cord,noun,/ɪkˈstɛnʃən kɔrd/,เอ็กซ์เทนชัน คอร์ด,"ปลั๊กพ่วง, สายต่อพ่วง",We need an extension cord because the plug is far away.,เราต้องใช้ปลั๊กพ่วงเพราะเต้าเสียบอยู่ไกล,,,false
+1,meetings,2,1,meeting,noun,/ˈmiːtɪŋ/,มีตติ้ง,การประชุม,We have a team meeting every Monday at ten.,เรามีประชุมทีมทุกวันจันทร์สิบโมง,,,false
+1,meetings,2,2,schedule,verb,/ˈskɛdʒuːl/,สเกจูล,"นัดเวลา, กำหนดเวลา",Can we schedule a meeting for Thursday afternoon?,เรานัดประชุมบ่ายวันพฤหัสได้ไหม,,,false
+1,meetings,2,3,book a room,phrase,/bʊk ə ruːm/,บุ๊ก อะ รูม,จองห้อง,I need to book a room for ten people on Friday.,ฉันต้องจองห้องสำหรับสิบคนวันศุกร์,,,false
+1,meetings,2,4,calendar,noun,/ˈkæləndər/,แคเลนเดอร์,"ปฏิทิน, ตารางนัด",Please check my calendar before you book a meeting for me.,กรุณาดูปฏิทินของฉันก่อนนัดประชุมให้,,📅,false
+1,meetings,2,5,invitation,noun,/ˌɪnvɪˈteɪʃən/,อินวิเทชัน,คำเชิญ,I got the meeting invitation by email this morning.,เช้านี้ฉันได้รับคำเชิญประชุมทางอีเมล,,,false
+1,meetings,2,6,agenda,noun,/əˈdʒɛndə/,อะเจนดา,วาระการประชุม,Please read the agenda before you come to the meeting.,กรุณาอ่านวาระการประชุมก่อนเข้าประชุม,,,false
+1,meetings,2,7,attend,verb,/əˈtɛnd/,อะเทนด์,เข้าร่วม,All managers must attend the meeting on Monday.,ผู้จัดการทุกคนต้องเข้าร่วมประชุมวันจันทร์,,,false
+1,meetings,2,8,call off,phrase,/kɔl ɔf/,คอล ออฟ,ยกเลิก,We have to call off the meeting because the boss is sick.,เราต้องยกเลิกประชุมเพราะหัวหน้าป่วย,,,false
+1,meetings,2,9,postpone,verb,/poʊstˈpoʊn/,โพสต์โพน,เลื่อนออกไป,Let's postpone the meeting until next Tuesday morning.,เลื่อนประชุมไปเป็นเช้าวันอังคารหน้าเถอะ,,,false
+1,meetings,2,10,time slot,noun,/taɪm slɑːt/,ไทม์ สล็อต,ช่วงเวลา,Is the ten o'clock time slot good for your team?,ช่วงเวลาสิบโมงสะดวกสำหรับทีมคุณไหม,,,false
+1,meetings,2,11,attendee,noun,/əˌtɛnˈdiː/,อะเทนดี,ผู้เข้าร่วม,Each attendee will get the agenda by email before the meeting.,ผู้เข้าร่วมแต่ละคนจะได้รับวาระการประชุมทางอีเมลก่อนประชุม,,,false
+1,meetings,2,12,organizer,noun,/ˈɔrɡənaɪzər/,ออร์แกไนเซอร์,ผู้จัด,The organizer of the meeting will send everyone a link.,ผู้จัดประชุมจะส่งลิงก์ให้ทุกคน,,,false
+1,meetings,2,13,set up,phrase,/sɛt ʌp/,เซ็ต อัพ,"จัดเตรียม, ติดตั้ง",I will set up the projector before everyone arrives.,ฉันจะเตรียมโปรเจกเตอร์ก่อนที่ทุกคนจะมาถึง,,,false
+1,meetings,2,14,reschedule,verb,/riːˈskɛdʒuːl/,รีสเกจูล,เปลี่ยนเวลานัด,Can we reschedule our call to Friday morning?,เราเปลี่ยนเวลาโทรคุยเป็นเช้าวันศุกร์ได้ไหม,,,false
+1,meetings,2,15,join,verb,/dʒɔɪn/,จอยน์,เข้าร่วม,Click this link to join the meeting online.,คลิกลิงก์นี้เพื่อเข้าร่วมประชุมออนไลน์,,,false
+1,meetings,2,16,online meeting,noun,/ˈɑːnlaɪn ˈmiːtɪŋ/,ออนไลน์ มีตติ้ง,การประชุมออนไลน์,We will have an online meeting because many people work from home.,เราจะประชุมออนไลน์เพราะหลายคนทำงานจากบ้าน,,,false
+1,meetings,3,1,agree,verb,/əˈɡriː/,อะกรี,เห็นด้วย,"I agree with you, this plan is good for our team.",ฉันเห็นด้วยกับคุณ แผนนี้ดีสำหรับทีมเรา,,,false
+1,meetings,3,2,disagree,verb,/ˌdɪsəˈɡriː/,ดิสอะกรี,ไม่เห็นด้วย,"I disagree, I think we need more time for this.",ฉันไม่เห็นด้วย ฉันคิดว่าเราต้องใช้เวลามากกว่านี้,,,false
+1,meetings,3,3,comment,noun,/ˈkɑːmɛnt/,คอมเมนต์,ความคิดเห็น,Does anyone have a comment about this plan?,มีใครมีความเห็นเกี่ยวกับแผนนี้ไหม,,,false
+1,meetings,3,4,raise your hand,phrase,/reɪz jʊr hænd/,เรซ ยัวร์ แฮนด์,ยกมือ,Please raise your hand if you want to ask something.,ถ้าอยากถามอะไร กรุณายกมือ,,✋,false
+1,meetings,3,5,opinion,noun,/əˈpɪnjən/,โอพิเนียน,ความคิดเห็น,What is your opinion about the new office plan?,คุณมีความคิดเห็นอย่างไรเกี่ยวกับแผนออฟฟิศใหม่,,,false
+1,meetings,3,6,interrupt,verb,/ˌɪntəˈrʌpt/,อินเทอร์รัปต์,ขัดจังหวะ,"Sorry to interrupt, but I have a short question.",ขอโทษที่ขัดจังหวะ แต่ฉันมีคำถามสั้น ๆ,,,false
+1,meetings,3,7,brainstorm,verb,/ˈbreɪnstɔrm/,เบรนสตอร์ม,ระดมความคิด,Let's brainstorm some names for the new product.,มาระดมความคิดตั้งชื่อสินค้าใหม่กันเถอะ,,,false
+1,meetings,3,8,discuss,verb,/dɪˈskʌs/,ดิสคัส,"หารือ, พูดคุย",Today we will discuss the plan for next month.,วันนี้เราจะหารือเรื่องแผนสำหรับเดือนหน้า,"Say ""discuss the plan"", not ""discuss about the plan"".",,false
+1,meetings,3,9,presentation,noun,/ˌprɛzənˈteɪʃən/,เพรสเซนเทชัน,การนำเสนอ,I will give a short presentation about our sales.,ฉันจะนำเสนอสั้น ๆ เกี่ยวกับยอดขายของเรา,,,false
+1,meetings,3,10,for example,phrase,/fɔr ɪɡˈzæmpəl/,ฟอร์ เอ็กแซมเพิล,ตัวอย่างเช่น,"We can save money, for example, by printing less paper.",เราประหยัดเงินได้ ตัวอย่างเช่น พิมพ์กระดาษให้น้อยลง,,,false
+1,meetings,3,11,talk about,phrase,/tɔk əˈbaʊt/,ทอล์ก อะเบาต์,"พูดถึง, คุยเรื่อง","Next, we will talk about the plan for the sales event.",ต่อไปเราจะคุยเรื่องแผนสำหรับงานขาย,,,false
+1,meetings,3,12,speak up,phrase,/spiːk ʌp/,สปีก อัพ,พูดให้ดังขึ้น,"Please speak up, we can't hear you at the back.",กรุณาพูดดังขึ้นหน่อย ข้างหลังไม่ได้ยิน,,,false
+1,meetings,3,13,go ahead,phrase,/ɡoʊ əˈhɛd/,โก อะเฮด,"เชิญเลย, ทำต่อได้เลย","Go ahead, please tell us your idea first.",เชิญเลยครับ เล่าไอเดียของคุณก่อนได้เลย,,,false
+1,meetings,3,14,good point,phrase,/ɡʊd pɔɪnt/,กู๊ด พอยต์,ประเด็นที่ดี,"That is a good point, we should think about it.",เป็นประเด็นที่ดี เราควรคิดเรื่องนี้,,,false
+1,meetings,3,15,topic,noun,/ˈtɑːpɪk/,ท็อปปิก,หัวข้อ,The first topic today is the new work schedule.,หัวข้อแรกวันนี้คือตารางงานใหม่,,,false
+1,meetings,3,16,vote,verb,/voʊt/,โวต,"โหวต, ลงคะแนน",Let's vote on the two ideas and choose one.,มาโหวตสองไอเดียนี้แล้วเลือกหนึ่งอันกัน,,,false
+1,meetings,4,1,minutes,noun,/ˈmɪnɪts/,มินิทส์,บันทึกการประชุม,Who will write the minutes for today's meeting?,ใครจะเขียนบันทึกการประชุมวันนี้,"In meetings, ""minutes"" means the written record, not time.",,false
+1,meetings,4,2,summary,noun,/ˈsʌməri/,ซัมมะรี,สรุป,I will send a short summary of the meeting to everyone.,ฉันจะส่งสรุปการประชุมสั้น ๆ ให้ทุกคน,,,false
+1,meetings,4,3,follow up,phrase,/ˈfɑːloʊ ʌp/,ฟอลโลว์ อัพ,ติดตามผล,I will follow up with the client by email tomorrow.,พรุ่งนี้ฉันจะติดตามผลกับลูกค้าทางอีเมล,,,false
+1,meetings,4,4,decision,noun,/dɪˈsɪʒən/,ดิซิชัน,การตัดสินใจ,We made a decision to start the project in June.,เราตัดสินใจเริ่มโปรเจกต์ในเดือนมิถุนายน,,,false
+1,meetings,4,5,outcome,noun,/ˈaʊtkʌm/,เอาต์คัม,"ผลลัพธ์, ผลที่ได้",We are happy with the outcome of the meeting.,เราพอใจกับผลของการประชุม,,,false
+1,meetings,4,6,feedback,noun,/ˈfiːdbæk/,ฟีดแบ็ก,"ความคิดเห็น, คำติชม",Please give me your feedback on my slides by Friday.,กรุณาให้ความเห็นเกี่ยวกับสไลด์ของฉันภายในวันศุกร์,,,false
+1,meetings,4,7,update,noun,/ˈʌpdeɪt/,อัปเดต,ความคืบหน้าล่าสุด,I will give you an update after I talk to the client.,ฉันจะแจ้งความคืบหน้าให้คุณหลังคุยกับลูกค้า,,,false
+1,meetings,4,8,share,verb,/ʃɛr/,แชร์,"แชร์, แบ่งปัน",Please share the meeting notes with the whole team.,กรุณาแชร์บันทึกประชุมให้ทั้งทีม,,,false
+1,meetings,4,9,next step,noun,/nɛkst stɛp/,เน็กซ์ สเต็ป,ขั้นตอนต่อไป,The next step is to send the plan to the director.,ขั้นตอนต่อไปคือส่งแผนให้ผู้อำนวยการ,,,false
+1,meetings,4,10,take notes,phrase,/teɪk noʊts/,เทค โนตส์,จดบันทึก,Can you take notes for me during the meeting?,ช่วยจดบันทึกให้ฉันระหว่างประชุมได้ไหม,,,false
+1,meetings,4,11,wrap up,phrase,/ræp ʌp/,แรป อัพ,"สรุปปิดท้าย, จบ","Let's wrap up the meeting, it is almost twelve o'clock.",มาสรุปจบการประชุมกันเถอะ ใกล้เที่ยงแล้ว,,,false
+1,meetings,4,12,recording,noun,/rɪˈkɔrdɪŋ/,รีคอร์ดดิ้ง,ไฟล์บันทึก (เสียงหรือวิดีโอ),I will share the recording with people who missed the meeting.,ฉันจะแชร์ไฟล์บันทึกให้คนที่พลาดการประชุม,,,false
+1,meetings,4,13,meeting notes,noun,/ˈmiːtɪŋ noʊts/,มีตติ้ง โนตส์,บันทึกการประชุม,Please check the meeting notes and tell me if I missed anything.,กรุณาเช็กบันทึกการประชุมแล้วบอกฉันถ้าตกหล่นอะไร,,,false
+1,meetings,4,14,send out,phrase,/sɛnd aʊt/,เซนด์ เอาต์,ส่งออกไป (ให้หลายคน),I will send out the minutes to everyone this afternoon.,บ่ายนี้ฉันจะส่งบันทึกการประชุมให้ทุกคน,,,false
+1,meetings,4,15,action point,noun,/ˈækʃən pɔɪnt/,แอคชัน พอยต์,สิ่งที่ต้องทำต่อ (จากการประชุม),Each person has one action point to finish by Monday.,แต่ละคนมีงานที่ต้องทำต่อหนึ่งอย่าง ให้เสร็จภายในวันจันทร์,,,false
+1,meetings,4,16,conclusion,noun,/kənˈkluːʒən/,คอนคลูชัน,ข้อสรุป,We came to a conclusion after one hour of talking.,เราได้ข้อสรุปหลังจากคุยกันหนึ่งชั่วโมง,,,false

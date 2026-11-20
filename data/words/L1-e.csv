@@ -1,0 +1,337 @@
+level,category,lesson,order,headword,pos,phonetic,reading_th,meaning_th,example_en,example_th,note_en,emoji,reviewed
+1,colors-shapes,1,1,red,adjective,/rɛd/,เร้ด,สีแดง,"My new phone case is red, so it is easy to find.",เคสโทรศัพท์อันใหม่ของฉันเป็นสีแดง จึงหาง่าย,,🟥,false
+1,colors-shapes,1,2,blue,adjective,/bluː/,บลู,"สีน้ำเงิน, สีฟ้า",She wears a blue shirt to the office on Mondays.,เธอใส่เสื้อเชิ้ตสีน้ำเงินไปทำงานทุกวันจันทร์,,🟦,false
+1,colors-shapes,1,3,green,adjective,/ɡriːn/,กรีน,สีเขียว,The green light means you can cross the road now.,ไฟสีเขียวหมายความว่าคุณข้ามถนนได้แล้ว,,🟩,false
+1,colors-shapes,1,4,yellow,adjective,/ˈjɛloʊ/,เยลโล่ว์,สีเหลือง,I put a yellow sticker on the boxes that need checking.,ฉันติดสติกเกอร์สีเหลืองบนกล่องที่ต้องตรวจ,,🟨,false
+1,colors-shapes,1,5,black,adjective,/blæk/,แบล็ก,สีดำ,Please wear black shoes with your work uniform.,กรุณาใส่รองเท้าสีดำกับชุดยูนิฟอร์มทำงาน,,⬛,false
+1,colors-shapes,1,6,white,adjective,/waɪt/,ไวท์,สีขาว,The walls in our meeting room are white and clean.,ผนังในห้องประชุมของเราเป็นสีขาวและสะอาด,,⬜,false
+1,colors-shapes,1,7,brown,adjective,/braʊn/,บราวน์,สีน้ำตาล,He keeps his lunch in a small brown paper bag.,เขาใส่อาหารกลางวันไว้ในถุงกระดาษสีน้ำตาลใบเล็ก,,🟫,false
+1,colors-shapes,1,8,pink,adjective,/pɪŋk/,พิงค์,สีชมพู,My daughter wants a pink bike for her birthday.,ลูกสาวของฉันอยากได้จักรยานสีชมพูเป็นของขวัญวันเกิด,,,false
+1,colors-shapes,1,9,purple,adjective,/ˈpɜːrpəl/,เพอร์เพิล,สีม่วง,The purple flowers on the front desk look very nice.,ดอกไม้สีม่วงบนเคาน์เตอร์ต้อนรับดูสวยมาก,,🟪,false
+1,colors-shapes,1,10,gray,adjective,/ɡreɪ/,เกรย์,สีเทา,"The sky is gray today, so take an umbrella.",วันนี้ท้องฟ้าเป็นสีเทา เอาร่มไปด้วยนะ,British spelling: grey.,,false
+1,colors-shapes,1,11,color,noun,/ˈkʌlər/,คัลเลอร์,สี,What color is your new car?,รถคันใหม่ของคุณสีอะไร,British spelling: colour.,,false
+1,colors-shapes,1,12,colorful,adjective,/ˈkʌlərfəl/,คัลเลอร์ฟูล,มีสีสันสดใส,The children painted a colorful picture for the office wall.,เด็ก ๆ วาดภาพที่มีสีสันสดใสให้ผนังออฟฟิศ,,🌈,false
+1,colors-shapes,1,13,dark,adjective,/dɑːrk/,ดาร์ก,เข้ม (สี),He likes dark blue suits for important meetings.,เขาชอบสูทสีน้ำเงินเข้มสำหรับการประชุมสำคัญ,,,false
+1,colors-shapes,1,14,bright,adjective,/braɪt/,ไบรท์,"สดใส, สว่าง","The new posters use bright colors, so people notice them.",โปสเตอร์ใหม่ใช้สีสดใส ทำให้คนสังเกตเห็น,,,false
+1,colors-shapes,2,1,shape,noun,/ʃeɪp/,เชป,รูปทรง,The new logo has a simple shape that is easy to remember.,โลโก้ใหม่มีรูปทรงเรียบง่ายที่จำได้ง่าย,,,false
+1,colors-shapes,2,2,circle,noun,/ˈsɜːrkəl/,เซอร์เคิล,วงกลม,Please draw a circle around the correct answer.,กรุณาวาดวงกลมรอบคำตอบที่ถูกต้อง,,⭕,false
+1,colors-shapes,2,3,square,noun,/skwɛr/,สแควร์,สี่เหลี่ยมจัตุรัส,Cut the paper into small squares for the game.,ตัดกระดาษเป็นสี่เหลี่ยมจัตุรัสเล็ก ๆ สำหรับเกม,,,false
+1,colors-shapes,2,4,triangle,noun,/ˈtraɪæŋɡəl/,ไทรแองเกิล,สามเหลี่ยม,The warning sign on the machine is a red triangle.,ป้ายเตือนบนเครื่องเป็นรูปสามเหลี่ยมสีแดง,,🔺,false
+1,colors-shapes,2,5,rectangle,noun,/ˈrɛktæŋɡəl/,เร็กแทงเกิล,สี่เหลี่ยมผืนผ้า,A door is usually the shape of a tall rectangle.,ประตูมักมีรูปทรงเป็นสี่เหลี่ยมผืนผ้าสูง,,,false
+1,colors-shapes,2,6,oval,noun,/ˈoʊvəl/,โอเวิล,วงรี,"The meeting table is an oval, so everyone can see each other.",โต๊ะประชุมเป็นทรงรี ทุกคนจึงมองเห็นกันได้,,,false
+1,colors-shapes,2,7,heart,noun,/hɑːrt/,ฮาร์ท,รูปหัวใจ,She drew a little heart on the birthday card.,เธอวาดรูปหัวใจเล็ก ๆ บนการ์ดวันเกิด,,❤️,false
+1,colors-shapes,2,8,diamond,noun,/ˈdaɪəmənd/,ไดมอนด์,รูปข้าวหลามตัด,The road sign is a yellow diamond with a black arrow.,ป้ายถนนเป็นรูปข้าวหลามตัดสีเหลืองมีลูกศรสีดำ,,🔶,false
+1,colors-shapes,2,9,dot,noun,/dɑːt/,ดอท,จุด,Her blue dress has small white dots on it.,ชุดสีน้ำเงินของเธอมีจุดสีขาวเล็ก ๆ,,,false
+1,colors-shapes,2,10,arrow,noun,/ˈæroʊ/,แอร์โรว์,ลูกศร,Follow the arrows on the floor to the meeting room.,เดินตามลูกศรบนพื้นไปที่ห้องประชุม,,➡️,false
+1,colors-shapes,2,11,cube,noun,/kjuːb/,คิวบ์,ก้อนทรงลูกบาศก์,"Put two cubes of sugar in my coffee, please.",ใส่น้ำตาลก้อนสองก้อนในกาแฟของฉันด้วยนะ,,🧊,false
+1,colors-shapes,2,12,round,adjective,/raʊnd/,ราวนด์,กลม,We eat dinner at a big round table.,เรากินอาหารเย็นที่โต๊ะกลมตัวใหญ่,,,false
+1,colors-shapes,2,13,flat,adjective,/flæt/,แฟลต,"แบน, ราบ",The new screen is very flat and light.,จอใหม่แบนและเบามาก,,,false
+1,colors-shapes,2,14,straight,adjective,/streɪt/,สเตรท,ตรง,Use a ruler to draw a straight line.,ใช้ไม้บรรทัดวาดเส้นตรง,,,false
+1,colors-shapes,3,1,big,adjective,/bɪɡ/,บิ๊ก,ใหญ่,We need a big room for thirty people.,เราต้องการห้องใหญ่สำหรับคนสามสิบคน,,,false
+1,colors-shapes,3,2,small,adjective,/smɔːl/,สมอล,เล็ก,This small box is for the keys.,กล่องเล็กใบนี้ไว้ใส่กุญแจ,,,false
+1,colors-shapes,3,3,large,adjective,/lɑːrdʒ/,ลาร์จ,ใหญ่ (ขนาด),"Can I have a large coffee with milk, please?",ขอกาแฟใส่นมแก้วใหญ่หนึ่งแก้วได้ไหม,"Common for sizes on menus and clothes: small, medium, large.",,false
+1,colors-shapes,3,4,tiny,adjective,/ˈtaɪni/,ไทนี่,"เล็กมาก, จิ๋ว",There is a tiny mistake in the last line of the report.,มีข้อผิดพลาดเล็กมากในบรรทัดสุดท้ายของรายงาน,,,false
+1,colors-shapes,3,5,huge,adjective,/hjuːdʒ/,ฮิวจ์,ใหญ่มาก,The new shopping mall is huge.,ห้างสรรพสินค้าแห่งใหม่ใหญ่มาก,,,false
+1,colors-shapes,3,6,long,adjective,/lɔːŋ/,ลอง,ยาว,She has long black hair and brown eyes.,เธอมีผมยาวสีดำและตาสีน้ำตาล,,,false
+1,colors-shapes,3,7,wide,adjective,/waɪd/,ไวด์,กว้าง,The road in front of our office is very wide.,ถนนหน้าออฟฟิศของเรากว้างมาก,,,false
+1,colors-shapes,3,8,narrow,adjective,/ˈnæroʊ/,แนร์โรว์,แคบ,"The hallway is narrow, so carry the boxes carefully.",ทางเดินแคบ ยกกล่องอย่างระมัดระวังนะ,,,false
+1,colors-shapes,3,9,thick,adjective,/θɪk/,ทิก,หนา,This book is too thick to read in one week.,หนังสือเล่มนี้หนาเกินกว่าจะอ่านจบในหนึ่งสัปดาห์,,,false
+1,colors-shapes,3,10,thin,adjective,/θɪn/,ทิน,บาง,"The walls are thin, so we can hear the next room.",ผนังบาง เราจึงได้ยินเสียงจากห้องข้าง ๆ,,,false
+1,colors-shapes,3,11,high,adjective,/haɪ/,ไฮ,สูง,The top shelf is too high for me to reach.,ชั้นบนสุดสูงเกินกว่าที่ฉันจะเอื้อมถึง,,,false
+1,colors-shapes,3,12,deep,adjective,/diːp/,ดีพ,ลึก,"The pool is deep at this end, so be careful.",สระตรงด้านนี้ลึก ระวังด้วยนะ,,,false
+1,colors-shapes,3,13,medium,adjective,/ˈmiːdiəm/,มีเดียม,ขนาดกลาง,"I wear a medium shirt, not a large one.",ฉันใส่เสื้อไซซ์กลาง ไม่ใช่ไซซ์ใหญ่,,,false
+1,colors-shapes,3,14,height,noun,/haɪt/,ไฮท์,"ความสูง, ส่วนสูง",Please write your height and weight on the form.,กรุณาเขียนส่วนสูงและน้ำหนักของคุณในแบบฟอร์ม,,,false
+1,school,1,1,classroom,noun,/ˈklæsruːm/,แคลสรูม,ห้องเรียน,Our English classroom is on the second floor.,ห้องเรียนภาษาอังกฤษของเราอยู่ชั้นสอง,,,false
+1,school,1,2,student,noun,/ˈstuːdənt/,สตูเดนท์,"นักเรียน, นักศึกษา",There are twenty students in my evening class.,ในชั้นเรียนตอนเย็นของฉันมีนักเรียนยี่สิบคน,,🧑‍🎓,false
+1,school,1,3,class,noun,/klæs/,แคลส,"ชั้นเรียน, คาบเรียน",My English class starts at six o'clock.,คาบเรียนภาษาอังกฤษของฉันเริ่มหกโมงเย็น,,,false
+1,school,1,4,desk,noun,/dɛsk/,เดสก์,โต๊ะเขียนหนังสือ,Each student has a desk near the window.,นักเรียนแต่ละคนมีโต๊ะอยู่ใกล้หน้าต่าง,,,false
+1,school,1,5,chair,noun,/tʃɛr/,แชร์,เก้าอี้,Please put your chair back after the class.,กรุณาเก็บเก้าอี้เข้าที่หลังเลิกเรียน,,🪑,false
+1,school,1,6,board,noun,/bɔːrd/,บอร์ด,กระดาน,The teacher writes new words on the board.,ครูเขียนคำศัพท์ใหม่บนกระดาน,,,false
+1,school,1,7,textbook,noun,/ˈtɛkstbʊk/,เท็กซ์บุ๊ก,หนังสือเรียน,"Open your textbook to page twenty, please.",เปิดหนังสือเรียนหน้ายี่สิบด้วยนะ,,📘,false
+1,school,1,8,pencil case,noun,/ˈpɛnsəl keɪs/,เพ็นซึล เคส,กล่องดินสอ,I keep my pens and erasers in a pencil case.,ฉันเก็บปากกาและยางลบไว้ในกล่องดินสอ,,,false
+1,school,1,9,dictionary,noun,/ˈdɪkʃənɛri/,ดิกชันเนอรี่,พจนานุกรม,I use a dictionary app to check new words.,ฉันใช้แอปพจนานุกรมเช็กคำศัพท์ใหม่,,📖,false
+1,school,1,10,uniform,noun,/ˈjuːnɪfɔːrm/,ยูนิฟอร์ม,เครื่องแบบ,Students in Thailand wear a uniform to school.,นักเรียนในไทยใส่เครื่องแบบไปโรงเรียน,,,false
+1,school,1,11,principal,noun,/ˈprɪnsəpəl/,พรินซิเพิล,ผู้อำนวยการโรงเรียน,The principal talks to the students every Monday morning.,ผู้อำนวยการโรงเรียนพูดกับนักเรียนทุกเช้าวันจันทร์,,,false
+1,school,1,12,bell,noun,/bɛl/,เบลล์,"กริ่ง, ระฆัง",The bell rings at noon for lunch.,กริ่งดังตอนเที่ยงเพื่อบอกเวลาพักกลางวัน,,🔔,false
+1,school,1,13,page,noun,/peɪdʒ/,เพจ,หน้า (หนังสือ),Please read pages ten to twelve before the next class.,กรุณาอ่านหน้าสิบถึงสิบสองก่อนคาบหน้า,,📄,false
+1,school,1,14,crayon,noun,/ˈkreɪɑːn/,เครยอน,สีเทียน,The children draw pictures with crayons.,เด็ก ๆ วาดรูปด้วยสีเทียน,,🖍️,false
+1,school,2,1,study,verb,/ˈstʌdi/,สตั๊ดดี้,"เรียน, ศึกษา",I study English for thirty minutes every night.,ฉันเรียนภาษาอังกฤษสามสิบนาทีทุกคืน,,,false
+1,school,2,2,learn,verb,/lɜːrn/,เลิร์น,เรียนรู้,We learn five new words in every lesson.,เราเรียนรู้คำศัพท์ใหม่ห้าคำในทุกบทเรียน,,,false
+1,school,2,3,practice,verb,/ˈpræktɪs/,แพร็กทิส,"ฝึก, ฝึกซ้อม",I practice speaking English with my coworkers at lunch.,ฉันฝึกพูดภาษาอังกฤษกับเพื่อนร่วมงานตอนพักกลางวัน,British spelling for the verb: practise.,,false
+1,school,2,4,homework,noun,/ˈhoʊmwɜːrk/,โฮมเวิร์ก,การบ้าน,The teacher gives us homework after each class.,ครูให้การบ้านเราหลังเรียนทุกคาบ,"Uncountable: some homework, not a homework.",,false
+1,school,2,5,lesson,noun,/ˈlɛsən/,เลสซัน,บทเรียน,Today's lesson is about words for the office.,บทเรียนวันนี้เกี่ยวกับคำศัพท์ในออฟฟิศ,,,false
+1,school,2,6,test,noun,/tɛst/,เทสต์,การทดสอบ,We have a short vocabulary test every Friday.,เรามีการทดสอบคำศัพท์สั้น ๆ ทุกวันศุกร์,,,false
+1,school,2,7,exam,noun,/ɪɡˈzæm/,อิกแซม,การสอบ,My final English exam is next month.,การสอบภาษาอังกฤษปลายภาคของฉันคือเดือนหน้า,,,false
+1,school,2,8,grade,noun,/ɡreɪd/,เกรด,"เกรด, คะแนน",She got a good grade on her math test.,เธอได้เกรดดีในการสอบคณิตศาสตร์,,,false
+1,school,2,9,pass,verb,/pæs/,แพส,สอบผ่าน,You need seventy percent to pass the quiz.,คุณต้องได้เจ็ดสิบเปอร์เซ็นต์จึงจะผ่านแบบทดสอบ,,,false
+1,school,2,10,fail,verb,/feɪl/,เฟล,สอบตก,"Study hard, or you may fail the exam.",ตั้งใจเรียนนะ ไม่อย่างนั้นอาจสอบตก,,,false
+1,school,2,11,mistake,noun,/mɪˈsteɪk/,มิสเทค,ข้อผิดพลาด,It is OK to make mistakes when you learn a language.,การทำผิดพลาดตอนเรียนภาษาเป็นเรื่องปกติ,,,false
+1,school,2,12,correct,adjective,/kəˈrɛkt/,คอเร็กท์,ถูกต้อง,Choose the correct answer from the four options.,เลือกคำตอบที่ถูกต้องจากสี่ตัวเลือก,,,false
+1,school,2,13,easy,adjective,/ˈiːzi/,อีซี่,ง่าย,"The first test was easy, but the second one was hard.",การสอบครั้งแรกง่าย แต่ครั้งที่สองยาก,,,false
+1,school,2,14,difficult,adjective,/ˈdɪfɪkəlt/,ดิฟฟิคัลท์,ยาก,English spelling is difficult for many learners.,การสะกดคำภาษาอังกฤษยากสำหรับผู้เรียนหลายคน,,,false
+1,school,3,1,math,noun,/mæθ/,แมธ,คณิตศาสตร์,My son is good at math and likes numbers.,ลูกชายของฉันเก่งคณิตศาสตร์และชอบตัวเลข,British English: maths.,,false
+1,school,3,2,science,noun,/ˈsaɪəns/,ไซเอินซ์,วิทยาศาสตร์,"In science class, we learn about plants and animals.",ในวิชาวิทยาศาสตร์ เราเรียนเรื่องพืชและสัตว์,,🔬,false
+1,school,3,3,history,noun,/ˈhɪstəri/,ฮิสทอรี่,ประวัติศาสตร์,I like history because I enjoy stories about the past.,ฉันชอบประวัติศาสตร์เพราะชอบเรื่องราวในอดีต,,,false
+1,school,3,4,art,noun,/ɑːrt/,อาร์ต,ศิลปะ,We paint and draw in art class.,เราระบายสีและวาดรูปในวิชาศิลปะ,,🎨,false
+1,school,3,5,geography,noun,/dʒiˈɑːɡrəfi/,จีออกระฟี,ภูมิศาสตร์,"In geography, we learn about countries, rivers and mountains.",ในวิชาภูมิศาสตร์ เราเรียนเรื่องประเทศ แม่น้ำ และภูเขา,,🌍,false
+1,school,3,6,English,noun,/ˈɪŋɡlɪʃ/,อิงลิช,ภาษาอังกฤษ,I use English every day at work.,ฉันใช้ภาษาอังกฤษทุกวันที่ทำงาน,Always starts with a capital E.,,false
+1,school,3,7,language,noun,/ˈlæŋɡwɪdʒ/,แลงกวิจ,ภาษา,"Thai is my first language, and English is my second.",ภาษาไทยเป็นภาษาแม่ของฉัน และภาษาอังกฤษเป็นภาษาที่สอง,,,false
+1,school,3,8,alphabet,noun,/ˈælfəbɛt/,แอลฟะเบ็ท,ตัวอักษรทั้งชุด,The English alphabet has twenty-six letters.,ตัวอักษรภาษาอังกฤษมียี่สิบหกตัว,,🔤,false
+1,school,3,9,word,noun,/wɜːrd/,เวิร์ด,คำ,Write each new word in your notebook.,เขียนคำใหม่แต่ละคำลงในสมุด,,,false
+1,school,3,10,sentence,noun,/ˈsɛntəns/,เซ็นเทินซ์,ประโยค,Please make a sentence with this word.,กรุณาแต่งประโยคด้วยคำนี้,,,false
+1,school,3,11,story,noun,/ˈstɔːri/,สตอรี่,"เรื่องเล่า, นิทาน",My mother reads a story to my son every night.,แม่ของฉันอ่านนิทานให้ลูกชายของฉันฟังทุกคืน,,,false
+1,school,3,12,spell,verb,/spɛl/,สเปลล์,สะกด,"Could you spell your last name, please?",ช่วยสะกดนามสกุลของคุณหน่อยได้ไหม,,,false
+1,school,3,13,grammar,noun,/ˈɡræmər/,แกรมมาร์,ไวยากรณ์,This book helps me with English grammar.,หนังสือเล่มนี้ช่วยฉันเรื่องไวยากรณ์ภาษาอังกฤษ,,,false
+1,school,3,14,meaning,noun,/ˈmiːnɪŋ/,มีนนิ่ง,ความหมาย,I don't know the meaning of this word.,ฉันไม่รู้ความหมายของคำนี้,,,false
+1,sports,1,1,ball,noun,/bɔːl/,บอล,ลูกบอล,The kids kick a ball in the park after school.,เด็ก ๆ เตะบอลในสวนหลังเลิกเรียน,,,false
+1,sports,1,2,basketball,noun,/ˈbæskɪtbɔːl/,แบสเก็ตบอล,บาสเกตบอล,We play basketball after work on Wednesdays.,เราเล่นบาสเกตบอลหลังเลิกงานทุกวันพุธ,,🏀,false
+1,sports,1,3,volleyball,noun,/ˈvɑːlibɔːl/,วอลเลย์บอล,วอลเลย์บอล,Women's volleyball is very popular in Thailand.,วอลเลย์บอลหญิงเป็นที่นิยมมากในประเทศไทย,,🏐,false
+1,sports,1,4,tennis,noun,/ˈtɛnɪs/,เทนนิส,เทนนิส,My boss plays tennis every Saturday morning.,เจ้านายของฉันเล่นเทนนิสทุกเช้าวันเสาร์,,🎾,false
+1,sports,1,5,badminton,noun,/ˈbædmɪntən/,แบดมินตัน,แบดมินตัน,Our team plays badminton at the sports center on Fridays.,ทีมของเราเล่นแบดมินตันที่ศูนย์กีฬาทุกวันศุกร์,,🏸,false
+1,sports,1,6,golf,noun,/ɡɑːlf/,กอล์ฟ,กอล์ฟ,Some managers play golf with their clients on Sundays.,ผู้จัดการบางคนเล่นกอล์ฟกับลูกค้าในวันอาทิตย์,,⛳,false
+1,sports,1,7,table tennis,noun,/ˈteɪbəl ˈtɛnɪs/,เทเบิล เทนนิส,ปิงปอง,There is a table tennis table in our break room.,ในห้องพักของเรามีโต๊ะปิงปอง,,🏓,false
+1,sports,1,8,player,noun,/ˈpleɪər/,เพลเยอร์,"ผู้เล่น, นักกีฬา",A soccer team has eleven players on the field.,ทีมฟุตบอลมีผู้เล่นสิบเอ็ดคนในสนาม,,,false
+1,sports,1,9,kick,verb,/kɪk/,คิก,เตะ,"In soccer, you kick the ball with your foot.",ในฟุตบอล คุณเตะลูกบอลด้วยเท้า,,,false
+1,sports,1,10,throw,verb,/θroʊ/,โธรว์,"โยน, ขว้าง",Please throw the ball to the next player.,กรุณาโยนลูกบอลไปให้ผู้เล่นคนถัดไป,,,false
+1,sports,1,11,catch,verb,/kætʃ/,แคทช์,รับ (ลูกบอล),He can catch the ball with one hand.,เขารับลูกบอลได้ด้วยมือข้างเดียว,,,false
+1,sports,1,12,hit,verb,/hɪt/,ฮิท,ตี,"In tennis, you hit the ball over the net.",ในเทนนิส คุณตีลูกข้ามตาข่าย,,,false
+1,sports,1,13,net,noun,/nɛt/,เน็ท,ตาข่าย,"The ball went into the net, and everyone cheered.",ลูกบอลเข้าตาข่าย ทุกคนส่งเสียงเชียร์,,🥅,false
+1,sports,1,14,court,noun,/kɔːrt/,คอร์ท,สนาม (เทนนิส บาสเกตบอล),We booked a tennis court for six o'clock.,เราจองสนามเทนนิสไว้ตอนหกโมงเย็น,,,false
+1,sports,2,1,run,verb,/rʌn/,รัน,วิ่ง,I run in the park before work every morning.,ฉันวิ่งในสวนก่อนไปทำงานทุกเช้า,,🏃,false
+1,sports,2,2,walk,verb,/wɔːk/,วอล์ก,เดิน,I walk for thirty minutes after dinner.,ฉันเดินสามสิบนาทีหลังอาหารเย็น,,🚶,false
+1,sports,2,3,jump,verb,/dʒʌmp/,จัมพ์,กระโดด,"In this game, you jump over the rope.",ในเกมนี้ คุณต้องกระโดดข้ามเชือก,,,false
+1,sports,2,4,climb,verb,/klaɪm/,ไคลม์,"ปีน, ขึ้น",We climb the stairs to the fifth floor for exercise.,เราขึ้นบันไดไปชั้นห้าเพื่อออกกำลังกาย,,🧗,false
+1,sports,2,5,cycling,noun,/ˈsaɪklɪŋ/,ไซคลิง,การปั่นจักรยาน,"Cycling is good exercise, and it is free.",การปั่นจักรยานเป็นการออกกำลังกายที่ดีและไม่เสียเงิน,,🚴,false
+1,sports,2,6,boxing,noun,/ˈbɑːksɪŋ/,บ็อกซิง,มวยสากล,He watches boxing on TV every weekend.,เขาดูมวยสากลทางทีวีทุกสุดสัปดาห์,,🥊,false
+1,sports,2,7,Muay Thai,noun,/ˌmuːeɪ ˈtaɪ/,มวย ไท,มวยไทย,Many tourists come to Thailand to learn Muay Thai.,นักท่องเที่ยวหลายคนมาไทยเพื่อเรียนมวยไทย,,,false
+1,sports,2,8,race,noun,/reɪs/,เรส,การแข่งขันความเร็ว,Our company joins a ten-kilometer race every year.,บริษัทของเราร่วมงานวิ่งสิบกิโลเมตรทุกปี,,,false
+1,sports,2,9,marathon,noun,/ˈmærəθɑːn/,แมระธอน,การวิ่งมาราธอน,She wants to run a marathon next year.,เธออยากวิ่งมาราธอนปีหน้า,,,false
+1,sports,2,10,sneakers,noun,/ˈsniːkərz/,สนีกเกอร์ส,รองเท้าผ้าใบ,I wear sneakers when I go running.,ฉันใส่รองเท้าผ้าใบตอนไปวิ่ง,British English: trainers.,👟,false
+1,sports,2,11,warm up,phrase,/wɔːrm ʌp/,วอร์ม อัพ,อบอุ่นร่างกาย,Always warm up for five minutes before you run.,อบอุ่นร่างกายห้านาทีก่อนวิ่งเสมอ,,,false
+1,sports,2,12,coach,noun,/koʊtʃ/,โคช,"โค้ช, ผู้ฝึกสอน",The coach tells the players what to do.,โค้ชบอกผู้เล่นว่าต้องทำอะไร,,,false
+1,sports,2,13,medal,noun,/ˈmɛdəl/,เมดัล,เหรียญรางวัล,Everyone who finishes the race gets a medal.,ทุกคนที่วิ่งเข้าเส้นชัยจะได้เหรียญ,,🏅,false
+1,sports,2,14,fast,adjective,/fæst/,ฟาสต์,เร็ว,"He is a fast runner, so he often wins.",เขาเป็นนักวิ่งที่เร็ว จึงชนะบ่อย ๆ,,,false
+1,sports,3,1,game,noun,/ɡeɪm/,เกม,เกม,Let's play a quick game before lunch.,มาเล่นเกมสั้น ๆ กันก่อนพักกลางวัน,,,false
+1,sports,3,2,match,noun,/mætʃ/,แมทช์,การแข่งขัน (นัด),Did you watch the football match last night?,เมื่อคืนคุณดูการแข่งขันฟุตบอลไหม,,,false
+1,sports,3,3,win,verb,/wɪn/,วิน,ชนะ,I hope our team can win the game tonight.,ฉันหวังว่าทีมของเราจะชนะเกมคืนนี้,,,false
+1,sports,3,4,lose,verb,/luːz/,ลูซ,แพ้,"It is not fun to lose, but we learn from it.",การแพ้ไม่สนุก แต่เราได้เรียนรู้จากมัน,,,false
+1,sports,3,5,score,noun,/skɔːr/,สกอร์,คะแนน,The final score was two to one.,คะแนนสุดท้ายคือสองต่อหนึ่ง,,,false
+1,sports,3,6,winner,noun,/ˈwɪnər/,วินเนอร์,ผู้ชนะ,The winner gets a prize of five thousand baht.,ผู้ชนะได้รางวัลห้าพันบาท,,🏆,false
+1,sports,3,7,fan,noun,/fæn/,แฟน,"แฟนกีฬา, ผู้ชื่นชอบ",My father is a big soccer fan.,พ่อของฉันเป็นแฟนฟุตบอลตัวยง,"Here it means someone who loves a team or a star, not a boyfriend or girlfriend.",,false
+1,sports,3,8,cheer,verb,/tʃɪr/,เชียร์,ส่งเสียงเชียร์,We all cheer for our team at the company sports day.,พวกเราทุกคนเชียร์ทีมของเราในวันกีฬาบริษัท,,,false
+1,sports,3,9,prize,noun,/praɪz/,ไพรซ์,รางวัล,She won first prize in the photo contest.,เธอได้รางวัลที่หนึ่งในการประกวดภาพถ่าย,,,false
+1,sports,3,10,chess,noun,/tʃɛs/,เชส,หมากรุก,My grandfather teaches me how to play chess.,คุณปู่สอนฉันเล่นหมากรุก,,♟️,false
+1,sports,3,11,cards,noun,/kɑːrdz/,คาร์ดส์,ไพ่,We play cards on the train to pass the time.,เราเล่นไพ่บนรถไฟเพื่อฆ่าเวลา,,🃏,false
+1,sports,3,12,board game,noun,/ˈbɔːrd ɡeɪm/,บอร์ด เกม,เกมกระดาน,Our team plays a board game at the office party.,ทีมของเราเล่นเกมกระดานในงานเลี้ยงออฟฟิศ,,🎲,false
+1,sports,3,13,puzzle,noun,/ˈpʌzəl/,พัซเซิล,"ปริศนา, จิ๊กซอว์",I do a word puzzle on my phone every morning.,ฉันเล่นเกมปริศนาคำศัพท์บนโทรศัพท์ทุกเช้า,,🧩,false
+1,sports,3,14,referee,noun,/ˌrɛfəˈriː/,เรฟเฟอรี,กรรมการตัดสิน,The referee stops the game when a player is hurt.,กรรมการหยุดเกมเมื่อมีผู้เล่นบาดเจ็บ,,,false
+1,restaurant,1,1,menu,noun,/ˈmɛnjuː/,เมนู,รายการอาหาร,"Could we see the menu, please?",ขอดูเมนูหน่อยได้ไหม,,,false
+1,restaurant,1,2,waiter,noun,/ˈweɪtər/,เวเทอร์,พนักงานเสิร์ฟชาย,The waiter brings us water and the menu.,พนักงานเสิร์ฟนำน้ำและเมนูมาให้เรา,,,false
+1,restaurant,1,3,waitress,noun,/ˈweɪtrəs/,เวทเทรส,พนักงานเสิร์ฟหญิง,Our waitress is very friendly and helpful.,พนักงานเสิร์ฟหญิงของเราเป็นมิตรและช่วยเหลือดีมาก,Many people now say server for both men and women.,,false
+1,restaurant,1,4,chef,noun,/ʃɛf/,เชฟ,"พ่อครัว, เชฟ",The chef at this restaurant is from Italy.,เชฟของร้านนี้มาจากอิตาลี,,🧑‍🍳,false
+1,restaurant,1,5,table for two,phrase,/ˈteɪbəl fər tuː/,เทเบิล ฟอร์ ทู,โต๊ะสำหรับสองคน,"Hi, can we have a table for two, please?",สวัสดีครับ ขอโต๊ะสำหรับสองคนครับ,,,false
+1,restaurant,1,6,dish,noun,/dɪʃ/,ดิช,อาหาร (จานหนึ่ง),Pad Thai is my favorite Thai dish.,ผัดไทยเป็นอาหารไทยจานโปรดของฉัน,,,false
+1,restaurant,1,7,main course,noun,/meɪn kɔːrs/,เมน คอร์ส,อาหารจานหลัก,"For the main course, I want the grilled chicken.",สำหรับอาหารจานหลัก ฉันขอไก่ย่าง,,,false
+1,restaurant,1,8,dessert,noun,/dɪˈzɜːrt/,ดิเสิร์ต,ของหวาน,Let's share a mango dessert after dinner.,มาแบ่งกันกินของหวานมะม่วงหลังอาหารเย็นกัน,"Do not confuse with desert, a dry sandy place.",🍨,false
+1,restaurant,1,9,drink,noun,/drɪŋk/,ดริงก์,เครื่องดื่ม,Can I get you a drink before you order?,รับเครื่องดื่มก่อนสั่งอาหารไหมคะ,,🥤,false
+1,restaurant,1,10,special,noun,/ˈspɛʃəl/,สเปเชิล,เมนูพิเศษ,Today's special is green curry with rice.,เมนูพิเศษวันนี้คือแกงเขียวหวานกับข้าว,,,false
+1,restaurant,1,11,recommend,verb,/ˌrɛkəˈmɛnd/,เร็คคอมเมนด์,แนะนำ,What do you recommend for someone who doesn't eat meat?,คุณแนะนำอะไรสำหรับคนที่ไม่กินเนื้อสัตว์,,,false
+1,restaurant,1,12,I'll have,phrase,/aɪl hæv/,ไอล์ แฮฟ,ขอสั่ง (อันนี้),"I'll have the fried noodles and an iced tea, please.",ขอก๋วยเตี๋ยวผัดกับชาเย็นครับ,"A polite, simple way to order food.",,false
+1,restaurant,1,13,ready to order,phrase,/ˈrɛdi tə ˈɔːrdər/,เรดดี้ ทู ออร์เดอร์,พร้อมสั่งอาหาร,"Are you ready to order, or do you need more time?",พร้อมสั่งอาหารหรือยังคะ หรือต้องการเวลาอีกสักครู่,,,false
+1,restaurant,1,14,vegetarian,adjective,/ˌvɛdʒəˈtɛriən/,เวจจิเทเรียน,มังสวิรัติ,Do you have any vegetarian dishes on the menu?,มีเมนูมังสวิรัติบ้างไหมครับ,,,false
+1,restaurant,2,1,napkin,noun,/ˈnæpkɪn/,แนปคิน,"กระดาษเช็ดปาก, ผ้าเช็ดปาก","Could I have another napkin, please?",ขอกระดาษเช็ดปากอีกแผ่นได้ไหม,,,false
+1,restaurant,2,2,straw,noun,/strɔː/,สตรอว์,หลอดดูด,"I don't need a straw for my drink, thank you.",ไม่ต้องใช้หลอดค่ะ ขอบคุณ,,,false
+1,restaurant,2,3,toothpick,noun,/ˈtuːθpɪk/,ทูธพิก,ไม้จิ้มฟัน,There is a small box of toothpicks on every table.,มีกล่องไม้จิ้มฟันเล็ก ๆ อยู่บนทุกโต๊ะ,,,false
+1,restaurant,2,4,tray,noun,/treɪ/,เทรย์,ถาด,The waiter carries six glasses on one tray.,พนักงานเสิร์ฟถือแก้วหกใบบนถาดใบเดียว,,,false
+1,restaurant,2,5,salt,noun,/sɔːlt/,ซอลท์,เกลือ,"Can you pass me the salt, please?",ช่วยส่งเกลือให้หน่อยได้ไหม,,🧂,false
+1,restaurant,2,6,pepper,noun,/ˈpɛpər/,เพ็พเพอร์,พริกไทย,I put a little black pepper on my soup.,ฉันใส่พริกไทยดำนิดหน่อยในซุป,,,false
+1,restaurant,2,7,sugar,noun,/ˈʃʊɡər/,ชูการ์,น้ำตาล,"No sugar in my coffee, please.",ไม่ใส่น้ำตาลในกาแฟของฉันนะคะ,,,false
+1,restaurant,2,8,sauce,noun,/sɔːs/,ซอส,"ซอส, น้ำจิ้ม",This chicken comes with a sweet chili sauce.,ไก่จานนี้เสิร์ฟพร้อมซอสพริกหวาน,,,false
+1,restaurant,2,9,steak,noun,/steɪk/,สเต๊ก,สเต๊ก,How would you like your steak cooked?,คุณต้องการสเต๊กสุกระดับไหน,,🥩,false
+1,restaurant,2,10,chicken,noun,/ˈtʃɪkɪn/,ชิกเคน,เนื้อไก่,"I'd like the chicken with rice, please.",ขอข้าวกับไก่ครับ,,🍗,false
+1,restaurant,2,11,fish,noun,/fɪʃ/,ฟิช,ปลา,The fish here is fresh and not too salty.,ปลาที่นี่สดและไม่เค็มเกินไป,,🐟,false
+1,restaurant,2,12,beer,noun,/bɪr/,เบียร์,เบียร์,He orders a cold beer with his dinner.,เขาสั่งเบียร์เย็น ๆ กับอาหารเย็น,,🍺,false
+1,restaurant,2,13,wine,noun,/waɪn/,ไวน์,ไวน์,Would you like red wine or white wine?,รับไวน์แดงหรือไวน์ขาวดีคะ,,🍷,false
+1,restaurant,2,14,iced coffee,noun,/aɪst ˈkɔːfi/,ไอซ์ท คอฟฟี่,กาแฟเย็น,I'd like an iced coffee with less sugar.,ขอกาแฟเย็นหวานน้อยหนึ่งแก้ว,,,false
+1,restaurant,3,1,eat,verb,/iːt/,อีท,กิน,We usually eat lunch at the food court near our office.,ปกติเรากินข้าวกลางวันที่ศูนย์อาหารใกล้ออฟฟิศ,,,false
+1,restaurant,3,2,meal,noun,/miːl/,มีล,มื้ออาหาร,Breakfast is the most important meal of the day.,มื้อเช้าเป็นมื้อที่สำคัญที่สุดของวัน,,,false
+1,restaurant,3,3,eat out,phrase,/iːt aʊt/,อีท เอาท์,ไปกินข้าวนอกบ้าน,We eat out every Friday night as a family.,ครอบครัวเราไปกินข้าวนอกบ้านทุกคืนวันศุกร์,,,false
+1,restaurant,3,4,hungry,adjective,/ˈhʌŋɡri/,ฮังกรี้,หิว,I'm hungry. Let's get lunch now.,ฉันหิวแล้ว ไปกินข้าวกลางวันกันเถอะ,,,false
+1,restaurant,3,5,thirsty,adjective,/ˈθɜːrsti/,เธิร์สตี้,กระหายน้ำ,"It's so hot today, and I'm very thirsty.",วันนี้ร้อนมาก และฉันกระหายน้ำมาก,,,false
+1,restaurant,3,6,tasty,adjective,/ˈteɪsti/,เทสตี้,อร่อย,The soup at this small shop is cheap and tasty.,ซุปร้านเล็ก ๆ นี้ทั้งถูกและอร่อย,,,false
+1,restaurant,3,7,enjoy your meal,phrase,/ɪnˈdʒɔɪ jər miːl/,อินจอย ยัวร์ มีล,ขอให้ทานให้อร่อย,Here is your food. Enjoy your meal!,นี่อาหารของคุณค่ะ ทานให้อร่อยนะคะ,,,false
+1,restaurant,3,8,buffet,noun,/bəˈfeɪ/,บุฟเฟ่ต์,อาหารแบบบุฟเฟต์,The hotel has a breakfast buffet from six to ten.,โรงแรมมีอาหารเช้าแบบบุฟเฟต์ตั้งแต่หกโมงถึงสิบโมง,,,false
+1,restaurant,3,9,takeout,noun,/ˈteɪkaʊt/,เทคเอาท์,อาหารสั่งกลับบ้าน,"We are too tired to cook, so let's get takeout.",เราเหนื่อยเกินกว่าจะทำอาหาร สั่งกลับบ้านกันเถอะ,British English: takeaway.,,false
+1,restaurant,3,10,leftovers,noun,/ˈlɛftoʊvərz/,เลฟต์โอเวอร์ส,อาหารที่เหลือ,Can I take the leftovers home in a box?,ขอใส่กล่องอาหารที่เหลือกลับบ้านได้ไหม,,,false
+1,restaurant,3,11,split the bill,phrase,/splɪt ðə bɪl/,สปลิท เดอะ บิล,หารค่าอาหาร,"There are four of us, so let's split the bill.",เรามีกันสี่คน หารค่าอาหารกันเถอะ,,,false
+1,restaurant,3,12,service charge,noun,/ˈsɜːrvɪs tʃɑːrdʒ/,เซอร์วิส ชาร์จ,ค่าบริการ,The bill includes a ten percent service charge.,บิลนี้รวมค่าบริการสิบเปอร์เซ็นต์แล้ว,,,false
+1,restaurant,3,13,keep the change,phrase,/kiːp ðə tʃeɪndʒ/,คีพ เดอะ เชนจ์,ไม่ต้องทอน,Here is five hundred baht. Please keep the change.,นี่ห้าร้อยบาท ไม่ต้องทอนนะครับ,,,false
+1,restaurant,3,14,cashier,noun,/kæˈʃɪr/,แคชเชียร์,พนักงานเก็บเงิน,Please pay the cashier at the front of the restaurant.,กรุณาชำระเงินกับพนักงานเก็บเงินที่ด้านหน้าร้าน,,,false
+1,tools,1,1,hammer,noun,/ˈhæmər/,แฮมเมอร์,ค้อน,I need a hammer to put this picture on the wall.,ฉันต้องใช้ค้อนเพื่อแขวนรูปนี้บนผนัง,,🔨,false
+1,tools,1,2,nail,noun,/neɪl/,เนล,ตะปู,Hit the nail gently with the hammer.,ตอกตะปูเบา ๆ ด้วยค้อน,Nail also means a fingernail.,,false
+1,tools,1,3,screw,noun,/skruː/,สกรู,"สกรู, ตะปูเกลียว",One screw on this chair is loose.,สกรูตัวหนึ่งที่เก้าอี้ตัวนี้หลวม,,🔩,false
+1,tools,1,4,screwdriver,noun,/ˈskruːdraɪvər/,สกรูไดรเวอร์,ไขควง,Can I borrow your screwdriver to fix this door?,ขอยืมไขควงไปซ่อมประตูนี้หน่อยได้ไหม,,🪛,false
+1,tools,1,5,wrench,noun,/rɛntʃ/,เร้นช์,ประแจ,Use a wrench to make the pipe tight.,ใช้ประแจขันท่อให้แน่น,,🔧,false
+1,tools,1,6,saw,noun,/sɔː/,ซอ,เลื่อย,He cuts the wood with a saw.,เขาตัดไม้ด้วยเลื่อย,,🪚,false
+1,tools,1,7,drill,noun,/drɪl/,ดริล,สว่าน,We need a drill to make a hole in the wall.,เราต้องใช้สว่านเจาะรูที่ผนัง,,,false
+1,tools,1,8,ladder,noun,/ˈlædər/,แลดเดอร์,บันไดพาด,Hold the ladder while I change the light bulb.,จับบันไดไว้ขณะที่ฉันเปลี่ยนหลอดไฟ,,🪜,false
+1,tools,1,9,toolbox,noun,/ˈtuːlbɑːks/,ทูลบ็อกซ์,กล่องเครื่องมือ,"Put the hammer back in the toolbox, please.",กรุณาเก็บค้อนกลับเข้ากล่องเครื่องมือ,,🧰,false
+1,tools,1,10,tape measure,noun,/teɪp ˈmɛʒər/,เทป เมเชอร์,ตลับเมตร,Use a tape measure to check the size of the window.,ใช้ตลับเมตรวัดขนาดหน้าต่าง,,,false
+1,tools,1,11,pliers,noun,/ˈplaɪərz/,ไพลเออร์ส,คีม,Use the pliers to cut this wire.,ใช้คีมตัดลวดเส้นนี้,Always plural: a pair of pliers.,,false
+1,tools,1,12,glue,noun,/ɡluː/,กลู,กาว,Put some glue on the back and press it down.,ทากาวที่ด้านหลังแล้วกดลง,,,false
+1,tools,1,13,rope,noun,/roʊp/,โรพ,เชือก,Tie the boxes together with a strong rope.,มัดกล่องเข้าด้วยกันด้วยเชือกที่แข็งแรง,,,false
+1,tools,1,14,flashlight,noun,/ˈflæʃlaɪt/,แฟลชไลท์,ไฟฉาย,Keep a flashlight in your drawer in case the lights go out.,เก็บไฟฉายไว้ในลิ้นชักเผื่อไฟดับ,British English: torch.,🔦,false
+1,tools,2,1,repair,verb,/rɪˈpɛr/,รีแพร์,ซ่อม,A technician will repair the air conditioner tomorrow.,ช่างจะมาซ่อมแอร์พรุ่งนี้,,,false
+1,tools,2,2,paint,verb,/peɪnt/,เพนท์,ทาสี,We plan to paint the office walls light green.,เราวางแผนจะทาสีผนังออฟฟิศเป็นสีเขียวอ่อน,,🖌️,false
+1,tools,2,3,cut,verb,/kʌt/,คัท,ตัด,"Please cut the tape with scissors, not a knife.",กรุณาตัดเทปด้วยกรรไกร ไม่ใช่มีด,,✂️,false
+1,tools,2,4,build,verb,/bɪld/,บิลด์,สร้าง,They plan to build a new parking lot next year.,พวกเขาวางแผนจะสร้างที่จอดรถใหม่ปีหน้า,,,false
+1,tools,2,5,push,verb,/pʊʃ/,พุช,"ดัน, ผลัก",Push the door hard. It is a little stuck.,ดันประตูแรง ๆ มันติดนิดหน่อย,,,false
+1,tools,2,6,pull,verb,/pʊl/,พูล,ดึง,Pull the handle to open the drawer.,ดึงที่จับเพื่อเปิดลิ้นชัก,,,false
+1,tools,2,7,hold,verb,/hoʊld/,โฮลด์,"ถือ, จับไว้",Can you hold this board while I fix it?,ช่วยจับแผ่นไม้นี้ไว้ขณะที่ฉันซ่อมได้ไหม,,,false
+1,tools,2,8,loose,adjective,/luːs/,ลูส,หลวม,The door handle is loose and needs a new screw.,ลูกบิดประตูหลวม ต้องใช้สกรูตัวใหม่,Do not confuse with lose.,,false
+1,tools,2,9,tight,adjective,/taɪt/,ไทท์,แน่น,Make sure the screws are tight before you sit on the chair.,ตรวจให้แน่ใจว่าสกรูแน่นก่อนนั่งเก้าอี้,,,false
+1,tools,2,10,leak,noun,/liːk/,ลีค,รอยรั่ว,There is a leak under the kitchen sink.,มีรอยรั่วอยู่ใต้ซิงก์ล้างจานในครัว,,,false
+1,tools,2,11,plumber,noun,/ˈplʌmər/,พลัมเมอร์,ช่างประปา,Call a plumber to fix the leak in the bathroom.,โทรเรียกช่างประปามาซ่อมรอยรั่วในห้องน้ำ,The b is silent.,,false
+1,tools,2,12,electrician,noun,/ɪˌlɛkˈtrɪʃən/,อิเล็กทริเชียน,ช่างไฟฟ้า,The electrician is checking the lights on the third floor.,ช่างไฟฟ้ากำลังตรวจไฟที่ชั้นสาม,,,false
+1,tools,2,13,spare part,noun,/spɛr pɑːrt/,สแปร์ พาร์ท,อะไหล่,The shop does not have a spare part for this printer.,ร้านไม่มีอะไหล่สำหรับเครื่องพิมพ์รุ่นนี้,,,false
+1,tools,2,14,instructions,noun,/ɪnˈstrʌkʃənz/,อินสตรัคชันส์,"คำแนะนำ, วิธีใช้",Read the instructions before you use the new machine.,อ่านวิธีใช้ก่อนใช้เครื่องใหม่,,,false
+1,tools,3,1,light bulb,noun,/laɪt bʌlb/,ไลท์ บัลบ์,หลอดไฟ,The light bulb in the hallway is broken.,หลอดไฟที่ทางเดินเสีย,,💡,false
+1,tools,3,2,battery,noun,/ˈbætəri/,แบตเตอรี่,"แบตเตอรี่, ถ่าน",The remote needs two new batteries.,รีโมตต้องใช้ถ่านใหม่สองก้อน,,🔋,false
+1,tools,3,3,switch,noun,/swɪtʃ/,สวิตช์,สวิตช์,The light switch is next to the door.,สวิตช์ไฟอยู่ข้างประตู,,,false
+1,tools,3,4,plug,noun,/plʌɡ/,ปลั๊ก,หัวปลั๊ก,This plug does not fit the outlet in my hotel room.,หัวปลั๊กนี้ใช้กับที่เสียบในห้องพักโรงแรมไม่ได้,,🔌,false
+1,tools,3,5,wire,noun,/waɪər/,ไวเออร์,สายไฟ,Don't touch that wire. It may be dangerous.,อย่าแตะสายไฟเส้นนั้น อาจเป็นอันตราย,,,false
+1,tools,3,6,outlet,noun,/ˈaʊtlɛt/,เอาท์เล็ท,"เต้ารับ, ที่เสียบปลั๊ก",Is there an outlet near the desk for my laptop?,มีที่เสียบปลั๊กใกล้โต๊ะสำหรับแล็ปท็อปไหม,British English: socket.,,false
+1,tools,3,7,power,noun,/ˈpaʊər/,พาวเวอร์,ไฟฟ้า,"The power is off, so the elevator does not work.",ไฟดับ ลิฟต์จึงใช้ไม่ได้,,,false
+1,tools,3,8,gloves,noun,/ɡlʌvz/,กลัฟส์,ถุงมือ,Wear gloves when you carry the metal boxes.,สวมถุงมือตอนยกกล่องโลหะ,,🧤,false
+1,tools,3,9,helmet,noun,/ˈhɛlmɪt/,เฮลเมท,"หมวกนิรภัย, หมวกกันน็อก",Workers must wear a helmet in this area.,คนงานต้องสวมหมวกนิรภัยในพื้นที่นี้,,⛑️,false
+1,tools,3,10,dangerous,adjective,/ˈdeɪndʒərəs/,เดนเจอรัส,อันตราย,It is dangerous to use a wet hair dryer.,การใช้ไดร์เป่าผมที่เปียกเป็นอันตราย,,,false
+1,tools,3,11,safe,adjective,/seɪf/,เซฟ,ปลอดภัย,Keep the tools in a safe place away from children.,เก็บเครื่องมือไว้ในที่ปลอดภัยให้ห่างจากเด็ก,,,false
+1,tools,3,12,warning sign,noun,/ˈwɔːrnɪŋ saɪn/,วอร์นนิ่ง ไซน์,ป้ายเตือน,Read the warning sign before you enter the room.,อ่านป้ายเตือนก่อนเข้าห้อง,,⚠️,false
+1,tools,3,13,first aid kit,noun,/fɜːrst eɪd kɪt/,เฟิร์สท์ เอด คิท,ชุดปฐมพยาบาล,The first aid kit is on the wall next to the kitchen.,ชุดปฐมพยาบาลอยู่บนผนังข้างห้องครัว,,,false
+1,tools,3,14,fire extinguisher,noun,/ˈfaɪər ɪkˈstɪŋɡwɪʃər/,ไฟเออร์ เอ็กซ์ติงกวิชเชอร์,ถังดับเพลิง,There is a fire extinguisher at the end of each hallway.,มีถังดับเพลิงอยู่ที่ปลายทางเดินทุกชั้น,,🧯,false
+1,commute,1,1,car,noun,/kɑːr/,คาร์,รถยนต์,I go to work by car when it rains.,ฉันไปทำงานด้วยรถยนต์เวลาฝนตก,,🚗,false
+1,commute,1,2,van,noun,/væn/,แวน,รถตู้,Our company van takes staff from the station to the factory.,รถตู้ของบริษัทรับพนักงานจากสถานีไปโรงงาน,,🚐,false
+1,commute,1,3,public transportation,noun,/ˈpʌblɪk ˌtrænspərˈteɪʃən/,พับลิก แทรนสปอร์เทชัน,ขนส่งสาธารณะ,Public transportation in Bangkok is cheap and fast.,ขนส่งสาธารณะในกรุงเทพฯ ราคาถูกและรวดเร็ว,,,false
+1,commute,1,4,ferry,noun,/ˈfɛri/,เฟอร์รี่,เรือข้ามฟาก,I take the ferry across the river to my office.,ฉันนั่งเรือข้ามฟากข้ามแม่น้ำไปออฟฟิศ,,⛴️,false
+1,commute,1,5,tuk-tuk,noun,/ˈtʊk tʊk/,ตุ๊กตุ๊ก,รถตุ๊กตุ๊ก,Tourists love to ride in a tuk-tuk around the old city.,นักท่องเที่ยวชอบนั่งตุ๊กตุ๊กเที่ยวรอบเมืองเก่า,,🛺,false
+1,commute,1,6,motorbike taxi,noun,/ˈmoʊtərbaɪk ˈtæksi/,โมเทอร์ไบค์ แท็กซี่,มอเตอร์ไซค์รับจ้าง,I take a motorbike taxi from the main road to my office.,ฉันนั่งมอเตอร์ไซค์รับจ้างจากถนนใหญ่มาออฟฟิศ,,,false
+1,commute,1,7,Skytrain,noun,/ˈskaɪtreɪn/,สกายเทรน,รถไฟฟ้าบีทีเอส,The Skytrain is the fastest way to get downtown.,รถไฟฟ้าเป็นวิธีที่เร็วที่สุดในการเข้าเมือง,,,false
+1,commute,1,8,scooter,noun,/ˈskuːtər/,สกูตเตอร์,รถสกู๊ตเตอร์,She rides a small scooter to work every day.,เธอขี่สกู๊ตเตอร์คันเล็กไปทำงานทุกวัน,,🛵,false
+1,commute,1,9,on foot,phrase,/ɑːn fʊt/,ออน ฟุต,เดินเท้า,"My office is close, so I go there on foot.",ออฟฟิศอยู่ใกล้ ฉันจึงเดินไป,,,false
+1,commute,1,10,take the bus,phrase,/teɪk ðə bʌs/,เทค เดอะ บัส,นั่งรถเมล์,I take the bus to work because it is cheap.,ฉันนั่งรถเมล์ไปทำงานเพราะราคาถูก,,,false
+1,commute,1,11,commute,verb,/kəˈmjuːt/,คอมมิวท์,เดินทางไปกลับที่ทำงาน,I commute about one hour to work each day.,ฉันเดินทางไปทำงานวันละประมาณหนึ่งชั่วโมง,,,false
+1,commute,1,12,commuter,noun,/kəˈmjuːtər/,คอมมิวเทอร์,คนที่เดินทางไปทำงานประจำ,The train is full of commuters at eight in the morning.,รถไฟเต็มไปด้วยคนที่เดินทางไปทำงานตอนแปดโมงเช้า,,,false
+1,commute,1,13,carpool,verb,/ˈkɑːrpuːl/,คาร์พูล,ไปทำงานด้วยรถคันเดียวกัน,Three of us carpool to save money on gas.,เราสามคนนั่งรถคันเดียวกันไปทำงานเพื่อประหยัดค่าน้ำมัน,,,false
+1,commute,1,14,passenger,noun,/ˈpæsɪndʒər/,แพสเซนเจอร์,ผู้โดยสาร,The bus can carry forty passengers.,รถเมล์คันนี้จุผู้โดยสารได้สี่สิบคน,,,false
+1,commute,2,1,road,noun,/roʊd/,โรด,ถนน,This road is very busy in the morning.,ถนนสายนี้รถเยอะมากตอนเช้า,,🛣️,false
+1,commute,2,2,street,noun,/striːt/,สตรีท,ถนนในเมือง,Our office is on a quiet street near the river.,ออฟฟิศของเราอยู่บนถนนเงียบ ๆ ใกล้แม่น้ำ,,,false
+1,commute,2,3,highway,noun,/ˈhaɪweɪ/,ไฮเวย์,ทางหลวง,Take the highway if you want to get there fast.,ขึ้นทางหลวงถ้าอยากไปถึงเร็ว,,,false
+1,commute,2,4,rush hour,noun,/rʌʃ aʊər/,รัช อาวเออร์,ชั่วโมงเร่งด่วน,The trains are very crowded during rush hour.,รถไฟคนแน่นมากในชั่วโมงเร่งด่วน,,,false
+1,commute,2,5,traffic jam,noun,/ˈtræfɪk dʒæm/,แทรฟฟิก แจม,รถติด,I was late because of a long traffic jam.,ฉันมาสายเพราะรถติดยาว,,,false
+1,commute,2,6,crowded,adjective,/ˈkraʊdɪd/,เคราวดิด,"คนแน่น, แออัด","The bus is too crowded, so I'll wait for the next one.",รถเมล์คนแน่นเกินไป ฉันจะรอคันถัดไป,,,false
+1,commute,2,7,fare,noun,/fɛr/,แฟร์,ค่าโดยสาร,The bus fare is fifteen baht.,ค่ารถเมล์สิบห้าบาท,,,false
+1,commute,2,8,top up,phrase,/tɑːp ʌp/,ท็อป อัพ,เติมเงิน,I need to top up my train card before I go.,ฉันต้องเติมเงินบัตรรถไฟก่อนไป,,,false
+1,commute,2,9,gas station,noun,/ɡæs ˈsteɪʃən/,แก๊ส สเตชัน,ปั๊มน้ำมัน,Let's stop at the gas station before we get on the highway.,แวะปั๊มน้ำมันก่อนขึ้นทางหลวงกันเถอะ,British English: petrol station.,⛽,false
+1,commute,2,10,parking space,noun,/ˈpɑːrkɪŋ speɪs/,พาร์คกิ้ง สเปซ,ช่องจอดรถ,It is hard to find a parking space near the office.,หาที่จอดรถใกล้ออฟฟิศยาก,,,false
+1,commute,2,11,seat belt,noun,/siːt bɛlt/,ซีท เบลท์,เข็มขัดนิรภัย,"Please wear your seat belt, even in the back seat.",กรุณาคาดเข็มขัดนิรภัย แม้จะนั่งเบาะหลัง,,,false
+1,commute,2,12,crosswalk,noun,/ˈkrɔːswɔːk/,ครอสวอล์ก,ทางม้าลาย,Always cross the street at the crosswalk.,ข้ามถนนที่ทางม้าลายเสมอ,British English: zebra crossing.,,false
+1,commute,2,13,accident,noun,/ˈæksɪdənt/,แอ็กซิเดนท์,อุบัติเหตุ,"There was an accident on the bridge, so traffic is slow.",มีอุบัติเหตุบนสะพาน รถจึงเคลื่อนตัวช้า,,,false
+1,commute,2,14,platform,noun,/ˈplætfɔːrm/,แพลตฟอร์ม,ชานชาลา,The train to the airport leaves from platform two.,รถไฟไปสนามบินออกจากชานชาลาที่สอง,,,false
+1,commute,3,1,leave home,phrase,/liːv hoʊm/,ลีฟ โฮม,ออกจากบ้าน,I leave home at seven every morning.,ฉันออกจากบ้านเจ็ดโมงทุกเช้า,,,false
+1,commute,3,2,get to work,phrase,/ɡɛt tə wɜːrk/,เก็ท ทู เวิร์ก,ไปถึงที่ทำงาน,How long does it take you to get to work?,คุณใช้เวลาเดินทางไปที่ทำงานนานเท่าไร,,,false
+1,commute,3,3,running late,phrase,/ˈrʌnɪŋ leɪt/,รันนิ่ง เลท,กำลังจะไปสาย,"Sorry, I'm running late. I'll be there in ten minutes.",ขอโทษนะ ฉันจะไปสายหน่อย อีกสิบนาทีถึง,,,false
+1,commute,3,4,hurry,verb,/ˈhɜːri/,เฮอร์รี่,รีบ,"We need to hurry, or we'll miss the train.",เราต้องรีบ ไม่อย่างนั้นจะไม่ทันรถไฟ,,,false
+1,commute,3,5,miss,verb,/mɪs/,มิส,"พลาด, ไม่ทัน","If I miss the bus, I take a taxi.",ถ้าฉันไม่ทันรถเมล์ ฉันจะนั่งแท็กซี่,,,false
+1,commute,3,6,wait for,phrase,/weɪt fɔːr/,เวท ฟอร์,รอ (ใครหรืออะไร),I wait for the bus for twenty minutes every morning.,ฉันรอรถเมล์ยี่สิบนาทีทุกเช้า,,,false
+1,commute,3,7,stuck in traffic,phrase,/stʌk ɪn ˈtræfɪk/,สตัค อิน แทรฟฟิก,ติดอยู่บนถนนเพราะรถติด,"I'm stuck in traffic, so please start the meeting without me.",ฉันรถติดอยู่ เริ่มประชุมไปก่อนได้เลย,,,false
+1,commute,3,8,shortcut,noun,/ˈʃɔːrtkʌt/,ช็อร์ตคัท,ทางลัด,I know a shortcut through the park to the station.,ฉันรู้ทางลัดผ่านสวนไปสถานี,,,false
+1,commute,3,9,how far,phrase,/haʊ fɑːr/,ฮาว ฟาร์,ไกลแค่ไหน,How far is your home from the office?,บ้านคุณอยู่ไกลจากออฟฟิศแค่ไหน,,,false
+1,commute,3,10,distance,noun,/ˈdɪstəns/,ดิสแทนซ์,ระยะทาง,The distance from my home to work is ten kilometers.,ระยะทางจากบ้านถึงที่ทำงานคือสิบกิโลเมตร,,,false
+1,commute,3,11,nearby,adverb,/ˌnɪrˈbaɪ/,เนียร์บาย,"ใกล้ ๆ, แถวนี้","I live nearby, so I can walk to work.",ฉันอยู่ใกล้ ๆ จึงเดินไปทำงานได้,,,false
+1,commute,3,12,key card,noun,/kiː kɑːrd/,คีย์ คาร์ด,บัตรผ่านประตู,Tap your key card at the gate to enter the building.,แตะบัตรผ่านที่ประตูเพื่อเข้าอาคาร,,,false
+1,commute,3,13,office building,noun,/ˈɔːfɪs ˈbɪldɪŋ/,ออฟฟิศ บิลดิ้ง,อาคารสำนักงาน,Our company is on the tenth floor of this office building.,บริษัทเราอยู่ชั้นสิบของอาคารสำนักงานนี้,,🏢,false
+1,commute,3,14,go home,phrase,/ɡoʊ hoʊm/,โก โฮม,กลับบ้าน,"I usually go home at six, but today I have to stay late.",ปกติฉันกลับบ้านหกโมง แต่วันนี้ต้องอยู่ดึก,,,false
+1,small-talk,1,1,hello,interjection,/həˈloʊ/,เฮลโล,สวัสดี,"Hello, my name is Nok. I work in sales.",สวัสดีค่ะ ฉันชื่อนก ทำงานฝ่ายขาย,,👋,false
+1,small-talk,1,2,hi,interjection,/haɪ/,ไฮ,หวัดดี,"Hi, Tom! How was your trip?",หวัดดี ทอม ทริปเป็นยังไงบ้าง,,,false
+1,small-talk,1,3,good morning,phrase,/ɡʊd ˈmɔːrnɪŋ/,กู๊ด มอร์นิ่ง,อรุณสวัสดิ์,"Good morning, everyone. Let's start the meeting.",อรุณสวัสดิ์ทุกคน เริ่มประชุมกันเลย,,,false
+1,small-talk,1,4,good evening,phrase,/ɡʊd ˈiːvnɪŋ/,กู๊ด อีฟนิ่ง,สวัสดีตอนเย็น,"Good evening, sir. Do you have a reservation?",สวัสดีตอนเย็นค่ะ คุณจองโต๊ะไว้ไหมคะ,,,false
+1,small-talk,1,5,how are you,phrase,/haʊ ɑːr juː/,ฮาว อาร์ ยู,สบายดีไหม,"Hi, Lisa. How are you today?",หวัดดี ลิซ่า วันนี้สบายดีไหม,,,false
+1,small-talk,1,6,I'm fine,phrase,/aɪm faɪn/,ไอม์ ไฟน์,ฉันสบายดี,"I'm fine, thank you. And you?",ฉันสบายดี ขอบคุณ แล้วคุณล่ะ,,,false
+1,small-talk,1,7,not bad,phrase,/nɑːt bæd/,น็อท แบด,"ก็ดี, ไม่เลว","Work is not bad this week, just a little busy.",งานสัปดาห์นี้ก็โอเค แค่ยุ่งนิดหน่อย,,,false
+1,small-talk,1,8,how's it going,phrase,/haʊz ɪt ˈɡoʊɪŋ/,ฮาวส์ อิท โกอิ้ง,เป็นยังไงบ้าง,"Hey, Sam! How's it going with the new job?",เฮ้ แซม งานใหม่เป็นยังไงบ้าง,,,false
+1,small-talk,1,9,long time no see,phrase,/lɔːŋ taɪm noʊ siː/,ลอง ไทม์ โน ซี,ไม่ได้เจอกันนาน,Long time no see! Are you still working at the bank?,ไม่ได้เจอกันนานเลย ยังทำงานที่ธนาคารอยู่ไหม,,,false
+1,small-talk,1,10,welcome back,phrase,/ˈwɛlkəm bæk/,เวลคัม แบ็ก,ยินดีต้อนรับกลับมา,Welcome back! How was your holiday in Japan?,ยินดีต้อนรับกลับมา เที่ยวญี่ปุ่นเป็นยังไงบ้าง,,,false
+1,small-talk,1,11,see you later,phrase,/siː jə ˈleɪtər/,ซี ยู เลเทอร์,แล้วเจอกัน,I'm going to lunch now. See you later!,ฉันไปกินข้าวกลางวันก่อนนะ แล้วเจอกัน,,,false
+1,small-talk,1,12,take care,phrase,/teɪk kɛr/,เทค แคร์,ดูแลตัวเองนะ,"Have a good trip, and take care!",เดินทางปลอดภัย ดูแลตัวเองด้วยนะ,,,false
+1,small-talk,1,13,goodbye,interjection,/ɡʊdˈbaɪ/,กู๊ดบาย,ลาก่อน,Say goodbye to everyone before you leave the party.,บอกลาทุกคนก่อนออกจากงานเลี้ยง,,,false
+1,small-talk,1,14,have a good weekend,phrase,/hæv ə ɡʊd ˈwiːkɛnd/,แฮฟ อะ กู๊ด วีคเอนด์,ขอให้มีวันหยุดสุดสัปดาห์ที่ดี,"It's Friday! Have a good weekend, everyone.",ศุกร์แล้ว ขอให้ทุกคนมีวันหยุดสุดสัปดาห์ที่ดีนะ,,,false
+1,small-talk,2,1,like,verb,/laɪk/,ไลค์,ชอบ,I like cooking on Sundays with my family.,ฉันชอบทำอาหารกับครอบครัวทุกวันอาทิตย์,,,false
+1,small-talk,2,2,enjoy,verb,/ɪnˈdʒɔɪ/,อินจอย,"สนุกกับ, เพลิดเพลินกับ",Did you enjoy the concert last night?,เมื่อคืนคุณสนุกกับคอนเสิร์ตไหม,,,false
+1,small-talk,2,3,favorite,adjective,/ˈfeɪvərɪt/,เฟเวอริท,ที่ชอบที่สุด,What is your favorite place to eat near the office?,ร้านอาหารแถวออฟฟิศที่คุณชอบที่สุดคือที่ไหน,British spelling: favourite.,,false
+1,small-talk,2,4,fun,adjective,/fʌn/,ฟัน,สนุก,The company trip was really fun this year.,ทริปบริษัทปีนี้สนุกมาก,,,false
+1,small-talk,2,5,interesting,adjective,/ˈɪntrəstɪŋ/,อินเทรสติ้ง,น่าสนใจ,That's an interesting book. Where did you buy it?,หนังสือเล่มนั้นน่าสนใจนะ ซื้อมาจากไหน,,,false
+1,small-talk,2,6,boring,adjective,/ˈbɔːrɪŋ/,บอริ่ง,น่าเบื่อ,"The movie was boring, so I fell asleep.",หนังน่าเบื่อ ฉันเลยหลับไป,,,false
+1,small-talk,2,7,great,adjective,/ɡreɪt/,เกรท,"ยอดเยี่ยม, ดีมาก",We had a great time at the beach last weekend.,สุดสัปดาห์ที่แล้วเราสนุกมากที่ชายหาด,,,false
+1,small-talk,2,8,amazing,adjective,/əˈmeɪzɪŋ/,อะเมซิ่ง,"สุดยอด, น่าทึ่ง",The view from the top of the mountain was amazing.,วิวจากยอดเขาสุดยอดมาก,,,false
+1,small-talk,2,9,vacation,noun,/veɪˈkeɪʃən/,เวเคชัน,วันหยุดพักร้อน,I'm taking a vacation in Chiang Mai next month.,ฉันจะไปพักร้อนที่เชียงใหม่เดือนหน้า,British English: holiday.,,false
+1,small-talk,2,10,holiday,noun,/ˈhɑːlədeɪ/,ฮอลิเดย์,วันหยุดเทศกาล,Songkran is my favorite holiday of the year.,สงกรานต์เป็นวันหยุดเทศกาลที่ฉันชอบที่สุดในปี,"In US English, a holiday is usually a public day off.",,false
+1,small-talk,2,11,concert,noun,/ˈkɑːnsərt/,คอนเสิร์ต,คอนเสิร์ต,We have tickets for a concert on Saturday night.,เรามีตั๋วคอนเสิร์ตคืนวันเสาร์,,,false
+1,small-talk,2,12,beach,noun,/biːtʃ/,บีช,ชายหาด,We go to the beach in Hua Hin every summer.,เราไปชายหาดที่หัวหินทุกหน้าร้อน,,🏖️,false
+1,small-talk,2,13,go shopping,phrase,/ɡoʊ ˈʃɑːpɪŋ/,โก ช็อปปิ้ง,ไปซื้อของ,I usually go shopping with my sister on Sunday.,ปกติฉันไปซื้อของกับพี่สาววันอาทิตย์,,,false
+1,small-talk,2,14,go out,phrase,/ɡoʊ aʊt/,โก เอาท์,"ออกไปข้างนอก, ไปเที่ยว",Do you want to go out for dinner after work?,อยากออกไปกินข้าวเย็นหลังเลิกงานไหม,,,false
+1,small-talk,3,1,how was your weekend,phrase,/haʊ wəz jər ˈwiːkɛnd/,ฮาว วอส ยัวร์ วีคเอนด์,วันหยุดเป็นยังไงบ้าง,Good morning! How was your weekend?,อรุณสวัสดิ์ วันหยุดสุดสัปดาห์เป็นยังไงบ้าง,,,false
+1,small-talk,3,2,congratulations,interjection,/kənˌɡrætʃəˈleɪʃənz/,คองแกรทชูเลชันส์,ขอแสดงความยินดี,"Congratulations on your new job, Mai! We are so happy for you.",ขอแสดงความยินดีกับงานใหม่นะ ใหม่ พวกเราดีใจด้วยมาก,,🎉,false
+1,small-talk,3,3,happy birthday,phrase,/ˈhæpi ˈbɜːrθdeɪ/,แฮปปี้ เบิร์ธเดย์,สุขสันต์วันเกิด,"Happy birthday, Ben! We got you a cake.",สุขสันต์วันเกิดนะเบน เราซื้อเค้กมาให้,,🎂,false
+1,small-talk,3,4,good luck,phrase,/ɡʊd lʌk/,กู๊ด ลัค,ขอให้โชคดี,Good luck with your presentation this afternoon!,ขอให้โชคดีกับการนำเสนอบ่ายนี้นะ,,🍀,false
+1,small-talk,3,5,well done,phrase,/wɛl dʌn/,เวล ดัน,ทำได้ดีมาก,Well done! The client loved your report.,ทำได้ดีมาก ลูกค้าชอบรายงานของคุณ,,👏,false
+1,small-talk,3,6,don't worry,phrase,/doʊnt ˈwɜːri/,โดนท์ เวอร์รี่,ไม่ต้องห่วง,"Don't worry, I can help you finish the slides.",ไม่ต้องห่วง ฉันช่วยคุณทำสไลด์ให้เสร็จได้,,,false
+1,small-talk,3,7,me too,phrase,/miː tuː/,มี ทู,ฉันก็เหมือนกัน,"""I want to try the new cafe."" ""Me too! Let's go at lunch.""",ฉันอยากลองคาเฟ่ใหม่ ฉันก็เหมือนกัน ไปตอนพักเที่ยงกัน,,,false
+1,small-talk,3,8,that's great,phrase,/ðæts ɡreɪt/,แด็ทส์ เกรท,ดีจังเลย,You got the job? That's great news!,คุณได้งานแล้วเหรอ ดีจังเลย,,,false
+1,small-talk,3,9,I see,phrase,/aɪ siː/,ไอ ซี,อ๋อ เข้าใจแล้ว,"I see. So the meeting is at three, not two.",อ๋อ เข้าใจแล้ว ประชุมตอนบ่ายสาม ไม่ใช่บ่ายสอง,,,false
+1,small-talk,3,10,really,adverb,/ˈriːəli/,เรียลลี่,"จริง ๆ, มาก",This coffee is really good. Where did you get it?,กาแฟนี้อร่อยมากจริง ๆ ซื้อมาจากไหน,,,false
+1,small-talk,3,11,by the way,phrase,/baɪ ðə weɪ/,บาย เดอะ เวย์,"อีกอย่างนะ, ว่าแต่","By the way, the boss wants to see you at four.",อีกอย่างนะ หัวหน้าอยากพบคุณตอนสี่โมง,,,false
+1,small-talk,3,12,joke,noun,/dʒoʊk/,โจ๊ค,"มุกตลก, เรื่องตลก","He told a funny joke at lunch, and we all laughed.",เขาเล่ามุกตลกตอนพักเที่ยง พวกเราหัวเราะกันหมด,,,false
+1,small-talk,3,13,what about you,phrase,/wʌt əˈbaʊt juː/,วอท อะเบาท์ ยู,แล้วคุณล่ะ,I'm from Chiang Mai. What about you?,ฉันมาจากเชียงใหม่ แล้วคุณล่ะ,,,false
+1,small-talk,3,14,sounds good,phrase,/saʊndz ɡʊd/,ซาวด์ส กู๊ด,"ฟังดูดี, ตกลง",Lunch at twelve? Sounds good to me.,กินข้าวเที่ยงตอนสิบสองโมงไหม ฟังดูดีนะ,,,false
+1,work-verbs,1,1,work,verb,/wɜːrk/,เวิร์ก,ทำงาน,I work in an office from Monday to Friday.,ฉันทำงานในออฟฟิศตั้งแต่วันจันทร์ถึงศุกร์,,,false
+1,work-verbs,1,2,start,verb,/stɑːrt/,สตาร์ท,เริ่ม,The meeting will start at nine sharp.,การประชุมจะเริ่มเก้าโมงตรง,,,false
+1,work-verbs,1,3,stop,verb,/stɑːp/,สต็อป,หยุด,Please stop the machine before you clean it.,กรุณาหยุดเครื่องก่อนทำความสะอาด,,,false
+1,work-verbs,1,4,write,verb,/raɪt/,ไรท์,เขียน,Please write your name at the top of the form.,กรุณาเขียนชื่อของคุณที่ด้านบนของแบบฟอร์ม,,✍️,false
+1,work-verbs,1,5,make,verb,/meɪk/,เมค,ทำ,Can you make ten copies of this report?,ช่วยถ่ายสำเนารายงานนี้สิบชุดได้ไหม,,,false
+1,work-verbs,1,6,do,verb,/duː/,ดู,ทำ,I always do the hard tasks in the morning.,ฉันทำงานยาก ๆ ตอนเช้าเสมอ,,,false
+1,work-verbs,1,7,give,verb,/ɡɪv/,กิฟ,ให้,Please give this letter to the manager.,กรุณาให้จดหมายฉบับนี้กับผู้จัดการ,,,false
+1,work-verbs,1,8,get,verb,/ɡɛt/,เก็ท,ได้รับ,I get about fifty emails a day.,ฉันได้รับอีเมลประมาณห้าสิบฉบับต่อวัน,,,false
+1,work-verbs,1,9,find,verb,/faɪnd/,ไฟนด์,"หา, หาเจอ",I can't find the file. Can you send it again?,ฉันหาไฟล์ไม่เจอ ส่งมาอีกครั้งได้ไหม,,,false
+1,work-verbs,1,10,look at,phrase,/lʊk æt/,ลุค แอท,"ดู, มอง",Please look at the chart on page three.,กรุณาดูแผนภูมิในหน้าสาม,,,false
+1,work-verbs,1,11,want,verb,/wɑːnt/,วอนท์,"ต้องการ, อยาก",Do you want a coffee before the meeting?,อยากได้กาแฟก่อนประชุมไหม,,,false
+1,work-verbs,1,12,think,verb,/θɪŋk/,ทิงค์,คิด,I think we need more time for this project.,ฉันคิดว่าเราต้องการเวลาเพิ่มสำหรับโปรเจกต์นี้,,,false
+1,work-verbs,1,13,go,verb,/ɡoʊ/,โก,ไป,I go to the bank at lunchtime to pay the bills.,ฉันไปธนาคารช่วงพักเที่ยงเพื่อจ่ายบิล,,,false
+1,work-verbs,1,14,come,verb,/kʌm/,คัม,มา,Can you come to my desk for a minute?,มาที่โต๊ะฉันสักครู่ได้ไหม,,,false
+1,work-verbs,2,1,meet,verb,/miːt/,มีท,"พบ, เจอ",Let's meet in the lobby at two o'clock.,เจอกันที่ล็อบบี้บ่ายสองโมง,,,false
+1,work-verbs,2,2,invite,verb,/ɪnˈvaɪt/,อินไวท์,เชิญ,We want to invite the new staff to lunch on Friday.,เราอยากเชิญพนักงานใหม่ไปกินข้าวกลางวันวันศุกร์,,,false
+1,work-verbs,2,3,remember,verb,/rɪˈmɛmbər/,รีเมมเบอร์,จำ,Please remember to lock the door when you leave.,กรุณาจำไว้ว่าต้องล็อกประตูตอนออกไป,,,false
+1,work-verbs,2,4,forget,verb,/fərˈɡɛt/,ฟอร์เก็ท,ลืม,Don't forget to send me the report today.,อย่าลืมส่งรายงานให้ฉันวันนี้,,,false
+1,work-verbs,2,5,decide,verb,/dɪˈsaɪd/,ดิไซด์,ตัดสินใจ,We need to decide on a date for the party.,เราต้องตัดสินใจเลือกวันจัดงานเลี้ยง,,,false
+1,work-verbs,2,6,lead,verb,/liːd/,ลีด,"นำ, เป็นผู้นำ",Mina will lead the team meeting this week.,มินาจะเป็นคนนำการประชุมทีมสัปดาห์นี้,,,false
+1,work-verbs,2,7,manage,verb,/ˈmænɪdʒ/,แมเนจ,"ดูแล, บริหาร",She manages a team of eight people.,เธอดูแลทีมที่มีแปดคน,,,false
+1,work-verbs,2,8,ask for,phrase,/æsk fɔːr/,แอสก์ ฟอร์,ขอ,"If you don't understand, ask for help.",ถ้าไม่เข้าใจ ให้ขอความช่วยเหลือ,,,false
+1,work-verbs,2,9,talk to,phrase,/tɔːk tuː/,ทอล์ก ทู,คุยกับ,I need to talk to you about the schedule.,ฉันต้องคุยกับคุณเรื่องตารางงาน,,,false
+1,work-verbs,2,10,help out,phrase,/hɛlp aʊt/,เฮลพ์ เอาท์,ช่วยงาน,Can you help out at the front desk this afternoon?,ช่วยงานที่เคาน์เตอร์ต้อนรับบ่ายนี้ได้ไหม,,,false
+1,work-verbs,2,11,thank,verb,/θæŋk/,แธงค์,ขอบคุณ,I want to thank everyone for their hard work.,ฉันอยากขอบคุณทุกคนที่ทำงานหนัก,,,false
+1,work-verbs,2,12,say,verb,/seɪ/,เซย์,"พูด, บอก",What did the customer say on the phone?,ลูกค้าพูดอะไรทางโทรศัพท์,,,false
+1,work-verbs,2,13,speak,verb,/spiːk/,สปีค,พูด (ภาษา),Do you speak Japanese? We have a visitor from Tokyo.,คุณพูดภาษาญี่ปุ่นได้ไหม เรามีแขกมาจากโตเกียว,,,false
+1,work-verbs,2,14,look after,phrase,/lʊk ˈæftər/,ลุค แอฟเตอร์,ดูแล,Can you look after my desk plants while I'm away?,ช่วยดูแลต้นไม้บนโต๊ะฉันตอนฉันไม่อยู่ได้ไหม,,,false
+1,work-verbs,3,1,work on,phrase,/wɜːrk ɑːn/,เวิร์ก ออน,ทำ (งานชิ้นหนึ่ง),Today I need to work on the budget.,วันนี้ฉันต้องทำเรื่องงบประมาณ,,,false
+1,work-verbs,3,2,work late,phrase,/wɜːrk leɪt/,เวิร์ก เลท,ทำงานดึก,I have to work late tonight to finish the slides.,คืนนี้ฉันต้องทำงานดึกเพื่อทำสไลด์ให้เสร็จ,,,false
+1,work-verbs,3,3,get started,phrase,/ɡɛt ˈstɑːrtɪd/,เก็ท สตาร์ทติด,เริ่มลงมือ,"Everyone is here, so let's get started.",ทุกคนมาครบแล้ว เริ่มกันเลย,,,false
+1,work-verbs,3,4,take a break,phrase,/teɪk ə breɪk/,เทค อะ เบรค,พักสักครู่,Let's take a break for ten minutes.,พักกันสิบนาทีเถอะ,,☕,false
+1,work-verbs,3,5,keep going,phrase,/kiːp ˈɡoʊɪŋ/,คีพ โกอิ้ง,ทำต่อไป,"You're almost done, so keep going!",ใกล้เสร็จแล้ว ทำต่อไปนะ,,,false
+1,work-verbs,3,6,start over,phrase,/stɑːrt ˈoʊvər/,สตาร์ท โอเวอร์,เริ่มใหม่,"The file has many errors, so I need to start over.",ไฟล์มีข้อผิดพลาดเยอะ ฉันต้องเริ่มใหม่,,,false
+1,work-verbs,3,7,end,verb,/ɛnd/,เอนด์,"จบ, สิ้นสุด",The training will end at four thirty.,การอบรมจะจบตอนสี่โมงครึ่ง,,,false
+1,work-verbs,3,8,continue,verb,/kənˈtɪnjuː/,คอนทินิว,ทำต่อ,Let's continue the meeting after lunch.,มาประชุมต่อหลังพักกลางวันกันเถอะ,,,false
+1,work-verbs,3,9,improve,verb,/ɪmˈpruːv/,อิมพรูฟ,"ปรับปรุง, พัฒนา",I read English news every day to improve my vocabulary.,ฉันอ่านข่าวภาษาอังกฤษทุกวันเพื่อพัฒนาคำศัพท์,,,false
+1,work-verbs,3,10,make a list,phrase,/meɪk ə lɪst/,เมค อะ ลิสท์,ทำรายการ,Let's make a list of things to buy for the office.,มาทำรายการของที่ต้องซื้อให้ออฟฟิศกัน,,,false
+1,work-verbs,3,11,do a good job,phrase,/duː ə ɡʊd dʒɑːb/,ดู อะ กู๊ด จ็อบ,ทำงานได้ดี,I want to do a good job on this project.,ฉันอยากทำงานโปรเจกต์นี้ให้ออกมาดี,,,false
+1,work-verbs,3,12,go over,phrase,/ɡoʊ ˈoʊvər/,โก โอเวอร์,"ทบทวน, ตรวจดู",Let's go over the plan one more time.,มาทบทวนแผนอีกครั้งกัน,,,false
+1,work-verbs,3,13,answer the phone,phrase,/ˈænsər ðə foʊn/,แอนเซอร์ เดอะ โฟน,รับโทรศัพท์,Can you answer the phone while I'm in the meeting?,ช่วยรับโทรศัพท์ตอนฉันประชุมได้ไหม,,📞,false
+1,work-verbs,3,14,try again,phrase,/traɪ əˈɡɛn/,ทราย อะเกน,ลองอีกครั้ง,The printer is not working. Please try again later.,เครื่องพิมพ์ใช้ไม่ได้ กรุณาลองใหม่ภายหลัง,,,false

@@ -1,0 +1,337 @@
+level,category,lesson,order,headword,pos,phonetic,reading_th,meaning_th,example_en,example_th,note_en,emoji,reviewed
+3,social-media,1,1,bio,noun,/ˈbaɪoʊ/,ไบโอ,ข้อความแนะนำตัวสั้น ๆ ในโปรไฟล์,My bio says that I'm a nurse who loves cooking.,ไบโอของฉันบอกว่าฉันเป็นพยาบาลที่ชอบทำอาหาร,Short for biography.,,false
+3,social-media,1,2,caption,noun,/ˈkæpʃən/,แคปชัน,คำบรรยายใต้ภาพ,She always writes a funny caption under her photos.,เธอเขียนแคปชันตลก ๆ ใต้รูปของเธอเสมอ,,,false
+3,social-media,1,3,cover photo,noun,/ˈkʌvər ˈfoʊtoʊ/,คัฟเวอร์ โฟโต,ภาพหน้าปกโปรไฟล์,I changed my cover photo to a picture of the sea.,ฉันเปลี่ยนภาพหน้าปกเป็นรูปทะเล,,🖼️,false
+3,social-media,1,4,fan page,noun,/fæn peɪdʒ/,แฟน เพจ,แฟนเพจ,The singer's fan page posts news about every concert.,แฟนเพจของนักร้องคนนั้นโพสต์ข่าวทุกคอนเสิร์ต,,,false
+3,social-media,1,5,crop,verb,/krɑːp/,ครอป,ตัดขอบภาพ,Crop the photo so the building is in the middle.,ครอปรูปให้ตึกอยู่ตรงกลาง,,,false
+3,social-media,1,6,page admin,noun,/peɪdʒ ˈædmɪn/,เพจ แอดมิน,แอดมินเพจ ผู้ดูแลเพจ,The page admin answers questions from customers every evening.,แอดมินเพจตอบคำถามลูกค้าทุกเย็น,,,false
+3,social-media,1,7,filter,noun,/ˈfɪltər/,ฟิลเตอร์,ฟิลเตอร์แต่งภาพ,This filter makes the colors in the photo look warmer.,ฟิลเตอร์นี้ทำให้สีในรูปดูอบอุ่นขึ้น,,,false
+3,social-media,1,8,news feed,noun,/nuːz fiːd/,นิวส์ ฟีด,หน้าฟีดข่าว หน้ารวมโพสต์,I saw your wedding photos on my news feed this morning.,เช้านี้ฉันเห็นรูปงานแต่งของคุณในหน้าฟีด,,,false
+3,social-media,1,9,go viral,phrase,/ɡoʊ ˈvaɪrəl/,โก ไวรัล,กลายเป็นกระแส แพร่กระจายอย่างรวดเร็ว,A funny video can go viral in just a few hours.,คลิปตลก ๆ สามารถกลายเป็นกระแสได้ในไม่กี่ชั่วโมง,Used for posts and videos that spread very fast online.,,false
+3,social-media,1,10,trending,adjective,/ˈtrɛndɪŋ/,เทรนดิง,กำลังเป็นที่นิยม ติดเทรนด์,This song is trending on every app this week.,เพลงนี้กำลังติดเทรนด์ในทุกแอปสัปดาห์นี้,,,false
+3,social-media,1,11,mention,verb,/ˈmɛnʃən/,เมนชัน,พูดถึง กล่าวถึง,The singer mentioned our café in her latest post.,นักร้องคนนั้นพูดถึงร้านกาแฟของเราในโพสต์ล่าสุด,,,false
+3,social-media,1,12,livestream,noun,/ˈlaɪvstriːm/,ไลฟ์สตรีม,การถ่ายทอดสด ไลฟ์,The shop sells clothes during a livestream every Friday night.,ร้านขายเสื้อผ้าผ่านไลฟ์ทุกคืนวันศุกร์,,,false
+3,social-media,1,13,content,noun,/ˈkɑːntɛnt/,คอนเทนต์,เนื้อหา คอนเทนต์,Our page posts useful content about saving money.,เพจของเราโพสต์คอนเทนต์ที่มีประโยชน์เรื่องการออมเงิน,Stress on the first syllable for this meaning.,,false
+3,social-media,1,14,influencer,noun,/ˈɪnfluənsər/,อินฟลูเอนเซอร์,ผู้มีอิทธิพลบนโลกออนไลน์,The brand paid an influencer to review its new phone.,แบรนด์จ้างอินฟลูเอนเซอร์ให้รีวิวโทรศัพท์รุ่นใหม่,,,false
+3,social-media,2,1,react,verb,/riˈækt/,รีแอ็กต์,กดแสดงความรู้สึก ตอบสนอง,Many people reacted to my post with a heart.,หลายคนกดหัวใจให้โพสต์ของฉัน,,,false
+3,social-media,2,2,comment section,noun,/ˈkɑːmɛnt ˈsɛkʃən/,คอมเมนต์ เซกชัน,ช่องแสดงความคิดเห็น,People are arguing about the price in the comment section.,ผู้คนกำลังเถียงกันเรื่องราคาในช่องคอมเมนต์,,,false
+3,social-media,2,3,direct message,noun,/dəˈrɛkt ˈmɛsɪdʒ/,ดิเรกต์ เมสเสจ,ข้อความส่วนตัว (DM),Send us a direct message if you want to know the price.,ส่งข้อความส่วนตัวมาหาเราถ้าอยากรู้ราคา,Often shortened to DM.,,false
+3,social-media,2,4,thread,noun,/θrɛd/,เธรด,กระทู้ ชุดข้อความต่อเนื่อง,I read a long thread about cheap places to eat in Tokyo.,ฉันอ่านกระทู้ยาวเรื่องร้านอาหารราคาถูกในโตเกียว,,🧵,false
+3,social-media,2,5,read receipt,noun,/rɛd rɪˈsiːt/,เร็ด รีซีต,การแจ้งว่าอ่านแล้ว,"I turned off read receipts, so people can't see when I read their messages.",ฉันปิดการแจ้งว่าอ่านแล้ว คนอื่นจะได้ไม่เห็นว่าฉันอ่านข้อความเมื่อไร,"Here read is said like ""red"".",,false
+3,social-media,2,6,unsend,verb,/ʌnˈsɛnd/,อันเซนด์,ยกเลิกการส่งข้อความ,I unsend messages quickly when I send them to the wrong chat.,ฉันรีบยกเลิกข้อความเมื่อส่งผิดแชต,,,false
+3,social-media,2,7,misspell,verb,/ˌmɪsˈspɛl/,มิสสเปล,สะกดผิด,People often misspell my name in emails.,คนมักสะกดชื่อฉันผิดในอีเมล,,,false
+3,social-media,2,8,rumor,noun,/ˈruːmər/,รูเมอร์,ข่าวลือ,Don't share that rumor until you know it's true.,อย่าแชร์ข่าวลือนั้นจนกว่าจะรู้ว่าจริง,,,false
+3,social-media,2,9,voice chat,noun,/vɔɪs tʃæt/,วอยซ์ แชต,การแชตด้วยเสียง,We talked in a voice chat while we played the game.,เราคุยกันผ่านแชตเสียงระหว่างเล่นเกม,,🎧,false
+3,social-media,2,10,spread,verb,/sprɛd/,สเปรด,แพร่กระจาย,Bad news spreads very quickly on social media.,ข่าวร้ายแพร่กระจายเร็วมากบนโซเชียลมีเดีย,,,false
+3,social-media,2,11,offensive,adjective,/əˈfɛnsɪv/,ออฟเฟนซิฟ,ที่ทำให้ขุ่นเคือง หยาบคาย,The page deletes any offensive comments right away.,เพจลบคอมเมนต์ที่หยาบคายทันที,,,false
+3,social-media,2,12,troll,noun,/troʊl/,โทรล,คนที่ตั้งใจป่วนหรือยั่วโมโหบนโลกออนไลน์,Just ignore the troll and don't reply to his comments.,ไม่ต้องสนใจคนป่วนนั้น และอย่าตอบคอมเมนต์ของเขา,Common advice: don't feed the trolls.,,false
+3,social-media,2,13,dislike,verb,/dɪsˈlaɪk/,ดิสไลก์,ไม่ชอบ,Many viewers disliked the video because the sound was bad.,ผู้ชมหลายคนไม่ชอบคลิปนั้นเพราะเสียงไม่ดี,,👎,false
+3,social-media,2,14,chain message,noun,/tʃeɪn ˈmɛsɪdʒ/,เชน เมสเสจ,ข้อความลูกโซ่ ข้อความส่งต่อ,My aunt sends a chain message about health tips every morning.,ป้าของฉันส่งข้อความลูกโซ่เรื่องเคล็ดลับสุขภาพทุกเช้า,,,false
+3,social-media,3,1,security question,noun,/sɪˈkjʊrəti ˈkwɛstʃən/,ซีเคียวริตี เควสชัน,คำถามเพื่อความปลอดภัย,Choose a security question that only you know the answer to.,เลือกคำถามเพื่อความปลอดภัยที่มีแค่คุณรู้คำตอบ,,,false
+3,social-media,3,2,personal data,noun,/ˈpɜːrsənəl ˈdeɪtə/,เพอร์ซันนัล เดตา,ข้อมูลส่วนบุคคล,"Never post your personal data, like your address or ID number.",อย่าโพสต์ข้อมูลส่วนบุคคล เช่น ที่อยู่หรือเลขบัตรประชาชน,,,false
+3,social-media,3,3,hack,verb,/hæk/,แฮก,เจาะระบบ แฮก,Someone hacked my account and sent messages to my friends.,มีคนแฮกบัญชีของฉันแล้วส่งข้อความหาเพื่อน ๆ,,,false
+3,social-media,3,4,deceive,verb,/dɪˈsiːv/,ดีซีฟ,หลอกลวง,Some ads try to deceive people with fake prices.,โฆษณาบางตัวพยายามหลอกลวงคนด้วยราคาปลอม,,,false
+3,social-media,3,5,suspicious,adjective,/səˈspɪʃəs/,ซัสพิเชิส,น่าสงสัย,Don't open suspicious links from people you don't know.,อย่าเปิดลิงก์ที่น่าสงสัยจากคนที่ไม่รู้จัก,,,false
+3,social-media,3,6,verify,verb,/ˈvɛrɪfaɪ/,เวริฟาย,ยืนยัน ตรวจสอบความถูกต้อง,The app asks you to verify your phone number first.,แอปขอให้คุณยืนยันเบอร์โทรศัพท์ก่อน,,,false
+3,social-media,3,7,verification code,noun,/ˌvɛrɪfɪˈkeɪʃən koʊd/,เวริฟิเคชัน โคด,รหัสยืนยัน,"Never give your verification code to anyone, even a friend.",ห้ามให้รหัสยืนยันกับใคร แม้แต่เพื่อน,Also called an OTP (one-time password).,,false
+3,social-media,3,8,secure,adjective,/sɪˈkjʊr/,ซีเคียวร์,ปลอดภัย,Only shop on websites that are secure.,ซื้อของเฉพาะในเว็บไซต์ที่ปลอดภัยเท่านั้น,,🔒,false
+3,social-media,3,9,cyberbullying,noun,/ˈsaɪbərˌbʊliɪŋ/,ไซเบอร์บูลลี่อิง,การกลั่นแกล้งรังแกทางออนไลน์,The school runs a talk about cyberbullying for parents.,โรงเรียนจัดการบรรยายเรื่องการกลั่นแกล้งทางออนไลน์ให้ผู้ปกครอง,,,false
+3,social-media,3,10,digital footprint,noun,/ˈdɪdʒɪtəl ˈfʊtprɪnt/,ดิจิทัล ฟุตพรินต์,ร่องรอยทางดิจิทัล,Everything you post becomes part of your digital footprint.,ทุกอย่างที่คุณโพสต์จะกลายเป็นร่องรอยทางดิจิทัลของคุณ,,,false
+3,social-media,3,11,trustworthy,adjective,/ˈtrʌstwɜːrði/,ทรัสต์เวิร์ดธี,น่าเชื่อถือ ไว้ใจได้,Only buy from sellers who look trustworthy and have good reviews.,ซื้อจากผู้ขายที่ดูน่าเชื่อถือและมีรีวิวดีเท่านั้น,,,false
+3,social-media,3,12,addicted,adjective,/əˈdɪktɪd/,อะดิกทิด,ติด เสพติด,My son is addicted to short videos on his phone.,ลูกชายของฉันติดคลิปสั้นในโทรศัพท์,addicted to something,,false
+3,social-media,3,13,fake account,noun,/feɪk əˈkaʊnt/,เฟก อะเคานต์,บัญชีปลอม,Someone made a fake account with my name and photo.,มีคนสร้างบัญชีปลอมโดยใช้ชื่อและรูปของฉัน,,,false
+3,social-media,3,14,link,noun,/lɪŋk/,ลิงก์,ลิงก์ ที่อยู่สำหรับคลิกไปหน้าเว็บ,Click the link in the email to reset your password.,คลิกลิงก์ในอีเมลเพื่อรีเซ็ตรหัสผ่าน,,🔗,false
+3,studying,1,1,enroll,verb,/ɪnˈroʊl/,อินโรล,ลงทะเบียนเรียน,I enrolled in an evening English class near my office.,ฉันลงทะเบียนเรียนภาษาอังกฤษรอบเย็นใกล้ที่ทำงาน,enroll in a course,,false
+3,studying,1,2,tuition fee,noun,/tuˈɪʃən fiː/,ทูอิชัน ฟี,ค่าเล่าเรียน,"The tuition fee for the six-week course is 4,000 baht.","ค่าเล่าเรียนของคอร์สหกสัปดาห์คือ 4,000 บาท",,,false
+3,studying,1,3,scholarship,noun,/ˈskɑːlərʃɪp/,สกอลาร์ชิป,ทุนการศึกษา,She won a scholarship to study in Japan for a year.,เธอได้ทุนการศึกษาไปเรียนที่ญี่ปุ่นหนึ่งปี,,,false
+3,studying,1,4,beginner,noun,/bɪˈɡɪnər/,บีกินเนอร์,ผู้เริ่มต้น,This yoga class is good for beginners.,คลาสโยคะนี้เหมาะกับผู้เริ่มต้น,,,false
+3,studying,1,5,intermediate,adjective,/ˌɪntərˈmiːdiət/,อินเทอร์มีเดียต,ระดับกลาง,"After the test, they put me in the intermediate group.",หลังสอบ เขาจัดให้ฉันอยู่กลุ่มระดับกลาง,,,false
+3,studying,1,6,syllabus,noun,/ˈsɪləbəs/,ซิลละบัส,โครงการสอน แผนการเรียน,The syllabus shows the topics for each week of the course.,โครงการสอนบอกหัวข้อของแต่ละสัปดาห์ในคอร์ส,,,false
+3,studying,1,7,trial class,noun,/ˈtraɪəl klæs/,ไทรอัล คลาส,คลาสทดลองเรียน,You can join a free trial class before you pay.,คุณเข้าคลาสทดลองเรียนฟรีได้ก่อนจ่ายเงิน,,,false
+3,studying,1,8,semester,noun,/sɪˈmɛstər/,ซีเมสเตอร์,ภาคเรียน,The new semester starts at the beginning of June.,ภาคเรียนใหม่เริ่มต้นเดือนมิถุนายน,,,false
+3,studying,1,9,online course,noun,/ˈɑːnlaɪn kɔːrs/,ออนไลน์ คอร์ส,คอร์สเรียนออนไลน์,I take an online course in Excel after work.,ฉันเรียนคอร์สออนไลน์เรื่อง Excel หลังเลิกงาน,,💻,false
+3,studying,1,10,workshop,noun,/ˈwɜːrkʃɑːp/,เวิร์กช็อป,การอบรมเชิงปฏิบัติการ,We joined a one-day workshop on writing better emails.,เราเข้าร่วมเวิร์กช็อปหนึ่งวันเรื่องการเขียนอีเมลให้ดีขึ้น,,,false
+3,studying,1,11,certificate,noun,/sərˈtɪfɪkət/,เซอร์ทิฟิเคต,ใบประกาศนียบัตร,You get a certificate when you finish all the lessons.,คุณจะได้ใบประกาศนียบัตรเมื่อเรียนครบทุกบท,,📜,false
+3,studying,1,12,instructor,noun,/ɪnˈstrʌktər/,อินสตรักเตอร์,ผู้สอน ครูฝึก,Our instructor explains everything slowly and clearly.,ผู้สอนของเราอธิบายทุกอย่างช้า ๆ และชัดเจน,,,false
+3,studying,1,13,admission,noun,/ədˈmɪʃən/,แอดมิชชัน,การรับเข้าศึกษา,Admission to the program is open until the end of May.,การรับสมัครเข้าเรียนหลักสูตรนี้เปิดถึงสิ้นเดือนพฤษภาคม,,,false
+3,studying,1,14,placement test,noun,/ˈpleɪsmənt tɛst/,เพลซเมนต์ เทสต์,แบบทดสอบวัดระดับ,Take the placement test so we can find the right class for you.,ทำแบบทดสอบวัดระดับเพื่อให้เราหาคลาสที่เหมาะกับคุณ,,,false
+3,studying,2,1,lecture,noun,/ˈlɛktʃər/,เล็กเชอร์,การบรรยาย,The lecture on world history lasted two hours.,การบรรยายเรื่องประวัติศาสตร์โลกยาวสองชั่วโมง,give / attend a lecture,,false
+3,studying,2,2,assignment,noun,/əˈsaɪnmənt/,อะไซน์เมนต์,งานที่ได้รับมอบหมาย,We have to hand in the assignment by next Monday.,เราต้องส่งงานที่ได้รับมอบหมายภายในวันจันทร์หน้า,,,false
+3,studying,2,3,skip class,phrase,/skɪp klæs/,สกิป แคลส,โดดเรียน,"If you skip class, you will miss the review for the test.",ถ้าโดดเรียน คุณจะพลาดการทบทวนก่อนสอบ,,,false
+3,studying,2,4,participate,verb,/pɑːrˈtɪsɪpeɪt/,พาร์ทิซิเพต,มีส่วนร่วม,Everyone should participate in the class discussion.,ทุกคนควรมีส่วนร่วมในการอภิปรายในชั้นเรียน,participate in something,,false
+3,studying,2,5,pay attention,phrase,/peɪ əˈtɛnʃən/,เพ อะเทนชัน,ตั้งใจฟัง ให้ความสนใจ,"Please pay attention, because this part will be on the test.",กรุณาตั้งใจฟัง เพราะส่วนนี้จะออกสอบ,pay attention to something,,false
+3,studying,2,6,memorize,verb,/ˈmɛməraɪz/,เมมเมอไรซ์,ท่องจำ,I memorize ten new words every morning on the train.,ฉันท่องจำคำศัพท์ใหม่สิบคำทุกเช้าบนรถไฟ,,,false
+3,studying,2,7,workbook,noun,/ˈwɜːrkbʊk/,เวิร์กบุ๊ก,แบบฝึกหัด สมุดแบบฝึกหัด,Do exercises one to five in your workbook for homework.,ทำแบบฝึกหัดข้อหนึ่งถึงห้าในสมุดแบบฝึกหัดเป็นการบ้าน,,📒,false
+3,studying,2,8,group project,noun,/ɡruːp ˈprɑːdʒɛkt/,กรุ๊ป โปรเจกต์,งานกลุ่ม,Our group project is a short video about recycling.,งานกลุ่มของเราคือคลิปสั้นเรื่องการรีไซเคิล,,,false
+3,studying,2,9,summarize,verb,/ˈsʌməraɪz/,ซัมเมอไรซ์,สรุปความ,Can you summarize the article in three sentences?,คุณสรุปบทความนี้ในสามประโยคได้ไหม,,,false
+3,studying,2,10,vocabulary,noun,/voʊˈkæbjəlɛri/,โวแคบบิวลารี,คำศัพท์,Reading the news helps me build my vocabulary.,การอ่านข่าวช่วยให้ฉันมีคลังคำศัพท์มากขึ้น,,,false
+3,studying,2,11,sentence structure,noun,/ˈsɛntəns ˈstrʌktʃər/,เซนเทนซ์ สตรักเชอร์,โครงสร้างประโยค,The teacher explained the sentence structure of questions in English.,ครูอธิบายโครงสร้างประโยคคำถามในภาษาอังกฤษ,,,false
+3,studying,2,12,pronunciation,noun,/prəˌnʌnsiˈeɪʃən/,โพรนันซิเอชัน,การออกเสียง,Listening to podcasts helps my pronunciation a lot.,การฟังพอดแคสต์ช่วยเรื่องการออกเสียงของฉันได้มาก,"Note the spelling: pronounce, but pronunciation.",,false
+3,studying,2,13,concentrate,verb,/ˈkɑːnsəntreɪt/,คอนเซนเทรต,ตั้งสมาธิ จดจ่อ,It's hard to concentrate when the room is so noisy.,ยากที่จะตั้งสมาธิเมื่อห้องเสียงดังขนาดนี้,concentrate on something,,false
+3,studying,2,14,fluent,adjective,/ˈfluːənt/,ฟลูเอนต์,คล่อง พูดได้คล่อง,She is fluent in English and Chinese.,เธอพูดภาษาอังกฤษและภาษาจีนได้คล่อง,,,false
+3,studying,3,1,midterm,noun,/ˈmɪdtɜːrm/,มิดเทิร์ม,การสอบกลางภาค,I have three midterms in the same week.,ฉันมีสอบกลางภาคสามวิชาในสัปดาห์เดียวกัน,,,false
+3,studying,3,2,final exam,noun,/ˈfaɪnəl ɪɡˈzæm/,ไฟนอล อิกแซม,การสอบปลายภาค,The final exam covers everything we learned this term.,การสอบปลายภาคครอบคลุมทุกอย่างที่เราเรียนเทอมนี้,,,false
+3,studying,3,3,multiple choice,noun,/ˈmʌltɪpəl tʃɔɪs/,มัลติเพิล ชอยซ์,ข้อสอบแบบปรนัย หลายตัวเลือก,The first part of the test is multiple choice.,ข้อสอบส่วนแรกเป็นแบบปรนัย,,,false
+3,studying,3,4,essay,noun,/ˈɛseɪ/,เอสเส,เรียงความ,We had to write an essay about our dream job.,เราต้องเขียนเรียงความเรื่องงานในฝัน,,,false
+3,studying,3,5,report card,noun,/rɪˈpɔːrt kɑːrd/,รีพอร์ต การ์ด,สมุดพก ใบรายงานผลการเรียน,My son brought home his report card with good marks in science.,ลูกชายถือสมุดพกกลับบ้านพร้อมคะแนนวิทยาศาสตร์ที่ดี,,,false
+3,studying,3,6,cheat,verb,/tʃiːt/,ชีต,โกง ทุจริต,Any student who cheats on the exam will fail.,นักเรียนคนไหนที่โกงข้อสอบจะสอบตก,cheat on a test,,false
+3,studying,3,7,drop out,phrasal verb,/drɑːp aʊt/,ดรอป เอาต์,ลาออกกลางคัน เลิกเรียนกลางคัน,He had to drop out of college to work for his family.,เขาต้องลาออกจากวิทยาลัยกลางคันเพื่อทำงานช่วยครอบครัว,drop out of school / a course,,false
+3,studying,3,8,retake,verb,/riːˈteɪk/,รีเทก,สอบใหม่ สอบซ่อม,I need to retake the driving test next week.,ฉันต้องสอบใบขับขี่ใหม่สัปดาห์หน้า,,,false
+3,studying,3,9,graduate,verb,/ˈɡrædʒueɪt/,แกรจูเอต,สำเร็จการศึกษา เรียนจบ,My sister graduated from university last year.,พี่สาวของฉันเรียนจบมหาวิทยาลัยเมื่อปีที่แล้ว,graduate from a school,🎓,false
+3,studying,3,10,diploma,noun,/dɪˈploʊmə/,ดิโพลมา,ประกาศนียบัตร,He got a diploma in cooking from a school in Chiang Mai.,เขาได้ประกาศนียบัตรด้านการทำอาหารจากโรงเรียนในเชียงใหม่,,📜,false
+3,studying,3,11,transcript,noun,/ˈtrænskrɪpt/,แทรนสคริปต์,ใบแสดงผลการเรียน,The company asked for a copy of my transcript.,บริษัทขอสำเนาใบแสดงผลการเรียนของฉัน,,,false
+3,studying,3,12,tutor,noun,/ˈtuːtər/,ทิวเทอร์,ครูสอนพิเศษ,My son sees a math tutor twice a week.,ลูกชายของฉันเรียนพิเศษคณิตกับครูสอนพิเศษสัปดาห์ละสองครั้ง,,,false
+3,studying,3,13,study for,phrasal verb,/ˈstʌdi fɔːr/,สตัดดี ฟอร์,อ่านหนังสือเตรียมสอบ,I need to study for the TOEIC test this weekend.,สุดสัปดาห์นี้ฉันต้องอ่านหนังสือเตรียมสอบ TOEIC,,📚,false
+3,studying,3,14,pass mark,noun,/pæs mɑːrk/,แพส มาร์ก,คะแนนขั้นต่ำที่สอบผ่าน,The pass mark for this test is 60 out of 100.,คะแนนผ่านของข้อสอบนี้คือ 60 จาก 100,,,false
+3,banking-insurance,1,1,checking account,noun,/ˈtʃɛkɪŋ əˈkaʊnt/,เช็กกิง อะเคานต์,บัญชีกระแสรายวัน,My salary goes into my checking account every month.,เงินเดือนของฉันเข้าบัญชีกระแสรายวันทุกเดือน,US English; UK English says current account.,,false
+3,banking-insurance,1,2,savings account,noun,/ˈseɪvɪŋz əˈkaʊnt/,เซฟวิงส์ อะเคานต์,บัญชีออมทรัพย์,I opened a savings account for my daughter.,ฉันเปิดบัญชีออมทรัพย์ให้ลูกสาว,,,false
+3,banking-insurance,1,3,interest rate,noun,/ˈɪntrəst reɪt/,อินเทอเรสต์ เรต,อัตราดอกเบี้ย,This bank offers a higher interest rate for fixed deposits.,ธนาคารนี้ให้อัตราดอกเบี้ยสูงกว่าสำหรับเงินฝากประจำ,,,false
+3,banking-insurance,1,4,fixed deposit,noun,/fɪkst dɪˈpɑːzɪt/,ฟิกซ์ต ดีพอซิต,เงินฝากประจำ,I put my bonus into a one-year fixed deposit.,ฉันเอาโบนัสไปฝากประจำหนึ่งปี,,,false
+3,banking-insurance,1,5,exchange rate,noun,/ɪksˈtʃeɪndʒ reɪt/,อิกซ์เชนจ์ เรต,อัตราแลกเปลี่ยน,Check the exchange rate before you change baht into yen.,ตรวจอัตราแลกเปลี่ยนก่อนแลกเงินบาทเป็นเยน,,💱,false
+3,banking-insurance,1,6,joint account,noun,/dʒɔɪnt əˈkaʊnt/,จอยต์ อะเคานต์,บัญชีร่วม,My wife and I have a joint account for house costs.,ฉันกับภรรยามีบัญชีร่วมสำหรับค่าใช้จ่ายในบ้าน,,,false
+3,banking-insurance,1,7,transaction,noun,/trænˈzækʃən/,แทรนแซกชัน,ธุรกรรม รายการเดินบัญชี,You can see every transaction in the banking app.,คุณดูธุรกรรมทุกรายการได้ในแอปธนาคาร,,,false
+3,banking-insurance,1,8,foreign currency,noun,/ˈfɔːrən ˈkɜːrənsi/,ฟอเรน เคอเรนซี,เงินตราต่างประเทศ,"You can buy foreign currency at the airport, but the rate is worse.",คุณซื้อเงินตราต่างประเทศได้ที่สนามบิน แต่เรตแย่กว่า,,,false
+3,banking-insurance,1,9,account holder,noun,/əˈkaʊnt ˈhoʊldər/,อะเคานต์ โฮลเดอร์,เจ้าของบัญชี,Only the account holder can close this account.,มีแค่เจ้าของบัญชีเท่านั้นที่ปิดบัญชีนี้ได้,,,false
+3,banking-insurance,1,10,minimum balance,noun,/ˈmɪnɪməm ˈbæləns/,มินิมัม แบลันซ์,ยอดเงินขั้นต่ำในบัญชี,You must keep a minimum balance of 500 baht.,คุณต้องมียอดเงินขั้นต่ำในบัญชี 500 บาท,,,false
+3,banking-insurance,1,11,overdraft,noun,/ˈoʊvərdræft/,โอเวอร์ดราฟต์,การเบิกเงินเกินบัญชี,The bank gave our company a small overdraft for emergencies.,ธนาคารให้วงเงินเบิกเกินบัญชีเล็กน้อยแก่บริษัทเราไว้ใช้ยามฉุกเฉิน,,,false
+3,banking-insurance,1,12,banking hours,noun,/ˈbæŋkɪŋ aʊərz/,แบงกิง อาวเวอร์ส,เวลาทำการของธนาคาร,Banking hours are from 8:30 to 3:30 on weekdays.,เวลาทำการของธนาคารคือ 8:30 ถึง 15:30 ในวันธรรมดา,,,false
+3,banking-insurance,1,13,deposit slip,noun,/dɪˈpɑːzɪt slɪp/,ดีพอซิต สลิป,ใบนำฝาก,Fill in a deposit slip and give it to the teller.,กรอกใบนำฝากแล้วยื่นให้พนักงานธนาคาร,,,false
+3,banking-insurance,1,14,safe deposit box,noun,/seɪf dɪˈpɑːzɪt bɑːks/,เซฟ ดีพอซิต บ็อกซ์,ตู้นิรภัยให้เช่าในธนาคาร,She keeps her gold necklace in a safe deposit box.,เธอเก็บสร้อยทองไว้ในตู้นิรภัยของธนาคาร,,,false
+3,banking-insurance,2,1,borrower,noun,/ˈbɑːroʊər/,บอร์โรเออร์,ผู้กู้,The borrower must pay back the money within three years.,ผู้กู้ต้องจ่ายเงินคืนภายในสามปี,,,false
+3,banking-insurance,2,2,mortgage,noun,/ˈmɔːrɡɪdʒ/,มอร์กิจ,สินเชื่อบ้าน เงินกู้จำนองบ้าน,They will pay off the mortgage on their house in ten years.,พวกเขาจะผ่อนสินเชื่อบ้านหมดในสิบปี,The t is silent: MOR-gij.,🏠,false
+3,banking-insurance,2,3,lender,noun,/ˈlɛndər/,เลนเดอร์,ผู้ให้กู้,Compare several lenders before you choose a home loan.,เปรียบเทียบผู้ให้กู้หลายรายก่อนเลือกสินเชื่อบ้าน,,,false
+3,banking-insurance,2,4,credit limit,noun,/ˈkrɛdɪt ˈlɪmɪt/,เครดิต ลิมิต,วงเงินบัตรเครดิต,My credit limit is too low to pay for the trip.,วงเงินบัตรเครดิตของฉันต่ำเกินกว่าจะจ่ายค่าทริปนี้,,,false
+3,banking-insurance,2,5,credit score,noun,/ˈkrɛdɪt skɔːr/,เครดิต สกอร์,คะแนนเครดิต,Paying bills on time keeps your credit score high.,การจ่ายบิลตรงเวลาช่วยให้คะแนนเครดิตของคุณสูง,,,false
+3,banking-insurance,2,6,repay,verb,/rɪˈpeɪ/,รีเพ,ชำระคืน ใช้หนี้คืน,You have five years to repay the loan.,คุณมีเวลาห้าปีในการชำระเงินกู้คืน,,,false
+3,banking-insurance,2,7,interest-free,adjective,/ˌɪntrəst ˈfriː/,อินเทอเรสต์ ฟรี,ไม่มีดอกเบี้ย,The store offers interest-free payments for ten months.,ร้านมีบริการผ่อนชำระไม่มีดอกเบี้ยสิบเดือน,0% interest = interest-free,,false
+3,banking-insurance,2,8,pawnshop,noun,/ˈpɔːnʃɑːp/,พอนช็อป,โรงรับจำนำ,He took his watch to a pawnshop to get some quick cash.,เขาเอานาฬิกาไปโรงรับจำนำเพื่อได้เงินสดด่วน,,,false
+3,banking-insurance,2,9,down payment,noun,/daʊn ˈpeɪmənt/,ดาวน์ เพย์เมนต์,เงินดาวน์,We saved for three years to make a down payment on a condo.,เราเก็บเงินสามปีเพื่อจ่ายเงินดาวน์คอนโด,,,false
+3,banking-insurance,2,10,repayment,noun,/rɪˈpeɪmənt/,รีเพย์เมนต์,การชำระคืน,The first repayment is due one month after you get the loan.,การชำระคืนงวดแรกครบกำหนดหนึ่งเดือนหลังได้รับเงินกู้,,,false
+3,banking-insurance,2,11,monthly payment,noun,/ˈmʌnθli ˈpeɪmənt/,มันธ์ลี เพย์เมนต์,ค่างวดรายเดือน,"The monthly payment for the car is 9,000 baht.","ค่างวดรถรายเดือนคือ 9,000 บาท",,,false
+3,banking-insurance,2,12,late fee,noun,/leɪt fiː/,เลต ฟี,ค่าปรับชำระล่าช้า,"If you pay after the 15th, there is a late fee.",ถ้าจ่ายหลังวันที่ 15 จะมีค่าปรับชำระล่าช้า,,,false
+3,banking-insurance,2,13,guarantor,noun,/ˌɡærənˈtɔːr/,แกแรนทอร์,ผู้ค้ำประกัน,My father agreed to be the guarantor for my loan.,พ่อตกลงเป็นผู้ค้ำประกันเงินกู้ให้ฉัน,,,false
+3,banking-insurance,2,14,pay off,phrasal verb,/peɪ ɔːf/,เพ ออฟ,ชำระหนี้จนหมด,I want to pay off my credit card before the new year.,ฉันอยากจ่ายหนี้บัตรเครดิตให้หมดก่อนปีใหม่,,,false
+3,banking-insurance,3,1,insurance,noun,/ɪnˈʃʊrəns/,อินชัวรันซ์,การประกันภัย,Do you have insurance for your new motorbike?,คุณทำประกันให้มอเตอร์ไซค์คันใหม่หรือยัง,,,false
+3,banking-insurance,3,2,insured,adjective,/ɪnˈʃʊrd/,อินชัวร์ด,มีประกัน ได้รับความคุ้มครอง,Is your house insured against floods?,บ้านของคุณมีประกันน้ำท่วมไหม,,,false
+3,banking-insurance,3,3,premium,noun,/ˈpriːmiəm/,พรีเมียม,เบี้ยประกัน,I pay the premium for my health plan once a year.,ฉันจ่ายเบี้ยประกันสุขภาพปีละครั้ง,,,false
+3,banking-insurance,3,4,car insurance,noun,/kɑːr ɪnˈʃʊrəns/,คาร์ อินชัวรันซ์,ประกันรถยนต์,My car insurance paid for the new door after the crash.,ประกันรถยนต์จ่ายค่าประตูใหม่หลังรถชน,,🚗,false
+3,banking-insurance,3,5,insurance company,noun,/ɪnˈʃʊrəns ˈkʌmpəni/,อินชัวรันซ์ คัมพะนี,บริษัทประกันภัย,The insurance company paid for my hospital stay.,บริษัทประกันจ่ายค่านอนโรงพยาบาลให้ฉัน,,,false
+3,banking-insurance,3,6,beneficiary,noun,/ˌbɛnɪˈfɪʃiɛri/,เบเนฟิเชียรี,ผู้รับผลประโยชน์,She named her mother as the beneficiary of the policy.,เธอระบุให้แม่เป็นผู้รับผลประโยชน์ของกรมธรรม์,,,false
+3,banking-insurance,3,7,life insurance,noun,/laɪf ɪnˈʃʊrəns/,ไลฟ์ อินชัวรันซ์,ประกันชีวิต,He bought life insurance after his son was born.,เขาซื้อประกันชีวิตหลังลูกชายเกิด,,,false
+3,banking-insurance,3,8,home insurance,noun,/hoʊm ɪnˈʃʊrəns/,โฮม อินชัวรันซ์,ประกันบ้าน,Home insurance can pay for damage from fire or floods.,ประกันบ้านจ่ายค่าความเสียหายจากไฟไหม้หรือน้ำท่วมได้,,🏠,false
+3,banking-insurance,3,9,insure,verb,/ɪnˈʃʊr/,อินชัวร์,ทำประกัน,We insure all our delivery trucks against damage.,เราทำประกันความเสียหายให้รถส่งของทุกคัน,insure something against something,,false
+3,banking-insurance,3,10,insurance card,noun,/ɪnˈʃʊrəns kɑːrd/,อินชัวรันซ์ การ์ด,บัตรประกัน,Show your insurance card at the hospital front desk.,แสดงบัตรประกันที่เคาน์เตอร์ต้อนรับของโรงพยาบาล,,💳,false
+3,banking-insurance,3,11,insurance agent,noun,/ɪnˈʃʊrəns ˈeɪdʒənt/,อินชัวรันซ์ เอเจนต์,ตัวแทนประกัน,An insurance agent explained the plans to us.,ตัวแทนประกันอธิบายแผนต่าง ๆ ให้เราฟัง,,,false
+3,banking-insurance,3,12,renew,verb,/rɪˈnuː/,รีนิว,ต่ออายุ,Don't forget to renew your car insurance next month.,อย่าลืมต่ออายุประกันรถเดือนหน้า,,,false
+3,banking-insurance,3,13,expire,verb,/ɪkˈspaɪər/,เอ็กซ์สไปเออร์,หมดอายุ,My policy expires at the end of this year.,กรมธรรม์ของฉันหมดอายุสิ้นปีนี้,,,false
+3,banking-insurance,3,14,break-in,noun,/ˈbreɪk ɪn/,เบรก อิน,การบุกรุกเข้าบ้านเพื่อขโมย,"After the break-in, we called the police and the insurance agent.",หลังจากบ้านถูกงัด เราโทรแจ้งตำรวจและตัวแทนประกัน,,,false
+3,community,1,1,community center,noun,/kəˈmjuːnəti ˈsɛntər/,คอมมิวนิตี เซนเตอร์,ศูนย์ชุมชน,The community center has free computer classes for seniors.,ศูนย์ชุมชนมีคลาสคอมพิวเตอร์ฟรีสำหรับผู้สูงอายุ,,,false
+3,community,1,2,district office,noun,/ˈdɪstrɪkt ˈɔːfɪs/,ดิสทริกต์ ออฟฟิศ,สำนักงานเขต ที่ว่าการอำเภอ,I went to the district office to change my address.,ฉันไปสำนักงานเขตเพื่อเปลี่ยนที่อยู่,,,false
+3,community,1,3,city hall,noun,/ˈsɪti hɔːl/,ซิตี ฮอล,ศาลาว่าการเมือง,There is a free concert in front of city hall tonight.,คืนนี้มีคอนเสิร์ตฟรีหน้าศาลาว่าการเมือง,,🏛️,false
+3,community,1,4,resident,noun,/ˈrɛzɪdənt/,เรซิเดนต์,ผู้อยู่อาศัย ชาวบ้าน,Residents can use the park pool for free.,ผู้อยู่อาศัยใช้สระว่ายน้ำในสวนได้ฟรี,,,false
+3,community,1,5,local,adjective,/ˈloʊkəl/,โลคอล,ในท้องถิ่น,We buy vegetables from local farmers at the weekend market.,เราซื้อผักจากเกษตรกรในท้องถิ่นที่ตลาดนัดสุดสัปดาห์,,,false
+3,community,1,6,public,adjective,/ˈpʌblɪk/,พับลิก,สาธารณะ,You can't smoke in public places like parks.,คุณสูบบุหรี่ในที่สาธารณะอย่างสวนสาธารณะไม่ได้,,,false
+3,community,1,7,garbage collection,noun,/ˈɡɑːrbɪdʒ kəˈlɛkʃən/,การ์บิจ คอลเล็กชัน,การเก็บขยะ,Garbage collection is on Tuesday and Friday mornings.,รถเก็บขยะมาเช้าวันอังคารและวันศุกร์,US English; UK English says rubbish collection.,🗑️,false
+3,community,1,8,utility bill,noun,/juːˈtɪləti bɪl/,ยูทิลิตี บิล,บิลค่าสาธารณูปโภค (น้ำ ไฟ),I pay my utility bills at the convenience store.,ฉันจ่ายบิลค่าน้ำค่าไฟที่ร้านสะดวกซื้อ,,,false
+3,community,1,9,bus route,noun,/bʌs ruːt/,บัส รูต,เส้นทางรถเมล์,A new bus route now goes past the hospital.,ตอนนี้มีเส้นทางรถเมล์ใหม่ผ่านโรงพยาบาล,,🚌,false
+3,community,1,10,health center,noun,/hɛlθ ˈsɛntər/,เฮลธ์ เซนเตอร์,ศูนย์บริการสาธารณสุข,The health center gives free flu shots to older people.,ศูนย์บริการสาธารณสุขฉีดวัคซีนไข้หวัดใหญ่ฟรีให้ผู้สูงอายุ,,🏥,false
+3,community,1,11,social worker,noun,/ˈsoʊʃəl ˈwɜːrkər/,โซเชียล เวิร์กเกอร์,นักสังคมสงเคราะห์,A social worker visits the old man every week.,นักสังคมสงเคราะห์มาเยี่ยมคุณตาคนนั้นทุกสัปดาห์,,,false
+3,community,1,12,facility,noun,/fəˈsɪləti/,ฟะซิลิตี,สิ่งอำนวยความสะดวก,The sports facilities in our area are open to everyone.,สิ่งอำนวยความสะดวกด้านกีฬาในย่านของเราเปิดให้ทุกคนใช้,Often plural: facilities.,,false
+3,community,1,13,opening hours,noun,/ˈoʊpənɪŋ aʊərz/,โอเพนนิง อาวเวอร์ส,เวลาทำการ,Check the opening hours before you go to the post office.,ตรวจเวลาทำการก่อนไปไปรษณีย์,,🕘,false
+3,community,1,14,senior citizen,noun,/ˈsiːnjər ˈsɪtɪzən/,ซีเนียร์ ซิทิเซน,ผู้สูงอายุ,Senior citizens can ride the bus for half price.,ผู้สูงอายุขึ้นรถเมล์ได้ครึ่งราคา,,,false
+3,community,2,1,volunteer,noun,/ˌvɑːlənˈtɪr/,วอลันเทียร์,อาสาสมัคร,We need ten volunteers to help at the food bank.,เราต้องการอาสาสมัครสิบคนมาช่วยที่ธนาคารอาหาร,,🙋,false
+3,community,2,2,charity,noun,/ˈtʃærəti/,แชริตี,องค์กรการกุศล การกุศล,The company gives money to a children's charity every year.,บริษัทบริจาคเงินให้องค์กรการกุศลเพื่อเด็กทุกปี,,,false
+3,community,2,3,donate,verb,/ˈdoʊneɪt/,โดเนต,บริจาค,I donate my old clothes to the temple every year.,ฉันบริจาคเสื้อผ้าเก่าให้วัดทุกปี,,,false
+3,community,2,4,donation,noun,/doʊˈneɪʃən/,โดเนชัน,เงินหรือสิ่งของบริจาค,Thank you for your kind donation to the school.,ขอบคุณสำหรับการบริจาคให้โรงเรียน,,,false
+3,community,2,5,fundraiser,noun,/ˈfʌndreɪzər/,ฟันด์เรเซอร์,งานระดมทุน,The hospital is holding a fundraiser to buy new beds.,โรงพยาบาลจัดงานระดมทุนเพื่อซื้อเตียงใหม่,,,false
+3,community,2,6,raise money,phrase,/reɪz ˈmʌni/,เรซ มันนี,ระดมเงิน หาเงินบริจาค,We will run ten kilometers to raise money for the shelter.,เราจะวิ่งสิบกิโลเมตรเพื่อระดมเงินให้ศูนย์พักพิง,raise money for a cause,,false
+3,community,2,7,participant,noun,/pɑːrˈtɪsɪpənt/,พาร์ทิซิแพนต์,ผู้เข้าร่วม,Each participant gets a free T-shirt and a bottle of water.,ผู้เข้าร่วมแต่ละคนได้เสื้อยืดและน้ำหนึ่งขวดฟรี,,,false
+3,community,2,8,blood donation,noun,/blʌd doʊˈneɪʃən/,บลัด โดเนชัน,การบริจาคเลือด,The Red Cross truck is here for blood donation today.,วันนี้รถกาชาดมารับบริจาคเลือดที่นี่,,🩸,false
+3,community,2,9,clean-up,noun,/ˈkliːn ʌp/,คลีน อัป,การทำความสะอาดครั้งใหญ่ (พื้นที่ส่วนรวม),About fifty people joined the river clean-up on Sunday.,ประมาณห้าสิบคนมาร่วมทำความสะอาดแม่น้ำเมื่อวันอาทิตย์,,🧹,false
+3,community,2,10,charity run,noun,/ˈtʃærəti rʌn/,แชริตี รัน,งานวิ่งการกุศล,Over a thousand people joined the charity run on Sunday.,มีผู้ร่วมงานวิ่งการกุศลกว่าพันคนเมื่อวันอาทิตย์,,🏃,false
+3,community,2,11,nonprofit,noun,/ˌnɑːnˈprɑːfɪt/,นอนพรอฟิต,องค์กรไม่แสวงหากำไร,She works for a nonprofit that helps street dogs.,เธอทำงานให้องค์กรไม่แสวงหากำไรที่ช่วยเหลือหมาจรจัด,,,false
+3,community,2,12,give back,phrasal verb,/ɡɪv bæk/,กิฟ แบ็ก,ตอบแทนสังคม,I volunteer on weekends because I want to give back to my town.,ฉันเป็นอาสาสมัครวันหยุดเพราะอยากตอบแทนบ้านเกิด,give back to the community,,false
+3,community,2,13,take part,phrase,/teɪk pɑːrt/,เทก พาร์ต,เข้าร่วม,Our team will take part in the charity run next month.,ทีมของเราจะเข้าร่วมงานวิ่งการกุศลเดือนหน้า,take part in something,,false
+3,community,2,14,make a difference,phrase,/meɪk ə ˈdɪfərəns/,เมก อะ ดิฟเฟอเรนซ์,สร้างความเปลี่ยนแปลงที่ดี,Even one hour of help can make a difference to someone.,แม้แต่การช่วยเหลือเพียงชั่วโมงเดียวก็สร้างความเปลี่ยนแปลงให้ใครบางคนได้,,,false
+3,community,3,1,birth certificate,noun,/bɜːrθ sərˈtɪfɪkət/,เบิร์ธ เซอร์ทิฟิเคต,สูติบัตร ใบเกิด,You need your birth certificate to apply for a passport.,คุณต้องใช้สูติบัตรเพื่อยื่นขอหนังสือเดินทาง,,,false
+3,community,3,2,house registration,noun,/haʊs ˌrɛdʒɪˈstreɪʃən/,เฮาส์ เรจิสเทรชัน,ทะเบียนบ้าน,Bring a copy of your house registration to the bank.,นำสำเนาทะเบียนบ้านมาที่ธนาคารด้วย,,,false
+3,community,3,3,driver's license,noun,/ˈdraɪvərz ˈlaɪsəns/,ไดรเวอร์ส ไลเซนส์,ใบขับขี่,"My driver's license expires next year, so I must renew it.",ใบขับขี่ของฉันหมดอายุปีหน้า เลยต้องต่ออายุ,,🪪,false
+3,community,3,4,proof of address,noun,/pruːf əv ˈædrɛs/,พรูฟ ออฟ แอดเดรส,เอกสารยืนยันที่อยู่,A recent utility bill can be used as proof of address.,บิลค่าสาธารณูปโภคล่าสุดใช้เป็นเอกสารยืนยันที่อยู่ได้,,,false
+3,community,3,5,certified copy,noun,/ˈsɜːrtɪfaɪd ˈkɑːpi/,เซอร์ทิฟายด์ คอปปี,สำเนารับรองถูกต้อง,Please sign each certified copy of your ID card.,กรุณาเซ็นรับรองสำเนาบัตรประชาชนทุกแผ่น,In Thailand you sign the copy yourself to certify it.,,false
+3,community,3,6,official,adjective,/əˈfɪʃəl/,อะฟิเชียล,เป็นทางการ ของทางราชการ,You must use an official form from the district office.,คุณต้องใช้แบบฟอร์มทางการจากสำนักงานเขต,,,false
+3,community,3,7,permit,noun,/ˈpɜːrmɪt/,เพอร์มิต,ใบอนุญาต,You need a permit to build a second floor on your house.,คุณต้องมีใบอนุญาตเพื่อต่อเติมชั้นสองของบ้าน,work permit / parking permit,,false
+3,community,3,8,voter,noun,/ˈvoʊtər/,โวเตอร์,ผู้มีสิทธิเลือกตั้ง,Every voter must show an ID card at the polling station.,ผู้มีสิทธิเลือกตั้งทุกคนต้องแสดงบัตรประชาชนที่หน่วยเลือกตั้ง,,🗳️,false
+3,community,3,9,nationality,noun,/ˌnæʃəˈnæləti/,แนชันแนลิตี,สัญชาติ,Write your nationality in the box under your name.,เขียนสัญชาติของคุณในช่องใต้ชื่อ,,,false
+3,community,3,10,marital status,noun,/ˈmærɪtəl ˈsteɪtəs/,แมริทัล สเตตัส,สถานภาพสมรส,"The form asks for your marital status: single, married or divorced.",แบบฟอร์มถามสถานภาพสมรสว่าโสด สมรส หรือหย่าร้าง,,,false
+3,community,3,11,original,noun,/əˈrɪdʒənəl/,ออริจินัล,ฉบับจริง ต้นฉบับ,Bring the original and two copies of your house registration.,นำทะเบียนบ้านฉบับจริงและสำเนาสองชุดมาด้วย,,,false
+3,community,3,12,passport photo,noun,/ˈpæspɔːrt ˈfoʊtoʊ/,พาสปอร์ต โฟโต,รูปถ่ายติดเอกสาร,You need two passport photos for the visa form.,คุณต้องใช้รูปถ่ายติดเอกสารสองใบสำหรับแบบฟอร์มวีซ่า,,,false
+3,community,3,13,paperwork,noun,/ˈpeɪpərwɜːrk/,เพเพอร์เวิร์ก,งานเอกสาร,Buying a house needs a lot of paperwork.,การซื้อบ้านต้องใช้เอกสารเยอะมาก,,🗂️,false
+3,community,3,14,authorized,adjective,/ˈɔːθəraɪzd/,ออเธอไรซ์ด,ได้รับมอบอำนาจ ได้รับอนุญาต,Only an authorized person can collect the documents for you.,เฉพาะผู้ที่ได้รับมอบอำนาจเท่านั้นที่รับเอกสารแทนคุณได้,,,false
+3,marketing,1,1,product name,noun,/ˈprɑːdʌkt neɪm/,โพรดักต์ เนม,ชื่อสินค้า,We need a short product name that is easy to say.,เราต้องการชื่อสินค้าสั้น ๆ ที่ออกเสียงง่าย,,,false
+3,marketing,1,2,logo,noun,/ˈloʊɡoʊ/,โลโก้,โลโก้ สัญลักษณ์ของบริษัท,Our new logo is a green leaf in a circle.,โลโก้ใหม่ของเราเป็นใบไม้สีเขียวในวงกลม,,,false
+3,marketing,1,3,slogan,noun,/ˈsloʊɡən/,สโลแกน,คำขวัญ สโลแกน,We need a short slogan that people will remember.,เราต้องการสโลแกนสั้น ๆ ที่คนจะจำได้,,,false
+3,marketing,1,4,target customer,noun,/ˈtɑːrɡɪt ˈkʌstəmər/,ทาร์เก็ต คัสโตเมอร์,ลูกค้ากลุ่มเป้าหมาย,Our target customers are young office workers in the city.,ลูกค้ากลุ่มเป้าหมายของเราคือคนทำงานออฟฟิศวัยหนุ่มสาวในเมือง,,🎯,false
+3,marketing,1,5,launch,verb,/lɔːntʃ/,ลอนช์,เปิดตัว (สินค้า),We will launch the new drink in March.,เราจะเปิดตัวเครื่องดื่มใหม่ในเดือนมีนาคม,launch a product / a campaign,🚀,false
+3,marketing,1,6,consumer,noun,/kənˈsuːmər/,คอนซูเมอร์,ผู้บริโภค,Consumers today read reviews before they buy anything.,ผู้บริโภคทุกวันนี้อ่านรีวิวก่อนซื้ออะไรก็ตาม,,,false
+3,marketing,1,7,advertisement,noun,/ˌædvərˈtaɪzmənt/,แอดเวอร์ไทซ์เมนต์,โฆษณา (ชิ้นงาน),I saw an advertisement for the new phone on the bus.,ฉันเห็นโฆษณาโทรศัพท์รุ่นใหม่บนรถเมล์,Often shortened to ad.,,false
+3,marketing,1,8,campaign,noun,/kæmˈpeɪn/,แคมเปญ,แคมเปญ การรณรงค์ทางการตลาด,The summer campaign brought many new customers.,แคมเปญหน้าร้อนนำลูกค้าใหม่มามากมาย,,,false
+3,marketing,1,9,promote,verb,/prəˈmoʊt/,โพรโมต,โปรโมต ส่งเสริมการขาย,We promote our products at shopping malls.,เราโปรโมตสินค้าที่ห้างสรรพสินค้า,Also means to give someone a higher job.,,false
+3,marketing,1,10,unique,adjective,/juˈniːk/,ยูนีก,มีเอกลักษณ์ ไม่เหมือนใคร,Our tea has a unique taste that customers remember.,ชาของเรามีรสชาติเป็นเอกลักษณ์ที่ลูกค้าจำได้,unique selling point,,false
+3,marketing,1,11,competitor,noun,/kəmˈpɛtɪtər/,คอมเพทิเทอร์,คู่แข่ง,Our competitor lowered its prices last month.,คู่แข่งของเราลดราคาเมื่อเดือนที่แล้ว,,,false
+3,marketing,1,12,market research,noun,/ˈmɑːrkɪt rɪˈsɜːrtʃ/,มาร์เก็ต รีเสิร์ช,การวิจัยตลาด,Market research shows that people want healthier snacks.,การวิจัยตลาดแสดงว่าผู้คนอยากได้ขนมที่ดีต่อสุขภาพมากขึ้น,,,false
+3,marketing,1,13,survey,noun,/ˈsɜːrveɪ/,เซอร์เวย์,แบบสำรวจ,Please answer this short survey about our service.,กรุณาตอบแบบสำรวจสั้น ๆ เกี่ยวกับบริการของเรา,,📋,false
+3,marketing,1,14,packaging,noun,/ˈpækɪdʒɪŋ/,แพกเกจจิง,บรรจุภัณฑ์,The new packaging is made from recycled paper.,บรรจุภัณฑ์ใหม่ทำจากกระดาษรีไซเคิล,,,false
+3,marketing,2,1,billboard,noun,/ˈbɪlbɔːrd/,บิลบอร์ด,ป้ายโฆษณาขนาดใหญ่,You can see our billboard from the expressway.,คุณมองเห็นป้ายโฆษณาของเราได้จากทางด่วน,,,false
+3,marketing,2,2,flyer,noun,/ˈflaɪər/,ฟลายเออร์,ใบปลิว,We handed out flyers at the train station this morning.,เช้านี้เราแจกใบปลิวที่สถานีรถไฟ,,,false
+3,marketing,2,3,hand out,phrasal verb,/hænd aʊt/,แฮนด์ เอาต์,แจกจ่าย,Students hand out free samples at the mall on weekends.,นักศึกษาแจกสินค้าตัวอย่างฟรีที่ห้างในวันหยุด,,,false
+3,marketing,2,4,commercial,noun,/kəˈmɜːrʃəl/,คอมเมอร์เชียล,โฆษณาทางทีวีหรือวิทยุ,The new TV commercial is only thirty seconds long.,โฆษณาทางทีวีตัวใหม่ยาวแค่สามสิบวินาที,,📺,false
+3,marketing,2,5,sponsor,verb,/ˈspɑːnsər/,สปอนเซอร์,เป็นผู้สนับสนุน,A bank sponsors the city marathon every year.,ธนาคารแห่งหนึ่งเป็นผู้สนับสนุนงานมาราธอนของเมืองทุกปี,,,false
+3,marketing,2,6,banner,noun,/ˈbænər/,แบนเนอร์,ป้ายผ้า แบนเนอร์,Hang the banner above the entrance before the event.,แขวนป้ายแบนเนอร์เหนือทางเข้าก่อนเริ่มงาน,Also an ad across the top of a website.,,false
+3,marketing,2,7,poster,noun,/ˈpoʊstər/,โปสเตอร์,โปสเตอร์,We put posters about the sale in every branch.,เราติดโปสเตอร์เรื่องการลดราคาในทุกสาขา,,🖼️,false
+3,marketing,2,8,online ad,noun,/ˈɑːnlaɪn æd/,ออนไลน์ แอด,โฆษณาออนไลน์,Our online ads are shown only to people in Bangkok.,โฆษณาออนไลน์ของเราแสดงเฉพาะคนในกรุงเทพฯ,,,false
+3,marketing,2,9,newsletter,noun,/ˈnuːzlɛtər/,นิวส์เลตเตอร์,จดหมายข่าว,We send a newsletter to our customers every month.,เราส่งจดหมายข่าวถึงลูกค้าทุกเดือน,,📰,false
+3,marketing,2,10,email marketing,noun,/ˈiːmeɪl ˈmɑːrkɪtɪŋ/,อีเมล มาร์เก็ตติง,การตลาดผ่านอีเมล,"Email marketing is cheap, but many people never open the emails.",การตลาดผ่านอีเมลมีต้นทุนต่ำ แต่หลายคนไม่เคยเปิดอ่าน,,📧,false
+3,marketing,2,11,word of mouth,noun,/ˌwɜːrd əv ˈmaʊθ/,เวิร์ด ออฟ เมาธ์,การบอกต่อแบบปากต่อปาก,Most of our customers find us by word of mouth.,ลูกค้าส่วนใหญ่รู้จักเราจากการบอกต่อปากต่อปาก,,,false
+3,marketing,2,12,free sample,noun,/friː ˈsæmpəl/,ฟรี แซมเปิล,สินค้าตัวอย่างแจกฟรี,They gave out free samples of the new coffee at the mall.,พวกเขาแจกกาแฟตัวใหม่ให้ชิมฟรีที่ห้าง,,,false
+3,marketing,2,13,discount code,noun,/ˈdɪskaʊnt koʊd/,ดิสเคานต์ โคด,โค้ดส่วนลด,Enter the discount code at checkout to save ten percent.,ใส่โค้ดส่วนลดตอนชำระเงินเพื่อประหยัดสิบเปอร์เซ็นต์,,,false
+3,marketing,2,14,trade show,noun,/treɪd ʃoʊ/,เทรด โชว์,งานแสดงสินค้า,We will have a booth at the food trade show in May.,เราจะมีบูธที่งานแสดงสินค้าอาหารในเดือนพฤษภาคม,,,false
+3,marketing,3,1,sales data,noun,/seɪlz ˈdeɪtə/,เซลส์ เดตา,ข้อมูลยอดขาย,The sales data shows that weekends are our busiest days.,ข้อมูลยอดขายแสดงว่าวันหยุดสุดสัปดาห์เป็นวันที่ขายดีที่สุด,,,false
+3,marketing,3,2,popularity,noun,/ˌpɑːpjəˈlærəti/,พอพพิวแลริตี,ความนิยม,The popularity of plant-based food is growing fast.,ความนิยมของอาหารจากพืชกำลังเติบโตอย่างรวดเร็ว,,,false
+3,marketing,3,3,website traffic,noun,/ˈwɛbsaɪt ˈtræfɪk/,เว็บไซต์ แทรฟฟิก,จำนวนผู้เข้าชมเว็บไซต์,Our website traffic doubled after the TV interview.,จำนวนผู้เข้าชมเว็บไซต์ของเราเพิ่มเป็นสองเท่าหลังสัมภาษณ์ทางทีวี,,,false
+3,marketing,3,4,market share,noun,/ˈmɑːrkɪt ʃɛr/,มาร์เก็ต แชร์,ส่วนแบ่งตลาด,We want to grow our market share to 15 percent.,เราอยากเพิ่มส่วนแบ่งตลาดเป็น 15 เปอร์เซ็นต์,,,false
+3,marketing,3,5,trend,noun,/trɛnd/,เทรนด์,แนวโน้ม กระแส,The chart shows a clear trend: online sales are going up.,กราฟแสดงแนวโน้มชัดเจนว่ายอดขายออนไลน์กำลังเพิ่มขึ้น,,,false
+3,marketing,3,6,growth,noun,/ɡroʊθ/,โกรธ,การเติบโต,The company had strong growth in the second quarter.,บริษัทเติบโตแข็งแกร่งในไตรมาสที่สอง,,📈,false
+3,marketing,3,7,response rate,noun,/rɪˈspɑːns reɪt/,รีสปอนส์ เรต,อัตราการตอบกลับ,The email had a response rate of only two percent.,อีเมลนั้นมีอัตราการตอบกลับแค่สองเปอร์เซ็นต์,,,false
+3,marketing,3,8,analyze,verb,/ˈænəlaɪz/,แอนะไลซ์,วิเคราะห์,We analyze the sales data at the end of every month.,เราวิเคราะห์ข้อมูลยอดขายทุกสิ้นเดือน,US spelling; UK English writes analyse.,,false
+3,marketing,3,9,percentage,noun,/pərˈsɛntɪdʒ/,เพอร์เซ็นทิจ,ร้อยละ สัดส่วน,What percentage of our buyers are new customers?,ผู้ซื้อของเรากี่เปอร์เซ็นต์เป็นลูกค้าใหม่,,,false
+3,marketing,3,10,effective,adjective,/ɪˈfɛktɪv/,อิเฟกทิฟ,ได้ผล มีประสิทธิผล,Short videos were the most effective ads this year.,คลิปสั้นเป็นโฆษณาที่ได้ผลที่สุดในปีนี้,,,false
+3,marketing,3,11,customer behavior,noun,/ˈkʌstəmər bɪˈheɪvjər/,คัสโตเมอร์ บีเฮเวียร์,พฤติกรรมผู้บริโภค,Customer behavior changed a lot after online shopping grew.,พฤติกรรมผู้บริโภคเปลี่ยนไปมากหลังการซื้อของออนไลน์เติบโต,,,false
+3,marketing,3,12,rating,noun,/ˈreɪtɪŋ/,เรทติง,คะแนนรีวิว เรตติ้ง,Our app has a rating of 4.5 stars.,แอปของเรามีคะแนนรีวิว 4.5 ดาว,,⭐,false
+3,marketing,3,13,boost,verb,/buːst/,บูสต์,เพิ่ม กระตุ้น,The holiday sale boosted our online orders by 30 percent.,การลดราคาช่วงวันหยุดช่วยเพิ่มยอดสั่งซื้อออนไลน์ 30 เปอร์เซ็นต์,boost sales,,false
+3,marketing,3,14,rise,verb,/raɪz/,ไรซ์,เพิ่มขึ้น สูงขึ้น,Sales usually rise in December because of the holidays.,ยอดขายมักเพิ่มขึ้นในเดือนธันวาคมเพราะช่วงวันหยุด,Rise has no object; raise has an object.,📈,false
+3,clients,1,1,frequent buyer,noun,/ˈfriːkwənt ˈbaɪər/,ฟรีเควนต์ ไบเออร์,ผู้ซื้อประจำ,Frequent buyers get free delivery on every order.,ผู้ซื้อประจำได้ส่งฟรีทุกคำสั่งซื้อ,,,false
+3,clients,1,2,prospect,noun,/ˈprɑːspɛkt/,พรอสเปกต์,ลูกค้าที่มีแนวโน้มจะซื้อ,"I called five prospects today, and two want a meeting.",วันนี้ฉันโทรหาลูกค้าที่มีแนวโน้มห้าราย สองรายอยากนัดประชุม,,,false
+3,clients,1,3,sales lead,noun,/seɪlz liːd/,เซลส์ ลีด,รายชื่อลูกค้าที่น่าจะสนใจ,The trade show gave us more than a hundred sales leads.,งานแสดงสินค้าทำให้เราได้รายชื่อลูกค้าที่น่าสนใจกว่าร้อยราย,,,false
+3,clients,1,4,cold call,noun,/koʊld kɔːl/,โคลด์ คอล,การโทรหาลูกค้าที่ไม่เคยติดต่อมาก่อน,"Making a cold call is hard, but it gets easier with practice.",การโทรหาลูกค้าที่ไม่รู้จักนั้นยาก แต่จะง่ายขึ้นเมื่อฝึกบ่อย ๆ,,📞,false
+3,clients,1,5,sales pitch,noun,/seɪlz pɪtʃ/,เซลส์ พิตช์,การนำเสนอขาย,Keep your sales pitch short and clear.,ทำให้การนำเสนอขายของคุณสั้นและชัดเจน,,,false
+3,clients,1,6,approach,verb,/əˈproʊtʃ/,อะโพรช,เข้าหา ติดต่อ (เพื่อเสนอขาย),We approached three hotels about our cleaning service.,เราติดต่อโรงแรมสามแห่งเพื่อเสนอบริการทำความสะอาด,,,false
+3,clients,1,7,business lunch,noun,/ˈbɪznəs lʌntʃ/,บิซิเนส ลันช์,การรับประทานอาหารกลางวันเพื่อคุยธุรกิจ,I'm taking a new client to a business lunch on Friday.,วันศุกร์ฉันจะพาลูกค้าใหม่ไปทานอาหารกลางวันคุยธุรกิจ,,🍽️,false
+3,clients,1,8,convince,verb,/kənˈvɪns/,คอนวินซ์,ทำให้เชื่อ ทำให้มั่นใจ,We need to convince them that our price is fair.,เราต้องทำให้พวกเขาเชื่อว่าราคาของเรายุติธรรม,,,false
+3,clients,1,9,recommendation,noun,/ˌrɛkəmɛnˈdeɪʃən/,เรคคอมเมนเดชัน,การแนะนำ คำแนะนำ,Most of our new clients come from a friend's recommendation.,ลูกค้าใหม่ส่วนใหญ่มาจากการแนะนำของเพื่อน,,,false
+3,clients,1,10,selling point,noun,/ˈsɛlɪŋ pɔɪnt/,เซลลิง พอยต์,จุดขาย,The long battery life is the phone's main selling point.,แบตเตอรี่ที่ใช้ได้นานคือจุดขายหลักของโทรศัพท์รุ่นนี้,,,false
+3,clients,1,11,decision maker,noun,/dɪˈsɪʒən ˈmeɪkər/,ดีซิชัน เมกเกอร์,ผู้มีอำนาจตัดสินใจ,"Try to speak to the decision maker, not only the assistant.",พยายามคุยกับผู้มีอำนาจตัดสินใจ ไม่ใช่แค่ผู้ช่วย,,,false
+3,clients,1,12,product range,noun,/ˈprɑːdʌkt reɪndʒ/,โพรดักต์ เรนจ์,กลุ่มสินค้าทั้งหมดที่มีขาย,Our product range now includes snacks for pets.,กลุ่มสินค้าของเราตอนนี้มีขนมสำหรับสัตว์เลี้ยงด้วย,,,false
+3,clients,1,13,competitive,adjective,/kəmˈpɛtətɪv/,คอมเพททิทิฟ,(ราคา) สู้คู่แข่งได้,We offer competitive prices and fast delivery.,เราเสนอราคาที่สู้คู่แข่งได้และจัดส่งรวดเร็ว,competitive price,,false
+3,clients,1,14,sales target,noun,/seɪlz ˈtɑːrɡɪt/,เซลส์ ทาร์เก็ต,เป้ายอดขาย,Our team reached its sales target two weeks early.,ทีมเราทำยอดขายถึงเป้าก่อนกำหนดสองสัปดาห์,,,false
+3,clients,2,1,special price,noun,/ˈspɛʃəl praɪs/,สเปเชียล ไพรซ์,ราคาพิเศษ,We can give you a special price if you order today.,เราให้ราคาพิเศษได้ถ้าคุณสั่งวันนี้,,,false
+3,clients,2,2,negotiate,verb,/nɪˈɡoʊʃieɪt/,เนโกชิเอต,เจรจาต่อรอง,We negotiated a lower price for a two-year contract.,เราเจรจาได้ราคาที่ต่ำลงสำหรับสัญญาสองปี,,,false
+3,clients,2,3,free trial,noun,/friː ˈtraɪəl/,ฟรี ไทรอัล,การทดลองใช้ฟรี,We offer a free trial so clients can test the software.,เรามีให้ทดลองใช้ฟรีเพื่อให้ลูกค้าทดสอบซอฟต์แวร์,,,false
+3,clients,2,4,agreement,noun,/əˈɡriːmənt/,อะกรีเมนต์,ข้อตกลง,Both companies signed an agreement to work together.,ทั้งสองบริษัทเซ็นข้อตกลงร่วมมือกัน,,,false
+3,clients,2,5,terms and conditions,noun,/tɜːrmz ənd kənˈdɪʃənz/,เทิร์มส์ แอนด์ คอนดิชันส์,ข้อกำหนดและเงื่อนไข,The terms and conditions are on the back of the form.,ข้อกำหนดและเงื่อนไขอยู่ด้านหลังแบบฟอร์ม,,,false
+3,clients,2,6,close a deal,phrase,/kloʊz ə diːl/,โคลส อะ ดีล,ปิดการขาย ตกลงซื้อขายสำเร็จ,I hope we can close a deal with them before Friday.,ฉันหวังว่าเราจะปิดการขายกับพวกเขาได้ก่อนวันศุกร์,,,false
+3,clients,2,7,bulk order,noun,/bʌlk ˈɔːrdər/,บัลก์ ออร์เดอร์,การสั่งซื้อจำนวนมาก,We give a special price for bulk orders.,เราให้ราคาพิเศษสำหรับการสั่งซื้อจำนวนมาก,,📦,false
+3,clients,2,8,minimum order,noun,/ˈmɪnɪməm ˈɔːrdər/,มินิมัม ออร์เดอร์,ยอดสั่งซื้อขั้นต่ำ,The minimum order is one hundred boxes.,ยอดสั่งซื้อขั้นต่ำคือหนึ่งร้อยกล่อง,,,false
+3,clients,2,9,payment terms,noun,/ˈpeɪmənt tɜːrmz/,เพย์เมนต์ เทิร์มส์,เงื่อนไขการชำระเงิน,Our payment terms are thirty days after delivery.,เงื่อนไขการชำระเงินของเราคือสามสิบวันหลังส่งสินค้า,,,false
+3,clients,2,10,mutual,adjective,/ˈmjuːtʃuəl/,มิวชวล,ร่วมกัน ทั้งสองฝ่าย,The deal is based on mutual trust and respect.,ข้อตกลงนี้ตั้งอยู่บนความไว้ใจและความเคารพซึ่งกันและกัน,mutual benefit,,false
+3,clients,2,11,quotation,noun,/kwoʊˈteɪʃən/,โควเทชัน,ใบเสนอราคา,Could you send me a quotation for 500 chairs?,ช่วยส่งใบเสนอราคาเก้าอี้ 500 ตัวให้หน่อยได้ไหม,More formal than quote.,,false
+3,clients,2,12,fair price,noun,/fɛr praɪs/,แฟร์ ไพรซ์,ราคายุติธรรม,We think 300 baht per box is a fair price.,เราคิดว่ากล่องละ 300 บาทเป็นราคาที่ยุติธรรม,,,false
+3,clients,2,13,partnership,noun,/ˈpɑːrtnərʃɪp/,พาร์ตเนอร์ชิป,ความร่วมมือทางธุรกิจ หุ้นส่วน,We started a partnership with a local coffee farm.,เราเริ่มความร่วมมือกับไร่กาแฟในท้องถิ่น,,🤝,false
+3,clients,2,14,agree on,phrasal verb,/əˈɡriː ɑːn/,อะกรี ออน,ตกลงกันเรื่อง,We need to agree on the price before we sign anything.,เราต้องตกลงเรื่องราคากันก่อนจะเซ็นอะไร,,,false
+3,clients,3,1,loyal,adjective,/ˈlɔɪəl/,ลอยัล,ภักดี ซื่อสัตย์,She has been a loyal customer for over ten years.,เธอเป็นลูกค้าประจำที่ภักดีมากว่าสิบปี,,,false
+3,clients,3,2,loyalty program,noun,/ˈlɔɪəlti ˈproʊɡræm/,ลอยัลตี โปรแกรม,โปรแกรมสะสมแต้มสมาชิก,Members of our loyalty program get points with every purchase.,สมาชิกโปรแกรมสะสมแต้มของเราได้แต้มทุกครั้งที่ซื้อ,,,false
+3,clients,3,3,customer care,noun,/ˈkʌstəmər kɛr/,คัสโตเมอร์ แคร์,การดูแลลูกค้า,Call our customer care line if you have any questions.,โทรหาสายดูแลลูกค้าของเราหากมีคำถาม,,,false
+3,clients,3,4,VIP,noun,/ˌviː aɪ ˈpiː/,วีไอพี,บุคคลสำคัญ ลูกค้าระดับวีไอพี,Our VIP clients get a gift every New Year.,ลูกค้าวีไอพีของเราได้รับของขวัญทุกปีใหม่,Very important person.,,false
+3,clients,3,5,satisfaction,noun,/ˌsætɪsˈfækʃən/,แซทิสแฟกชัน,ความพึงพอใจ,Customer satisfaction is our number one goal.,ความพึงพอใจของลูกค้าคือเป้าหมายอันดับหนึ่งของเรา,,,false
+3,clients,3,6,relationship,noun,/rɪˈleɪʃənʃɪp/,รีเลชันชิป,ความสัมพันธ์,We have built a good relationship with our biggest client.,เราสร้างความสัมพันธ์ที่ดีกับลูกค้ารายใหญ่ที่สุด,,,false
+3,clients,3,7,appreciation,noun,/əˌpriːʃiˈeɪʃən/,อะพรีชิเอชัน,ความซาบซึ้ง การแสดงความขอบคุณ,We sent flowers to the client as a sign of appreciation.,เราส่งดอกไม้ให้ลูกค้าเพื่อแสดงความขอบคุณ,,,false
+3,clients,3,8,after-sales service,noun,/ˌæftər seɪlz ˈsɜːrvɪs/,อาฟเตอร์ เซลส์ เซอร์วิส,บริการหลังการขาย,We are known for fast after-sales service.,เราขึ้นชื่อเรื่องบริการหลังการขายที่รวดเร็ว,,,false
+3,clients,3,9,follow-up call,noun,/ˈfɑːloʊ ʌp kɔːl/,ฟอลโลว์ อัป คอล,การโทรติดตามผล,I made a follow-up call to see if they liked the product.,ฉันโทรติดตามผลเพื่อถามว่าพวกเขาชอบสินค้าไหม,,📞,false
+3,clients,3,10,reliable,adjective,/rɪˈlaɪəbəl/,รีไลอะเบิล,ไว้ใจได้ เชื่อถือได้,Clients choose us because our delivery is reliable.,ลูกค้าเลือกเราเพราะการจัดส่งของเราเชื่อถือได้,,,false
+3,clients,3,11,courtesy,noun,/ˈkɜːrtəsi/,เคอร์เทซี,ความสุภาพ ความมีน้ำใจ,"Treat every client with courtesy, even on busy days.",ปฏิบัติต่อลูกค้าทุกคนอย่างสุภาพ แม้ในวันที่ยุ่ง,,,false
+3,clients,3,12,account manager,noun,/əˈkaʊnt ˈmænɪdʒər/,อะเคานต์ แมเนเจอร์,ผู้ดูแลลูกค้า,Your account manager will call you every month.,ผู้ดูแลลูกค้าของคุณจะโทรหาคุณทุกเดือน,,,false
+3,clients,3,13,expectation,noun,/ˌɛkspɛkˈteɪʃən/,เอกซ์เปกเทชัน,ความคาดหวัง,We always try to meet our clients' expectations.,เราพยายามทำให้ได้ตามความคาดหวังของลูกค้าเสมอ,meet / exceed expectations,,false
+3,clients,3,14,long-term,adjective,/ˌlɔːŋ ˈtɜːrm/,ลอง เทิร์ม,ระยะยาว,"We want a long-term partnership, not just one sale.",เราต้องการความร่วมมือระยะยาว ไม่ใช่แค่การขายครั้งเดียว,,,false
+3,complaints,1,1,dissatisfied,adjective,/dɪsˈsætɪsfaɪd/,ดิสแซทิสฟายด์,ไม่พอใจ,The customer was dissatisfied with the slow delivery.,ลูกค้าไม่พอใจที่การจัดส่งล่าช้า,dissatisfied with something,,false
+3,complaints,1,2,furious,adjective,/ˈfjʊriəs/,ฟิวเรียส,โกรธมาก,The guest was furious when he saw the bill.,แขกโกรธมากเมื่อเห็นบิล,,😡,false
+3,complaints,1,3,poor service,noun,/pʊr ˈsɜːrvɪs/,พัวร์ เซอร์วิส,บริการที่แย่,She complained about the poor service at the front desk.,เธอร้องเรียนเรื่องบริการที่แย่ที่แผนกต้อนรับ,,,false
+3,complaints,1,4,unreasonable,adjective,/ʌnˈriːzənəbəl/,อันรีซันนะเบิล,ไม่สมเหตุสมผล,The customer said the extra fee was unreasonable.,ลูกค้าบอกว่าค่าธรรมเนียมเพิ่มเติมนั้นไม่สมเหตุสมผล,,,false
+3,complaints,1,5,rudeness,noun,/ˈruːdnəs/,รูดเนส,ความหยาบคาย,The customer complained about the driver's rudeness.,ลูกค้าร้องเรียนเรื่องความหยาบคายของคนขับ,,,false
+3,complaints,1,6,billing error,noun,/ˈbɪlɪŋ ˈɛrər/,บิลลิง เออเรอร์,ข้อผิดพลาดในการเรียกเก็บเงิน,"There was a billing error, so you were charged twice.",มีข้อผิดพลาดในการเรียกเก็บเงิน คุณจึงถูกเก็บเงินสองครั้ง,,,false
+3,complaints,1,7,unprofessional,adjective,/ˌʌnprəˈfɛʃənəl/,อันโพรเฟสชันนัล,ไม่เป็นมืออาชีพ,The staff member was unprofessional and did not listen.,พนักงานคนนั้นไม่เป็นมืออาชีพและไม่ฟังเลย,,,false
+3,complaints,1,8,careless,adjective,/ˈkɛrləs/,แคร์เลส,สะเพร่า ไม่ระมัดระวัง,A careless mistake in packing broke the glasses.,ความสะเพร่าตอนแพ็กของทำให้แก้วแตก,,,false
+3,complaints,1,9,unacceptable,adjective,/ˌʌnəkˈsɛptəbəl/,อันแอกเซปทะเบิล,ยอมรับไม่ได้,The guest said the noise at night was unacceptable.,แขกบอกว่าเสียงดังตอนกลางคืนเป็นเรื่องที่ยอมรับไม่ได้,,,false
+3,complaints,1,10,wrong order,noun,/rɔːŋ ˈɔːrdər/,รอง ออร์เดอร์,ได้รับของผิดรายการ,"The customer got the wrong order, so we sent a new one.",ลูกค้าได้ของผิดรายการ เราจึงส่งรายการใหม่ไปให้,,,false
+3,complaints,1,11,annoying,adjective,/əˈnɔɪɪŋ/,อะนอยอิง,น่ารำคาญ,The loud music in the hotel lobby was really annoying.,เสียงเพลงดังในล็อบบี้โรงแรมน่ารำคาญมาก,,,false
+3,complaints,1,12,sincerely,adverb,/sɪnˈsɪrli/,ซินเซียร์ลี,อย่างจริงใจ,We sincerely apologize for the problem with your room.,เราขออภัยอย่างจริงใจสำหรับปัญหาเรื่องห้องพักของคุณ,,,false
+3,complaints,1,13,concern,noun,/kənˈsɜːrn/,คอนเซิร์น,ความกังวล ข้อกังวล,Thank you for telling us about your concern.,ขอบคุณที่แจ้งข้อกังวลของคุณให้เราทราบ,raise a concern,,false
+3,complaints,1,14,understandable,adjective,/ˌʌndərˈstændəbəl/,อันเดอร์สแตนดะเบิล,เข้าใจได้,"Your anger is understandable, and we will fix this today.",ความโกรธของคุณเป็นเรื่องที่เข้าใจได้ และเราจะแก้ไขภายในวันนี้,,,false
+3,complaints,2,1,redo,verb,/riːˈduː/,รีดู,ทำใหม่,We will redo the cleaning for free tomorrow morning.,เราจะทำความสะอาดใหม่ให้ฟรีพรุ่งนี้เช้า,,,false
+3,complaints,2,2,refund request,noun,/ˈriːfʌnd rɪˈkwɛst/,รีฟันด์ รีเควสต์,คำขอคืนเงิน,We will check your refund request within three working days.,เราจะตรวจสอบคำขอคืนเงินของคุณภายในสามวันทำการ,,,false
+3,complaints,2,3,investigate,verb,/ɪnˈvɛstɪɡeɪt/,อินเวสทิเกต,ตรวจสอบ สืบหา,We will investigate the problem and call you back.,เราจะตรวจสอบปัญหาแล้วโทรกลับหาคุณ,,,false
+3,complaints,2,4,redelivery,noun,/ˌriːdɪˈlɪvəri/,รีดิลิเวอรี,การจัดส่งใหม่,We booked a redelivery for tomorrow morning.,เราจองการจัดส่งใหม่ในเช้าวันพรุ่งนี้,,,false
+3,complaints,2,5,on the house,phrase,/ɑːn ðə haʊs/,ออน เดอะ เฮาส์,ทางร้านเลี้ยง ฟรี,Sorry for the wait; your drinks are on the house.,ขอโทษที่ให้รอ เครื่องดื่มของคุณทางร้านเลี้ยงค่ะ,,,false
+3,complaints,2,6,free upgrade,noun,/friː ˈʌpɡreɪd/,ฟรี อัปเกรด,การอัปเกรดฟรี,The airline gave us a free upgrade because of the delay.,สายการบินอัปเกรดที่นั่งให้เราฟรีเพราะความล่าช้า,,,false
+3,complaints,2,7,alternative,noun,/ɔːlˈtɜːrnətɪv/,ออลเทอร์นะทิฟ,ทางเลือกอื่น,"If this color is sold out, we can offer an alternative.",ถ้าสีนี้หมด เราเสนอทางเลือกอื่นให้ได้,,,false
+3,complaints,2,8,urgently,adverb,/ˈɜːrdʒəntli/,เออร์เจนต์ลี,อย่างเร่งด่วน,We are working urgently to fix the problem with your account.,เรากำลังเร่งแก้ไขปัญหาบัญชีของคุณอย่างเร่งด่วน,,,false
+3,complaints,2,9,acceptable,adjective,/əkˈsɛptəbəl/,แอกเซปทะเบิล,ยอมรับได้,Is a new delivery date next Monday acceptable to you?,วันส่งใหม่เป็นวันจันทร์หน้าคุณยอมรับได้ไหม,,,false
+3,complaints,2,10,make up for,phrasal verb,/meɪk ʌp fɔːr/,เมก อัป ฟอร์,ชดเชย ทดแทน,"To make up for the delay, we will give you free shipping.",เพื่อชดเชยความล่าช้า เราจะส่งสินค้าให้ฟรี,,,false
+3,complaints,2,11,option,noun,/ˈɑːpʃən/,ออปชัน,ทางเลือก,You have two options: a refund or a new item.,คุณมีสองทางเลือก คือรับเงินคืนหรือรับสินค้าชิ้นใหม่,,,false
+3,complaints,2,12,immediately,adverb,/ɪˈmiːdiətli/,อิมมีเดียตลี,ทันที,We will send a new charger immediately.,เราจะส่งที่ชาร์จใหม่ไปให้ทันที,,,false
+3,complaints,2,13,take responsibility,phrase,/teɪk rɪˌspɑːnsəˈbɪləti/,เทก รีสปอนซิบิลิตี,รับผิดชอบ,We take responsibility for the mistake and will fix it today.,เรารับผิดชอบต่อความผิดพลาดและจะแก้ไขภายในวันนี้,take responsibility for something,,false
+3,complaints,2,14,guarantee,verb,/ˌɡærənˈtiː/,แกแรนที,รับประกัน,We guarantee that your order will arrive by Friday.,เรารับประกันว่าคำสั่งซื้อของคุณจะถึงภายในวันศุกร์,,,false
+3,complaints,3,1,complaint log,noun,/kəmˈpleɪnt lɔːɡ/,คอมเพลนต์ ลอก,บันทึกข้อร้องเรียน,Write every call in the complaint log before you finish work.,บันทึกทุกสายลงในบันทึกข้อร้องเรียนก่อนเลิกงาน,,,false
+3,complaints,3,2,return policy,noun,/rɪˈtɜːrn ˈpɑːləsi/,รีเทิร์น พอลิซี,นโยบายการคืนสินค้า,Our return policy allows returns within 14 days.,นโยบายการคืนสินค้าของเราอนุญาตให้คืนได้ภายใน 14 วัน,,,false
+3,complaints,3,3,senior staff,noun,/ˈsiːnjər stæf/,ซีเนียร์ สตาฟ,พนักงานอาวุโส,Difficult complaints go to senior staff.,ข้อร้องเรียนที่ยากจะส่งต่อให้พนักงานอาวุโส,,,false
+3,complaints,3,4,prevent,verb,/prɪˈvɛnt/,พรีเวนต์,ป้องกัน,We added a new check to prevent the same mistake.,เราเพิ่มขั้นตอนตรวจสอบใหม่เพื่อป้องกันความผิดพลาดแบบเดิม,prevent something from happening,,false
+3,complaints,3,5,reference number,noun,/ˈrɛfərəns ˈnʌmbər/,เรฟเฟอเรนซ์ นัมเบอร์,หมายเลขอ้างอิง,Please keep this reference number for your complaint.,กรุณาเก็บหมายเลขอ้างอิงนี้ไว้สำหรับเรื่องร้องเรียนของคุณ,,,false
+3,complaints,3,6,quality check,noun,/ˈkwɑːləti tʃɛk/,ควอลิตี เช็ก,การตรวจสอบคุณภาพ,Every box gets a quality check before it leaves the warehouse.,ทุกกล่องต้องผ่านการตรวจสอบคุณภาพก่อนออกจากคลังสินค้า,,,false
+3,complaints,3,7,cause,noun,/kɔːz/,คอซ,สาเหตุ,We found the cause of the problem: a broken machine.,เราพบสาเหตุของปัญหาแล้ว คือเครื่องจักรเสีย,,,false
+3,complaints,3,8,improvement,noun,/ɪmˈpruːvmənt/,อิมพรูฟเมนต์,การปรับปรุง,Customer comments help us make improvements to our service.,ความเห็นของลูกค้าช่วยให้เราปรับปรุงบริการได้,,,false
+3,complaints,3,9,case,noun,/keɪs/,เคส,กรณี เรื่องที่รับไว้,I'm closing your case because the problem is solved.,ฉันจะปิดเรื่องของคุณเพราะปัญหาได้รับการแก้ไขแล้ว,,,false
+3,complaints,3,10,in writing,phrase,/ɪn ˈraɪtɪŋ/,อิน ไรทิง,เป็นลายลักษณ์อักษร,Please send us your complaint in writing.,กรุณาส่งข้อร้องเรียนของคุณมาเป็นลายลักษณ์อักษร,,,false
+3,complaints,3,11,procedure,noun,/prəˈsiːdʒər/,โพรซีเจอร์,ขั้นตอน วิธีปฏิบัติ,All staff must follow the same procedure for complaints.,พนักงานทุกคนต้องทำตามขั้นตอนเดียวกันในการรับเรื่องร้องเรียน,,,false
+3,complaints,3,12,responsible,adjective,/rɪˈspɑːnsəbəl/,รีสปอนซิเบิล,เป็นผู้รับผิดชอบ,Tom is responsible for answering customer emails.,ทอมเป็นผู้รับผิดชอบการตอบอีเมลลูกค้า,responsible for something,,false
+3,complaints,3,13,error,noun,/ˈɛrər/,เออเรอร์,ข้อผิดพลาด,There was an error in the address on your parcel.,มีข้อผิดพลาดในที่อยู่บนพัสดุของคุณ,,,false
+3,complaints,3,14,prompt,adjective,/prɑːmpt/,พรอมพ์ต์,รวดเร็ว ทันท่วงที,Thank you for your prompt reply to my email.,ขอบคุณที่ตอบอีเมลของฉันอย่างรวดเร็ว,,,false
+3,accounting,1,1,revenue,noun,/ˈrɛvənuː/,เรฟเวนิว,รายได้ (ของบริษัท),Our revenue grew by ten percent this year.,รายได้ของเราเพิ่มขึ้นสิบเปอร์เซ็นต์ในปีนี้,,,false
+3,accounting,1,2,loss,noun,/lɔːs/,ลอส,การขาดทุน,The small shop made a loss in its first year.,ร้านเล็ก ๆ ขาดทุนในปีแรก,make a loss,📉,false
+3,accounting,1,3,cash flow,noun,/kæʃ floʊ/,แคช โฟลว์,กระแสเงินสด,Late payments from clients hurt our cash flow.,การจ่ายเงินช้าของลูกค้าทำให้กระแสเงินสดของเราสะดุด,,,false
+3,accounting,1,4,petty cash,noun,/ˈpɛti kæʃ/,เพตตี แคช,เงินสดย่อย,We buy coffee and snacks for the office from petty cash.,เราซื้อกาแฟและขนมสำหรับออฟฟิศจากเงินสดย่อย,,,false
+3,accounting,1,5,reimburse,verb,/ˌriːɪmˈbɜːrs/,รีอิมเบิร์ส,เบิกจ่ายคืน ชดใช้เงินคืน,The company will reimburse you for the taxi fare.,บริษัทจะคืนเงินค่าแท็กซี่ให้คุณ,,,false
+3,accounting,1,6,expense report,noun,/ɪkˈspɛns rɪˈpɔːrt/,เอ็กซ์เพนส์ รีพอร์ต,รายงานค่าใช้จ่าย ใบเบิกค่าใช้จ่าย,Send your expense report with all the receipts by Friday.,ส่งรายงานค่าใช้จ่ายพร้อมใบเสร็จทั้งหมดภายในวันศุกร์,,,false
+3,accounting,1,7,financial,adjective,/faɪˈnænʃəl/,ไฟแนนเชียล,ทางการเงิน,The company is in a strong financial position.,บริษัทมีสถานะทางการเงินที่แข็งแกร่ง,,,false
+3,accounting,1,8,earnings,noun,/ˈɜːrnɪŋz/,เอิร์นนิงส์,รายได้ ผลกำไร,The company's earnings were higher than last year.,รายได้ของบริษัทสูงกว่าปีที่แล้ว,,,false
+3,accounting,1,9,fixed cost,noun,/fɪkst kɔːst/,ฟิกซ์ต คอสต์,ต้นทุนคงที่,Rent is our biggest fixed cost each month.,ค่าเช่าเป็นต้นทุนคงที่ที่สูงที่สุดของเราในแต่ละเดือน,,,false
+3,accounting,1,10,payroll,noun,/ˈpeɪroʊl/,เพโรล,บัญชีเงินเดือน การจ่ายเงินเดือน,The payroll team pays everyone on the last day of the month.,ทีมเงินเดือนจ่ายเงินให้ทุกคนในวันสุดท้ายของเดือน,,,false
+3,accounting,1,11,funds,noun,/fʌndz/,ฟันส์,เงินทุน,We don't have enough funds to open a new branch this year.,ปีนี้เรามีเงินทุนไม่พอจะเปิดสาขาใหม่,,,false
+3,accounting,1,12,balance sheet,noun,/ˈbæləns ʃiːt/,แบลันซ์ ชีต,งบดุล,The balance sheet shows what the company owns and owes.,งบดุลแสดงว่าบริษัทมีทรัพย์สินและหนี้สินอะไรบ้าง,,,false
+3,accounting,1,13,cut costs,phrase,/kʌt kɔːsts/,คัต คอสต์ส,ลดต้นทุน ลดค่าใช้จ่าย,"We need to cut costs, so please print less.",เราต้องลดค่าใช้จ่าย ดังนั้นช่วยพิมพ์เอกสารให้น้อยลง,,✂️,false
+3,accounting,1,14,bookkeeping,noun,/ˈbʊkkiːpɪŋ/,บุ๊กคีปปิง,การทำบัญชี การบันทึกบัญชี,She does the bookkeeping for three small shops.,เธอทำบัญชีให้ร้านเล็ก ๆ สามร้าน,,,false
+3,accounting,2,1,payment method,noun,/ˈpeɪmənt ˈmɛθəd/,เพย์เมนต์ เมธอด,วิธีการชำระเงิน,"Which payment method do you prefer, cash or transfer?",คุณสะดวกชำระเงินวิธีไหน เงินสดหรือโอน,,,false
+3,accounting,2,2,due date,noun,/duː deɪt/,ดิว เดต,วันครบกำหนดชำระ,The due date for this invoice is the 30th.,วันครบกำหนดชำระของใบแจ้งหนี้นี้คือวันที่ 30,,🗓️,false
+3,accounting,2,3,outstanding,adjective,/aʊtˈstændɪŋ/,เอาต์สแตนดิง,ค้างชำระ,You still have two outstanding invoices from March.,คุณยังมีใบแจ้งหนี้ค้างชำระสองใบจากเดือนมีนาคม,"Also means excellent, in other contexts.",,false
+3,accounting,2,4,payment reminder,noun,/ˈpeɪmənt rɪˈmaɪndər/,เพย์เมนต์ รีไมนเดอร์,หนังสือแจ้งเตือนการชำระเงิน,We send a payment reminder one week before the due date.,เราส่งหนังสือแจ้งเตือนการชำระเงินหนึ่งสัปดาห์ก่อนวันครบกำหนด,,,false
+3,accounting,2,5,credit,noun,/ˈkrɛdɪt/,เครดิต,เครดิต ระยะเวลาผ่อนชำระ,Regular clients can buy on credit and pay at the end of the month.,ลูกค้าประจำซื้อเป็นเครดิตแล้วจ่ายตอนสิ้นเดือนได้,buy on credit,,false
+3,accounting,2,6,purchase order,noun,/ˈpɜːrtʃəs ˈɔːrdər/,เพอร์เชส ออร์เดอร์,ใบสั่งซื้อ (PO),We can't ship the goods without a purchase order.,เราส่งสินค้าไม่ได้ถ้าไม่มีใบสั่งซื้อ,Often shortened to PO.,,false
+3,accounting,2,7,payee,noun,/peɪˈiː/,เพอี,ผู้รับเงิน,Check the payee's name before you transfer any money.,ตรวจชื่อผู้รับเงินก่อนโอนเงินทุกครั้ง,,,false
+3,accounting,2,8,settle,verb,/ˈsɛtəl/,เซ็ทเทิล,ชำระ (หนี้ บิล) ให้เรียบร้อย,Please settle the bill before the end of the month.,กรุณาชำระบิลให้เรียบร้อยก่อนสิ้นเดือน,settle a bill / an account,,false
+3,accounting,2,9,VAT,noun,/ˌviː eɪ ˈtiː/,วีเอที,ภาษีมูลค่าเพิ่ม,The price does not include seven percent VAT.,ราคานี้ยังไม่รวมภาษีมูลค่าเพิ่มเจ็ดเปอร์เซ็นต์,Value added tax.,,false
+3,accounting,2,10,subtotal,noun,/ˈsʌbtoʊtəl/,ซับโทเทิล,ยอดรวมก่อนภาษีหรือส่วนลด,"The subtotal is 9,000 baht before tax.","ยอดรวมก่อนภาษีคือ 9,000 บาท",,,false
+3,accounting,2,11,billing address,noun,/ˈbɪlɪŋ ˈædrɛs/,บิลลิง แอดเดรส,ที่อยู่สำหรับออกใบแจ้งหนี้,Please check that the billing address on the invoice is correct.,กรุณาตรวจว่าที่อยู่ในใบแจ้งหนี้ถูกต้อง,,,false
+3,accounting,2,12,tax invoice,noun,/tæks ˈɪnvɔɪs/,แท็กซ์ อินวอยซ์,ใบกำกับภาษี,Can I have a tax invoice with my company name on it?,ขอใบกำกับภาษีที่มีชื่อบริษัทของฉันได้ไหม,,🧾,false
+3,accounting,2,13,advance payment,noun,/ədˈvæns ˈpeɪmənt/,แอดแวนซ์ เพย์เมนต์,เงินชำระล่วงหน้า,We ask new clients for an advance payment of 30 percent.,เราขอเงินชำระล่วงหน้า 30 เปอร์เซ็นต์จากลูกค้าใหม่,,,false
+3,accounting,2,14,payable,adjective,/ˈpeɪəbəl/,เพยะเบิล,ที่ต้องชำระ,The full amount is payable within thirty days.,ยอดเงินทั้งหมดต้องชำระภายในสามสิบวัน,accounts payable = money a company owes,,false
+3,accounting,3,1,annual report,noun,/ˈænjuəl rɪˈpɔːrt/,แอนนวล รีพอร์ต,รายงานประจำปี,The annual report shows our income for the whole year.,รายงานประจำปีแสดงรายได้ของเราทั้งปี,,,false
+3,accounting,3,2,audit,noun,/ˈɔːdɪt/,ออดิต,การตรวจสอบบัญชี,The yearly audit starts next Monday.,การตรวจสอบบัญชีประจำปีเริ่มวันจันทร์หน้า,,,false
+3,accounting,3,3,auditor,noun,/ˈɔːdɪtər/,ออดิเตอร์,ผู้สอบบัญชี,The auditor asked to see all our receipts from June.,ผู้สอบบัญชีขอดูใบเสร็จทั้งหมดของเราจากเดือนมิถุนายน,,,false
+3,accounting,3,4,financial statement,noun,/faɪˈnænʃəl ˈsteɪtmənt/,ไฟแนนเชียล สเตตเมนต์,งบการเงิน,The financial statements are ready for the board meeting.,งบการเงินพร้อมสำหรับการประชุมคณะกรรมการแล้ว,,,false
+3,accounting,3,5,fiscal year,noun,/ˈfɪskəl jɪr/,ฟิสคอล เยียร์,ปีงบประมาณ,Our fiscal year starts in October.,ปีงบประมาณของเราเริ่มเดือนตุลาคม,,,false
+3,accounting,3,6,running costs,noun,/ˈrʌnɪŋ kɔːsts/,รันนิง คอสต์ส,ค่าใช้จ่ายในการดำเนินงาน,Electricity is a big part of our running costs.,ค่าไฟเป็นส่วนใหญ่ของค่าใช้จ่ายในการดำเนินงานของเรา,,,false
+3,accounting,3,7,figure,noun,/ˈfɪɡjər/,ฟิกเกอร์,ตัวเลข,Please check these figures again before the meeting.,กรุณาตรวจตัวเลขเหล่านี้อีกครั้งก่อนประชุม,sales figures,,false
+3,accounting,3,8,calculate,verb,/ˈkælkjəleɪt/,แคลคิวเลต,คำนวณ,Can you calculate the total cost of the trip?,คุณช่วยคำนวณค่าใช้จ่ายทั้งหมดของทริปได้ไหม,,🧮,false
+3,accounting,3,9,spreadsheet,noun,/ˈsprɛdʃiːt/,สเปรดชีต,ตารางคำนวณ สเปรดชีต,I keep all the monthly costs in one spreadsheet.,ฉันเก็บค่าใช้จ่ายรายเดือนทั้งหมดไว้ในสเปรดชีตเดียว,,📊,false
+3,accounting,3,10,allocate,verb,/ˈæləkeɪt/,แอโลเคต,จัดสรร,"We allocated 200,000 baht for staff training.","เราจัดสรรเงิน 200,000 บาทสำหรับการอบรมพนักงาน",,,false
+3,accounting,3,11,over budget,phrase,/ˈoʊvər ˈbʌdʒɪt/,โอเวอร์ บัดเจ็ต,เกินงบประมาณ,"The party was 5,000 baht over budget.","งานเลี้ยงใช้เงินเกินงบประมาณไป 5,000 บาท",Opposite: under budget.,,false
+3,accounting,3,12,accurate,adjective,/ˈækjərət/,แอกคิวเรต,ถูกต้องแม่นยำ,Make sure the numbers in the report are accurate.,ตรวจให้แน่ใจว่าตัวเลขในรายงานถูกต้องแม่นยำ,,,false
+3,accounting,3,13,tax return,noun,/tæks rɪˈtɜːrn/,แท็กซ์ รีเทิร์น,แบบแสดงรายการภาษี,I filed my tax return online in March.,ฉันยื่นแบบแสดงรายการภาษีออนไลน์ในเดือนมีนาคม,file a tax return,,false
+3,accounting,3,14,balance the books,phrase,/ˈbæləns ðə bʊks/,แบลันซ์ เดอะ บุ๊กส์,ทำบัญชีให้รายรับรายจ่ายตรงกัน,The accountant stays late to balance the books every month.,นักบัญชีอยู่ดึกเพื่อปิดบัญชีให้ยอดตรงกันทุกเดือน,,,false

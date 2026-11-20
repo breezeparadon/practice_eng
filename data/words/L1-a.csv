@@ -1,0 +1,257 @@
+level,category,lesson,order,headword,pos,phonetic,reading_th,meaning_th,example_en,example_th,note_en,emoji,reviewed
+1,home,1,1,house,noun,/haʊs/,เฮาส์,บ้าน,"My house is small, but it has a nice garden.",บ้านของฉันเล็ก แต่มีสวนที่สวยงาม,,🏠,false
+1,home,1,2,room,noun,/ruːm/,รูม,ห้อง,There are five rooms in our new apartment.,อพาร์ตเมนต์ใหม่ของเรามีห้องห้าห้อง,,,false
+1,home,1,3,bedroom,noun,/ˈbedruːm/,เบ็ดรูม,ห้องนอน,"My bedroom is upstairs, next to my sister's room.",ห้องนอนของฉันอยู่ชั้นบน ติดกับห้องของพี่สาว,,🛏️,false
+1,home,1,4,bathroom,noun,/ˈbæθruːm/,แบธรูม,ห้องน้ำ,"Excuse me, where is the bathroom in this house?",ขอโทษนะ ห้องน้ำในบ้านนี้อยู่ตรงไหน,"In American English, ""bathroom"" is also the polite word for toilet.",🛁,false
+1,home,1,5,kitchen,noun,/ˈkɪtʃən/,คิทเช่น,ห้องครัว,My mother is making dinner in the kitchen right now.,แม่ของฉันกำลังทำอาหารเย็นอยู่ในครัวตอนนี้,,,false
+1,home,1,6,living room,noun,/ˈlɪvɪŋ ruːm/,ลิฟวิ่ง รูม,ห้องนั่งเล่น,We watch TV together in the living room every evening.,เราดูทีวีด้วยกันในห้องนั่งเล่นทุกเย็น,,🛋️,false
+1,home,1,7,dining room,noun,/ˈdaɪnɪŋ ruːm/,ไดนิ่ง รูม,ห้องรับประทานอาหาร,Our family eats dinner in the dining room on weekends.,ครอบครัวเรากินข้าวเย็นในห้องรับประทานอาหารช่วงสุดสัปดาห์,,,false
+1,home,1,8,garage,noun,/ɡəˈrɑːʒ/,กะราจ,โรงรถ,My father keeps his car and his bike in the garage.,พ่อเก็บรถยนต์และจักรยานไว้ในโรงรถ,,,false
+1,home,1,9,garden,noun,/ˈɡɑːrdn/,การ์เดิน,สวน (ที่บ้าน),My grandmother grows flowers and vegetables in her garden.,คุณยายปลูกดอกไม้และผักในสวนของเธอ,,🌷,false
+1,home,1,10,balcony,noun,/ˈbælkəni/,แบลโคนี่,ระเบียง,I like to drink my coffee on the balcony in the morning.,ฉันชอบดื่มกาแฟที่ระเบียงตอนเช้า,,,false
+1,home,1,11,stairs,noun,/sterz/,สแตร์ส,บันได,"Please be careful on the stairs, they are wet.",ระวังบันไดด้วยนะ มันเปียกอยู่,"Usually plural: ""the stairs"".",,false
+1,home,1,12,door,noun,/dɔːr/,ดอร์,ประตู,Please close the door when you leave the room.,ช่วยปิดประตูตอนออกจากห้องด้วย,,🚪,false
+1,home,1,13,window,noun,/ˈwɪndoʊ/,วินโดว์,หน้าต่าง,"It is hot in here, so I will open the window.",ในนี้ร้อน ฉันจะเปิดหน้าต่างนะ,,🪟,false
+1,home,1,14,floor,noun,/flɔːr/,ฟลอร์,พื้น; ชั้น (ของอาคาร),The kids are sitting on the floor and playing a game.,เด็ก ๆ นั่งเล่นเกมอยู่บนพื้น,,,false
+1,home,1,15,wall,noun,/wɔːl/,วอลล์,"ผนัง, กำแพง",We have a big family photo on the wall.,เรามีรูปครอบครัวใบใหญ่แขวนอยู่บนผนัง,,🧱,false
+1,home,1,16,roof,noun,/ruːf/,รูฟ,หลังคา,"The roof is old, and water comes in when it rains.",หลังคาเก่าแล้ว เวลาฝนตกน้ำจะรั่วเข้ามา,,,false
+1,home,2,1,bed,noun,/bed/,เบ็ด,เตียง,I go to bed at ten o'clock every night.,ฉันเข้านอนตอนสี่ทุ่มทุกคืน,,🛏️,false
+1,home,2,2,sofa,noun,/ˈsoʊfə/,โซฟา,โซฟา,My cat likes to sleep on the sofa all afternoon.,แมวของฉันชอบนอนบนโซฟาทั้งบ่าย,,🛋️,false
+1,home,2,3,armchair,noun,/ˈɑːrmtʃer/,อาร์มแชร์,เก้าอี้นวม (มีที่วางแขน),My grandfather reads the newspaper in his favorite armchair.,คุณตาอ่านหนังสือพิมพ์บนเก้าอี้นวมตัวโปรด,,,false
+1,home,2,4,coffee table,noun,/ˈkɔːfi ˌteɪbəl/,คอฟฟี่ เทเบิล,โต๊ะกลาง (หน้าโซฟา),"Please put your cup on the coffee table, not the floor.",วางแก้วไว้บนโต๊ะกลางนะ อย่าวางบนพื้น,,,false
+1,home,2,5,stool,noun,/stuːl/,สตูล,เก้าอี้สตูล (ไม่มีพนัก),There are three tall stools next to the kitchen counter.,มีเก้าอี้สตูลสูงสามตัวอยู่ข้างเคาน์เตอร์ครัว,,,false
+1,home,2,6,wardrobe,noun,/ˈwɔːrdroʊb/,วอร์ดโรบ,ตู้เสื้อผ้า,All my clothes are in the big wardrobe in my bedroom.,เสื้อผ้าของฉันทั้งหมดอยู่ในตู้เสื้อผ้าใบใหญ่ในห้องนอน,"Americans often say ""closet"" for a built-in one.",,false
+1,home,2,7,shelf,noun,/ʃelf/,เชลฟ์,ชั้นวางของ,"The salt is on the top shelf, above the rice.",เกลืออยู่บนชั้นบนสุด เหนือข้าวสาร,Plural: shelves.,,false
+1,home,2,8,bookshelf,noun,/ˈbʊkʃelf/,บุ๊คเชลฟ์,ชั้นวางหนังสือ,My son has a small bookshelf full of comic books.,ลูกชายฉันมีชั้นวางหนังสือเล็ก ๆ ที่เต็มไปด้วยการ์ตูน,,📚,false
+1,home,2,9,lamp,noun,/læmp/,แลมป์,โคมไฟ,I turn on the lamp when I read in bed.,ฉันเปิดโคมไฟตอนอ่านหนังสือบนเตียง,,💡,false
+1,home,2,10,mirror,noun,/ˈmɪrər/,มิเรอร์,กระจก (ส่องหน้า),She looks in the mirror before she goes to work.,เธอส่องกระจกก่อนไปทำงาน,,🪞,false
+1,home,2,11,carpet,noun,/ˈkɑːrpɪt/,คาร์เพ็ท,พรม,The baby likes to play on the soft carpet.,ลูกชอบเล่นบนพรมนุ่ม ๆ,,,false
+1,home,2,12,curtain,noun,/ˈkɜːrtn/,เคอร์เท่น,ผ้าม่าน,Can you close the curtains? The sun is too bright.,ช่วยปิดม่านหน่อยได้ไหม แดดจ้าเกินไป,,,false
+1,home,2,13,pillow,noun,/ˈpɪloʊ/,พิลโลว์,หมอน,I need a soft pillow to sleep well at night.,ฉันต้องใช้หมอนนุ่ม ๆ ถึงจะนอนหลับสบาย,,,false
+1,home,2,14,blanket,noun,/ˈblæŋkɪt/,แบลงคิท,ผ้าห่ม,"It is cold tonight, so I need another blanket.",คืนนี้อากาศหนาว ฉันต้องใช้ผ้าห่มอีกผืน,,,false
+1,home,2,15,drawer,noun,/drɔːr/,ดรอว์เออร์,ลิ้นชัก,My socks are in the top drawer of the dresser.,ถุงเท้าของฉันอยู่ในลิ้นชักบนสุดของตู้,,,false
+1,home,2,16,cupboard,noun,/ˈkʌbərd/,คับเบิร์ด,ตู้เก็บของ (มีประตู),The plates and bowls are in the kitchen cupboard.,จานและชามอยู่ในตู้ในครัว,"The ""p"" is silent: KUB-erd.",,false
+1,home,3,1,fridge,noun,/frɪdʒ/,ฟริดจ์,ตู้เย็น,Please put the milk back in the fridge.,เอานมกลับไปใส่ตู้เย็นด้วยนะ,"Short for ""refrigerator"".",,false
+1,home,3,2,stove,noun,/stoʊv/,สโตฟว์,เตา (สำหรับทำอาหาร),"Be careful, the stove is still hot after cooking.",ระวังนะ เตายังร้อนอยู่หลังทำอาหารเสร็จ,,,false
+1,home,3,3,oven,noun,/ˈʌvən/,อัฟเวิน,เตาอบ,My sister bakes bread in the oven on Sundays.,พี่สาวอบขนมปังในเตาอบทุกวันอาทิตย์,,,false
+1,home,3,4,microwave,noun,/ˈmaɪkrəweɪv/,ไมโครเวฟ,ไมโครเวฟ,I heat my lunch in the microwave at work.,ฉันอุ่นข้าวกลางวันในไมโครเวฟที่ที่ทำงาน,,,false
+1,home,3,5,sink,noun,/sɪŋk/,ซิงค์,อ่างล้างจาน,Please put your dirty cup in the sink.,ช่วยเอาแก้วที่ใช้แล้วไปใส่ในอ่างล้างจานด้วย,,,false
+1,home,3,6,plate,noun,/pleɪt/,เพลท,จาน,Can you put four plates on the table for dinner?,ช่วยวางจานสี่ใบบนโต๊ะสำหรับมื้อเย็นได้ไหม,,🍽️,false
+1,home,3,7,bowl,noun,/boʊl/,โบวล์,ชาม,I eat a bowl of rice soup for breakfast.,ฉันกินข้าวต้มหนึ่งชามเป็นอาหารเช้า,,🥣,false
+1,home,3,8,cup,noun,/kʌp/,คัพ,"ถ้วย, แก้ว (มีหูจับ)",Would you like a cup of hot tea?,คุณอยากได้ชาร้อนสักถ้วยไหม,,☕,false
+1,home,3,9,glass,noun,/ɡlæs/,แกลส,แก้ว (น้ำ),"Can I have a glass of cold water, please?",ขอน้ำเย็นสักแก้วได้ไหมคะ,,🥛,false
+1,home,3,10,spoon,noun,/spuːn/,สปูน,ช้อน,"In Thailand, we usually eat rice with a spoon and fork.",ในไทยเรามักกินข้าวด้วยช้อนกับส้อม,,🥄,false
+1,home,3,11,fork,noun,/fɔːrk/,ฟอร์ค,ส้อม,The children use a small fork to eat fruit.,เด็ก ๆ ใช้ส้อมเล็ก ๆ กินผลไม้,,🍴,false
+1,home,3,12,knife,noun,/naɪf/,ไนฟ์,มีด,Use this sharp knife to cut the meat.,ใช้มีดคมเล่มนี้หั่นเนื้อนะ,"The ""k"" is silent. Plural: knives.",🔪,false
+1,home,3,13,chopsticks,noun,/ˈtʃɑːpstɪks/,ช็อปสติกส์,ตะเกียบ,We eat noodles with chopsticks at this restaurant.,ที่ร้านนี้เรากินก๋วยเตี๋ยวด้วยตะเกียบ,Usually plural: a pair of chopsticks.,🥢,false
+1,home,3,14,pan,noun,/pæn/,แพน,กระทะ,Put a little oil in the pan before you cook the eggs.,ใส่น้ำมันในกระทะนิดหน่อยก่อนทอดไข่,,🍳,false
+1,home,3,15,pot,noun,/pɑːt/,พ็อท,หม้อ,Mom is making soup in a big pot.,แม่กำลังทำซุปในหม้อใบใหญ่,,🍲,false
+1,home,3,16,kettle,noun,/ˈketl/,เค็ทเทิล,กาต้มน้ำ,I boil water in the kettle to make coffee.,ฉันต้มน้ำในกาต้มน้ำเพื่อชงกาแฟ,,,false
+1,home,4,1,clean,verb,/kliːn/,คลีน,ทำความสะอาด,We clean the whole house every Saturday morning.,เราทำความสะอาดบ้านทั้งหลังทุกเช้าวันเสาร์,,🧽,false
+1,home,4,2,wash,verb,/wɑːʃ/,วอช,"ล้าง, ซัก",Please wash your hands with soap before you eat.,ล้างมือด้วยสบู่ก่อนกินข้าวนะ,,,false
+1,home,4,3,sweep,verb,/swiːp/,สวีป,กวาด,I sweep the floor in the kitchen after dinner.,ฉันกวาดพื้นในครัวหลังมื้อเย็น,Past form: swept.,🧹,false
+1,home,4,4,mop,verb,/mɑːp/,ม็อพ,ถูพื้น,Please mop the floor after you sweep it.,ช่วยถูพื้นหลังจากกวาดเสร็จด้วยนะ,,,false
+1,home,4,5,vacuum,verb,/ˈvækjuːm/,แวคคิวม์,ดูดฝุ่น,My brother vacuums the carpet in the living room.,พี่ชายดูดฝุ่นพรมในห้องนั่งเล่น,,,false
+1,home,4,6,iron,verb,/ˈaɪərn/,ไอเอิร์น,รีดผ้า,I iron my shirts on Sunday evening for the week.,ฉันรีดเสื้อเชิ้ตตอนเย็นวันอาทิตย์ไว้ใส่ทั้งสัปดาห์,"The ""r"" is not said clearly: EYE-ern.",,false
+1,home,4,7,tidy,verb,/ˈtaɪdi/,ไทดี้,จัดเก็บให้เรียบร้อย,Please tidy your room before your friends come.,เก็บห้องให้เรียบร้อยก่อนเพื่อนมานะ,"Often ""tidy up"".",,false
+1,home,4,8,dust,verb,/dʌst/,ดัสท์,ปัดฝุ่น,She dusts the shelves and the TV once a week.,เธอปัดฝุ่นชั้นวางของและทีวีสัปดาห์ละครั้ง,,,false
+1,home,4,9,do the laundry,phrase,/duː ðə ˈlɔːndri/,ดู เดอะ ลอนดรี้,ซักผ้า,I do the laundry on Sunday when the weather is nice.,ฉันซักผ้าวันอาทิตย์เวลาอากาศดี,,🧺,false
+1,home,4,10,wash the dishes,phrase,/wɑːʃ ðə ˈdɪʃɪz/,วอช เดอะ ดิชเชส,ล้างจาน,"After dinner, my dad and I wash the dishes together.",หลังมื้อเย็น พ่อกับฉันช่วยกันล้างจาน,,,false
+1,home,4,11,make the bed,phrase,/meɪk ðə bed/,เมค เดอะ เบ็ด,ปูที่นอน,I make the bed every morning after I wake up.,ฉันปูที่นอนทุกเช้าหลังตื่นนอน,,,false
+1,home,4,12,take out the trash,phrase,/teɪk aʊt ðə træʃ/,เทค เอาท์ เดอะ แทรช,เอาขยะไปทิ้ง,Can you take out the trash before you go to work?,ช่วยเอาขยะไปทิ้งก่อนไปทำงานได้ไหม,"British English: ""take out the rubbish"".",🗑️,false
+1,home,4,13,water the plants,phrase,/ˈwɔːtər ðə plænts/,วอเทอร์ เดอะ แพลนท์ส,รดน้ำต้นไม้,Please water the plants on the balcony every evening.,ช่วยรดน้ำต้นไม้ที่ระเบียงทุกเย็นด้วยนะ,,🪴,false
+1,home,4,14,broom,noun,/bruːm/,บรูม,ไม้กวาด,The broom is behind the door in the kitchen.,ไม้กวาดอยู่หลังประตูในครัว,,🧹,false
+1,home,4,15,bucket,noun,/ˈbʌkɪt/,บัคเก็ท,ถังน้ำ,Fill the bucket with water and a little soap.,เติมน้ำลงในถังแล้วใส่สบู่นิดหน่อย,,🪣,false
+1,home,4,16,dirty,adjective,/ˈdɜːrti/,เดอร์ตี้,สกปรก,"Your shoes are dirty, so please leave them outside.",รองเท้าของคุณสกปรก กรุณาถอดไว้ข้างนอกนะ,,,false
+1,food,1,1,apple,noun,/ˈæpəl/,แอปเปิ้ล,แอปเปิล,I eat an apple every day after lunch.,ฉันกินแอปเปิลทุกวันหลังมื้อกลางวัน,,🍎,false
+1,food,1,2,banana,noun,/bəˈnænə/,บะแนนะ,กล้วย,My son eats a banana before he goes to school.,ลูกชายกินกล้วยก่อนไปโรงเรียน,,🍌,false
+1,food,1,3,orange,noun,/ˈɔːrɪndʒ/,ออเรนจ์,ส้ม,These oranges are very sweet and full of juice.,ส้มพวกนี้หวานและฉ่ำน้ำมาก,,🍊,false
+1,food,1,4,mango,noun,/ˈmæŋɡoʊ/,แมงโก้,มะม่วง,Mango with sticky rice is my favorite Thai dessert.,ข้าวเหนียวมะม่วงเป็นของหวานไทยที่ฉันชอบที่สุด,,🥭,false
+1,food,1,5,watermelon,noun,/ˈwɔːtərmelən/,วอเทอร์เมลอน,แตงโม,We eat cold watermelon on hot summer days.,เรากินแตงโมเย็น ๆ ในวันที่อากาศร้อน,,🍉,false
+1,food,1,6,pineapple,noun,/ˈpaɪnæpəl/,ไพน์แอปเปิ้ล,สับปะรด,The pineapple at this market is fresh and cheap.,สับปะรดที่ตลาดนี้สดและถูก,,🍍,false
+1,food,1,7,grape,noun,/ɡreɪp/,เกรป,องุ่น,She buys a bag of green grapes for the kids.,เธอซื้อองุ่นเขียวหนึ่งถุงให้เด็ก ๆ,,🍇,false
+1,food,1,8,papaya,noun,/pəˈpaɪə/,พะพายยะ,มะละกอ,My mom makes papaya salad with lime and chili.,แม่ทำส้มตำใส่มะนาวกับพริก,,,false
+1,food,1,9,tomato,noun,/təˈmeɪtoʊ/,ทะเมโท,มะเขือเทศ,Please cut some tomatoes and add them to the salad.,ช่วยหั่นมะเขือเทศแล้วใส่ลงในสลัดหน่อย,,🍅,false
+1,food,1,10,potato,noun,/pəˈteɪtoʊ/,พะเทโท,มันฝรั่ง,We need three potatoes to make this soup.,เราต้องใช้มันฝรั่งสามหัวทำซุปนี้,,🥔,false
+1,food,1,11,carrot,noun,/ˈkærət/,แคร์รอท,แครอท,My little rabbit loves to eat fresh carrots every day.,กระต่ายตัวน้อยของฉันชอบกินแครอทสด ๆ ทุกวัน,,🥕,false
+1,food,1,12,onion,noun,/ˈʌnjən/,อันเนียน,หัวหอม,Cutting onions always makes me cry a little.,หั่นหัวหอมทีไรน้ำตาไหลทุกที,,🧅,false
+1,food,1,13,cabbage,noun,/ˈkæbɪdʒ/,แคบบิจ,กะหล่ำปลี,My grandma puts cabbage in her chicken soup.,คุณยายใส่กะหล่ำปลีในซุปไก่,,🥬,false
+1,food,1,14,cucumber,noun,/ˈkjuːkʌmbər/,คิวคัมเบอร์,แตงกวา,I put slices of cucumber on my fried rice.,ฉันวางแตงกวาหั่นเป็นแว่นบนข้าวผัด,,🥒,false
+1,food,1,15,corn,noun,/kɔːrn/,คอร์น,ข้าวโพด,We buy hot corn from a small stall near the beach.,เราซื้อข้าวโพดร้อน ๆ จากแผงเล็ก ๆ ใกล้ชายหาด,,🌽,false
+1,food,1,16,garlic,noun,/ˈɡɑːrlɪk/,การ์ลิค,กระเทียม,Thai food often has a lot of garlic and chili.,อาหารไทยมักใส่กระเทียมและพริกเยอะ,,🧄,false
+1,food,2,1,breakfast,noun,/ˈbrekfəst/,เบรคฟัสท์,อาหารเช้า,I usually have eggs and toast for breakfast.,ฉันมักกินไข่กับขนมปังปิ้งเป็นอาหารเช้า,"Say ""have breakfast"", not ""eat a breakfast"".",,false
+1,food,2,2,lunch,noun,/lʌntʃ/,ลันช์,อาหารกลางวัน,Let's have lunch at the noodle shop near the office.,ไปกินข้าวกลางวันที่ร้านก๋วยเตี๋ยวใกล้ออฟฟิศกันเถอะ,,,false
+1,food,2,3,dinner,noun,/ˈdɪnər/,ดินเนอร์,อาหารเย็น,We have dinner together as a family every night.,ครอบครัวเรากินข้าวเย็นด้วยกันทุกคืน,,,false
+1,food,2,4,rice,noun,/raɪs/,ไรซ์,ข้าว,Most Thai people eat rice at almost every meal.,คนไทยส่วนใหญ่กินข้าวแทบทุกมื้อ,"Uncountable: ""some rice"", not ""rices"".",🍚,false
+1,food,2,5,noodles,noun,/ˈnuːdlz/,นู้ดเดิ้ลส์,"ก๋วยเตี๋ยว, เส้นบะหมี่",I want a bowl of noodles with pork for lunch.,ฉันอยากกินก๋วยเตี๋ยวหมูหนึ่งชามเป็นมื้อกลางวัน,Usually plural.,🍜,false
+1,food,2,6,soup,noun,/suːp/,ซุป,"ซุป, แกงจืด","This soup is too hot, so I will wait a minute.",ซุปนี้ร้อนเกินไป ขอรอสักนาที,,🍲,false
+1,food,2,7,salad,noun,/ˈsæləd/,แซลัด,สลัด,I often eat a green salad for a light lunch.,ฉันมักกินสลัดผักเป็นมื้อกลางวันเบา ๆ,,🥗,false
+1,food,2,8,sandwich,noun,/ˈsænwɪtʃ/,แซนด์วิช,แซนด์วิช,She makes a ham and cheese sandwich for her son.,เธอทำแซนด์วิชแฮมชีสให้ลูกชาย,,🥪,false
+1,food,2,9,fried rice,noun,/fraɪd raɪs/,ฟรายด์ ไรซ์,ข้าวผัด,"Can I have one fried rice with shrimp, please?",ขอข้าวผัดกุ้งหนึ่งจานครับ,,,false
+1,food,2,10,curry,noun,/ˈkɜːri/,เคอร์รี่,แกง,"This green curry is spicy, but it is very good.",แกงเขียวหวานนี้เผ็ด แต่อร่อยมาก,,🍛,false
+1,food,2,11,pork,noun,/pɔːrk/,พอร์ค,เนื้อหมู,I would like grilled pork with sticky rice.,ฉันขอหมูย่างกับข้าวเหนียว,,,false
+1,food,2,12,beef,noun,/biːf/,บีฟ,เนื้อวัว,"My father does not eat beef, so he orders chicken.",พ่อไม่กินเนื้อวัว เลยสั่งไก่แทน,,🥩,false
+1,food,2,13,shrimp,noun,/ʃrɪmp/,ชริมพ์,กุ้ง,The shrimp at this seafood restaurant are big and fresh.,กุ้งที่ร้านอาหารทะเลนี้ตัวใหญ่และสด,"Plural is usually also ""shrimp"".",🦐,false
+1,food,2,14,egg,noun,/eɡ/,เอ้ก,ไข่,I like a fried egg on top of my rice.,ฉันชอบกินไข่ดาววางบนข้าว,,🥚,false
+1,food,2,15,bread,noun,/bred/,เบร็ด,ขนมปัง,We buy fresh bread from the bakery every morning.,เราซื้อขนมปังสดจากร้านเบเกอรี่ทุกเช้า,"Uncountable: ""a piece of bread"".",🍞,false
+1,food,2,16,pizza,noun,/ˈpiːtsə/,พิซซ่า,พิซซ่า,We often order a pizza on Friday night and watch a movie.,เรามักสั่งพิซซ่าคืนวันศุกร์แล้วดูหนัง,,🍕,false
+1,food,3,1,water,noun,/ˈwɔːtər/,วอเทอร์,น้ำ,Drink a lot of water when the weather is hot.,ดื่มน้ำเยอะ ๆ เวลาอากาศร้อน,"Uncountable: ""a bottle of water"".",💧,false
+1,food,3,2,coffee,noun,/ˈkɔːfi/,คอฟฟี่,กาแฟ,I need a cup of coffee to start my morning.,ฉันต้องดื่มกาแฟสักแก้วถึงจะเริ่มวันได้,,☕,false
+1,food,3,3,tea,noun,/tiː/,ที,ชา,Would you like hot tea or iced tea?,คุณจะรับชาร้อนหรือชาเย็นคะ,,🍵,false
+1,food,3,4,milk,noun,/mɪlk/,มิลค์,นม,My kids drink a glass of milk before bed.,ลูก ๆ ดื่มนมหนึ่งแก้วก่อนนอน,,🥛,false
+1,food,3,5,juice,noun,/dʒuːs/,จูซ,น้ำผลไม้,"Can I have a glass of fresh orange juice, please?",ขอน้ำส้มคั้นสดหนึ่งแก้วได้ไหมครับ,,🧃,false
+1,food,3,6,soda,noun,/ˈsoʊdə/,โซดา,น้ำอัดลม,Too much soda is not good for your teeth.,ดื่มน้ำอัดลมมากเกินไปไม่ดีต่อฟัน,"In American English, ""soda"" usually means a sweet fizzy drink.",🥤,false
+1,food,3,7,ice,noun,/aɪs/,ไอซ์,น้ำแข็ง,"Can you put some ice in my drink, please?",ช่วยใส่น้ำแข็งในเครื่องดื่มของฉันหน่อยได้ไหม,,🧊,false
+1,food,3,8,snack,noun,/snæk/,สแน็ค,"ของว่าง, ขนมขบเคี้ยว",I always keep a small snack in my bag.,ฉันพกขนมเล็ก ๆ ไว้ในกระเป๋าเสมอ,,,false
+1,food,3,9,cookie,noun,/ˈkʊki/,คุกกี้,คุกกี้,Grandma makes chocolate cookies for us every weekend.,คุณยายทำคุกกี้ช็อกโกแลตให้เราทุกสุดสัปดาห์,,🍪,false
+1,food,3,10,cake,noun,/keɪk/,เค้ก,เค้ก,We buy a big cake for my sister's birthday.,เราซื้อเค้กก้อนใหญ่สำหรับวันเกิดพี่สาว,,🍰,false
+1,food,3,11,chips,noun,/tʃɪps/,ชิพส์,มันฝรั่งทอดกรอบ,The kids share a bag of chips at the park.,เด็ก ๆ แบ่งกันกินมันฝรั่งทอดกรอบหนึ่งถุงที่สวนสาธารณะ,"In British English, ""crisps""; British ""chips"" are French fries.",,false
+1,food,3,12,ice cream,noun,/ˈaɪs kriːm/,ไอซ์ ครีม,ไอศกรีม,Let's get some ice cream after lunch today.,วันนี้หลังมื้อกลางวันไปกินไอศกรีมกันเถอะ,,🍦,false
+1,food,3,13,candy,noun,/ˈkændi/,แคนดี้,"ลูกอม, ขนมหวาน",Too much candy is bad for your teeth.,กินลูกอมมากเกินไปไม่ดีต่อฟัน,"British English: ""sweets"".",🍬,false
+1,food,3,14,chocolate,noun,/ˈtʃɑːklət/,ช็อกเกอะเล็ท,ช็อกโกแลต,My wife loves to eat a little chocolate after dinner.,ภรรยาของฉันชอบกินช็อกโกแลตนิดหน่อยหลังมื้อเย็น,,🍫,false
+1,food,3,15,popcorn,noun,/ˈpɑːpkɔːrn/,ป๊อปคอร์น,ข้าวโพดคั่ว,We always eat popcorn when we watch a movie.,เรากินป๊อปคอร์นทุกครั้งที่ดูหนัง,,🍿,false
+1,food,3,16,bottle,noun,/ˈbɑːtl/,บ็อทเทิล,ขวด,I take a bottle of water with me to work.,ฉันพกน้ำหนึ่งขวดไปทำงาน,,🍼,false
+1,food,4,1,sweet,adjective,/swiːt/,สวีท,หวาน,"This mango is very sweet and soft, so try some.",มะม่วงลูกนี้หวานและนิ่มมาก ลองชิมดูสิ,,,false
+1,food,4,2,sour,adjective,/ˈsaʊər/,ซาวเออร์,เปรี้ยว,"Lime is very sour, so I add only a little.",มะนาวเปรี้ยวมาก ฉันเลยใส่แค่นิดเดียว,,🍋,false
+1,food,4,3,salty,adjective,/ˈsɔːlti/,ซอลตี้,เค็ม,"The soup is too salty, so please add some water.",ซุปเค็มเกินไป ช่วยเติมน้ำหน่อย,,🧂,false
+1,food,4,4,spicy,adjective,/ˈspaɪsi/,สไปซี่,เผ็ด,"Can you make it not too spicy, please?",ช่วยทำไม่เผ็ดมากได้ไหมครับ,,🌶️,false
+1,food,4,5,bitter,adjective,/ˈbɪtər/,บิทเทอร์,ขม,Black coffee is too bitter for me without sugar.,กาแฟดำขมเกินไปสำหรับฉันถ้าไม่ใส่น้ำตาล,,,false
+1,food,4,6,delicious,adjective,/dɪˈlɪʃəs/,ดิลิชเชิส,อร่อย,"Your mom's cooking is delicious, thank you for dinner.",อาหารฝีมือแม่คุณอร่อยมาก ขอบคุณสำหรับมื้อเย็นนะ,"Do not say ""very delicious""; say ""really delicious"" or just ""delicious"".",😋,false
+1,food,4,7,fresh,adjective,/freʃ/,เฟรช,สด,I buy fresh fish and vegetables at the market.,ฉันซื้อปลาและผักสด ๆ ที่ตลาด,,,false
+1,food,4,8,taste,verb,/teɪst/,เทสท์,ชิม; มีรสชาติ,Can I taste the soup before you add more salt?,ขอชิมซุปก่อนที่คุณจะเติมเกลือได้ไหม,,👅,false
+1,food,4,9,cook,verb,/kʊk/,คุก,ทำอาหาร,My husband likes to cook for us on Sundays.,สามีของฉันชอบทำอาหารให้พวกเรากินวันอาทิตย์,,🧑‍🍳,false
+1,food,4,10,fry,verb,/fraɪ/,ฟราย,"ทอด, ผัด",Fry the garlic in a little oil until it is brown.,ทอดกระเทียมในน้ำมันเล็กน้อยจนเป็นสีน้ำตาล,Past form: fried.,,false
+1,food,4,11,boil,verb,/bɔɪl/,บอยล์,ต้ม,Boil the eggs in water for about eight minutes.,ต้มไข่ในน้ำประมาณแปดนาที,,,false
+1,food,4,12,grill,verb,/ɡrɪl/,กริล,ย่าง,We grill chicken and corn in the garden on weekends.,เราย่างไก่และข้าวโพดในสวนช่วงสุดสัปดาห์,,,false
+1,food,4,13,bake,verb,/beɪk/,เบค,อบ (ขนม),My daughter likes to bake cookies with her friends.,ลูกสาวชอบอบคุกกี้กับเพื่อน ๆ,,,false
+1,food,4,14,mix,verb,/mɪks/,มิกซ์,ผสม,Mix the eggs and milk in a big bowl.,ผสมไข่กับนมในชามใบใหญ่,,,false
+1,food,4,15,chop,verb,/tʃɑːp/,ช็อพ,"สับ, หั่น",Please chop the onions into small pieces for the soup.,ช่วยหั่นหัวหอมเป็นชิ้นเล็ก ๆ สำหรับทำซุปหน่อย,,,false
+1,food,4,16,recipe,noun,/ˈresəpi/,เรสซิพี,สูตรอาหาร,Can you give me the recipe for this curry?,ขอสูตรแกงนี้หน่อยได้ไหม,Three syllables: RES-uh-pee.,,false
+1,shopping,1,1,market,noun,/ˈmɑːrkɪt/,มาร์เก็ต,ตลาด,I go to the market early to buy fresh vegetables.,ฉันไปตลาดแต่เช้าเพื่อซื้อผักสด,,,false
+1,shopping,1,2,stall,noun,/stɔːl/,สตอล,แผงขายของ,My aunt sells fruit at a small stall in the market.,น้าขายผลไม้ที่แผงเล็ก ๆ ในตลาด,,,false
+1,shopping,1,3,seller,noun,/ˈselər/,เซลเลอร์,"คนขาย, แม่ค้า",The seller gives me a free orange with my mangoes.,แม่ค้าแถมส้มให้หนึ่งลูกตอนซื้อมะม่วง,,,false
+1,shopping,1,4,buy,verb,/baɪ/,บาย,ซื้อ,I want to buy some fruit for my grandmother.,ฉันอยากซื้อผลไม้ไปฝากคุณยาย,Past form: bought.,,false
+1,shopping,1,5,sell,verb,/sel/,เซล,ขาย,Do you sell fresh fish here in the morning?,ที่นี่ขายปลาสดตอนเช้าไหม,Past form: sold.,,false
+1,shopping,1,6,price,noun,/praɪs/,ไพรซ์,ราคา,The price of eggs is higher this month.,ราคาไข่เดือนนี้สูงขึ้น,,🏷️,false
+1,shopping,1,7,cheap,adjective,/tʃiːp/,ชีพ,ถูก (ราคา),Vegetables are very cheap at this market in the morning.,ผักที่ตลาดนี้ถูกมากในตอนเช้า,,,false
+1,shopping,1,8,expensive,adjective,/ɪkˈspensɪv/,อิคซ์เพ็นซิฟ,แพง,"These shoes are nice, but they are too expensive.",รองเท้าคู่นี้สวย แต่แพงเกินไป,,,false
+1,shopping,1,9,kilo,noun,/ˈkiːloʊ/,กิโล,กิโลกรัม,"Can I have one kilo of oranges, please?",ขอส้มหนึ่งกิโลครับ,"Short for ""kilogram"".",,false
+1,shopping,1,10,bag,noun,/bæɡ/,แบ็ก,"ถุง, กระเป๋า",I bring my own bag when I go to the market.,ฉันเอาถุงของตัวเองไปเวลาไปตลาด,,🛍️,false
+1,shopping,1,11,basket,noun,/ˈbæskɪt/,แบสเก็ต,ตะกร้า,She carries a basket full of vegetables from the market.,เธอถือตะกร้าที่เต็มไปด้วยผักกลับจากตลาด,,🧺,false
+1,shopping,1,12,bargain,verb,/ˈbɑːrɡən/,บาร์เกิน,ต่อราคา,"At this market, you can bargain for a lower price.",ที่ตลาดนี้คุณต่อราคาให้ถูกลงได้,,,false
+1,shopping,1,13,how much,phrase,/haʊ mʌtʃ/,ฮาว มัช,ราคาเท่าไร,How much is one bag of these grapes?,องุ่นนี่ถุงละเท่าไรคะ,"Use ""How much is…?"" for one thing and ""How much are…?"" for many.",,false
+1,shopping,1,14,piece,noun,/piːs/,พีซ,ชิ้น,"Can I have two pieces of grilled chicken, please?",ขอไก่ย่างสองชิ้นครับ,,,false
+1,shopping,1,15,choose,verb,/tʃuːz/,ชูส,เลือก,You can choose the fruit you like from this box.,คุณเลือกผลไม้ที่ชอบจากกล่องนี้ได้เลย,Past form: chose.,,false
+1,shopping,1,16,sold out,phrase,/soʊld aʊt/,โซลด์ เอาท์,ขายหมดแล้ว,"Sorry, the mangoes are sold out today. Come back tomorrow.",ขอโทษนะ วันนี้มะม่วงขายหมดแล้ว พรุ่งนี้มาใหม่นะ,,,false
+1,shopping,2,1,shirt,noun,/ʃɜːrt/,เชิ้ต,เสื้อเชิ้ต,He wears a white shirt to work every day.,เขาใส่เสื้อเชิ้ตสีขาวไปทำงานทุกวัน,,👔,false
+1,shopping,2,2,T-shirt,noun,/ˈtiː ʃɜːrt/,ที-เชิ้ต,เสื้อยืด,I like to wear a T-shirt and shorts at home.,ฉันชอบใส่เสื้อยืดกับกางเกงขาสั้นอยู่บ้าน,,👕,false
+1,shopping,2,3,pants,noun,/pænts/,แพนท์ส,กางเกงขายาว,"These pants are too long for me, so I need shorter ones.",กางเกงตัวนี้ยาวเกินไปสำหรับฉัน ฉันต้องการตัวที่สั้นกว่านี้,"Always plural. In British English, ""pants"" means underwear; say ""trousers"".",👖,false
+1,shopping,2,4,jeans,noun,/dʒiːnz/,จีนส์,กางเกงยีนส์,I want to buy a new pair of blue jeans.,ฉันอยากซื้อกางเกงยีนส์สีน้ำเงินตัวใหม่,"Always plural: ""a pair of jeans"".",👖,false
+1,shopping,2,5,dress,noun,/dres/,เดรส,"ชุดเดรส, ชุดกระโปรง",She wears a red dress to her friend's wedding.,เธอใส่ชุดเดรสสีแดงไปงานแต่งงานเพื่อน,,👗,false
+1,shopping,2,6,skirt,noun,/skɜːrt/,สเกิร์ต,กระโปรง,Students at this school wear a blue skirt.,นักเรียนโรงเรียนนี้ใส่กระโปรงสีน้ำเงิน,,,false
+1,shopping,2,7,shorts,noun,/ʃɔːrts/,ชอร์ตส์,กางเกงขาสั้น,"It is very hot today, so I am wearing shorts.",วันนี้ร้อนมาก ฉันเลยใส่กางเกงขาสั้น,Always plural.,🩳,false
+1,shopping,2,8,jacket,noun,/ˈdʒækɪt/,แจ็คเก็ต,เสื้อแจ็กเก็ต,"Take a jacket, because it is cold on the bus.",เอาเสื้อแจ็กเก็ตไปด้วย บนรถบัสหนาว,,🧥,false
+1,shopping,2,9,sweater,noun,/ˈswetər/,สเว็ทเทอร์,เสื้อกันหนาว (ไหมพรม),My grandma made this warm sweater for me.,คุณยายถักเสื้อกันหนาวตัวนี้ให้ฉัน,,,false
+1,shopping,2,10,shoes,noun,/ʃuːz/,ชูส์,รองเท้า,Please take off your shoes before you come in.,กรุณาถอดรองเท้าก่อนเข้ามา,"Singular: shoe; ""a pair of shoes"".",👟,false
+1,shopping,2,11,socks,noun,/sɑːks/,ซ็อกส์,ถุงเท้า,I need to buy some new socks for work.,ฉันต้องซื้อถุงเท้าคู่ใหม่ไว้ใส่ไปทำงาน,,🧦,false
+1,shopping,2,12,hat,noun,/hæt/,แฮท,หมวก,Wear a hat when you go to the beach.,ใส่หมวกตอนไปทะเลนะ,,👒,false
+1,shopping,2,13,belt,noun,/belt/,เบลท์,เข็มขัด,"These jeans are big, so I need a belt.",กางเกงยีนส์ตัวนี้ใหญ่ ฉันเลยต้องใช้เข็มขัด,,,false
+1,shopping,2,14,size,noun,/saɪz/,ไซซ์,"ขนาด, ไซซ์",Do you have this shirt in a smaller size?,เสื้อตัวนี้มีไซซ์เล็กกว่านี้ไหม,,📏,false
+1,shopping,2,15,try on,phrase,/traɪ ɑːn/,ทราย ออน,ลองสวม (เสื้อผ้า),Can I try on this jacket before I buy it?,ขอลองเสื้อแจ็กเก็ตตัวนี้ก่อนซื้อได้ไหม,"You can also say ""try it on"".",,false
+1,shopping,2,16,wear,verb,/wer/,แวร์,"สวม, ใส่",I usually wear jeans and a T-shirt on weekends.,ฉันมักใส่ยีนส์กับเสื้อยืดในวันหยุด,Past form: wore.,,false
+1,shopping,3,1,pay,verb,/peɪ/,เพย์,จ่าย (เงิน),Can I pay for these books with my phone?,ฉันจ่ายค่าหนังสือพวกนี้ด้วยมือถือได้ไหม,"Past form: paid. Say ""pay for something"".",,false
+1,shopping,3,2,cash,noun,/kæʃ/,แคช,เงินสด,"This small shop only takes cash, not cards.",ร้านเล็ก ๆ นี้รับแต่เงินสด ไม่รับบัตร,,💵,false
+1,shopping,3,3,credit card,noun,/ˈkredɪt kɑːrd/,เครดิต การ์ด,บัตรเครดิต,"Excuse me, can I use my credit card in this shop?",ขอโทษค่ะ ร้านนี้ใช้บัตรเครดิตได้ไหม,,💳,false
+1,shopping,3,4,change,noun,/tʃeɪndʒ/,เชนจ์,เงินทอน,"Here is your change, and thank you for coming.",นี่เงินทอนค่ะ ขอบคุณที่มาอุดหนุน,,,false
+1,shopping,3,5,receipt,noun,/rɪˈsiːt/,รีซีท,ใบเสร็จ,Please keep the receipt in case you want to return it.,กรุณาเก็บใบเสร็จไว้เผื่อต้องการคืนสินค้า,"The ""p"" is silent: ri-SEET.",🧾,false
+1,shopping,3,6,total,noun,/ˈtoʊtl/,โทเทิล,ยอดรวม,"The total for your food is two hundred baht, please.",ยอดรวมค่าอาหารของคุณสองร้อยบาทค่ะ,,,false
+1,shopping,3,7,discount,noun,/ˈdɪskaʊnt/,ดิสเคานท์,ส่วนลด,Students get a ten percent discount at this shop.,นักเรียนได้ส่วนลดสิบเปอร์เซ็นต์ที่ร้านนี้,,,false
+1,shopping,3,8,wallet,noun,/ˈwɑːlɪt/,วอลเล็ท,กระเป๋าสตางค์,"Oh no, I left my wallet at home!",แย่แล้ว ฉันลืมกระเป๋าสตางค์ไว้ที่บ้าน,,👛,false
+1,shopping,3,9,coin,noun,/kɔɪn/,คอยน์,เหรียญ,I need some coins for the drink machine.,ฉันต้องใช้เหรียญสำหรับตู้กดน้ำ,,🪙,false
+1,shopping,3,10,cost,verb,/kɔːst/,คอสท์,มีราคา,"Excuse me, how much does this black bag cost?",ขอโทษค่ะ กระเป๋าสีดำใบนี้ราคาเท่าไร,Past form: cost.,,false
+1,shopping,3,11,free,adjective,/friː/,ฟรี,"ฟรี, ไม่เสียเงิน",Buy two shirts today and you get one more free.,ซื้อเสื้อสองตัววันนี้ แถมฟรีอีกหนึ่งตัว,,🆓,false
+1,shopping,3,12,refund,noun,/ˈriːfʌnd/,รีฟันด์,การคืนเงิน,"The shoes are too small, so I want a refund.",รองเท้าเล็กเกินไป ฉันอยากขอคืนเงิน,,,false
+1,shopping,3,13,QR code,noun,/ˌkjuː ˈɑːr koʊd/,คิวอาร์ โค้ด,คิวอาร์โค้ด,You can scan this QR code to pay.,คุณสแกนคิวอาร์โค้ดนี้เพื่อจ่ายเงินได้,,,false
+1,shopping,3,14,tip,noun,/tɪp/,ทิป,ทิป (เงินให้พนักงาน),We leave a small tip for the friendly waiter.,เราทิ้งทิปเล็กน้อยให้พนักงานเสิร์ฟที่เป็นมิตร,,,false
+1,shopping,3,15,purse,noun,/pɜːrs/,เพิร์ส,กระเป๋าถือ (ผู้หญิง),She takes some coins out of her purse.,เธอหยิบเหรียญออกมาจากกระเป๋าถือ,"In British English, a purse is a small wallet.",👛,false
+1,shopping,3,16,counter,noun,/ˈkaʊntər/,เคาน์เตอร์,เคาน์เตอร์,Please pay at the counter near the door.,กรุณาชำระเงินที่เคาน์เตอร์ใกล้ประตู,,,false
+1,shopping,4,1,shop,noun,/ʃɑːp/,ช็อพ,ร้านค้า,There is a small shop at the end of my street.,มีร้านค้าเล็ก ๆ อยู่ท้ายซอยบ้านฉัน,"Americans often say ""store"".",,false
+1,shopping,4,2,supermarket,noun,/ˈsuːpərmɑːrkɪt/,ซูเปอร์มาร์เก็ต,ซูเปอร์มาร์เก็ต,I buy milk and bread at the supermarket.,ฉันซื้อนมกับขนมปังที่ซูเปอร์มาร์เก็ต,,🛒,false
+1,shopping,4,3,mall,noun,/mɔːl/,มอลล์,ห้างสรรพสินค้า,We go to the mall to watch a movie on Saturday.,วันเสาร์เราไปดูหนังที่ห้าง,,,false
+1,shopping,4,4,bakery,noun,/ˈbeɪkəri/,เบเกอรี่,"ร้านขนมปัง, ร้านเบเกอรี่",The bakery near my house sells great cakes.,ร้านเบเกอรี่ใกล้บ้านฉันขายเค้กอร่อยมาก,,🥐,false
+1,shopping,4,5,bookstore,noun,/ˈbʊkstɔːr/,บุ๊คสโตร์,ร้านหนังสือ,I buy a new English book at the bookstore.,ฉันซื้อหนังสือภาษาอังกฤษเล่มใหม่ที่ร้านหนังสือ,,,false
+1,shopping,4,6,convenience store,noun,/kənˈviːniəns stɔːr/,คอนวีเนียนซ์ สโตร์,ร้านสะดวกซื้อ,The convenience store on the corner is open all night.,ร้านสะดวกซื้อตรงหัวมุมเปิดตลอดคืน,,🏪,false
+1,shopping,4,7,department store,noun,/dɪˈpɑːrtmənt stɔːr/,ดีพาร์ทเมนท์ สโตร์,ห้างสรรพสินค้า,You can buy clothes and shoes at the department store.,คุณซื้อเสื้อผ้าและรองเท้าได้ที่ห้างสรรพสินค้า,,🏬,false
+1,shopping,4,8,gift shop,noun,/ˈɡɪft ʃɑːp/,กิฟต์ ช็อพ,ร้านขายของที่ระลึก,I buy a small present for my friend at the gift shop.,ฉันซื้อของขวัญชิ้นเล็ก ๆ ให้เพื่อนที่ร้านขายของที่ระลึก,,🎁,false
+1,shopping,4,9,flower shop,noun,/ˈflaʊər ʃɑːp/,ฟลาวเวอร์ ช็อพ,ร้านดอกไม้,He buys red roses at the flower shop for his wife.,เขาซื้อกุหลาบแดงที่ร้านดอกไม้ให้ภรรยา,,💐,false
+1,shopping,4,10,toy store,noun,/ˈtɔɪ stɔːr/,ทอย สโตร์,ร้านขายของเล่น,The children are so happy inside the toy store.,เด็ก ๆ มีความสุขมากเวลาอยู่ในร้านของเล่น,,🧸,false
+1,shopping,4,11,shopping cart,noun,/ˈʃɑːpɪŋ kɑːrt/,ช็อปปิ้ง คาร์ท,รถเข็นซื้อของ,Please put the shopping cart back when you finish.,กรุณานำรถเข็นไปเก็บเมื่อใช้เสร็จ,"British English: ""trolley"".",🛒,false
+1,shopping,4,12,fitting room,noun,/ˈfɪtɪŋ ruːm/,ฟิตติ้ง รูม,ห้องลองเสื้อ,"Excuse me, where is the fitting room in this shop?",ขอโทษค่ะ ห้องลองเสื้อในร้านนี้อยู่ตรงไหน,,,false
+1,shopping,4,13,night market,noun,/ˈnaɪt ˌmɑːrkɪt/,ไนต์ มาร์เก็ต,ตลาดกลางคืน,We often eat dinner at the night market on Friday.,เรามักกินข้าวเย็นที่ตลาดกลางคืนวันศุกร์,,,false
+1,shopping,4,14,closed,adjective,/kloʊzd/,โคลสด์,ปิด (ทำการ),"Sorry, the shop is closed today for a holiday.",ขอโทษค่ะ วันนี้ร้านปิดเพราะเป็นวันหยุด,,,false
+1,shopping,4,15,sale,noun,/seɪl/,เซล,การลดราคา,All the shoes in this shop are on sale this week.,รองเท้าทุกคู่ในร้านนี้ลดราคาสัปดาห์นี้,"""On sale"" means at a lower price.",,false
+1,shopping,4,16,escalator,noun,/ˈeskəleɪtər/,เอสคะเลเทอร์,บันไดเลื่อน,Take the escalator up to the third floor for clothes.,ขึ้นบันไดเลื่อนไปชั้นสามสำหรับแผนกเสื้อผ้า,,,false
+1,travel,1,1,bus,noun,/bʌs/,บัส,"รถเมล์, รถบัส",I take the bus to work every morning.,ฉันนั่งรถเมล์ไปทำงานทุกเช้า,,🚌,false
+1,travel,1,2,taxi,noun,/ˈtæksi/,แท็กซี่,แท็กซี่,"It is late, so let's take a taxi home.",ดึกแล้ว นั่งแท็กซี่กลับบ้านกันเถอะ,,🚕,false
+1,travel,1,3,train,noun,/treɪn/,เทรน,รถไฟ,The train to the city leaves every twenty minutes.,รถไฟเข้าเมืองออกทุกยี่สิบนาที,,🚆,false
+1,travel,1,4,subway,noun,/ˈsʌbweɪ/,ซับเวย์,รถไฟใต้ดิน,The subway is faster than the bus in the morning.,รถไฟใต้ดินเร็วกว่ารถเมล์ในตอนเช้า,"British English: ""the underground"".",🚇,false
+1,travel,1,5,bicycle,noun,/ˈbaɪsɪkəl/,ไบซิเคิล,จักรยาน,My son rides his bicycle to school every morning.,ลูกชายขี่จักรยานไปโรงเรียนทุกเช้า,"Often shortened to ""bike"".",🚲,false
+1,travel,1,6,motorbike,noun,/ˈmoʊtərbaɪk/,มอเตอร์ไบค์,รถมอเตอร์ไซค์,"In Bangkok, a motorbike taxi is quick in heavy traffic.",ในกรุงเทพฯ วินมอเตอร์ไซค์ไปได้เร็วตอนรถติด,,🏍️,false
+1,travel,1,7,boat,noun,/boʊt/,โบ๊ท,เรือ,We take a boat across the river to the market.,เรานั่งเรือข้ามแม่น้ำไปตลาด,,⛵,false
+1,travel,1,8,bus stop,noun,/ˈbʌs stɑːp/,บัส สต็อป,ป้ายรถเมล์,I wait for my friend at the bus stop.,ฉันรอเพื่อนที่ป้ายรถเมล์,,🚏,false
+1,travel,1,9,train station,noun,/ˈtreɪn ˌsteɪʃən/,เทรน สเตชั่น,สถานีรถไฟ,The train station is about ten minutes from here.,สถานีรถไฟอยู่ห่างจากที่นี่ประมาณสิบนาที,,🚉,false
+1,travel,1,10,ticket,noun,/ˈtɪkɪt/,ทิคเก็ท,ตั๋ว,I buy a train ticket from the machine.,ฉันซื้อตั๋วรถไฟจากตู้,,🎫,false
+1,travel,1,11,ride,verb,/raɪd/,ไรด์,"ขี่, นั่ง (รถ)",I ride my motorbike to the office every day.,ฉันขี่มอเตอร์ไซค์ไปออฟฟิศทุกวัน,Past form: rode.,,false
+1,travel,1,12,get on,phrase,/ɡet ɑːn/,เก็ท ออน,"ขึ้น (รถ, เรือ, เครื่องบิน)",Please get on the bus at the front door.,กรุณาขึ้นรถเมล์ทางประตูหน้า,"Use ""get in"" for a car or taxi.",,false
+1,travel,1,13,get off,phrase,/ɡet ɔːf/,เก็ท ออฟ,"ลง (รถ, เรือ, เครื่องบิน)",We get off the train at the next station.,เราลงรถไฟที่สถานีหน้า,"Use ""get out of"" for a car or taxi.",,false
+1,travel,1,14,traffic,noun,/ˈtræfɪk/,แทรฟฟิค,การจราจร,There is a lot of traffic in the city after five.,หลังห้าโมงเย็นในเมืองรถติดมาก,"Uncountable: ""a lot of traffic"", not ""traffics"".",🚗,false
+1,travel,1,15,seat,noun,/siːt/,ซีท,ที่นั่ง,"Is this seat free, or is someone sitting here?",ที่นั่งนี้ว่างไหม หรือมีคนนั่งแล้ว,,💺,false
+1,travel,1,16,drive,verb,/draɪv/,ไดรฟ์,ขับ (รถ),My father drives me to the station every morning.,พ่อขับรถไปส่งฉันที่สถานีทุกเช้า,Past form: drove.,,false
+1,travel,2,1,airport,noun,/ˈerpɔːrt/,แอร์พอร์ท,สนามบิน,We need to be at the airport two hours early.,เราต้องไปถึงสนามบินก่อนสองชั่วโมง,,,false
+1,travel,2,2,plane,noun,/pleɪn/,เพลน,เครื่องบิน,The plane to Chiang Mai is full today.,เครื่องบินไปเชียงใหม่วันนี้เต็ม,,✈️,false
+1,travel,2,3,flight,noun,/flaɪt/,ไฟลท์,เที่ยวบิน,Our flight to Tokyo leaves at nine in the morning.,เที่ยวบินของเราไปโตเกียวออกตอนเก้าโมงเช้า,,,false
+1,travel,2,4,passport,noun,/ˈpæspɔːrt/,พาสปอร์ต,หนังสือเดินทาง,Please show me your passport and your ticket.,กรุณาแสดงหนังสือเดินทางและตั๋วของคุณ,,🛂,false
+1,travel,2,5,suitcase,noun,/ˈsuːtkeɪs/,ซูทเคส,กระเป๋าเดินทาง,"My suitcase is too heavy, so I take some clothes out.",กระเป๋าเดินทางหนักเกินไป ฉันเลยเอาเสื้อผ้าออกบ้าง,,🧳,false
+1,travel,2,6,luggage,noun,/ˈlʌɡɪdʒ/,ลักเกจ,สัมภาระ,Please do not leave your luggage alone at the airport.,กรุณาอย่าทิ้งสัมภาระไว้โดยไม่มีคนดูแลที่สนามบิน,"Uncountable: ""a piece of luggage"".",,false
+1,travel,2,7,check in,phrase,/tʃek ɪn/,เช็ค อิน,เช็คอิน,You can check in online the day before your flight.,คุณเช็คอินออนไลน์ได้หนึ่งวันก่อนเที่ยวบิน,"As a noun, write ""check-in"".",,false
+1,travel,2,8,boarding pass,noun,/ˈbɔːrdɪŋ pæs/,บอร์ดดิ้ง พาส,บัตรขึ้นเครื่อง,Have your boarding pass ready when you go to the gate.,เตรียมบัตรขึ้นเครื่องให้พร้อมตอนไปที่ประตูขึ้นเครื่อง,,,false
+1,travel,2,9,gate,noun,/ɡeɪt/,เกท,ประตูขึ้นเครื่อง,"Our flight leaves from gate twelve, so let's hurry.",เที่ยวบินเราออกที่ประตูสิบสอง รีบไปกันเถอะ,,,false
+1,travel,2,10,visa,noun,/ˈviːzə/,วีซ่า,วีซ่า,Do I need a visa to visit Japan for one week?,ฉันต้องใช้วีซ่าไหมถ้าไปเที่ยวญี่ปุ่นหนึ่งสัปดาห์,,,false
+1,travel,2,11,arrive,verb,/əˈraɪv/,อะไรฟ์,มาถึง,The plane will arrive in Bangkok at six in the evening.,เครื่องบินจะถึงกรุงเทพฯ ตอนหกโมงเย็น,"Say ""arrive in"" a city and ""arrive at"" a place.",🛬,false
+1,travel,2,12,leave,verb,/liːv/,ลีฟว์,"ออกเดินทาง, จากไป",Our bus will leave the hotel at seven tomorrow.,รถบัสของเราจะออกจากโรงแรมตอนเจ็ดโมงพรุ่งนี้,Past form: left.,🛫,false
+1,travel,2,13,trip,noun,/trɪp/,ทริป,"การเดินทาง, ทริป",We are planning a short trip to the beach next month.,เรากำลังวางแผนไปเที่ยวทะเลสั้น ๆ เดือนหน้า,,,false
+1,travel,2,14,travel,verb,/ˈtrævəl/,แทรฟเวิล,"เดินทาง, ท่องเที่ยว",I love to travel to new places with my friends.,ฉันชอบเดินทางไปที่ใหม่ ๆ กับเพื่อน,,🌏,false
+1,travel,2,15,delayed,adjective,/dɪˈleɪd/,ดีเลด,ล่าช้า,"Sorry, our flight is delayed because of the bad weather.",ขอโทษนะ เที่ยวบินเราล่าช้าเพราะอากาศไม่ดี,,,false
+1,travel,2,16,backpack,noun,/ˈbækpæk/,แบ็คแพ็ค,กระเป๋าเป้,I carry my passport and water in my backpack.,ฉันใส่หนังสือเดินทางกับน้ำไว้ในกระเป๋าเป้,,🎒,false
+1,travel,3,1,left,adverb,/left/,เลฟท์,ซ้าย,"Turn left at the next street, and the bank is there.",เลี้ยวซ้ายที่ถนนถัดไป แล้วธนาคารอยู่ตรงนั้น,,⬅️,false
+1,travel,3,2,right,adverb,/raɪt/,ไรท์,ขวา,Go to the end of the road and turn right.,ไปจนสุดถนนแล้วเลี้ยวขวา,,➡️,false
+1,travel,3,3,go straight,phrase,/ɡoʊ streɪt/,โก สเตรท,ตรงไป,"Go straight for about two minutes, and you will see it.",ตรงไปประมาณสองนาที แล้วคุณจะเห็น,,⬆️,false
+1,travel,3,4,turn,verb,/tɜːrn/,เทิร์น,เลี้ยว,"Turn at the traffic light, and the hotel is on your left.",เลี้ยวที่สัญญาณไฟจราจร แล้วโรงแรมอยู่ทางซ้ายมือ,,,false
+1,travel,3,5,corner,noun,/ˈkɔːrnər/,คอร์เนอร์,หัวมุม,The coffee shop is on the corner of this street.,ร้านกาแฟอยู่ที่หัวมุมถนนนี้,,,false
+1,travel,3,6,map,noun,/mæp/,แมพ,แผนที่,I look at the map on my phone to find the way.,ฉันดูแผนที่ในมือถือเพื่อหาทาง,,🗺️,false
+1,travel,3,7,near,preposition,/nɪr/,เนียร์,ใกล้,Is there a train station near this hotel?,มีสถานีรถไฟใกล้โรงแรมนี้ไหม,,,false
+1,travel,3,8,far,adjective,/fɑːr/,ฟาร์,ไกล,"The beach is not far, so we can walk there.",ชายหาดไม่ไกล เราเดินไปได้,,,false
+1,travel,3,9,next to,preposition,/ˈnekst tuː/,เน็กซ์ ทู,"ข้าง ๆ, ติดกับ",The small coffee shop is next to the supermarket.,ร้านกาแฟเล็ก ๆ อยู่ติดกับซูเปอร์มาร์เก็ต,,,false
+1,travel,3,10,opposite,preposition,/ˈɑːpəzɪt/,ออพพะซิท,ตรงข้าม,The bus stop is opposite the big hotel.,ป้ายรถเมล์อยู่ตรงข้ามโรงแรมใหญ่,,,false
+1,travel,3,11,behind,preposition,/bɪˈhaɪnd/,บิไฮนด์,ข้างหลัง,You can park your car behind the building.,คุณจอดรถไว้ข้างหลังตึกได้,,,false
+1,travel,3,12,in front of,preposition,/ɪn ˈfrʌnt əv/,อิน ฟรอนท์ ออฟ,ข้างหน้า,I will meet you in front of the train station.,ฉันจะไปเจอคุณที่หน้าสถานีรถไฟ,,,false
+1,travel,3,13,between,preposition,/bɪˈtwiːn/,บิทวีน,ระหว่าง,The café is between the bookstore and the bakery.,ร้านกาแฟอยู่ระหว่างร้านหนังสือกับร้านเบเกอรี่,,,false
+1,travel,3,14,cross,verb,/krɔːs/,ครอส,ข้าม (ถนน),Be careful when you cross this busy road.,ระวังตอนข้ามถนนที่รถพลุกพล่านเส้นนี้,,,false
+1,travel,3,15,traffic light,noun,/ˈtræfɪk laɪt/,แทรฟฟิค ไลท์,สัญญาณไฟจราจร,Stop the car when the traffic light is red.,หยุดรถเมื่อสัญญาณไฟจราจรเป็นสีแดง,,🚦,false
+1,travel,3,16,way,noun,/weɪ/,เวย์,ทาง,"Excuse me, can you tell me the way to the beach?",ขอโทษครับ ช่วยบอกทางไปชายหาดหน่อยได้ไหม,,,false
+1,travel,4,1,hotel,noun,/hoʊˈtel/,โฮเทล,โรงแรม,Our hotel is near the beach and has a nice view.,โรงแรมของเราอยู่ใกล้ชายหาดและวิวสวย,,🏨,false
+1,travel,4,2,reception,noun,/rɪˈsepʃən/,รีเซ็ปชั่น,แผนกต้อนรับ,Please leave your key at reception when you go out.,กรุณาฝากกุญแจไว้ที่แผนกต้อนรับเมื่อออกไปข้างนอก,,🛎️,false
+1,travel,4,3,key,noun,/kiː/,คีย์,กุญแจ,I can't find my room key in my bag.,ฉันหากุญแจห้องในกระเป๋าไม่เจอ,,🔑,false
+1,travel,4,4,single room,noun,/ˈsɪŋɡəl ruːm/,ซิงเกิล รูม,ห้องเดี่ยว,"I would like a single room for two nights, please.",ฉันขอห้องเดี่ยวสองคืนค่ะ,,,false
+1,travel,4,5,double room,noun,/ˈdʌbəl ruːm/,ดับเบิล รูม,ห้องเตียงคู่ (เตียงใหญ่),We booked a double room with a view of the sea.,เราจองห้องเตียงใหญ่ที่มองเห็นวิวทะเล,,,false
+1,travel,4,6,book,verb,/bʊk/,บุ๊ค,จอง,I want to book a room for this Friday night.,ฉันอยากจองห้องสำหรับคืนวันศุกร์นี้,,,false
+1,travel,4,7,reservation,noun,/ˌrezərˈveɪʃən/,เรเซอร์เวชั่น,การจอง,I have a reservation under the name Somchai.,ฉันจองไว้ในชื่อสมชายครับ,,,false
+1,travel,4,8,check out,phrase,/tʃek aʊt/,เช็ค เอาท์,เช็คเอาท์,We need to check out of the hotel before noon.,เราต้องเช็คเอาท์จากโรงแรมก่อนเที่ยง,"As a noun, write ""checkout"".",,false
+1,travel,4,9,stay,verb,/steɪ/,สเตย์,พัก (ที่โรงแรม),We will stay at this hotel for three nights.,เราจะพักที่โรงแรมนี้สามคืน,,,false
+1,travel,4,10,Wi-Fi,noun,/ˈwaɪ faɪ/,ไวไฟ,ไวไฟ,What is the password for the Wi-Fi in my room?,รหัสไวไฟในห้องของฉันคืออะไร,,📶,false
+1,travel,4,11,lobby,noun,/ˈlɑːbi/,ล็อบบี้,ล็อบบี้,Let's meet in the hotel lobby at eight o'clock.,เจอกันที่ล็อบบี้โรงแรมตอนแปดโมงนะ,,,false
+1,travel,4,12,elevator,noun,/ˈeləveɪtər/,เอเลเวเทอร์,ลิฟต์,Take the elevator to the fifth floor for your room.,ขึ้นลิฟต์ไปชั้นห้าเพื่อไปที่ห้องของคุณ,"British English: ""lift"".",🛗,false
+1,travel,4,13,towel,noun,/ˈtaʊəl/,ทาวเอิล,ผ้าเช็ดตัว,"Can I have one more clean towel, please?",ขอผ้าเช็ดตัวสะอาดเพิ่มอีกผืนได้ไหมคะ,,,false
+1,travel,4,14,air conditioner,noun,/ˈer kənˌdɪʃənər/,แอร์ คอนดิชั่นเนอร์,"เครื่องปรับอากาศ, แอร์",The air conditioner in my room is not working.,แอร์ในห้องของฉันไม่ทำงาน,"Thai ""แอร์"" comes from this; in English you can also say ""AC"".",,false
+1,travel,4,15,swimming pool,noun,/ˈswɪmɪŋ puːl/,สวิมมิ่ง พูล,สระว่ายน้ำ,The kids want to play in the hotel swimming pool all day.,เด็ก ๆ อยากเล่นในสระว่ายน้ำของโรงแรมทั้งวัน,,🏊,false
+1,travel,4,16,room service,noun,/ˈruːm ˌsɜːrvɪs/,รูม เซอร์วิส,บริการส่งอาหารถึงห้อง,"We are tired, so let's order room service tonight.",เราเหนื่อยแล้ว คืนนี้สั่งรูมเซอร์วิสกันเถอะ,,,false

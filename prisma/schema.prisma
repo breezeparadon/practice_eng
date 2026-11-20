@@ -1,0 +1,140 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum Family {
+  DAILY
+  WORK
+}
+
+enum LessonStatus {
+  STARTED
+  PASSED
+}
+
+enum QuizKind {
+  LESSON
+  LEVEL
+  PLACEMENT
+  MOCK
+}
+
+model User {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  name      String?
+  image     String?
+  createdAt DateTime @default(now())
+
+  lessonProgress UserLessonProgress[]
+  wordStates     UserWordState[]
+  quizAttempts   QuizAttempt[]
+}
+
+model Level {
+  id         Int        @id // 1..5
+  name       String
+  nameTh     String
+  cefr       String
+  categories Category[]
+}
+
+model Category {
+  id      String  @id @default(cuid())
+  levelId Int
+  level   Level   @relation(fields: [levelId], references: [id])
+  family  Family
+  slug    String
+  nameEn  String
+  nameTh  String
+  order   Int
+  lessons Lesson[]
+
+  @@unique([levelId, slug])
+}
+
+model Lesson {
+  id         String   @id @default(cuid())
+  categoryId String
+  category   Category @relation(fields: [categoryId], references: [id])
+  order      Int
+  titleEn    String
+  titleTh    String
+  active     Boolean  @default(true)
+  words      Word[]
+  progress   UserLessonProgress[]
+
+  @@unique([categoryId, order])
+}
+
+model Word {
+  id        String  @id @default(cuid())
+  lessonId  String
+  lesson    Lesson  @relation(fields: [lessonId], references: [id])
+  order     Int
+  headword  String
+  pos       String
+  phonetic  String
+  readingTh String
+  meaningTh String
+  exampleEn String
+  exampleTh String
+  noteEn    String?
+  emoji     String?
+  imageUrl  String?
+  reviewed  Boolean @default(false)
+  active    Boolean @default(true)
+  states    UserWordState[]
+
+  @@unique([lessonId, headword, pos])
+}
+
+model UserLessonProgress {
+  id        String       @id @default(cuid())
+  userId    String
+  user      User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  lessonId  String
+  lesson    Lesson       @relation(fields: [lessonId], references: [id])
+  status    LessonStatus @default(STARTED)
+  bestScore Int          @default(0) // percent 0..100
+  attempts  Int          @default(0)
+  updatedAt DateTime     @updatedAt
+
+  @@unique([userId, lessonId])
+}
+
+model UserWordState {
+  id           String   @id @default(cuid())
+  userId       String
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  wordId       String
+  word         Word     @relation(fields: [wordId], references: [id])
+  ease         Float    @default(2.5)
+  intervalDays Int      @default(0)
+  streak       Int      @default(0)
+  nextReview   DateTime @default(now())
+  mastered     Boolean  @default(false)
+
+  @@unique([userId, wordId])
+  @@index([userId, nextReview])
+}
+
+model QuizAttempt {
+  id          String    @id @default(cuid())
+  userId      String
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  kind        QuizKind
+  refId       String // lessonId for LESSON
+  questions   Json // includes the answer key; never sent to the client as-is
+  answers     Json?
+  score       Int? // percent, set by the server on submit
+  createdAt   DateTime  @default(now())
+  submittedAt DateTime?
+
+  @@index([userId, kind, refId])
+}

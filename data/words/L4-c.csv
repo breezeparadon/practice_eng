@@ -1,0 +1,337 @@
+level,category,lesson,order,headword,pos,phonetic,reading_th,meaning_th,example_en,example_th,note_en,emoji,reviewed
+4,advertising,1,1,jingle,noun,/ˈdʒɪŋɡəl/,จิงเกิล,เพลงสั้น ๆ ประกอบโฆษณา,Everyone in the office can sing the jingle from that noodle ad.,ทุกคนในออฟฟิศร้องเพลงโฆษณาบะหมี่ตัวนั้นได้,,,false
+4,advertising,1,2,copywriter,noun,/ˈkɑːpiraɪtər/,คอพพีไรเทอร์,นักเขียนข้อความโฆษณา,The copywriter wrote ten different headlines for the poster.,นักเขียนข้อความโฆษณาเขียนพาดหัวโปสเตอร์สิบแบบ,,,false
+4,advertising,1,3,target audience,phrase,/ˈtɑːrɡɪt ˈɔːdiəns/,ทาร์กิท ออเดียนซ์,กลุ่มเป้าหมาย,Our target audience is young parents who shop online.,กลุ่มเป้าหมายของเราคือพ่อแม่มือใหม่ที่ซื้อของออนไลน์,reach / define a target audience,,false
+4,advertising,1,4,endorsement,noun,/ɪnˈdɔːrsmənt/,อินดอร์สเมินท์,การรับรองหรือเป็นพรีเซนเตอร์ให้สินค้า,The tennis star earns more from endorsements than from prize money.,นักเทนนิสดาวดังมีรายได้จากการเป็นพรีเซนเตอร์มากกว่าเงินรางวัล,celebrity endorsement,,false
+4,advertising,1,5,prime time,phrase,/praɪm taɪm/,ไพรม์ ไทม์,ช่วงเวลาที่มีผู้ชมมากที่สุด,Ads shown during prime time cost much more than daytime ads.,โฆษณาที่ฉายในช่วงไพรม์ไทม์มีราคาแพงกว่าช่วงกลางวันมาก,,,false
+4,advertising,1,6,product placement,phrase,/ˈprɑːdʌkt ˈpleɪsmənt/,พรอดัคท์ เพลซเมินท์,การวางสินค้าในฉากภาพยนตร์หรือรายการ,The drama is full of product placement for phones and coffee.,ละครเรื่องนี้เต็มไปด้วยการวางโฆษณาโทรศัพท์และกาแฟในฉาก,,,false
+4,advertising,1,7,catchy,adjective,/ˈkætʃi/,แคทชี,ติดหูง่าย,The music in the ad was so catchy that everyone was humming it.,เพลงในโฆษณาติดหูมากจนทุกคนฮัมตาม,,,false
+4,advertising,1,8,persuasive,adjective,/pərˈsweɪsɪv/,เพอร์สเวสิฟ,โน้มน้าวใจได้ดี,A persuasive ad focuses on what the customer really needs.,โฆษณาที่โน้มน้าวใจได้ดีจะเน้นสิ่งที่ลูกค้าต้องการจริง ๆ,,,false
+4,advertising,1,9,exposure,noun,/ɪkˈspoʊʒər/,อิคซ์โปเชอร์,การได้เป็นที่รู้จักผ่านสื่อ,The trade show gave our brand a lot of exposure.,งานแสดงสินค้าทำให้แบรนด์ของเราเป็นที่รู้จักมากขึ้น,media exposure,,false
+4,advertising,1,10,eye-catching,adjective,/ˈaɪ kætʃɪŋ/,อายแคชชิ่ง,สะดุดตา,The shop uses eye-catching colors on its window signs.,ร้านใช้สีที่สะดุดตาบนป้ายหน้าร้าน,,,false
+4,advertising,1,11,mascot,noun,/ˈmæskɑːt/,แมสคอท,ตัวนำโชค มาสคอต,The bank's friendly mascot is a smiling blue elephant.,มาสคอตของธนาคารเป็นช้างสีฟ้ายิ้มแย้มน่ารัก,,,false
+4,advertising,1,12,publicity,noun,/pʌbˈlɪsəti/,พับลิสซิที,การเป็นข่าว การประชาสัมพันธ์,The charity event got great publicity in the local papers.,งานการกุศลได้รับการลงข่าวอย่างดีในหนังสือพิมพ์ท้องถิ่น,,,false
+4,advertising,1,13,run an ad,phrase,/rʌn ən æd/,รัน แอน แอด,ลงโฆษณา,We plan to run an ad in the weekend newspaper.,เราวางแผนจะลงโฆษณาในหนังสือพิมพ์ฉบับสุดสัปดาห์,,,false
+4,advertising,1,14,air,verb,/er/,แอร์,ออกอากาศ,The new commercial will air every evening during the news.,โฆษณาชิ้นใหม่จะออกอากาศทุกเย็นในช่วงข่าว,,,false
+4,advertising,2,1,columnist,noun,/ˈkɑːləmnɪst/,คอลัมนิสท์,นักเขียนคอลัมน์,The columnist writes about money and family life every Sunday.,นักเขียนคอลัมน์คนนี้เขียนเรื่องเงินและชีวิตครอบครัวทุกวันอาทิตย์,,,false
+4,advertising,2,2,retraction,noun,/rɪˈtrækʃən/,ริแทรคชัน,การถอนข่าวหรือถอนคำพูด,The newspaper printed a retraction after the story proved false.,หนังสือพิมพ์ลงประกาศถอนข่าวหลังพบว่าเรื่องนั้นไม่เป็นความจริง,issue a retraction,,false
+4,advertising,2,3,censorship,noun,/ˈsensərʃɪp/,เซนเซอร์ชิพ,การเซ็นเซอร์ การตรวจพิจารณาสื่อ,Many reporters left the country because of strict censorship.,นักข่าวหลายคนออกจากประเทศเพราะการเซ็นเซอร์ที่เข้มงวด,,,false
+4,advertising,2,4,photojournalist,noun,/ˌfoʊtoʊˈdʒɜːrnəlɪst/,โฟโทเจอร์เนอะลิสท์,ช่างภาพข่าว,The photojournalist spent a month taking pictures in the flood zone.,ช่างภาพข่าวใช้เวลาหนึ่งเดือนถ่ายภาพในพื้นที่น้ำท่วม,,,false
+4,advertising,2,5,paparazzi,noun,/ˌpɑːpəˈrɑːtsi/,พาพะรัทซี,ช่างภาพที่ตามถ่ายคนดัง,The actress hid her face from the paparazzi at the airport.,นักแสดงหญิงปิดหน้าหลบช่างภาพปาปารัซซีที่สนามบิน,plural noun,,false
+4,advertising,2,6,anonymous,adjective,/əˈnɑːnɪməs/,อะนอนนิมัส,ไม่ระบุชื่อ,The reporter got the story from an anonymous source.,นักข่าวได้เรื่องนี้มาจากแหล่งข่าวที่ไม่ระบุชื่อ,,,false
+4,advertising,2,7,subscriber,noun,/səbˈskraɪbər/,ซับสไครเบอร์,สมาชิก ผู้บอกรับ,The newspaper lost many subscribers after it raised its price.,หนังสือพิมพ์เสียสมาชิกไปมากหลังจากขึ้นราคา,,,false
+4,advertising,2,8,bias,noun,/ˈbaɪəs/,ไบเอิส,อคติ ความลำเอียง,Readers complained about bias in the paper's political reporting.,ผู้อ่านร้องเรียนเรื่องความลำเอียงในการรายงานข่าวการเมืองของหนังสือพิมพ์,bias against / in favor of,,false
+4,advertising,2,9,credible,adjective,/ˈkredəbəl/,เครดิเบิล,น่าเชื่อถือ,Always check whether a news source is credible before sharing it.,ควรตรวจสอบเสมอว่าแหล่งข่าวน่าเชื่อถือหรือไม่ก่อนแชร์,,,false
+4,advertising,2,10,news outlet,phrase,/nuːz ˈaʊtlet/,นิวซ์ เอาท์เล็ท,สำนักข่าว สื่อ,Several news outlets reported the story within an hour.,สำนักข่าวหลายแห่งรายงานเรื่องนี้ภายในหนึ่งชั่วโมง,,,false
+4,advertising,2,11,editor-in-chief,noun,/ˌedɪtər ɪn ˈtʃiːf/,เอดิเทอร์อินชีฟ,บรรณาธิการบริหาร,The editor-in-chief decides which story goes on the front page.,บรรณาธิการบริหารเป็นผู้ตัดสินว่าข่าวไหนจะขึ้นหน้าหนึ่ง,,,false
+4,advertising,2,12,impartial,adjective,/ɪmˈpɑːrʃəl/,อิมพาร์เชิล,เป็นกลาง ไม่ลำเอียง,Public broadcasters must give impartial reports on elections.,สถานีโทรทัศน์สาธารณะต้องรายงานข่าวการเลือกตั้งอย่างเป็นกลาง,,,false
+4,advertising,2,13,speculation,noun,/ˌspekjəˈleɪʃən/,สเปคคิวเลชัน,การคาดเดา,There was a lot of speculation about who the new CEO would be.,มีการคาดเดากันมากว่าใครจะเป็นซีอีโอคนใหม่,,,false
+4,advertising,2,14,sensational,adjective,/senˈseɪʃənəl/,เซนเซชันเนิล,เร้าอารมณ์ เกินจริงเพื่อเรียกความสนใจ,Some websites use sensational headlines to attract readers.,บางเว็บไซต์ใช้พาดหัวที่เกินจริงเพื่อดึงดูดผู้อ่าน,,,false
+4,advertising,3,1,meme,noun,/miːm/,มีม,มีม ภาพหรือข้อความล้อเลียนที่แชร์ต่อกัน,My coworker sent a funny meme about Monday mornings.,เพื่อนร่วมงานส่งมีมตลก ๆ เรื่องเช้าวันจันทร์มาให้,,,false
+4,advertising,3,2,newsfeed,noun,/ˈnuːzfiːd/,นิวซ์ฟีด,หน้าฟีดข่าว,My newsfeed is full of photos from last night's concert.,หน้าฟีดของฉันเต็มไปด้วยรูปจากคอนเสิร์ตเมื่อคืน,,,false
+4,advertising,3,3,crosspost,verb,/ˈkrɔːspoʊst/,ครอสโพสท์,โพสต์เนื้อหาเดียวกันลงหลายแพลตฟอร์ม,We crosspost each video to three different platforms.,เราโพสต์วิดีโอแต่ละคลิปลงสามแพลตฟอร์ม,,,false
+4,advertising,3,4,algorithm,noun,/ˈælɡərɪðəm/,แอลกอริเธิม,อัลกอริทึม ชุดคำสั่งคัดเลือกเนื้อหา,The app's algorithm decides which posts you see first.,อัลกอริทึมของแอปเป็นตัวตัดสินว่าคุณจะเห็นโพสต์ไหนก่อน,,,false
+4,advertising,3,5,thumbnail,noun,/ˈθʌmneɪl/,ธัมเนล,ภาพตัวอย่างขนาดเล็ก,A bright thumbnail helps people notice your video.,ภาพตัวอย่างที่สดใสช่วยให้คนสังเกตเห็นวิดีโอของคุณ,,,false
+4,advertising,3,6,vlogger,noun,/ˈvlɑːɡər/,วล็อกเกอร์,ผู้ทำวิดีโอบล็อก,The food vlogger tries a different street stall every day.,วล็อกเกอร์สายอาหารไปลองร้านริมทางร้านใหม่ทุกวัน,,,false
+4,advertising,3,7,doomscrolling,noun,/ˈduːmskroʊlɪŋ/,ดูมสโครลลิ่ง,การไถอ่านข่าวร้ายไม่หยุด,"I stopped doomscrolling before bed, and now I sleep better.",ฉันเลิกไถอ่านข่าวร้ายก่อนนอน ตอนนี้นอนหลับดีขึ้น,informal,,false
+4,advertising,3,8,moderate,verb,/ˈmɑːdəreɪt/,มอเดอเรท,ดูแลคัดกรอง (ความคิดเห็น),Two staff members moderate the comments on our page.,พนักงานสองคนคอยดูแลคัดกรองความคิดเห็นบนเพจของเรา,moderate comments / a discussion,,false
+4,advertising,3,9,user-generated,adjective,/ˌjuːzər ˈdʒenəreɪtɪd/,ยูสเซอร์เจเนอเรทิด,ที่ผู้ใช้สร้างขึ้นเอง,The brand shares user-generated photos of customers wearing its shoes.,แบรนด์แชร์รูปที่ลูกค้าถ่ายเองตอนใส่รองเท้าของแบรนด์,user-generated content,,false
+4,advertising,3,10,privacy settings,phrase,/ˈpraɪvəsi ˈsetɪŋz/,ไพรเวซี เซ็ททิงส์,การตั้งค่าความเป็นส่วนตัว,Check your privacy settings before you post family photos.,ตรวจดูการตั้งค่าความเป็นส่วนตัวก่อนโพสต์รูปครอบครัว,,,false
+4,advertising,3,11,content creator,phrase,/ˈkɑːntent kriˈeɪtər/,คอนเทนท์ ครีเอเทอร์,ผู้สร้างคอนเทนต์,Many content creators earn money from ads and sponsorships.,ผู้สร้างคอนเทนต์หลายคนมีรายได้จากโฆษณาและสปอนเซอร์,,,false
+4,advertising,3,12,monetize,verb,/ˈmɑːnətaɪz/,มอนนิไทซ์,สร้างรายได้จาก,He monetized his travel channel after just one year.,เขาเริ่มสร้างรายได้จากช่องท่องเที่ยวของตัวเองหลังทำได้เพียงหนึ่งปี,,,false
+4,advertising,3,13,verified,adjective,/ˈverɪfaɪd/,เวริฟายด์,ได้รับการยืนยันตัวตนแล้ว,Only follow verified accounts for news about the storm.,ติดตามเฉพาะบัญชีที่ยืนยันตัวตนแล้วสำหรับข่าวเรื่องพายุ,,,false
+4,advertising,3,14,podcast,noun,/ˈpɑːdkæst/,พอดแคสท์,รายการเสียงออนไลน์,I listen to a business podcast on my way to work.,ฉันฟังพอดแคสต์ธุรกิจระหว่างเดินทางไปทำงาน,,🎙️,false
+4,civic,1,1,ballot,noun,/ˈbælət/,แบลเลิท,บัตรเลือกตั้ง,Voters put their ballots into a sealed box.,ผู้มีสิทธิ์เลือกตั้งหย่อนบัตรลงในหีบที่ปิดผนึก,secret ballot,🗳️,false
+4,civic,1,2,incumbent,noun,/ɪnˈkʌmbənt/,อินคัมเบินท์,ผู้ดำรงตำแหน่งอยู่ในปัจจุบัน,The incumbent lost the election to a much younger rival.,ผู้ดำรงตำแหน่งเดิมแพ้การเลือกตั้งให้คู่แข่งที่อายุน้อยกว่ามาก,,,false
+4,civic,1,3,polling station,phrase,/ˈpoʊlɪŋ ˈsteɪʃən/,โพลลิ่ง สเตชัน,หน่วยเลือกตั้ง,The polling station opens at eight in the morning.,หน่วยเลือกตั้งเปิดเวลาแปดโมงเช้า,,,false
+4,civic,1,4,turnout,noun,/ˈtɜːrnaʊt/,เทิร์นเอาท์,จำนวนผู้มาใช้สิทธิ์,Voter turnout was higher than in the last election.,จำนวนผู้มาใช้สิทธิ์สูงกว่าการเลือกตั้งครั้งที่แล้ว,high / low turnout,,false
+4,civic,1,5,candidacy,noun,/ˈkændɪdəsi/,แคนดิเดอะซี,การลงสมัครรับเลือกตั้ง,The actor announced his candidacy for governor last week.,นักแสดงประกาศลงสมัครรับเลือกตั้งผู้ว่าการเมื่อสัปดาห์ที่แล้ว,,,false
+4,civic,1,6,manifesto,noun,/ˌmænəˈfestoʊ/,แมนิเฟสโต,แถลงการณ์นโยบายของพรรค,The party promised free health care in its manifesto.,พรรคสัญญาเรื่องการรักษาพยาบาลฟรีไว้ในแถลงการณ์นโยบาย,,,false
+4,civic,1,7,opposition,noun,/ˌɑːpəˈzɪʃən/,ออพพะซิชัน,ฝ่ายค้าน,The opposition voted against the new budget.,ฝ่ายค้านลงมติไม่เห็นด้วยกับงบประมาณใหม่,,,false
+4,civic,1,8,run for office,phrase,/rʌn fər ˈɔːfɪs/,รัน ฟอร์ ออฟฟิส,ลงสมัครรับเลือกตั้ง,My former teacher plans to run for office next year.,ครูเก่าของฉันวางแผนจะลงสมัครรับเลือกตั้งปีหน้า,,,false
+4,civic,1,9,recount,noun,/ˈriːkaʊnt/,รีเคาท์,การนับคะแนนใหม่,The result was so close that both sides asked for a recount.,ผลคะแนนสูสีมากจนทั้งสองฝ่ายขอให้นับคะแนนใหม่,,,false
+4,civic,1,10,cast a vote,phrase,/kæst ə voʊt/,แคสท์ อะ โวท,ลงคะแนนเสียง,Citizens living abroad can cast a vote by mail.,พลเมืองที่อาศัยอยู่ต่างประเทศสามารถลงคะแนนเสียงทางไปรษณีย์ได้,,,false
+4,civic,1,11,abstain,verb,/əbˈsteɪn/,เอิบสเตน,งดออกเสียง,Ten members abstained when the bill came to a vote.,สมาชิกสิบคนงดออกเสียงเมื่อร่างกฎหมายเข้าสู่การลงมติ,abstain from voting,,false
+4,civic,1,12,democratic,adjective,/ˌdeməˈkrætɪk/,เดมะแครทิก,เป็นประชาธิปไตย,Free and fair elections are part of a democratic society.,การเลือกตั้งที่เสรีและเป็นธรรมเป็นส่วนหนึ่งของสังคมประชาธิปไตย,,,false
+4,civic,1,13,referendum,noun,/ˌrefəˈrendəm/,เรเฟอเรนดัม,การลงประชามติ,The country will hold a referendum on the new constitution.,ประเทศจะจัดให้มีการลงประชามติเรื่องรัฐธรรมนูญฉบับใหม่,hold a referendum,,false
+4,civic,1,14,nominate,verb,/ˈnɑːmɪneɪt/,นอมิเนท,เสนอชื่อ,The party nominated a former doctor for the seat.,พรรคเสนอชื่ออดีตแพทย์ลงชิงที่นั่งนี้,,,false
+4,civic,2,1,public sector,phrase,/ˈpʌblɪk ˈsektər/,พับลิก เซคเทอร์,ภาครัฐ,Nurses in the public sector will get a pay rise next year.,พยาบาลในภาครัฐจะได้ขึ้นเงินเดือนปีหน้า,opposite: private sector,,false
+4,civic,2,2,enforce,verb,/ɪnˈfɔːrs/,อินฟอร์ส,บังคับใช้,The police will enforce the new speed limit from Monday.,ตำรวจจะบังคับใช้การจำกัดความเร็วใหม่ตั้งแต่วันจันทร์,enforce a law / a rule,,false
+4,civic,2,3,comply with,phrasal verb,/kəmˈplaɪ wɪð/,เคิมพลาย วิธ,ปฏิบัติตาม,All restaurants must comply with the new hygiene rules.,ร้านอาหารทุกร้านต้องปฏิบัติตามกฎสุขอนามัยฉบับใหม่,,,false
+4,civic,2,4,infrastructure,noun,/ˈɪnfrəstrʌktʃər/,อินฟระสตรัคเชอร์,โครงสร้างพื้นฐาน,The government is spending more on roads and other infrastructure.,รัฐบาลใช้เงินมากขึ้นกับถนนและโครงสร้างพื้นฐานอื่น ๆ,,,false
+4,civic,2,5,loophole,noun,/ˈluːphoʊl/,ลูพโฮล,ช่องโหว่ (ของกฎหมาย),The company used a loophole to avoid paying the fee.,บริษัทใช้ช่องโหว่ของกฎหมายเพื่อเลี่ยงการจ่ายค่าธรรมเนียม,,,false
+4,civic,2,6,enact,verb,/ɪˈnækt/,อิแนคท์,ตรา (กฎหมาย) ประกาศใช้,The government enacted a new law to protect street vendors.,รัฐบาลตรากฎหมายใหม่เพื่อคุ้มครองผู้ค้าริมทาง,,,false
+4,civic,2,7,civil servant,phrase,/ˈsɪvəl ˈsɜːrvənt/,ซีเวิล เซอร์เวินท์,ข้าราชการ,My uncle worked as a civil servant for thirty years.,ลุงของฉันรับราชการมาสามสิบปี,,,false
+4,civic,2,8,bureaucracy,noun,/bjʊˈrɑːkrəsi/,บิวรอเครอะซี,ระบบราชการ ขั้นตอนที่ยุ่งยาก,Too much bureaucracy makes it hard to open a small shop.,ขั้นตอนราชการที่มากเกินไปทำให้เปิดร้านเล็ก ๆ ได้ยาก,,,false
+4,civic,2,9,subsidy,noun,/ˈsʌbsədi/,ซับซิดี,เงินอุดหนุน,Farmers receive a subsidy to help pay for fertilizer.,เกษตรกรได้รับเงินอุดหนุนเพื่อช่วยจ่ายค่าปุ๋ย,,,false
+4,civic,2,10,public housing,phrase,/ˈpʌblɪk ˈhaʊzɪŋ/,พับลิก เฮาซิ่ง,ที่อยู่อาศัยของรัฐ,Many families are waiting for a place in public housing.,หลายครอบครัวกำลังรอที่พักในโครงการที่อยู่อาศัยของรัฐ,,,false
+4,civic,2,11,jurisdiction,noun,/ˌdʒʊrɪsˈdɪkʃən/,จัวริสดิคชัน,เขตอำนาจ,That road is outside the city's jurisdiction.,ถนนสายนั้นอยู่นอกเขตอำนาจของเมือง,,,false
+4,civic,2,12,amend,verb,/əˈmend/,อะเมนด์,แก้ไข (กฎหมาย),Parliament voted to amend the law on working hours.,รัฐสภาลงมติแก้ไขกฎหมายว่าด้วยชั่วโมงทำงาน,,,false
+4,civic,2,13,lawmaker,noun,/ˈlɔːmeɪkər/,ลอเมเคอร์,สมาชิกสภานิติบัญญัติ,Lawmakers are discussing a higher minimum wage.,สมาชิกสภากำลังหารือเรื่องการขึ้นค่าแรงขั้นต่ำ,,,false
+4,civic,2,14,abolish,verb,/əˈbɑːlɪʃ/,อะบอลิช,ยกเลิก (กฎหมาย ระบบ),The city abolished the fee for using public libraries.,เมืองยกเลิกค่าธรรมเนียมการใช้ห้องสมุดสาธารณะ,,,false
+4,civic,3,1,taxpayer,noun,/ˈtæksˌpeɪər/,แท็กซ์เพเยอร์,ผู้เสียภาษี,The new bridge was built with taxpayers' money.,สะพานใหม่สร้างด้วยเงินของผู้เสียภาษี,,,false
+4,civic,3,2,tax bracket,phrase,/tæks ˈbrækɪt/,แท็กซ์ แบรคิท,ขั้นอัตราภาษี,"After her promotion, she moved into a higher tax bracket.",หลังได้เลื่อนตำแหน่ง เธอขยับไปอยู่ในขั้นอัตราภาษีที่สูงขึ้น,,,false
+4,civic,3,3,exemption,noun,/ɪɡˈzempʃən/,อิกเซมพ์ชัน,การยกเว้น,Small shops may get an exemption from the new tax.,ร้านค้าขนาดเล็กอาจได้รับการยกเว้นภาษีใหม่,tax exemption,,false
+4,civic,3,4,citizenship,noun,/ˈsɪtɪzənʃɪp/,ซิทิเซินชิพ,สัญชาติ ความเป็นพลเมือง,She applied for citizenship after living here for ten years.,เธอยื่นขอสัญชาติหลังจากอาศัยอยู่ที่นี่สิบปี,,,false
+4,civic,3,5,residence permit,phrase,/ˈrezɪdəns ˈpɜːrmɪt/,เรสิเดินซ์ เพอร์มิท,ใบอนุญาตพำนัก,Foreign workers must renew their residence permit every year.,แรงงานต่างชาติต้องต่ออายุใบอนุญาตพำนักทุกปี,,,false
+4,civic,3,6,certify,verb,/ˈsɜːrtɪfaɪ/,เซอร์ทิฟาย,รับรอง (เอกสาร),The embassy certified copies of my university degree.,สถานทูตรับรองสำเนาปริญญาบัตรของฉัน,certified copy,,false
+4,civic,3,7,power of attorney,phrase,/ˈpaʊər əv əˈtɜːrni/,พาวเวอร์ เอิฟ อะเทอร์นี,หนังสือมอบอำนาจ,My father gave me power of attorney to sell his land.,พ่อทำหนังสือมอบอำนาจให้ฉันขายที่ดินของท่าน,,,false
+4,civic,3,8,work permit,phrase,/wɜːrk ˈpɜːrmɪt/,เวิร์ค เพอร์มิท,ใบอนุญาตทำงาน,Foreign teachers need a work permit before they start teaching.,ครูต่างชาติต้องมีใบอนุญาตทำงานก่อนเริ่มสอน,,,false
+4,civic,3,9,levy,verb,/ˈlevi/,เลวี,จัดเก็บ (ภาษี ค่าธรรมเนียม),The city levies a small tax on hotel rooms.,เมืองจัดเก็บภาษีเล็กน้อยจากห้องพักโรงแรม,,,false
+4,civic,3,10,income tax,phrase,/ˈɪnkʌm tæks/,อินคัม แท็กซ์,ภาษีเงินได้,Income tax is taken from my salary every month.,ภาษีเงินได้ถูกหักจากเงินเดือนของฉันทุกเดือน,,,false
+4,civic,3,11,tax refund,phrase,/tæks ˈriːfʌnd/,แท็กซ์ รีฟันด์,เงินคืนภาษี,I received my tax refund two weeks after filing online.,ฉันได้รับเงินคืนภาษีสองสัปดาห์หลังยื่นแบบออนไลน์,,,false
+4,civic,3,12,consulate,noun,/ˈkɑːnsələt/,คอนเซอะเลิท,สถานกงสุล,You can renew your passport at the consulate in Chiang Mai.,คุณสามารถต่ออายุหนังสือเดินทางได้ที่สถานกงสุลในเชียงใหม่,,,false
+4,civic,3,13,validity,noun,/vəˈlɪdəti/,เวอะลิดดิที,การมีผลใช้ได้ อายุการใช้งาน (เอกสาร),Check the validity of your passport before you book flights.,ตรวจสอบอายุหนังสือเดินทางก่อนจองเที่ยวบิน,,,false
+4,civic,3,14,census,noun,/ˈsensəs/,เซนเซิส,การสำรวจสำมะโนประชากร,The government carries out a census every ten years.,รัฐบาลทำการสำรวจสำมะโนประชากรทุกสิบปี,,,false
+4,arts,1,1,curator,noun,/ˈkjʊreɪtər/,เคียวเรเทอร์,ภัณฑารักษ์,The curator chose forty paintings for the summer show.,ภัณฑารักษ์คัดเลือกภาพวาดสี่สิบภาพสำหรับนิทรรศการหน้าร้อน,,,false
+4,arts,1,2,sculpture,noun,/ˈskʌlptʃər/,สคัลพ์เชอร์,ประติมากรรม,A huge bronze sculpture stands outside the gallery.,ประติมากรรมสำริดขนาดใหญ่ตั้งอยู่หน้าหอศิลป์,,,false
+4,arts,1,3,portrait,noun,/ˈpɔːrtrət/,พอร์ทเทริท,ภาพเหมือนบุคคล,The museum has a portrait of the city's first mayor.,พิพิธภัณฑ์มีภาพเหมือนของนายกเทศมนตรีคนแรกของเมือง,,,false
+4,arts,1,4,abstract,adjective,/ˈæbstrækt/,แอบสแตรคท์,แบบนามธรรม,"I don't really understand abstract art, but I like the colors.",ฉันไม่ค่อยเข้าใจศิลปะนามธรรม แต่ชอบสีสันของมัน,,,false
+4,arts,1,5,masterpiece,noun,/ˈmæstərpiːs/,แมสเตอร์พีซ,ผลงานชิ้นเอก,Many people think this painting is his greatest masterpiece.,หลายคนคิดว่าภาพนี้เป็นผลงานชิ้นเอกที่ยิ่งใหญ่ที่สุดของเขา,,,false
+4,arts,1,6,canvas,noun,/ˈkænvəs/,แคนเวิส,ผ้าใบวาดภาพ,She painted the sunset on a large canvas.,เธอวาดภาพพระอาทิตย์ตกบนผ้าใบผืนใหญ่,,,false
+4,arts,1,7,brushstroke,noun,/ˈbrʌʃstroʊk/,บรัชสโตรค,รอยฝีแปรง,You can see every brushstroke if you stand close to the picture.,คุณจะเห็นรอยฝีแปรงทุกเส้นถ้ายืนใกล้ภาพ,,,false
+4,arts,1,8,auction,noun,/ˈɔːkʃən/,ออคชัน,การประมูล,The painting sold at auction for two million dollars.,ภาพวาดนี้ถูกขายในการประมูลด้วยราคาสองล้านดอลลาร์,at auction,,false
+4,arts,1,9,contemporary,adjective,/kənˈtempəreri/,เคินเทมเพอะเรอรี,ร่วมสมัย,The gallery shows work by contemporary Thai artists.,หอศิลป์จัดแสดงผลงานของศิลปินไทยร่วมสมัย,,,false
+4,arts,1,10,installation,noun,/ˌɪnstəˈleɪʃən/,อินสตะเลชัน,งานศิลปะจัดวาง,The light installation fills the whole room with color.,งานศิลปะจัดวางด้วยแสงทำให้ทั้งห้องเต็มไปด้วยสีสัน,art installation,,false
+4,arts,1,11,depict,verb,/dɪˈpɪkt/,ดิพิคท์,แสดงภาพ พรรณนา,The painting depicts a busy market in old Bangkok.,ภาพวาดแสดงภาพตลาดที่คึกคักในกรุงเทพฯ สมัยก่อน,,,false
+4,arts,1,12,mural,noun,/ˈmjʊrəl/,มิวเริล,ภาพจิตรกรรมฝาผนัง,Local students painted a colorful mural on the school wall.,นักเรียนในพื้นที่วาดภาพจิตรกรรมฝาผนังสีสดใสบนกำแพงโรงเรียน,,,false
+4,arts,1,13,easel,noun,/ˈiːzəl/,อีเซิล,ขาตั้งวาดภาพ,The artist set up her easel by the river at sunrise.,ศิลปินตั้งขาตั้งวาดภาพริมแม่น้ำตอนพระอาทิตย์ขึ้น,,,false
+4,arts,1,14,critic,noun,/ˈkrɪtɪk/,คริทิก,นักวิจารณ์,Art critics praised the young painter's first show.,นักวิจารณ์ศิลปะชื่นชมนิทรรศการแรกของจิตรกรหนุ่ม,,,false
+4,arts,2,1,novelist,noun,/ˈnɑːvəlɪst/,นอเวอะลิสท์,นักเขียนนวนิยาย,The novelist spent five years writing her latest book.,นักเขียนนวนิยายใช้เวลาห้าปีเขียนหนังสือเล่มล่าสุดของเธอ,,,false
+4,arts,2,2,plot,noun,/plɑːt/,พลอท,โครงเรื่อง,The plot of the story was hard to follow.,โครงเรื่องของเรื่องนี้ติดตามได้ยาก,,,false
+4,arts,2,3,protagonist,noun,/proʊˈtæɡənɪst/,โพรแทเกอะนิสท์,ตัวเอก,The protagonist is a young nurse working in a busy hospital.,ตัวเอกเป็นพยาบาลสาวที่ทำงานในโรงพยาบาลที่วุ่นวาย,,,false
+4,arts,2,4,genre,noun,/ˈʒɑːnrə/,ชอนเรอะ,ประเภท แนว (หนังสือ เพลง ภาพยนตร์),Science fiction is my favorite genre of book.,นิยายวิทยาศาสตร์เป็นหนังสือแนวที่ฉันชอบที่สุด,,,false
+4,arts,2,5,non-fiction,noun,/ˌnɑːnˈfɪkʃən/,นอนฟิคชัน,หนังสือสารคดี เรื่องจริง,The non-fiction section is on the second floor of the library.,หมวดหนังสือสารคดีอยู่ชั้นสองของห้องสมุด,,,false
+4,arts,2,6,biography,noun,/baɪˈɑːɡrəfi/,ไบออกเกรอะฟี,ชีวประวัติ,I'm reading a biography of a famous Thai scientist.,ฉันกำลังอ่านชีวประวัติของนักวิทยาศาสตร์ไทยชื่อดัง,,,false
+4,arts,2,7,publisher,noun,/ˈpʌblɪʃər/,พับลิชเชอร์,สำนักพิมพ์,Three publishers rejected his first novel.,สำนักพิมพ์สามแห่งปฏิเสธนวนิยายเรื่องแรกของเขา,,,false
+4,arts,2,8,manuscript,noun,/ˈmænjəskrɪpt/,แมนิวสคริพท์,ต้นฉบับ,She sent the manuscript to her editor last week.,เธอส่งต้นฉบับให้บรรณาธิการเมื่อสัปดาห์ที่แล้ว,,,false
+4,arts,2,9,sequel,noun,/ˈsiːkwəl/,ซีเควิล,ภาคต่อ,Fans are waiting for the sequel to the fantasy series.,แฟน ๆ กำลังรอภาคต่อของซีรีส์แฟนตาซีเรื่องนี้,sequel to,,false
+4,arts,2,10,narrator,noun,/ˈnæreɪtər/,แนเรเทอร์,ผู้เล่าเรื่อง,The narrator tells the story through the eyes of a child.,ผู้เล่าเรื่องเล่าผ่านสายตาของเด็กคนหนึ่ง,,,false
+4,arts,2,11,bestseller,noun,/ˌbestˈselər/,เบสท์เซลเลอร์,หนังสือขายดี,Her cookbook became a bestseller within a month.,หนังสือสอนทำอาหารของเธอกลายเป็นหนังสือขายดีภายในหนึ่งเดือน,,,false
+4,arts,2,12,anthology,noun,/ænˈθɑːlədʒi/,แอนธอเลอะจี,หนังสือรวมเรื่อง รวมบทประพันธ์,The anthology includes short stories by twelve Asian writers.,หนังสือรวมเรื่องเล่มนี้มีเรื่องสั้นของนักเขียนชาวเอเชียสิบสองคน,,,false
+4,arts,2,13,poetry,noun,/ˈpoʊətri/,โพเอิทรี,บทกวี กวีนิพนธ์,He writes poetry in his free time.,เขาเขียนบทกวีในเวลาว่าง,,,false
+4,arts,2,14,royalty,noun,/ˈrɔɪəlti/,รอยเอิลที,ค่าลิขสิทธิ์ (ที่ผู้เขียนได้รับ),Authors receive royalties on every copy that is sold.,ผู้เขียนได้รับค่าลิขสิทธิ์จากทุกเล่มที่ขายได้,usually plural: earn royalties,,false
+4,arts,3,1,rehearsal,noun,/rɪˈhɜːrsəl/,ริเฮิร์สเซิล,การซ้อม,"The final rehearsal starts at six, before the real show.",การซ้อมครั้งสุดท้ายเริ่มหกโมงเย็นก่อนการแสดงจริง,dress rehearsal,,false
+4,arts,3,2,audition,noun,/ɔːˈdɪʃən/,ออดิชัน,การคัดเลือกนักแสดง,Over two hundred dancers came to the audition.,นักเต้นกว่าสองร้อยคนมาร่วมการคัดเลือก,,,false
+4,arts,3,3,premiere,noun,/prɪˈmɪr/,พรีเมียร์,รอบปฐมทัศน์,The film's premiere will be held in Bangkok next month.,รอบปฐมทัศน์ของภาพยนตร์จะจัดขึ้นที่กรุงเทพฯ เดือนหน้า,,,false
+4,arts,3,4,orchestra,noun,/ˈɔːrkɪstrə/,ออร์เคสตรา,วงออร์เคสตรา,The city orchestra plays free concerts in the park.,วงออร์เคสตราของเมืองเล่นคอนเสิร์ตฟรีในสวนสาธารณะ,,,false
+4,arts,3,5,playwright,noun,/ˈpleɪraɪt/,เพลย์ไรท์,นักเขียนบทละคร,The playwright based the story on her own family.,นักเขียนบทละครสร้างเรื่องจากครอบครัวของเธอเอง,,,false
+4,arts,3,6,choreography,noun,/ˌkɔːriˈɑːɡrəfi/,คอรีออกเกรอะฟี,การออกแบบท่าเต้น,The choreography in the second act was amazing.,การออกแบบท่าเต้นในองก์ที่สองยอดเยี่ยมมาก,,,false
+4,arts,3,7,cast,noun,/kæst/,แคสท์,นักแสดงทั้งหมดในเรื่อง,The whole cast came on stage to thank the audience.,นักแสดงทั้งหมดออกมาบนเวทีเพื่อขอบคุณผู้ชม,,,false
+4,arts,3,8,intermission,noun,/ˌɪntərˈmɪʃən/,อินเทอร์มิชัน,ช่วงพักครึ่งการแสดง,We bought snacks during the twenty-minute intermission.,เราซื้อขนมระหว่างช่วงพักยี่สิบนาที,,,false
+4,arts,3,9,standing ovation,phrase,/ˈstændɪŋ oʊˈveɪʃən/,สแตนดิ้ง โอเวชัน,การลุกขึ้นยืนปรบมือ,The singer received a standing ovation at the end of the concert.,นักร้องได้รับการลุกขึ้นยืนปรบมือตอนจบคอนเสิร์ต,,,false
+4,arts,3,10,soundtrack,noun,/ˈsaʊndtræk/,ซาวด์แทร็ก,เพลงประกอบภาพยนตร์,I listen to the movie's soundtrack while I work.,ฉันฟังเพลงประกอบภาพยนตร์ขณะทำงาน,,,false
+4,arts,3,11,acclaimed,adjective,/əˈkleɪmd/,อะเคลมด์,ได้รับการยกย่อง,The acclaimed director is making her first film in English.,ผู้กำกับที่ได้รับการยกย่องกำลังสร้างภาพยนตร์ภาษาอังกฤษเรื่องแรกของเธอ,critically acclaimed,,false
+4,arts,3,12,screenplay,noun,/ˈskriːnpleɪ/,สกรีนเพลย์,บทภาพยนตร์,She won an award for the screenplay of her first film.,เธอได้รับรางวัลบทภาพยนตร์จากหนังเรื่องแรกของเธอ,,,false
+4,arts,3,13,box office,phrase,/bɑːks ˈɔːfɪs/,บ็อกซ์ ออฟฟิส,รายได้จากการฉาย ช่องขายตั๋ว,The film earned over ten million dollars at the box office.,ภาพยนตร์ทำรายได้กว่าสิบล้านดอลลาร์จากการฉาย,,,false
+4,arts,3,14,encore,noun,/ˈɑːnkɔːr/,ออนคอร์,การแสดงเพิ่ม (ตามคำขอผู้ชม),The band came back and played two songs as an encore.,วงกลับขึ้นมาเล่นเพิ่มอีกสองเพลงตามคำขอของผู้ชม,,,false
+4,travel-culture,1,1,entry requirements,phrase,/ˈentri rɪˈkwaɪərmənts/,เอนทรี ริไควเออร์เมินท์ส,ข้อกำหนดในการเข้าประเทศ,"Entry requirements change often, so check them before every trip.",ข้อกำหนดในการเข้าประเทศเปลี่ยนบ่อย จึงควรตรวจสอบก่อนเดินทางทุกครั้ง,,,false
+4,travel-culture,1,2,stopover,noun,/ˈstɑːpoʊvər/,สต็อพโอเวอร์,การแวะพักระหว่างทาง,We planned a two-night stopover in Dubai on the way to Paris.,เราวางแผนแวะพักที่ดูไบสองคืนระหว่างทางไปปารีส,,,false
+4,travel-culture,1,3,transit visa,phrase,/ˈtrænzɪt ˈviːzə/,แทรนซิท วีซ่า,วีซ่าผ่านทาง,Check if you need a transit visa to change planes in China.,ตรวจสอบว่าต้องใช้วีซ่าผ่านทางเพื่อเปลี่ยนเครื่องในจีนหรือไม่,,,false
+4,travel-culture,1,4,non-refundable,adjective,/ˌnɑːn rɪˈfʌndəbəl/,นอนริฟันเดอะเบิล,ขอคืนเงินไม่ได้,"The cheapest tickets are non-refundable, so plan carefully.",ตั๋วราคาถูกที่สุดขอคืนเงินไม่ได้ จึงควรวางแผนให้รอบคอบ,,,false
+4,travel-culture,1,5,data roaming,phrase,/ˈdeɪtə ˈroʊmɪŋ/,เดเทอะ โรมมิ่ง,การใช้อินเทอร์เน็ตข้ามแดน,Turn off data roaming to avoid a huge phone bill abroad.,ปิดการใช้อินเทอร์เน็ตข้ามแดนเพื่อไม่ให้ค่าโทรศัพท์บานปลายตอนอยู่ต่างประเทศ,,,false
+4,travel-culture,1,6,cancellation policy,phrase,/ˌkænsəˈleɪʃən ˈpɑːləsi/,แคนเซอะเลชัน พอลิซี,นโยบายการยกเลิก,Read the hotel's cancellation policy before you pay the deposit.,อ่านนโยบายการยกเลิกของโรงแรมก่อนจ่ายเงินมัดจำ,,,false
+4,travel-culture,1,7,backpacker,noun,/ˈbækpækər/,แบ็คแพคเกอร์,นักท่องเที่ยวแบกเป้,The street is full of cheap guesthouses for backpackers.,ถนนสายนี้เต็มไปด้วยเกสต์เฮาส์ราคาถูกสำหรับนักท่องเที่ยวแบกเป้,,🎒,false
+4,travel-culture,1,8,phrasebook,noun,/ˈfreɪzbʊk/,เฟรซบุ๊ค,หนังสือรวมวลีสำหรับนักท่องเที่ยว,I carry a small phrasebook to order food in Japanese.,ฉันพกหนังสือรวมวลีเล่มเล็กไว้สั่งอาหารเป็นภาษาญี่ปุ่น,,,false
+4,travel-culture,1,9,embark,verb,/ɪmˈbɑːrk/,อิมบาร์ค,ขึ้นเรือ ขึ้นเครื่อง,Passengers can embark on the cruise ship from noon.,ผู้โดยสารสามารถขึ้นเรือสำราญได้ตั้งแต่เที่ยง,,,false
+4,travel-culture,1,10,e-visa,noun,/ˈiː ˌviːzə/,อีวีซ่า,วีซ่าอิเล็กทรอนิกส์,You can apply for an e-visa online in about ten minutes.,คุณสามารถสมัครวีซ่าอิเล็กทรอนิกส์ออนไลน์ได้ในเวลาประมาณสิบนาที,,,false
+4,travel-culture,1,11,customs declaration,phrase,/ˈkʌstəmz ˌdekləˈreɪʃən/,คัสเทิมส์ เดคละเรชัน,แบบแจ้งศุลกากร,Fill in the customs declaration before the plane lands.,กรอกแบบแจ้งศุลกากรก่อนเครื่องลงจอด,,,false
+4,travel-culture,1,12,excursion,noun,/ɪkˈskɜːrʒən/,อิคซ์เคอร์ชัน,การท่องเที่ยวระยะสั้น ทริปไปกลับวันเดียว,The hotel offers a day excursion to the floating market.,โรงแรมมีทริปไปกลับวันเดียวไปตลาดน้ำ,,,false
+4,travel-culture,1,13,travel advisory,phrase,/ˈtrævəl ədˈvaɪzəri/,แทรเวิล แอดไวเซอะรี,ประกาศเตือนการเดินทาง,Check the travel advisory before visiting areas near the border.,ตรวจสอบประกาศเตือนการเดินทางก่อนไปพื้นที่ใกล้ชายแดน,,,false
+4,travel-culture,1,14,overbook,verb,/ˌoʊvərˈbʊk/,โอเวอร์บุ๊ค,รับจองเกินจำนวน,"The airline overbooked the flight, so we took the next one.",สายการบินรับจองที่นั่งเกินจำนวน เราจึงต้องขึ้นเที่ยวถัดไป,,,false
+4,travel-culture,2,1,folklore,noun,/ˈfoʊklɔːr/,โฟคลอร์,นิทานพื้นบ้าน คติชาวบ้าน,Local folklore says a spirit protects the old tree.,ตามความเชื่อพื้นบ้าน มีวิญญาณคอยปกป้องต้นไม้เก่าต้นนั้น,,,false
+4,travel-culture,2,2,rite of passage,phrase,/raɪt əv ˈpæsɪdʒ/,ไรท์ เอิฟ แพสซิจ,พิธีก้าวผ่านช่วงสำคัญของชีวิต,"In many villages, becoming a monk is a rite of passage for young men.",ในหลายหมู่บ้าน การบวชเป็นพิธีก้าวผ่านช่วงชีวิตของชายหนุ่ม,,,false
+4,travel-culture,2,3,heirloom,noun,/ˈerluːm/,แอร์ลูม,มรดกตกทอดในครอบครัว,This silver necklace is a family heirloom from my grandmother.,สร้อยเงินเส้นนี้เป็นมรดกตกทอดในครอบครัวจากยายของฉัน,family heirloom,,false
+4,travel-culture,2,4,indigenous,adjective,/ɪnˈdɪdʒənəs/,อินดิเจอะเนิส,พื้นเมือง ดั้งเดิม,The museum tells the history of the island's indigenous people.,พิพิธภัณฑ์เล่าประวัติศาสตร์ของชนพื้นเมืองบนเกาะ,,,false
+4,travel-culture,2,5,customary,adjective,/ˈkʌstəmeri/,คัสเตอะเมรี,ตามธรรมเนียม,It is customary to remove your shoes before entering a temple.,ตามธรรมเนียมต้องถอดรองเท้าก่อนเข้าวัด,it is customary to ...,,false
+4,travel-culture,2,6,culture shock,phrase,/ˈkʌltʃər ʃɑːk/,คัลเชอร์ ช็อค,ภาวะช็อกทางวัฒนธรรม,I had culture shock during my first month in London.,ฉันเจอภาวะช็อกทางวัฒนธรรมในเดือนแรกที่ลอนดอน,,,false
+4,travel-culture,2,7,sacred,adjective,/ˈseɪkrɪd/,เซครีด,ศักดิ์สิทธิ์,The mountain is sacred to the people who live around it.,ภูเขาลูกนี้ศักดิ์สิทธิ์สำหรับผู้คนที่อาศัยอยู่รอบ ๆ,,,false
+4,travel-culture,2,8,pilgrimage,noun,/ˈpɪlɡrɪmɪdʒ/,พิลกริมมิจ,การจาริกแสวงบุญ,Thousands of people make a pilgrimage to the temple every year.,ผู้คนหลายพันคนเดินทางไปแสวงบุญที่วัดนี้ทุกปี,make a pilgrimage,,false
+4,travel-culture,2,9,multicultural,adjective,/ˌmʌltiˈkʌltʃərəl/,มัลทีคัลเชอเริล,หลากหลายวัฒนธรรม,London is a multicultural city with over two hundred languages.,ลอนดอนเป็นเมืองพหุวัฒนธรรมที่มีภาษามากกว่าสองร้อยภาษา,,,false
+4,travel-culture,2,10,diverse,adjective,/daɪˈvɜːrs/,ไดเวิร์ส,หลากหลาย,Singapore has a diverse mix of languages and religions.,สิงคโปร์มีภาษาและศาสนาที่หลากหลายผสมผสานกัน,,,false
+4,travel-culture,2,11,dialect,noun,/ˈdaɪəlekt/,ไดอะเลคท์,ภาษาถิ่น,People in the village speak a dialect that I find hard to follow.,คนในหมู่บ้านพูดภาษาถิ่นที่ฉันฟังตามได้ยาก,,,false
+4,travel-culture,2,12,hospitality,noun,/ˌhɑːspɪˈtæləti/,ฮอสพิแทลลิที,การต้อนรับขับสู้,We were moved by the warm hospitality of the village family.,เราซาบซึ้งกับการต้อนรับอันอบอุ่นของครอบครัวในหมู่บ้าน,,,false
+4,travel-culture,2,13,observe,verb,/əbˈzɜːrv/,เอิบเซิร์ฟ,ถือปฏิบัติ (ประเพณี วันสำคัญ),Many families still observe the custom of giving alms in the morning.,หลายครอบครัวยังคงถือปฏิบัติประเพณีตักบาตรตอนเช้า,observe a holiday / a custom,,false
+4,travel-culture,2,14,assimilate,verb,/əˈsɪməleɪt/,อะซิมมะเลท,ปรับตัวกลมกลืน,It took my family years to assimilate into life in Canada.,ครอบครัวของฉันใช้เวลาหลายปีกว่าจะปรับตัวกลมกลืนกับชีวิตในแคนาดา,assimilate into,,false
+4,travel-culture,3,1,monument,noun,/ˈmɑːnjəmənt/,มอนิวเมินท์,อนุสาวรีย์ อนุสรณ์สถาน,The monument in the square remembers soldiers from the war.,อนุสาวรีย์ในจัตุรัสสร้างขึ้นเพื่อรำลึกถึงทหารจากสงคราม,,,false
+4,travel-culture,3,2,landmark,noun,/ˈlændmɑːrk/,แลนด์มาร์ค,สถานที่สำคัญที่เป็นสัญลักษณ์,The tower is the city's most famous landmark.,หอคอยนี้เป็นสถานที่สำคัญที่มีชื่อเสียงที่สุดของเมือง,,,false
+4,travel-culture,3,3,ruins,noun,/ˈruːɪnz/,รูอินซ์,ซากปรักหักพัง,We walked around the ancient ruins at sunset.,เราเดินชมซากโบราณสถานตอนพระอาทิตย์ตก,,,false
+4,travel-culture,3,4,archaeological,adjective,/ˌɑːrkiəˈlɑːdʒɪkəl/,อาร์คีอะลอจิเคิล,ทางโบราณคดี,The archaeological site is open from eight to five.,แหล่งโบราณคดีเปิดตั้งแต่แปดโมงเช้าถึงห้าโมงเย็น,,,false
+4,travel-culture,3,5,guided tour,phrase,/ˈɡaɪdɪd tʊr/,ไกดิด ทัวร์,ทัวร์ที่มีไกด์นำชม,We joined a guided tour of the old palace.,เราเข้าร่วมทัวร์ชมพระราชวังเก่าที่มีไกด์นำ,,,false
+4,travel-culture,3,6,panoramic,adjective,/ˌpænəˈræmɪk/,แพเนอะแรมิก,มองเห็นได้กว้างไกลรอบด้าน,The rooftop bar has a panoramic view of the river.,บาร์บนดาดฟ้ามีวิวแม่น้ำแบบพาโนรามา,panoramic view,,false
+4,travel-culture,3,7,preserve,verb,/prɪˈzɜːrv/,พรีเซิร์ฟ,อนุรักษ์ รักษาไว้,The town works hard to preserve its old wooden houses.,เมืองนี้พยายามอย่างมากในการอนุรักษ์บ้านไม้เก่า,,,false
+4,travel-culture,3,8,picturesque,adjective,/ˌpɪktʃəˈresk/,พิคเชอะเรสก์,งดงามราวภาพวาด,We stayed in a picturesque village in the mountains.,เราพักในหมู่บ้านบนภูเขาที่งดงามราวภาพวาด,,,false
+4,travel-culture,3,9,dynasty,noun,/ˈdaɪnəsti/,ไดเนิสตี,ราชวงศ์,This temple was built during the Ming dynasty.,วัดนี้สร้างขึ้นในสมัยราชวงศ์หมิง,,,false
+4,travel-culture,3,10,artifact,noun,/ˈɑːrtɪfækt/,อาร์ทิแฟคท์,โบราณวัตถุ,The museum displays artifacts found in the old city.,พิพิธภัณฑ์จัดแสดงโบราณวัตถุที่พบในเมืองเก่า,,,false
+4,travel-culture,3,11,off the beaten track,idiom,/ɔːf ðə ˈbiːtən træk/,ออฟ เดอะ บีทเทิน แทร็ค,ห่างไกลจากเส้นทางท่องเที่ยวทั่วไป,We like to find quiet beaches off the beaten track.,เราชอบหาชายหาดเงียบ ๆ ที่อยู่นอกเส้นทางท่องเที่ยวทั่วไป,,,false
+4,travel-culture,3,12,tourist trap,phrase,/ˈtʊrɪst træp/,ทัวริสท์ แทรพ,สถานที่ขูดรีดนักท่องเที่ยว,That restaurant is a tourist trap with high prices and bland food.,ร้านอาหารนั้นเป็นที่หลอกนักท่องเที่ยว ราคาแพงแต่อาหารไม่อร่อย,,,false
+4,travel-culture,3,13,secluded,adjective,/sɪˈkluːdɪd/,ซิคลูดิด,เงียบสงบ ห่างไกลผู้คน,We found a secluded beach that only locals know about.,เราเจอชายหาดเงียบสงบที่มีแต่คนท้องถิ่นรู้จัก,,,false
+4,travel-culture,3,14,pagoda,noun,/pəˈɡoʊdə/,เพอะโกดะ,เจดีย์,A golden pagoda stands on top of the hill.,เจดีย์สีทองตั้งอยู่บนยอดเขา,,,false
+4,data,1,1,questionnaire,noun,/ˌkwestʃəˈner/,เควสเชอะแนร์,แบบสอบถาม,Please complete the short questionnaire about our service.,กรุณาตอบแบบสอบถามสั้น ๆ เกี่ยวกับบริการของเรา,,📋,false
+4,data,1,2,primary data,phrase,/ˈpraɪmeri ˈdeɪtə/,ไพรเมอรี เดเทอะ,ข้อมูลปฐมภูมิ,We gathered primary data by interviewing shop owners ourselves.,เราเก็บข้อมูลปฐมภูมิด้วยการสัมภาษณ์เจ้าของร้านเอง,opposite: secondary data,,false
+4,data,1,3,respondent,noun,/rɪˈspɑːndənt/,ริสปอนเดินท์,ผู้ตอบแบบสอบถาม,About sixty percent of respondents said they shop online weekly.,ผู้ตอบแบบสอบถามราวร้อยละหกสิบบอกว่าซื้อของออนไลน์ทุกสัปดาห์,,,false
+4,data,1,4,sampling,noun,/ˈsæmplɪŋ/,แซมพลิ่ง,การสุ่มตัวอย่าง,Random sampling helps make survey results fair.,การสุ่มตัวอย่างช่วยให้ผลสำรวจเป็นธรรม,random sampling,,false
+4,data,1,5,accuracy,noun,/ˈækjərəsi/,แอคเคียวเรอะซี,ความแม่นยำ,We check the accuracy of every number before the report goes out.,เราตรวจความแม่นยำของตัวเลขทุกตัวก่อนส่งรายงาน,,,false
+4,data,1,6,consent,noun,/kənˈsent/,เคินเซนท์,ความยินยอม,We need written consent before we collect customer data.,เราต้องได้รับความยินยอมเป็นลายลักษณ์อักษรก่อนเก็บข้อมูลลูกค้า,give consent,,false
+4,data,1,7,tally,verb,/ˈtæli/,แทลลี,นับรวม,We tallied the votes from all three offices.,เรานับรวมคะแนนจากทั้งสามสำนักงาน,,,false
+4,data,1,8,timestamp,noun,/ˈtaɪmstæmp/,ไทม์สแตมพ์,เวลาที่ระบบบันทึกไว้,Each order has a timestamp showing when it was placed.,ทุกคำสั่งซื้อมีเวลาที่บันทึกไว้ซึ่งแสดงว่าสั่งเมื่อไร,,,false
+4,data,1,9,duplicate,noun,/ˈduːplɪkət/,ดูพลิเคิท,รายการซ้ำ,Remove any duplicates from the customer list.,ลบรายการที่ซ้ำออกจากรายชื่อลูกค้า,,,false
+4,data,1,10,compile,verb,/kəmˈpaɪl/,เคิมไพล์,รวบรวม,She compiled the sales numbers from all ten branches.,เธอรวบรวมตัวเลขยอดขายจากทั้งสิบสาขา,,,false
+4,data,1,11,field research,phrase,/fiːld rɪˈsɜːrtʃ/,ฟีลด์ ริเซิร์ช,การวิจัยภาคสนาม,Our team did field research in five local markets.,ทีมของเราทำการวิจัยภาคสนามในตลาดท้องถิ่นห้าแห่ง,,,false
+4,data,1,12,validate,verb,/ˈvælɪdeɪt/,แวลิเดท,ตรวจสอบความถูกต้อง,The form validates each email address before you can submit it.,แบบฟอร์มตรวจสอบความถูกต้องของอีเมลก่อนให้คุณส่ง,,,false
+4,data,1,13,log,verb,/lɔːɡ/,ล็อก,บันทึก (ลงระบบ),The system logs every customer call automatically.,ระบบบันทึกทุกสายของลูกค้าโดยอัตโนมัติ,,,false
+4,data,1,14,quantitative,adjective,/ˈkwɑːntəteɪtɪv/,ควอนทิเททิฟ,เชิงปริมาณ,We collected quantitative data such as age and income.,เราเก็บข้อมูลเชิงปริมาณ เช่น อายุและรายได้,opposite: qualitative,,false
+4,data,2,1,plummet,verb,/ˈplʌmɪt/,พลัมมิท,ดิ่งลงอย่างรวดเร็ว,Sales plummeted when the rainy season started.,ยอดขายดิ่งลงเมื่อฤดูฝนเริ่มขึ้น,,,false
+4,data,2,2,seasonal,adjective,/ˈsiːzənəl/,ซีเซินเนิล,ตามฤดูกาล,Ice cream sales show a clear seasonal pattern.,ยอดขายไอศกรีมมีรูปแบบตามฤดูกาลอย่างชัดเจน,,,false
+4,data,2,3,ratio,noun,/ˈreɪʃioʊ/,เรชีโอ,อัตราส่วน,The ratio of staff to customers is one to twenty.,อัตราส่วนพนักงานต่อลูกค้าคือหนึ่งต่อยี่สิบ,,,false
+4,data,2,4,fluctuate,verb,/ˈflʌktʃueɪt/,ฟลัคชูเอท,ขึ้นลง ผันผวน,Our website traffic fluctuates a lot during the week.,จำนวนผู้เข้าชมเว็บไซต์ของเราขึ้นลงมากในแต่ละสัปดาห์,,,false
+4,data,2,5,margin of error,phrase,/ˈmɑːrdʒɪn əv ˈerər/,มาร์จิน เอิฟ เอเรอร์,ค่าความคลาดเคลื่อน,The poll has a margin of error of three percent.,ผลสำรวจมีค่าความคลาดเคลื่อนร้อยละสาม,,,false
+4,data,2,6,correlate,verb,/ˈkɔːrəleɪt/,คอเรอะเลท,มีความสัมพันธ์กัน,Higher prices correlate with fewer online orders.,ราคาที่สูงขึ้นสัมพันธ์กับคำสั่งซื้อออนไลน์ที่ลดลง,correlate with,,false
+4,data,2,7,interpret,verb,/ɪnˈtɜːrprɪt/,อินเทอร์พริท,ตีความ,It is easy to interpret the numbers in the wrong way.,ตัวเลขเหล่านี้ตีความผิดได้ง่าย,,,false
+4,data,2,8,rule out,phrasal verb,/ruːl aʊt/,รูล เอาท์,ตัดความเป็นไปได้,We cannot rule out errors in the old data.,เราไม่สามารถตัดความเป็นไปได้ว่าข้อมูลเก่ามีข้อผิดพลาด,,,false
+4,data,2,9,median,noun,/ˈmiːdiən/,มีเดียน,ค่ามัธยฐาน,The median income in the area is lower than the average.,รายได้มัธยฐานในพื้นที่ต่ำกว่าค่าเฉลี่ย,,,false
+4,data,2,10,deviation,noun,/ˌdiːviˈeɪʃən/,ดีวีเอชัน,การเบี่ยงเบน,Any deviation from the forecast must be explained in the report.,การเบี่ยงเบนใด ๆ จากการพยากรณ์ต้องอธิบายไว้ในรายงาน,standard deviation,,false
+4,data,2,11,underlying,adjective,/ˌʌndərˈlaɪɪŋ/,อันเดอร์ไลอิ้ง,ที่อยู่เบื้องหลัง ที่แท้จริง,We need to find the underlying cause of the drop in sales.,เราต้องหาสาเหตุที่แท้จริงของยอดขายที่ลดลง,,,false
+4,data,2,12,cross-reference,verb,/ˌkrɔːs ˈrefərəns/,ครอสเรฟเฟอเรินซ์,ตรวจสอบเทียบกัน,Cross-reference the invoice numbers with the bank records.,ตรวจสอบเลขที่ใบแจ้งหนี้เทียบกับบันทึกของธนาคาร,,,false
+4,data,2,13,skewed,adjective,/skjuːd/,สคิวด์,เอนเอียง ไม่สมดุล,The results are skewed because most respondents were students.,ผลลัพธ์เอนเอียงเพราะผู้ตอบส่วนใหญ่เป็นนักศึกษา,,,false
+4,data,2,14,inference,noun,/ˈɪnfərəns/,อินเฟอเรินซ์,ข้อสรุปที่อนุมานได้,We should not draw inferences from such a small group.,เราไม่ควรสรุปอะไรจากกลุ่มที่เล็กขนาดนี้,draw an inference,,false
+4,data,3,1,dashboard,noun,/ˈdæʃbɔːrd/,แดชบอร์ด,หน้าสรุปข้อมูล,The sales dashboard updates every hour.,แดชบอร์ดยอดขายอัปเดตทุกชั่วโมง,,📊,false
+4,data,3,2,visualize,verb,/ˈvɪʒuəlaɪz/,วิชวลไลซ์,แสดงเป็นภาพ,We visualize the data with simple bar charts.,เราแสดงข้อมูลเป็นภาพด้วยแผนภูมิแท่งแบบง่าย ๆ,,,false
+4,data,3,3,axis,noun,/ˈæksɪs/,แอคซิส,แกน (ของกราฟ),The vertical axis shows the number of customers.,แกนตั้งแสดงจำนวนลูกค้า,,,false
+4,data,3,4,key findings,phrase,/kiː ˈfaɪndɪŋz/,คี ไฟนดิงส์,ข้อค้นพบหลัก,The first slide summarizes the key findings of the study.,สไลด์แรกสรุปข้อค้นพบหลักของการศึกษา,,,false
+4,data,3,5,takeaway,noun,/ˈteɪkəweɪ/,เทคอะเวย์,ประเด็นสำคัญที่ได้,The main takeaway is that customers want faster delivery.,ประเด็นสำคัญคือลูกค้าต้องการการจัดส่งที่เร็วขึ้น,key takeaway,,false
+4,data,3,6,year-on-year,adjective,/ˌjɪr ɑːn ˈjɪr/,เยียร์ออนเยียร์,เมื่อเทียบกับปีก่อน,We saw year-on-year growth of eight percent.,เราเติบโตร้อยละแปดเมื่อเทียบกับปีก่อน,,,false
+4,data,3,7,percentage point,phrase,/pərˈsentɪdʒ pɔɪnt/,เพอร์เซนทิจ พอยท์,จุดเปอร์เซ็นต์,Our market share rose by two percentage points.,ส่วนแบ่งตลาดของเราเพิ่มขึ้นสองจุดเปอร์เซ็นต์,,,false
+4,data,3,8,conclusive,adjective,/kənˈkluːsɪv/,เคินคลูซิฟ,ชี้ชัด เป็นข้อยุติ,The test results are not conclusive yet.,ผลการทดสอบยังไม่สามารถสรุปได้ชัดเจน,,,false
+4,data,3,9,substantial,adjective,/səbˈstænʃəl/,เซิบสแตนเชิล,มาก จำนวนมาก,There was a substantial increase in online orders.,คำสั่งซื้อออนไลน์เพิ่มขึ้นอย่างมาก,,,false
+4,data,3,10,marginal,adjective,/ˈmɑːrdʒɪnəl/,มาร์จิเนิล,เล็กน้อย,The new design led to only a marginal improvement.,ดีไซน์ใหม่ช่วยให้ดีขึ้นเพียงเล็กน้อย,,,false
+4,data,3,11,plateau,verb,/plæˈtoʊ/,แพลโท,คงที่หลังจากเพิ่มขึ้น,User numbers grew fast and then plateaued in March.,จำนวนผู้ใช้เพิ่มขึ้นเร็วแล้วคงที่ในเดือนมีนาคม,,,false
+4,data,3,12,surge,noun,/sɜːrdʒ/,เซิร์จ,การพุ่งขึ้นอย่างรวดเร็ว,There was a surge in demand for fans during the heat wave.,ความต้องการพัดลมพุ่งสูงขึ้นในช่วงคลื่นความร้อน,a surge in,,false
+4,data,3,13,taper off,phrasal verb,/ˈteɪpər ɔːf/,เทเพอร์ ออฟ,ค่อย ๆ ลดลง,Sales usually taper off after the holiday season.,ยอดขายมักค่อย ๆ ลดลงหลังช่วงเทศกาล,,,false
+4,data,3,14,footnote,noun,/ˈfʊtnoʊt/,ฟุทโนท,เชิงอรรถ,The data source is listed in a footnote below the chart.,แหล่งที่มาของข้อมูลระบุไว้ในเชิงอรรถใต้แผนภูมิ,,,false
+4,customer-experience,1,1,customer journey,phrase,/ˈkʌstəmər ˈdʒɜːrni/,คัสเตอะเมอร์ เจอร์นี,เส้นทางประสบการณ์ของลูกค้า,We mapped the customer journey from the first ad to the final payment.,เราวาดแผนผังเส้นทางของลูกค้าตั้งแต่เห็นโฆษณาครั้งแรกจนถึงการชำระเงิน,,,false
+4,customer-experience,1,2,touchpoint,noun,/ˈtʌtʃpɔɪnt/,ทัชพอยท์,จุดที่ลูกค้าติดต่อกับแบรนด์,"Every touchpoint, from the website to the call center, matters.",ทุกจุดที่ลูกค้าติดต่อกับเรา ตั้งแต่เว็บไซต์ถึงคอลเซ็นเตอร์ ล้วนสำคัญ,,,false
+4,customer-experience,1,3,pain point,phrase,/peɪn pɔɪnt/,เพน พอยท์,ปัญหาที่ลูกค้าเจอ,Long waiting times are a major pain point for our customers.,การรอนานเป็นปัญหาใหญ่ของลูกค้าเรา,,,false
+4,customer-experience,1,4,solicit,verb,/səˈlɪsɪt/,เซอะลิซิท,ขอ (ความคิดเห็น ข้อมูล),We solicit feedback from every customer after delivery.,เราขอความคิดเห็นจากลูกค้าทุกคนหลังส่งสินค้า,solicit feedback / opinions,,false
+4,customer-experience,1,5,rave review,phrase,/reɪv rɪˈvjuː/,เรฟ รีวิว,คำชมอย่างล้นหลาม,The new café got rave reviews from its first customers.,คาเฟ่ใหม่ได้รับคำชมล้นหลามจากลูกค้ากลุ่มแรก,,,false
+4,customer-experience,1,6,user-friendly,adjective,/ˌjuːzər ˈfrendli/,ยูสเซอร์เฟรนด์ลี,ใช้งานง่าย,The new booking page is much more user-friendly.,หน้าจองใหม่ใช้งานง่ายกว่าเดิมมาก,,,false
+4,customer-experience,1,7,exceed expectations,phrase,/ɪkˈsiːd ˌekspekˈteɪʃənz/,อิคซีด เอคซ์เปคเทชันส์,เกินความคาดหมาย,Our goal is to exceed expectations on every single order.,เป้าหมายของเราคือทำให้เกินความคาดหมายในทุกคำสั่งซื้อ,,,false
+4,customer-experience,1,8,personalize,verb,/ˈpɜːrsənəlaɪz/,เพอร์เซอะเนอะไลซ์,ปรับให้เหมาะกับแต่ละคน,We personalize emails with each customer's name and past orders.,เราปรับอีเมลให้เหมาะกับลูกค้าแต่ละคนด้วยชื่อและประวัติการสั่งซื้อ,,,false
+4,customer-experience,1,9,seamless,adjective,/ˈsiːmləs/,ซีมเลิส,ราบรื่นไร้รอยต่อ,Customers want a seamless experience on their phone and computer.,ลูกค้าต้องการประสบการณ์ที่ราบรื่นทั้งบนโทรศัพท์และคอมพิวเตอร์,,,false
+4,customer-experience,1,10,responsive,adjective,/rɪˈspɑːnsɪv/,ริสปอนซิฟ,ตอบสนองรวดเร็ว,Our support team is very responsive to emails.,ทีมซัพพอร์ตของเราตอบอีเมลรวดเร็วมาก,responsive to,,false
+4,customer-experience,1,11,intuitive,adjective,/ɪnˈtuːɪtɪv/,อินทูอิทิฟ,เข้าใจง่ายโดยไม่ต้องเรียนรู้มาก,The checkout page is so intuitive that nobody needs help.,หน้าชำระเงินเข้าใจง่ายจนไม่มีใครต้องขอความช่วยเหลือ,,,false
+4,customer-experience,1,12,courteous,adjective,/ˈkɜːrtiəs/,เคอร์เทียส,สุภาพ มีมารยาท,The driver was courteous and helped us with our bags.,คนขับสุภาพและช่วยเรายกกระเป๋า,,,false
+4,customer-experience,1,13,mystery shopper,phrase,/ˈmɪstəri ˈʃɑːpər/,มิสเทอรี ช็อพเพอร์,ผู้แฝงตัวเป็นลูกค้าเพื่อประเมินบริการ,A mystery shopper visits each branch once a month.,ผู้แฝงตัวเป็นลูกค้าจะไปตรวจแต่ละสาขาเดือนละครั้ง,,,false
+4,customer-experience,1,14,hassle-free,adjective,/ˌhæsəl ˈfriː/,แฮสเซิลฟรี,สะดวก ไม่ยุ่งยาก,We offer hassle-free returns within thirty days.,เรามีบริการคืนสินค้าแบบไม่ยุ่งยากภายในสามสิบวัน,,,false
+4,customer-experience,2,1,sincere,adjective,/sɪnˈsɪr/,ซินเซียร์,จริงใจ,Please accept our sincere apologies for the delay.,โปรดรับคำขอโทษอย่างจริงใจจากเราสำหรับความล่าช้า,sincere apologies,,false
+4,customer-experience,2,2,compensate,verb,/ˈkɑːmpenseɪt/,คอมเพนเซท,ชดเชย,The airline compensated passengers for the long delay.,สายการบินชดเชยผู้โดยสารที่เที่ยวบินล่าช้านาน,compensate someone for,,false
+4,customer-experience,2,3,goodwill gesture,phrase,/ˌɡʊdˈwɪl ˈdʒestʃər/,กู๊ดวิล เจสเชอร์,การแสดงน้ำใจ,We offered a free dessert as a goodwill gesture.,เราให้ของหวานฟรีเพื่อแสดงน้ำใจ,,,false
+4,customer-experience,2,4,mishandle,verb,/ˌmɪsˈhændəl/,มิสแฮนเดิล,จัดการผิดพลาด,The airline mishandled my luggage and sent it to Tokyo.,สายการบินจัดการกระเป๋าของฉันผิดพลาดและส่งไปโตเกียว,,,false
+4,customer-experience,2,5,resolution,noun,/ˌrezəˈluːʃən/,เรเซอะลูชัน,การแก้ไขปัญหา ข้อยุติ,We aim for a quick resolution to every complaint.,เรามุ่งแก้ไขทุกข้อร้องเรียนให้ได้อย่างรวดเร็ว,,,false
+4,customer-experience,2,6,hold time,phrase,/hoʊld taɪm/,โฮลด์ ไทม์,เวลารอสาย,Our average hold time is now under two minutes.,เวลารอสายเฉลี่ยของเราตอนนี้ต่ำกว่าสองนาที,,,false
+4,customer-experience,2,7,irate,adjective,/aɪˈreɪt/,ไอเรท,โกรธจัด,An irate customer shouted at the cashier about the wrong bill.,ลูกค้าที่โกรธจัดตะโกนใส่แคชเชียร์เรื่องบิลที่ผิด,,,false
+4,customer-experience,2,8,callback,noun,/ˈkɔːlbæk/,คอลแบ็ค,การโทรกลับ,You can request a callback instead of waiting on the line.,คุณสามารถขอให้โทรกลับแทนการถือสายรอได้,,,false
+4,customer-experience,2,9,take ownership,phrase,/teɪk ˈoʊnərʃɪp/,เทค โอนเนอร์ชิพ,รับผิดชอบเต็มที่,Good agents take ownership of a problem until it is solved.,พนักงานที่ดีจะรับผิดชอบปัญหาจนกว่าจะแก้ได้,,,false
+4,customer-experience,2,10,sympathetic,adjective,/ˌsɪmpəˈθetɪk/,ซิมเพอะเธทิก,เห็นอกเห็นใจ,The agent was sympathetic and offered to fix the problem right away.,พนักงานเห็นอกเห็นใจและเสนอจะแก้ปัญหาให้ทันที,,,false
+4,customer-experience,2,11,placate,verb,/ˈpleɪkeɪt/,เพลเคท,ทำให้ใจเย็นลง ปลอบ,The manager offered a free meal to placate the angry guest.,ผู้จัดการเสนออาหารฟรีเพื่อทำให้แขกที่โกรธใจเย็นลง,,,false
+4,customer-experience,2,12,de-escalate,verb,/diːˈeskəleɪt/,ดีเอสเกอะเลท,ลดความตึงเครียด,Staff are trained to de-escalate angry situations.,พนักงานได้รับการฝึกให้ลดความตึงเครียดในสถานการณ์ที่มีคนโกรธ,,,false
+4,customer-experience,2,13,rectify,verb,/ˈrektɪfaɪ/,เรคทิฟาย,แก้ไขให้ถูกต้อง,We will rectify the error on your bill today.,เราจะแก้ไขข้อผิดพลาดในบิลของคุณภายในวันนี้,,,false
+4,customer-experience,2,14,hear out,phrasal verb,/hɪr aʊt/,เฮียร์ เอาท์,ฟังให้จบ,Please hear out the customer before you reply.,กรุณาฟังลูกค้าให้จบก่อนตอบ,,,false
+4,customer-experience,3,1,retention,noun,/rɪˈtenʃən/,ริเทนชัน,การรักษา (ลูกค้า พนักงาน) ไว้,Customer retention is cheaper than finding new buyers.,การรักษาลูกค้าเดิมไว้ถูกกว่าการหาลูกค้าใหม่,customer retention,,false
+4,customer-experience,3,2,cashback,noun,/ˈkæʃbæk/,แคชแบ็ค,เงินคืน,This credit card gives you five percent cashback on groceries.,บัตรเครดิตใบนี้ให้เงินคืนร้อยละห้าสำหรับการซื้อของชำ,,,false
+4,customer-experience,3,3,churn,noun,/tʃɜːrn/,เชิร์น,การเลิกใช้บริการของลูกค้า,High churn means we keep losing subscribers every month.,อัตราเลิกใช้บริการที่สูงหมายความว่าเราเสียสมาชิกทุกเดือน,churn rate,,false
+4,customer-experience,3,4,redeem,verb,/rɪˈdiːm/,ริดีม,แลก (แต้ม คูปอง),You can redeem your points for a free coffee.,คุณสามารถนำแต้มไปแลกกาแฟฟรีได้,redeem points / a voucher,,false
+4,customer-experience,3,5,lapsed,adjective,/læpst/,แลพสท์,ที่ขาดการต่ออายุ ห่างหายไป,We emailed lapsed members a special offer to come back.,เราส่งอีเมลข้อเสนอพิเศษให้สมาชิกที่ขาดการต่ออายุเพื่อให้กลับมา,,,false
+4,customer-experience,3,6,upsell,verb,/ˈʌpsel/,อัพเซล,เสนอขายสินค้าที่แพงขึ้น,Staff are trained to upsell larger coffee sizes.,พนักงานได้รับการฝึกให้เสนอขายกาแฟแก้วที่ใหญ่ขึ้น,,,false
+4,customer-experience,3,7,cross-sell,verb,/ˈkrɔːs sel/,ครอสเซล,เสนอขายสินค้าเสริม,The bank tries to cross-sell insurance to its loan customers.,ธนาคารพยายามเสนอขายประกันให้ลูกค้าสินเชื่อ,,,false
+4,customer-experience,3,8,tier,noun,/tɪr/,เทียร์,ระดับ ขั้น,Gold tier members get free delivery on all orders.,สมาชิกระดับโกลด์ได้ส่งฟรีทุกคำสั่งซื้อ,,,false
+4,customer-experience,3,9,stamp card,phrase,/stæmp kɑːrd/,สแตมพ์ คาร์ด,บัตรสะสมแต้ม,Collect ten stamps on your stamp card for a free cake.,สะสมแสตมป์ให้ครบสิบดวงบนบัตรสะสมแต้มเพื่อรับเค้กฟรี,,,false
+4,customer-experience,3,10,lifetime value,phrase,/ˈlaɪftaɪm ˈvæljuː/,ไลฟ์ไทม์ แวลิว,มูลค่าตลอดช่วงชีวิตลูกค้า,We study the lifetime value of each customer group.,เราศึกษามูลค่าตลอดช่วงชีวิตของลูกค้าแต่ละกลุ่ม,,,false
+4,customer-experience,3,11,win back,phrasal verb,/wɪn bæk/,วิน แบ็ค,ดึงกลับมา (ลูกค้า),We sent a discount code to win back old customers.,เราส่งโค้ดส่วนลดเพื่อดึงลูกค้าเก่ากลับมา,,,false
+4,customer-experience,3,12,membership fee,phrase,/ˈmembərʃɪp fiː/,เมมเบอร์ชิพ ฟี,ค่าสมาชิก,The yearly membership fee is waived for the first year.,ค่าสมาชิกรายปีได้รับการยกเว้นในปีแรก,,,false
+4,customer-experience,3,13,valued,adjective,/ˈvæljuːd/,แวลิวด์,ที่เราให้ความสำคัญ,"As a valued customer, you will receive a gift with your next order.",ในฐานะลูกค้าคนสำคัญ คุณจะได้รับของขวัญพร้อมคำสั่งซื้อครั้งถัดไป,,,false
+4,customer-experience,3,14,early access,phrase,/ˈɜːrli ˈækses/,เออร์ลี แอคเซส,สิทธิ์เข้าถึงก่อนใคร,Premium members get early access to concert tickets.,สมาชิกพรีเมียมได้สิทธิ์ซื้อตั๋วคอนเสิร์ตก่อนใคร,,,false
+4,procurement,1,1,sourcing agent,phrase,/ˈsɔːrsɪŋ ˈeɪdʒənt/,ซอร์สซิ่ง เอเจินท์,ตัวแทนจัดหาสินค้า,We hired a sourcing agent in China to find reliable factories.,เราจ้างตัวแทนจัดหาสินค้าในจีนเพื่อหาโรงงานที่เชื่อถือได้,,,false
+4,procurement,1,2,preferred supplier,phrase,/prɪˈfɜːrd səˈplaɪər/,พริเฟิร์ด เซอะพลายเออร์,ซัพพลายเออร์หลักที่ได้รับเลือก,They became our preferred supplier after five years of good service.,พวกเขากลายเป็นซัพพลายเออร์หลักของเราหลังให้บริการดีมาห้าปี,,,false
+4,procurement,1,3,unit cost,phrase,/ˈjuːnɪt kɔːst/,ยูนิท คอสท์,ต้นทุนต่อหน่วย,The unit cost drops if we order more than a thousand.,ต้นทุนต่อหน่วยจะลดลงถ้าเราสั่งมากกว่าหนึ่งพันชิ้น,,,false
+4,procurement,1,4,supplier audit,phrase,/səˈplaɪər ˈɔːdɪt/,เซอะพลายเออร์ ออดิท,การตรวจประเมินซัพพลายเออร์,The supplier audit showed problems with worker safety.,การตรวจประเมินซัพพลายเออร์พบปัญหาด้านความปลอดภัยของคนงาน,,,false
+4,procurement,1,5,bid,verb,/bɪd/,บิด,เสนอราคา ยื่นประมูล,Four firms will bid for the cleaning contract.,บริษัทสี่แห่งจะยื่นประมูลสัญญางานทำความสะอาด,bid for,,false
+4,procurement,1,6,sourcing,noun,/ˈsɔːrsɪŋ/,ซอร์สซิ่ง,การจัดหาแหล่งสินค้าหรือวัตถุดิบ,Sourcing materials locally reduces our shipping costs.,การจัดหาวัตถุดิบในท้องถิ่นช่วยลดค่าขนส่งของเรา,,,false
+4,procurement,1,7,sole supplier,phrase,/soʊl səˈplaɪər/,โซล เซอะพลายเออร์,ซัพพลายเออร์รายเดียว,Relying on a sole supplier is risky if its factory closes.,การพึ่งพาซัพพลายเออร์รายเดียวมีความเสี่ยงถ้าโรงงานของเขาปิด,,,false
+4,procurement,1,8,landed cost,phrase,/ˈlændɪd kɔːst/,แลนดิด คอสท์,ต้นทุนรวมจนถึงปลายทาง,"The landed cost includes the price, shipping, insurance and import tax.",ต้นทุนรวมถึงปลายทางประกอบด้วยราคาสินค้า ค่าขนส่ง ค่าประกัน และภาษีนำเข้า,,,false
+4,procurement,1,9,ethical sourcing,phrase,/ˈeθɪkəl ˈsɔːrsɪŋ/,เอธิเคิล ซอร์สซิ่ง,การจัดหาอย่างมีจริยธรรม,Ethical sourcing means we never buy from factories that use child labor.,การจัดหาอย่างมีจริยธรรมหมายถึงเราไม่ซื้อจากโรงงานที่ใช้แรงงานเด็ก,,,false
+4,procurement,1,10,bulk,noun,/bʌlk/,บัลค์,จำนวนมาก,Buying paper in bulk saves the office money.,การซื้อกระดาษจำนวนมากช่วยให้สำนักงานประหยัดเงิน,buy in bulk,,false
+4,procurement,1,11,request for proposal,phrase,/rɪˈkwest fər prəˈpoʊzəl/,ริเควสท์ ฟอร์ เพรอะโพเซิล,เอกสารเชิญยื่นข้อเสนอ,We sent a request for proposal to six software companies.,เราส่งเอกสารเชิญยื่นข้อเสนอไปยังบริษัทซอฟต์แวร์หกแห่ง,short form: RFP,,false
+4,procurement,1,12,intermediary,noun,/ˌɪntərˈmiːdieri/,อินเทอร์มีดิเอรี,คนกลาง,"We buy directly from the factory, without an intermediary.",เราซื้อตรงจากโรงงานโดยไม่ผ่านคนกลาง,,,false
+4,procurement,1,13,trial order,phrase,/ˈtraɪəl ˈɔːrdər/,ไทรเอิล ออร์เดอร์,คำสั่งซื้อทดลอง,We placed a small trial order before signing a long contract.,เราสั่งซื้อทดลองจำนวนน้อยก่อนเซ็นสัญญาระยะยาว,,,false
+4,procurement,1,14,price comparison,phrase,/praɪs kəmˈpærɪsən/,ไพรซ์ เคิมแพริเซิน,การเปรียบเทียบราคา,A simple price comparison showed we were paying too much.,การเปรียบเทียบราคาอย่างง่ายแสดงว่าเราจ่ายแพงเกินไป,,,false
+4,procurement,2,1,exclusivity,noun,/ˌekskluːˈsɪvəti/,เอคซ์คลูซิฟวิที,สิทธิ์ผูกขาดแต่เพียงผู้เดียว,"The supplier wants exclusivity, so we cannot buy from its rivals.",ซัพพลายเออร์ต้องการสิทธิ์ผูกขาด เราจึงซื้อจากคู่แข่งของเขาไม่ได้,,,false
+4,procurement,2,2,indemnity,noun,/ɪnˈdemnəti/,อินเดมนิที,การชดใช้ค่าเสียหาย,The contract includes an indemnity against losses from late shipping.,สัญญามีข้อชดใช้ค่าเสียหายจากการขนส่งล่าช้า,,,false
+4,procurement,2,3,service level agreement,phrase,/ˈsɜːrvɪs ˈlevəl əˈɡriːmənt/,เซอร์วิส เลเวิล อะกรีเมินท์,ข้อตกลงระดับการให้บริการ,The service level agreement says repairs must start within four hours.,ข้อตกลงระดับการให้บริการระบุว่าต้องเริ่มซ่อมภายในสี่ชั่วโมง,short form: SLA,,false
+4,procurement,2,4,renewal,noun,/rɪˈnuːəl/,รินิวเอิล,การต่ออายุ (สัญญา),The cleaning contract is up for renewal in June.,สัญญางานทำความสะอาดจะครบกำหนดต่ออายุในเดือนมิถุนายน,,,false
+4,procurement,2,5,grace period,phrase,/ɡreɪs ˈpɪriəd/,เกรส พีเรียด,ระยะผ่อนผัน,There is a ten-day grace period before late fees apply.,มีระยะผ่อนผันสิบวันก่อนเริ่มคิดค่าปรับล่าช้า,,,false
+4,procurement,2,6,rebate,noun,/ˈriːbeɪt/,รีเบท,เงินคืน ส่วนลดที่คืนภายหลัง,The supplier pays us a rebate if we buy over one million baht a year.,ซัพพลายเออร์คืนเงินส่วนหนึ่งให้เราถ้าซื้อเกินหนึ่งล้านบาทต่อปี,,,false
+4,procurement,2,7,credit terms,phrase,/ˈkredɪt tɜːrmz/,เครดิท เทิร์มส์,เงื่อนไขเครดิตการชำระเงิน,New customers must pay in cash until we agree on credit terms.,ลูกค้าใหม่ต้องจ่ายเงินสดจนกว่าเราจะตกลงเงื่อนไขเครดิตกัน,,,false
+4,procurement,2,8,stipulate,verb,/ˈstɪpjəleɪt/,สติพิวเลท,ระบุ กำหนดไว้,The contract stipulates delivery within two weeks.,สัญญากำหนดให้ส่งของภายในสองสัปดาห์,,,false
+4,procurement,2,9,prepayment,noun,/ˌpriːˈpeɪmənt/,พรีเพย์เมินท์,การชำระเงินล่วงหน้า,The factory asks for a thirty percent prepayment on new orders.,โรงงานขอให้ชำระเงินล่วงหน้าร้อยละสามสิบสำหรับคำสั่งซื้อใหม่,,,false
+4,procurement,2,10,late payment fee,phrase,/leɪt ˈpeɪmənt fiː/,เลท เพย์เมินท์ ฟี,ค่าปรับชำระเงินล่าช้า,The contract adds a late payment fee of two percent a month.,สัญญากำหนดค่าปรับชำระเงินล่าช้าร้อยละสองต่อเดือน,,,false
+4,procurement,2,11,lock in,phrasal verb,/lɑːk ɪn/,ล็อค อิน,ล็อกไว้ ตรึงไว้ (ราคา อัตรา),We signed early to lock in the lower price.,เราเซ็นสัญญาเร็วเพื่อล็อกราคาที่ต่ำกว่าไว้,,,false
+4,procurement,2,12,non-disclosure agreement,phrase,/ˌnɑːndɪsˈkloʊʒər əˈɡriːmənt/,นอนดิสโคลเชอร์ อะกรีเมินท์,สัญญารักษาความลับ,Both companies signed a non-disclosure agreement before the meeting.,ทั้งสองบริษัทลงนามในสัญญารักษาความลับก่อนการประชุม,short form: NDA,,false
+4,procurement,2,13,fixed price,phrase,/fɪkst praɪs/,ฟิกซ์ท ไพรซ์,ราคาคงที่,The supplier agreed to a fixed price for the whole year.,ซัพพลายเออร์ตกลงใช้ราคาคงที่ตลอดทั้งปี,,,false
+4,procurement,2,14,subcontract,verb,/ˌsʌbˈkɑːntrækt/,ซับคอนแทรคท์,จ้างช่วง,The builder subcontracted the electrical work to a smaller firm.,ผู้รับเหมาจ้างช่วงงานไฟฟ้าให้บริษัทที่เล็กกว่า,,,false
+4,procurement,3,1,delivery note,phrase,/dɪˈlɪvəri noʊt/,ดิลิเวอรี โนท,ใบส่งของ,Sign the delivery note only after you count the boxes.,เซ็นใบส่งของหลังจากนับกล่องแล้วเท่านั้น,,,false
+4,procurement,3,2,goods receipt,phrase,/ɡʊdz rɪˈsiːt/,กู๊ดซ์ ริซีท,การรับสินค้าเข้าคลัง,Record the goods receipt in the system as soon as the truck arrives.,บันทึกการรับสินค้าเข้าระบบทันทีที่รถบรรทุกมาถึง,,,false
+4,procurement,3,3,nonconforming,adjective,/ˌnɑːnkənˈfɔːrmɪŋ/,นอนเคินฟอร์มมิ่ง,ไม่เป็นไปตามข้อกำหนด,Nonconforming parts are sent back to the supplier.,ชิ้นส่วนที่ไม่เป็นไปตามข้อกำหนดจะถูกส่งคืนซัพพลายเออร์,,,false
+4,procurement,3,4,out of spec,phrase,/aʊt əv spek/,เอาท์ เอิฟ สเปค,ไม่ตรงตามสเปก,Half of the screws were out of spec and had to be returned.,สกรูครึ่งหนึ่งไม่ตรงตามสเปกและต้องส่งคืน,,,false
+4,procurement,3,5,shortfall,noun,/ˈʃɔːrtfɔːl/,ช็อร์ทฟอล,ปริมาณที่ขาดไป,There was a shortfall of two hundred units in the last delivery.,การส่งของครั้งล่าสุดขาดไปสองร้อยชิ้น,,,false
+4,procurement,3,6,inspection,noun,/ɪnˈspekʃən/,อินสเปคชัน,การตรวจสอบ,All goods go through inspection when they reach the warehouse.,สินค้าทุกชิ้นต้องผ่านการตรวจสอบเมื่อมาถึงคลังสินค้า,,,false
+4,procurement,3,7,spot check,phrase,/spɑːt tʃek/,สปอท เช็ค,การสุ่มตรวจ,We do a spot check on ten boxes from every truck.,เราสุ่มตรวจสิบกล่องจากรถบรรทุกทุกคัน,,,false
+4,procurement,3,8,damaged in transit,phrase,/ˈdæmɪdʒd ɪn ˈtrænzɪt/,แดมิจด์ อิน แทรนซิท,เสียหายระหว่างขนส่ง,"Three boxes were damaged in transit, so we refused them.",มีสามกล่องเสียหายระหว่างขนส่ง เราจึงปฏิเสธไม่รับ,,,false
+4,procurement,3,9,stockpile,verb,/ˈstɑːkpaɪl/,สต็อกพายล์,กักตุน สะสมไว้,Some companies stockpiled parts before prices went up.,บางบริษัทกักตุนชิ้นส่วนไว้ก่อนราคาขึ้น,,,false
+4,procurement,3,10,expedite,verb,/ˈekspədaɪt/,เอคซ์เพอะไดท์,เร่ง (ให้เร็วขึ้น),Can you expedite the order? We need it by Friday.,ช่วยเร่งคำสั่งซื้อได้ไหม เราต้องการภายในวันศุกร์,,,false
+4,procurement,3,11,defect rate,phrase,/ˈdiːfekt reɪt/,ดีเฟคท์ เรท,อัตราของเสีย,The new supplier has a defect rate of less than one percent.,ซัพพลายเออร์รายใหม่มีอัตราของเสียต่ำกว่าร้อยละหนึ่ง,,,false
+4,procurement,3,12,traceability,noun,/ˌtreɪsəˈbɪləti/,เทรเซอะบิลลิที,การตรวจสอบย้อนกลับได้,Good traceability lets us find which farm a bad batch came from.,การตรวจสอบย้อนกลับที่ดีทำให้เรารู้ว่าล็อตที่เสียมาจากฟาร์มไหน,,,false
+4,procurement,3,13,procure,verb,/proʊˈkjʊr/,โพรเคียวร์,จัดหา จัดซื้อ,The hospital must procure fifty new beds before the end of the year.,โรงพยาบาลต้องจัดหาเตียงใหม่ห้าสิบเตียงก่อนสิ้นปี,,,false
+4,procurement,3,14,spoilage,noun,/ˈspɔɪlɪdʒ/,สปอยลิจ,การเน่าเสีย ความเสียหายของสินค้า,Refrigerated trucks reduce spoilage of fresh vegetables.,รถบรรทุกห้องเย็นช่วยลดการเน่าเสียของผักสด,,,false
+4,startups,1,1,entrepreneur,noun,/ˌɑːntrəprəˈnɜːr/,ออนเทรอะเพรอะเนอร์,ผู้ประกอบการ,The young entrepreneur started her bakery with only two ovens.,ผู้ประกอบการสาวเริ่มร้านเบเกอรี่ด้วยเตาอบเพียงสองเตา,,,false
+4,startups,1,2,feasibility,noun,/ˌfiːzəˈbɪləti/,ฟีเซอะบิลลิที,ความเป็นไปได้,We did a feasibility study before opening the second shop.,เราทำการศึกษาความเป็นไปได้ก่อนเปิดร้านที่สอง,feasibility study,,false
+4,startups,1,3,proof of concept,phrase,/pruːf əv ˈkɑːnsept/,พรูฟ เอิฟ คอนเซพท์,การพิสูจน์แนวคิด,The small pilot was a proof of concept for the delivery app.,โครงการนำร่องเล็ก ๆ เป็นการพิสูจน์แนวคิดของแอปส่งของ,,,false
+4,startups,1,4,prototype,noun,/ˈproʊtətaɪp/,โพรเทอะไทพ์,ต้นแบบ,We built a simple prototype to show to investors.,เราสร้างต้นแบบง่าย ๆ ไว้ให้นักลงทุนดู,,,false
+4,startups,1,5,viable,adjective,/ˈvaɪəbəl/,ไวอะเบิล,ทำได้จริง อยู่รอดได้,We need to know if this idea is commercially viable.,เราต้องรู้ว่าไอเดียนี้ทำได้จริงในเชิงพาณิชย์หรือไม่,commercially viable,,false
+4,startups,1,6,value proposition,phrase,/ˈvæljuː ˌprɑːpəˈzɪʃən/,แวลิว พรอเพอะซิชัน,คุณค่าที่มอบให้ลูกค้า,Our value proposition is fast delivery at a low price.,คุณค่าที่เรามอบให้ลูกค้าคือการส่งเร็วในราคาต่ำ,,,false
+4,startups,1,7,sole proprietor,phrase,/soʊl prəˈpraɪətər/,โซล เพรอะไพรเอเทอร์,เจ้าของกิจการคนเดียว,"As a sole proprietor, she pays tax on all the profit herself.",ในฐานะเจ้าของกิจการคนเดียว เธอต้องเสียภาษีจากกำไรทั้งหมดเอง,,,false
+4,startups,1,8,incorporate,verb,/ɪnˈkɔːrpəreɪt/,อินคอร์เพอะเรท,จดทะเบียนเป็นบริษัท,They incorporated the business in Singapore last year.,พวกเขาจดทะเบียนธุรกิจเป็นบริษัทที่สิงคโปร์เมื่อปีที่แล้ว,,,false
+4,startups,1,9,trial and error,phrase,/ˈtraɪəl ənd ˈerər/,ไทรเอิล แอนด์ เอเรอร์,การลองผิดลองถูก,We learned how to price our products through trial and error.,เราเรียนรู้วิธีตั้งราคาสินค้าผ่านการลองผิดลองถูก,,,false
+4,startups,1,10,mission statement,phrase,/ˈmɪʃən ˈsteɪtmənt/,มิชชัน สเตทเมินท์,พันธกิจขององค์กร,Our mission statement is printed on the wall by the entrance.,พันธกิจของเราพิมพ์ไว้บนผนังข้างทางเข้า,,,false
+4,startups,1,11,home-based,adjective,/ˈhoʊm beɪst/,โฮมเบสท์,ทำที่บ้าน,She runs a home-based business selling handmade soap.,เธอทำธุรกิจที่บ้านขายสบู่ทำมือ,,,false
+4,startups,1,12,gap in the market,phrase,/ɡæp ɪn ðə ˈmɑːrkɪt/,แกพ อิน เดอะ มาร์คิท,ช่องว่างทางการตลาด,He saw a gap in the market for healthy late-night food.,เขาเห็นช่องว่างทางการตลาดสำหรับอาหารสุขภาพตอนดึก,,,false
+4,startups,1,13,co-founder,noun,/ˌkoʊˈfaʊndər/,โคเฟาน์เดอร์,ผู้ร่วมก่อตั้ง,My co-founder handles marketing while I build the product.,ผู้ร่วมก่อตั้งของฉันดูแลการตลาด ส่วนฉันพัฒนาสินค้า,,,false
+4,startups,1,14,side hustle,phrase,/saɪd ˈhʌsəl/,ไซด์ ฮัสเซิล,งานเสริม ธุรกิจเสริม,Her online shop started as a side hustle on weekends.,ร้านออนไลน์ของเธอเริ่มจากงานเสริมช่วงสุดสัปดาห์,informal,,false
+4,startups,2,1,venture capital,phrase,/ˈventʃər ˈkæpɪtəl/,เวนเชอร์ แคพิเทิล,เงินร่วมลงทุน,The app raised two million dollars in venture capital.,แอปนี้ระดมเงินร่วมลงทุนได้สองล้านดอลลาร์,short form: VC,,false
+4,startups,2,2,angel investor,phrase,/ˈeɪndʒəl ɪnˈvestər/,เอนเจิล อินเวสเตอร์,นักลงทุนรายบุคคลช่วงเริ่มต้น,An angel investor gave them money to build the first version.,นักลงทุนรายบุคคลให้เงินพวกเขาสร้างเวอร์ชันแรก,,,false
+4,startups,2,3,pitch,noun,/pɪtʃ/,พิทช์,การนำเสนอเพื่อขอทุนหรือขายไอเดีย,We have ten minutes to make our pitch to the investors.,เรามีเวลาสิบนาทีในการนำเสนองานต่อนักลงทุน,make a pitch,,false
+4,startups,2,4,pitch deck,phrase,/pɪtʃ dek/,พิทช์ เด็ค,สไลด์นำเสนอขอทุน,Keep your pitch deck to about twelve clear slides.,ทำสไลด์นำเสนอขอทุนให้มีประมาณสิบสองหน้าที่ชัดเจน,,,false
+4,startups,2,5,incubator,noun,/ˈɪŋkjubeɪtər/,อินคิวเบเทอร์,ศูนย์บ่มเพาะธุรกิจ,The university incubator gives young founders free office space.,ศูนย์บ่มเพาะของมหาวิทยาลัยให้พื้นที่สำนักงานฟรีแก่ผู้ก่อตั้งรุ่นใหม่,,,false
+4,startups,2,6,crowdfunding,noun,/ˈkraʊdfʌndɪŋ/,คราวด์ฟันดิ้ง,การระดมทุนจากมวลชน,They paid for the first production run through crowdfunding.,พวกเขาจ่ายค่าผลิตล็อตแรกด้วยการระดมทุนจากมวลชน,,,false
+4,startups,2,7,bootstrap,verb,/ˈbuːtstræp/,บูทสแตรพ,เริ่มธุรกิจด้วยเงินตัวเอง,We bootstrapped the company for two years without outside money.,เราทำบริษัทด้วยเงินตัวเองสองปีโดยไม่มีเงินจากภายนอก,,,false
+4,startups,2,8,runway,noun,/ˈrʌnweɪ/,รันเวย์,ระยะเวลาที่เงินทุนที่มีจะใช้ได้,"With our current cash, we have about eighteen months of runway.",ด้วยเงินสดที่มีอยู่ เรามีเวลาประมาณสิบแปดเดือนก่อนเงินหมด,,,false
+4,startups,2,9,seed funding,phrase,/siːd ˈfʌndɪŋ/,ซีด ฟันดิ้ง,เงินทุนตั้งต้น,The company used its seed funding to hire two engineers.,บริษัทใช้เงินทุนตั้งต้นจ้างวิศวกรสองคน,,,false
+4,startups,2,10,dilute,verb,/daɪˈluːt/,ไดลูท,ทำให้สัดส่วนลดลง (หุ้น),Each funding round dilutes the founders' shares.,การระดมทุนแต่ละรอบทำให้สัดส่วนหุ้นของผู้ก่อตั้งลดลง,,,false
+4,startups,2,11,burn rate,phrase,/bɜːrn reɪt/,เบิร์น เรท,อัตราการใช้เงินทุน,Our burn rate is about thirty thousand dollars a month.,อัตราการใช้เงินของเราอยู่ที่ประมาณสามหมื่นดอลลาร์ต่อเดือน,,,false
+4,startups,2,12,grant,noun,/ɡrænt/,แกรนท์,เงินทุนให้เปล่า,The government offers grants to small tech companies.,รัฐบาลให้เงินทุนสนับสนุนแก่บริษัทเทคโนโลยีขนาดเล็ก,apply for a grant,,false
+4,startups,2,13,stake,noun,/steɪk/,สเตค,สัดส่วนการถือหุ้น,The investor bought a thirty percent stake in the company.,นักลงทุนซื้อหุ้นร้อยละสามสิบในบริษัท,a stake in,,false
+4,startups,2,14,term sheet,phrase,/tɜːrm ʃiːt/,เทิร์ม ชีท,เอกสารสรุปเงื่อนไขการลงทุน,The investors sent us a term sheet on Friday.,นักลงทุนส่งเอกสารสรุปเงื่อนไขการลงทุนมาให้เราเมื่อวันศุกร์,,,false
+4,startups,3,1,scale up,phrasal verb,/skeɪl ʌp/,สเกล อัพ,ขยายขนาด,We need more staff before we can scale up production.,เราต้องมีพนักงานเพิ่มก่อนจะขยายกำลังการผลิตได้,,,false
+4,startups,3,2,growing pains,phrase,/ˈɡroʊɪŋ peɪnz/,โกรอิ้ง เพนซ์,ปัญหาที่เกิดจากการเติบโตเร็ว,The company had growing pains when it hired forty people in one month.,บริษัทเจอปัญหาจากการโตเร็วเมื่อจ้างคนสี่สิบคนในเดือนเดียว,,,false
+4,startups,3,3,pivot,verb,/ˈpɪvət/,พิเวิท,เปลี่ยนทิศทางธุรกิจ,The company pivoted from games to online learning.,บริษัทเปลี่ยนทิศทางจากเกมไปเป็นการเรียนออนไลน์,,,false
+4,startups,3,4,traction,noun,/ˈtrækʃən/,แทรคชัน,กระแสตอบรับที่เติบโต,The app gained traction after a famous blogger mentioned it.,แอปเริ่มได้รับความนิยมหลังบล็อกเกอร์ดังพูดถึง,gain traction,,false
+4,startups,3,5,disrupt,verb,/dɪsˈrʌpt/,ดิสรัพท์,พลิกโฉม (ตลาด อุตสาหกรรม),Ride-hailing apps disrupted the taxi industry.,แอปเรียกรถพลิกโฉมอุตสาหกรรมแท็กซี่,,,false
+4,startups,3,6,franchise,noun,/ˈfræntʃaɪz/,แฟรนไชส์,แฟรนไชส์ สิทธิ์ในการทำธุรกิจภายใต้แบรนด์,He bought a coffee franchise instead of starting his own brand.,เขาซื้อแฟรนไชส์ร้านกาแฟแทนการสร้างแบรนด์ของตัวเอง,,,false
+4,startups,3,7,expansion,noun,/ɪkˈspænʃən/,อิคซ์แพนชัน,การขยายกิจการ,Our expansion into Vietnam will start next spring.,การขยายกิจการไปเวียดนามของเราจะเริ่มฤดูใบไม้ผลิหน้า,,,false
+4,startups,3,8,acquisition,noun,/ˌækwɪˈzɪʃən/,แอควิซิชัน,การเข้าซื้อกิจการ,The acquisition of the small startup made headlines.,การเข้าซื้อสตาร์ทอัพเล็ก ๆ แห่งนั้นกลายเป็นข่าวใหญ่,,,false
+4,startups,3,9,unicorn,noun,/ˈjuːnɪkɔːrn/,ยูนิคอร์น,สตาร์ทอัพมูลค่าเกินหนึ่งพันล้านดอลลาร์,Only a few startups in the region have become unicorns.,มีสตาร์ทอัพในภูมิภาคเพียงไม่กี่แห่งที่กลายเป็นยูนิคอร์น,,,false
+4,startups,3,10,foothold,noun,/ˈfʊthoʊld/,ฟุทโฮลด์,ฐานที่มั่น (ในตลาด),We want to gain a foothold in the Japanese market first.,เราต้องการสร้างฐานที่มั่นในตลาดญี่ปุ่นก่อน,gain a foothold in,,false
+4,startups,3,11,headcount,noun,/ˈhedkaʊnt/,เฮดเคาท์,จำนวนพนักงาน,Our headcount grew from five to fifty in two years.,จำนวนพนักงานของเราเพิ่มจากห้าคนเป็นห้าสิบคนในสองปี,,,false
+4,startups,3,12,user base,phrase,/ˈjuːzər beɪs/,ยูสเซอร์ เบส,ฐานผู้ใช้,Our user base doubled after we launched in Malaysia.,ฐานผู้ใช้ของเราเพิ่มเป็นสองเท่าหลังเปิดตัวในมาเลเซีย,,,false
+4,startups,3,13,go public,phrase,/ɡoʊ ˈpʌblɪk/,โก พับลิก,เข้าตลาดหลักทรัพย์,The founders hope to go public within five years.,ผู้ก่อตั้งหวังว่าจะนำบริษัทเข้าตลาดหลักทรัพย์ภายในห้าปี,,,false
+4,startups,3,14,exit strategy,phrase,/ˈeksɪt ˈstrætədʒi/,เอ็กซิท สแตรเทอะจี,แผนการถอนตัว (ขายกิจการหรือหุ้น),Investors asked about our exit strategy at the first meeting.,นักลงทุนถามถึงแผนการถอนตัวของเราในการประชุมครั้งแรก,,,false

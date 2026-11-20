@@ -1,0 +1,337 @@
+level,category,lesson,order,headword,pos,phonetic,reading_th,meaning_th,example_en,example_th,note_en,emoji,reviewed
+2,clinic,1,1,doctor,noun,/ˈdɑːktər/,ด็อกเทอร์,"แพทย์, หมอ",The doctor at this clinic speaks English and Thai.,หมอที่คลินิกนี้พูดได้ทั้งภาษาอังกฤษและภาษาไทย,,🩺,false
+2,clinic,1,2,patient,noun,/ˈpeɪʃənt/,เพเชินท์,"คนไข้, ผู้ป่วย",The nurse calls each patient by name when it is their turn.,พยาบาลเรียกชื่อคนไข้แต่ละคนเมื่อถึงคิว,,,false
+2,clinic,1,3,nurse,noun,/nɝs/,เนิร์ส,พยาบาล,A nurse checked my weight before I saw the doctor.,พยาบาลชั่งน้ำหนักฉันก่อนที่ฉันจะได้พบแพทย์,,🧑‍⚕️,false
+2,clinic,1,4,waiting room,noun,/ˈweɪtɪŋ ruːm/,เวทิง รูม,"ห้องรอ, ห้องพักรอ",Please sit in the waiting room until we call your number.,กรุณานั่งในห้องรอจนกว่าเราจะเรียกหมายเลขของคุณ,,,false
+2,clinic,1,5,see a doctor,phrase,/siː ə ˈdɑːktər/,ซี อะ ด็อกเทอร์,"ไปหาหมอ, พบแพทย์","If your cough gets worse, you should see a doctor.",ถ้าอาการไอแย่ลง คุณควรไปหาหมอ,,,false
+2,clinic,1,6,dentist,noun,/ˈdɛntɪst/,เด็นทิสท์,"ทันตแพทย์, หมอฟัน",I see the dentist every six months to clean my teeth.,ฉันไปหาหมอฟันทุกหกเดือนเพื่อขูดหินปูน,,🦷,false
+2,clinic,1,7,family doctor,noun,/ˈfæməli ˈdɑːktər/,แฟมิลี ด็อกเทอร์,แพทย์ประจำครอบครัว,Our family doctor knows all of us very well.,แพทย์ประจำครอบครัวของเรารู้จักพวกเราทุกคนเป็นอย่างดี,,,false
+2,clinic,1,8,date of birth,noun,/deɪt əv bɝθ/,เดท ออฟ เบิร์ธ,วันเดือนปีเกิด,Please write your name and date of birth on the form.,กรุณาเขียนชื่อและวันเดือนปีเกิดในแบบฟอร์ม,,,false
+2,clinic,1,9,health check,noun,/hɛlθ tʃɛk/,เฮลธ์ เช็ค,การตรวจสุขภาพ,Our company pays for a health check every year.,บริษัทของเราจ่ายค่าตรวจสุขภาพให้ทุกปี,,,false
+2,clinic,1,10,emergency,noun,/ɪˈmɝdʒənsi/,อิเมอร์เจินซี,เหตุฉุกเฉิน,"In an emergency, go straight to the hospital, not the clinic.",ในกรณีฉุกเฉิน ให้ไปโรงพยาบาลทันที ไม่ใช่คลินิก,,🚨,false
+2,clinic,1,11,clinic,noun,/ˈklɪnɪk/,คลินิก,คลินิก สถานพยาบาลขนาดเล็ก,"The clinic opens at eight, so please arrive a little early.",คลินิกเปิดแปดโมง กรุณามาก่อนเวลาเล็กน้อย,,🏥,false
+2,clinic,1,12,ambulance,noun,/ˈæmbjələns/,แอมบิวเลินซ์,รถพยาบาล,Call an ambulance if someone falls and can't get up.,เรียกรถพยาบาลถ้ามีคนล้มแล้วลุกไม่ได้,,🚑,false
+2,clinic,1,13,pulse,noun,/pʌls/,พัลส์,ชีพจร,The nurse held my wrist to check my pulse.,พยาบาลจับข้อมือฉันเพื่อวัดชีพจร,,,false
+2,clinic,1,14,wheelchair,noun,/ˈwiːltʃɛr/,วีลแชร์,รถเข็นผู้ป่วย,The nurse brought a wheelchair for the old man at the door.,พยาบาลนำรถเข็นมาให้คุณตาที่ประตู,,♿,false
+2,clinic,2,1,feel sick,phrase,/fiːl sɪk/,ฟีล ซิค,"รู้สึกคลื่นไส้, รู้สึกไม่สบาย",I always feel sick when I read on the bus.,ฉันรู้สึกคลื่นไส้ทุกครั้งที่อ่านหนังสือบนรถเมล์,,🤢,false
+2,clinic,2,2,rash,noun,/ræʃ/,แรช,ผื่น,I have a red rash on my arm after eating shrimp.,ฉันมีผื่นแดงที่แขนหลังจากกินกุ้ง,,,false
+2,clinic,2,3,itchy,adjective,/ˈɪtʃi/,อิทชี,คัน,My skin feels itchy after the mosquito bites.,ผิวฉันรู้สึกคันหลังโดนยุงกัด,,,false
+2,clinic,2,4,pale,adjective,/peɪl/,เพล,หน้าซีด,You look pale today; are you feeling okay?,วันนี้คุณหน้าซีดนะ รู้สึกโอเคไหม,,,false
+2,clinic,2,5,sprain,verb,/spreɪn/,สเปรน,"ข้อเคล็ด, แพลง","Be careful, or you will sprain your ankle on the wet floor.",ระวังนะ ไม่อย่างนั้นข้อเท้าจะแพลงบนพื้นเปียก,,,false
+2,clinic,2,6,bruise,noun,/bruːz/,บรูซ,รอยฟกช้ำ,I have a big bruise on my knee from the desk.,ฉันมีรอยฟกช้ำใหญ่ที่หัวเข่าเพราะชนโต๊ะ,,,false
+2,clinic,2,7,bleed,verb,/bliːd/,บลีด,เลือดออก,My finger started bleeding after I cut paper.,นิ้วฉันเริ่มเลือดออกหลังจากโดนกระดาษบาด,,🩸,false
+2,clinic,2,8,vomit,verb,/ˈvɑːmɪt/,วอมิท,อาเจียน,He vomited twice last night and feels weak today.,เขาอาเจียนสองครั้งเมื่อคืนและวันนี้รู้สึกอ่อนเพลีย,,,false
+2,clinic,2,9,diarrhea,noun,/ˌdaɪəˈriːə/,ไดอะเรีย,ท้องเสีย,"I have diarrhea, so I need to stay near a restroom.",ฉันท้องเสีย เลยต้องอยู่ใกล้ห้องน้ำ,,,false
+2,clinic,2,10,sore,adjective,/sɔːr/,ซอร์,"เจ็บ, ปวดระบม",My legs are sore after the long walk yesterday.,ขาฉันปวดระบมหลังเดินไกลเมื่อวาน,,,false
+2,clinic,2,11,ache,verb,/eɪk/,เอค,ปวด,My back aches after sitting at the computer all day.,หลังฉันปวดหลังจากนั่งหน้าคอมทั้งวัน,,,false
+2,clinic,2,12,symptom,noun,/ˈsɪmptəm/,ซิมพ์ทัม,อาการของโรค,"Tell the doctor about all your symptoms, even the small ones.",บอกหมอถึงอาการทั้งหมดของคุณ แม้แต่อาการเล็กน้อย,,,false
+2,clinic,2,13,stuffy nose,noun,/ˈstʌfi noʊz/,สตัฟฟี โนซ,คัดจมูก,I can't sleep well with a stuffy nose.,ฉันนอนหลับไม่ค่อยดีเพราะคัดจมูก,,,false
+2,clinic,2,14,food poisoning,noun,/fuːd ˈpɔɪzənɪŋ/,ฟูด พอยเซินนิง,อาหารเป็นพิษ,Two of my coworkers got food poisoning from old chicken.,เพื่อนร่วมงานสองคนอาหารเป็นพิษจากไก่ที่เก่า,,,false
+2,clinic,3,1,shot,noun,/ʃɑːt/,ช็อต,"การฉีดยา, เข็ม (วัคซีน)",My son got a flu shot at the clinic this morning.,ลูกชายฉันได้ฉีดวัคซีนไข้หวัดใหญ่ที่คลินิกเมื่อเช้านี้,Common in US English: a flu shot.,💉,false
+2,clinic,3,2,nasal spray,noun,/ˈneɪzəl spreɪ/,เนเซิล สเปรย์,ยาพ่นจมูก,Use this nasal spray twice a day for your stuffy nose.,ใช้ยาพ่นจมูกนี้วันละสองครั้งสำหรับอาการคัดจมูก,,,false
+2,clinic,3,3,syrup,noun,/ˈsɪrəp/,ซีรัพ,ยาน้ำ,Give the child one spoon of this syrup before bed.,ให้เด็กกินยาน้ำนี้หนึ่งช้อนก่อนนอน,,,false
+2,clinic,3,4,cough drop,noun,/kɔːf drɑːp/,คอฟ ดรอพ,ยาอมแก้ไอ,I keep a few cough drops in my bag during cold season.,ฉันพกยาอมแก้ไอไว้ในกระเป๋าช่วงหน้าหนาว,,,false
+2,clinic,3,5,heal,verb,/hiːl/,ฮีล,"หาย (แผล), สมาน",The cut on my hand healed after one week.,แผลที่มือฉันหายหลังจากหนึ่งสัปดาห์,,,false
+2,clinic,3,6,tablet,noun,/ˈtæblət/,แท็บเลิท,ยาเม็ด,Take one tablet after each meal with water.,กินยาครั้งละหนึ่งเม็ดหลังอาหารทุกมื้อพร้อมน้ำ,,💊,false
+2,clinic,3,7,dose,noun,/doʊs/,โดส,ปริมาณยาต่อครั้ง,Don't take more than one dose every six hours.,อย่ากินยาเกินหนึ่งครั้งในทุกหกชั่วโมง,,,false
+2,clinic,3,8,bed rest,noun,/bɛd rɛst/,เบด เรสท์,การนอนพักบนเตียง,The doctor said I need two days of bed rest.,หมอบอกว่าฉันต้องนอนพักสองวัน,,🛏️,false
+2,clinic,3,9,take it easy,phrase,/teɪk ɪt ˈiːzi/,เทค อิท อีซี,"พักผ่อน, อย่าหักโหม",Take it easy this week and don't lift heavy boxes.,สัปดาห์นี้พักผ่อนเยอะ ๆ และอย่ายกกล่องหนัก,,,false
+2,clinic,3,10,get well,phrase,/ɡɛt wɛl/,เก็ท เวล,"หายป่วย, หายไว ๆ",I hope you get well soon and feel better.,ขอให้คุณหายไว ๆ และรู้สึกดีขึ้นนะ,,,false
+2,clinic,3,11,medical certificate,noun,/ˈmɛdɪkəl sərˈtɪfɪkət/,เม็ดดิเคิล เซอร์ทิฟิเคิท,ใบรับรองแพทย์,HR needs a medical certificate if you take two days of sick leave.,ฝ่ายบุคคลต้องใช้ใบรับรองแพทย์ถ้าคุณลาป่วยสองวัน,,,false
+2,clinic,3,12,allergic,adjective,/əˈlɝdʒɪk/,อะเลอร์จิก,แพ้ (อาหาร ยา ฯลฯ),"I am allergic to peanuts, so I read every label.",ฉันแพ้ถั่วลิสง เลยอ่านฉลากทุกครั้ง,allergic to + noun,,false
+2,clinic,3,13,sling,noun,/slɪŋ/,สลิง,ผ้าคล้องแขน,He wore a sling for a month after he hurt his arm.,เขาใช้ผ้าคล้องแขนอยู่หนึ่งเดือนหลังจากแขนบาดเจ็บ,,,false
+2,clinic,3,14,walking stick,noun,/ˈwɔːkɪŋ stɪk/,วอคกิง สติค,ไม้เท้า,My grandfather uses a walking stick after his knee operation.,คุณตาใช้ไม้เท้าหลังผ่าตัดหัวเข่า,,🦯,false
+2,relationships,1,1,boyfriend,noun,/ˈbɔɪfrɛnd/,บอยเฟรนด์,แฟนผู้ชาย,Her boyfriend picks her up from work every evening.,แฟนของเธอมารับเธอจากที่ทำงานทุกเย็น,,,false
+2,relationships,1,2,girlfriend,noun,/ˈɡɝlfrɛnd/,เกิร์ลเฟรนด์,แฟนผู้หญิง,My brother is taking his girlfriend to dinner tonight.,พี่ชายฉันจะพาแฟนไปกินข้าวเย็นคืนนี้,,,false
+2,relationships,1,3,grandchild,noun,/ˈɡræntʃaɪld/,แกรนด์ไชลด์,หลาน (ลูกของลูก),My mother takes care of her first grandchild on weekdays.,แม่ฉันเลี้ยงหลานคนแรกในวันธรรมดา,Plural: grandchildren.,,false
+2,relationships,1,4,relative,noun,/ˈrɛlətɪv/,เร็ลละทิฟ,ญาติ,We visit our relatives in Chiang Mai every New Year.,เราไปเยี่ยมญาติที่เชียงใหม่ทุกปีใหม่,,,false
+2,relationships,1,5,nephew,noun,/ˈnɛfjuː/,เนฟฟิว,หลานชาย (ลูกของพี่น้อง),My nephew is five and loves playing with toy cars.,หลานชายฉันอายุห้าขวบและชอบเล่นรถของเล่น,,,false
+2,relationships,1,6,niece,noun,/niːs/,นีส,หลานสาว (ลูกของพี่น้อง),I bought a birthday present for my niece.,ฉันซื้อของขวัญวันเกิดให้หลานสาว,,,false
+2,relationships,1,7,twin,noun,/twɪn/,ทวิน,ฝาแฝด,"My sister has twins, a boy and a girl.",พี่สาวฉันมีลูกแฝด ชายหนึ่งหญิงหนึ่ง,,,false
+2,relationships,1,8,only child,noun,/ˈoʊnli tʃaɪld/,โอนลี ไชลด์,ลูกคนเดียว,"I am an only child, so my friends are like family.",ฉันเป็นลูกคนเดียว เพื่อน ๆ เลยเหมือนครอบครัว,,,false
+2,relationships,1,9,get married,phrase,/ɡɛt ˈmærid/,เก็ท แมร์ริด,แต่งงาน,They plan to get married next year in Bangkok.,พวกเขาวางแผนจะแต่งงานปีหน้าที่กรุงเทพฯ,,💍,false
+2,relationships,1,10,mother-in-law,noun,/ˈmʌðər ɪn lɔː/,มาเธอร์ อิน ลอ,"แม่สามี, แม่ยาย",My mother-in-law cooks dinner for us every Sunday.,แม่สามีทำอาหารเย็นให้พวกเราทุกวันอาทิตย์,,,false
+2,relationships,1,11,divorced,adjective,/dɪˈvɔːrst/,ดิวอร์สท์,หย่าร้างแล้ว,"His parents are divorced, but they are still friends.",พ่อแม่ของเขาหย่ากันแล้ว แต่ยังเป็นเพื่อนกันอยู่,,,false
+2,relationships,1,12,single,adjective,/ˈsɪŋɡəl/,ซิงเกิล,โสด,Is your manager married or single?,ผู้จัดการของคุณแต่งงานแล้วหรือยังโสด,,,false
+2,relationships,1,13,grow up,phrasal verb,/ɡroʊ ʌp/,โกรว์ อัพ,"เติบโต, โตขึ้น",I want my children to grow up near their grandparents.,ฉันอยากให้ลูก ๆ เติบโตใกล้ปู่ย่าตายาย,,,false
+2,relationships,1,14,raise,verb,/reɪz/,เรซ,เลี้ยงดู (ลูก),My grandmother raised three children on her own.,คุณยายเลี้ยงลูกสามคนด้วยตัวเอง,,,false
+2,relationships,2,1,friendship,noun,/ˈfrɛndʃɪp/,เฟรนด์ชิพ,มิตรภาพ,Our friendship started on the first day of university.,มิตรภาพของเราเริ่มต้นในวันแรกของมหาวิทยาลัย,,,false
+2,relationships,2,2,make friends,phrase,/meɪk frɛndz/,เมค เฟรนด์ส,"ผูกมิตร, หาเพื่อน",It is easy to make friends at the office football club.,การหาเพื่อนในชมรมฟุตบอลของที่ทำงานเป็นเรื่องง่าย,,,false
+2,relationships,2,3,get along,phrasal verb,/ɡɛt əˈlɔːŋ/,เก็ท อะลอง,เข้ากันได้ดี,I get along well with everyone on my team.,ฉันเข้ากับทุกคนในทีมได้ดี,get along with someone,,false
+2,relationships,2,4,get to know,phrase,/ɡɛt tə noʊ/,เก็ท ทู โนว์,ทำความรู้จัก,Let's have lunch together and get to know each other.,ไปกินข้าวกลางวันด้วยกันแล้วทำความรู้จักกันนะ,,,false
+2,relationships,2,5,close friend,noun,/kloʊs frɛnd/,โคลส เฟรนด์,เพื่อนสนิท,She is my close friend from my first job.,เธอเป็นเพื่อนสนิทของฉันจากที่ทำงานแรก,,,false
+2,relationships,2,6,meet up,phrasal verb,/miːt ʌp/,มีท อัพ,นัดเจอกัน,Let's meet up for coffee after work on Friday.,วันศุกร์หลังเลิกงานนัดเจอกันไปกินกาแฟนะ,,,false
+2,relationships,2,7,get together,phrasal verb,/ɡɛt təˈɡɛðər/,เก็ท ทูเกเธอร์,"มารวมตัวกัน, พบปะกัน",Our old classmates get together every December.,เพื่อนร่วมชั้นเก่า ๆ ของเรามารวมตัวกันทุกเดือนธันวาคม,,,false
+2,relationships,2,8,count on,phrasal verb,/kaʊnt ɑːn/,เคานท์ ออน,"พึ่งพา, ไว้ใจได้",You can always count on me when you need help.,เมื่อไหร่ที่คุณต้องการความช่วยเหลือ คุณพึ่งฉันได้เสมอ,,,false
+2,relationships,2,9,promise,verb,/ˈprɑːmɪs/,พรอมิส,สัญญา,I promise to call you when I get home.,ฉันสัญญาว่าจะโทรหาเมื่อถึงบ้าน,,🤞,false
+2,relationships,2,10,secret,noun,/ˈsiːkrət/,ซีเคริท,ความลับ,Can you keep a secret about the surprise party?,คุณเก็บความลับเรื่องปาร์ตี้เซอร์ไพรส์ได้ไหม,keep a secret,🤫,false
+2,relationships,2,11,honest,adjective,/ˈɑːnɪst/,ออนนิสท์,"ซื่อสัตย์, จริงใจ",A good friend is always honest with you.,เพื่อนที่ดีจะจริงใจกับคุณเสมอ,,,false
+2,relationships,2,12,generous,adjective,/ˈdʒɛnərəs/,เจ็นเนอเริส,"ใจกว้าง, มีน้ำใจ",My neighbor is very generous and often shares her food.,เพื่อนบ้านฉันมีน้ำใจมากและมักแบ่งอาหารให้,,,false
+2,relationships,2,13,keep in touch,phrase,/kiːp ɪn tʌtʃ/,คีพ อิน ทัช,ติดต่อกันอยู่เสมอ,"We moved to different cities, but we still keep in touch online.",เราย้ายไปอยู่คนละเมือง แต่ยังติดต่อกันทางออนไลน์อยู่,,,false
+2,relationships,2,14,gossip,verb,/ˈɡɑːsɪp/,กอสซิพ,นินทา,Please don't gossip about our coworkers in the lunch room.,กรุณาอย่านินทาเพื่อนร่วมงานในห้องกินข้าว,,,false
+2,relationships,3,1,fight,verb,/faɪt/,ไฟท์,"ทะเลาะ, ต่อสู้",My two sons fight about the TV every evening.,ลูกชายสองคนของฉันทะเลาะกันเรื่องทีวีทุกเย็น,,,false
+2,relationships,3,2,forgive,verb,/fərˈɡɪv/,เฟอร์กิฟ,ให้อภัย,Please forgive me for being late again.,ได้โปรดยกโทษให้ฉันที่มาสายอีกแล้ว,,,false
+2,relationships,3,3,argue,verb,/ˈɑːrɡjuː/,อาร์กิว,ทะเลาะ เถียงกัน,My brother and I often argue about small things.,ฉันกับพี่ชายมักเถียงกันเรื่องเล็ก ๆ น้อย ๆ,,,false
+2,relationships,3,4,jealous,adjective,/ˈdʒɛləs/,เจ็ลเลิส,"อิจฉา, หึง",He gets jealous when his girlfriend talks to other men.,เขาหึงเวลาแฟนคุยกับผู้ชายคนอื่น,,,false
+2,relationships,3,5,break up,phrasal verb,/breɪk ʌp/,เบรค อัพ,เลิกกัน (คู่รัก),They decided to break up after three years together.,พวกเขาตัดสินใจเลิกกันหลังคบกันสามปี,,💔,false
+2,relationships,3,6,make up,phrasal verb,/meɪk ʌp/,เมค อัพ,คืนดีกัน,Let's make up and forget about the fight.,เราคืนดีกันแล้วลืมเรื่องที่ทะเลาะกันเถอะ,In this sense: make up with someone.,,false
+2,relationships,3,7,lie,verb,/laɪ/,ไล,โกหก,Please don't lie to me; just tell me what happened.,อย่าโกหกฉันเลย บอกมาเถอะว่าเกิดอะไรขึ้น,lie to someone,,false
+2,relationships,3,8,embarrassed,adjective,/ɪmˈbærəst/,อิมแบเริสท์,"อาย, เขิน",I felt embarrassed when I called my boss by the wrong name.,ฉันรู้สึกอายตอนเรียกชื่อหัวหน้าผิด,,😳,false
+2,relationships,3,9,care about,phrasal verb,/kɛr əˈbaʊt/,แคร์ อะเบาท์,"ใส่ใจ, ห่วงใย",I really care about my friends and their feelings.,ฉันใส่ใจเพื่อน ๆ และความรู้สึกของพวกเขามาก,,,false
+2,relationships,3,10,respect,verb,/rɪˈspɛkt/,รีสเป็คท์,เคารพ,"We respect each other, even when we disagree.",เราเคารพกันและกัน แม้ในเวลาที่เห็นไม่ตรงกัน,,,false
+2,relationships,3,11,cheer up,phrasal verb,/tʃɪr ʌp/,เชียร์ อัพ,"ทำให้ร่าเริงขึ้น, ปลอบใจ",This funny video will cheer up the whole team.,วิดีโอตลกนี้จะทำให้ทั้งทีมร่าเริงขึ้น,,,false
+2,relationships,3,12,hate,verb,/heɪt/,เฮท,เกลียด,I hate it when people are late for dinner.,ฉันเกลียดเวลาที่คนมาสายในมื้อเย็น,,,false
+2,relationships,3,13,romantic,adjective,/roʊˈmæntɪk/,โรแมนทิก,โรแมนติก,He planned a romantic dinner for their anniversary.,เขาวางแผนมื้อค่ำแสนโรแมนติกในวันครบรอบของพวกเขา,,🌹,false
+2,relationships,3,14,fall in love,phrase,/fɔːl ɪn lʌv/,ฟอล อิน ลัฟ,ตกหลุมรัก,"In the story, two coworkers fall in love at a small office.",ในเรื่องนี้ เพื่อนร่วมงานสองคนตกหลุมรักกันที่สำนักงานเล็ก ๆ,,❤️,false
+2,entertainment,1,1,film,noun,/fɪlm/,ฟิล์ม,"ภาพยนตร์, หนัง",We watched a Thai film at the cinema last night.,เมื่อคืนเราดูหนังไทยที่โรงภาพยนตร์,,🎬,false
+2,entertainment,1,2,actor,noun,/ˈæktər/,แอคเทอร์,นักแสดงชาย,The actor in this movie is very famous in Korea.,นักแสดงชายในหนังเรื่องนี้มีชื่อเสียงมากในเกาหลี,,,false
+2,entertainment,1,3,actress,noun,/ˈæktrəs/,แอคเทรส,นักแสดงหญิง,She wants to become an actress in TV dramas.,เธออยากเป็นนักแสดงหญิงในละครโทรทัศน์,,,false
+2,entertainment,1,4,comedy,noun,/ˈkɑːmədi/,คอเมดี,"หนังตลก, ภาพยนตร์ตลก",Let's watch a comedy tonight because I need a laugh.,คืนนี้ดูหนังตลกกันเถอะ ฉันอยากหัวเราะ,,,false
+2,entertainment,1,5,horror,noun,/ˈhɔːrər/,ฮอร์เรอร์,สยองขวัญ,I never watch horror movies alone at night.,ฉันไม่เคยดูหนังสยองขวัญคนเดียวตอนกลางคืน,,👻,false
+2,entertainment,1,6,cartoon,noun,/kɑːrˈtuːn/,คาร์ทูน,การ์ตูน,My kids watch a cartoon every Saturday morning.,ลูก ๆ ของฉันดูการ์ตูนทุกเช้าวันเสาร์,,,false
+2,entertainment,1,7,documentary,noun,/ˌdɑːkjəˈmɛntəri/,ด็อคคิวเมนทารี,สารคดี,I saw a great documentary about the ocean last week.,สัปดาห์ที่แล้วฉันดูสารคดีดี ๆ เกี่ยวกับมหาสมุทร,,,false
+2,entertainment,1,8,thriller,noun,/ˈθrɪlər/,ธริลเลอร์,หนังระทึกขวัญ,This thriller kept me on the edge of my seat.,หนังระทึกขวัญเรื่องนี้ทำให้ฉันลุ้นตลอดทั้งเรื่อง,,,false
+2,entertainment,1,9,trailer,noun,/ˈtreɪlər/,เทรลเลอร์,ตัวอย่างภาพยนตร์,"The trailer looks exciting, so let's see the movie.",ตัวอย่างหนังดูน่าตื่นเต้น ไปดูหนังเรื่องนี้กันเถอะ,,,false
+2,entertainment,1,10,showtime,noun,/ˈʃoʊtaɪm/,โชว์ไทม์,รอบฉาย,The last showtime is at ten thirty tonight.,รอบฉายสุดท้ายคือสี่ทุ่มครึ่งคืนนี้,,,false
+2,entertainment,1,11,scene,noun,/siːn/,ซีน,ฉาก,The fight scene at the end was amazing.,ฉากต่อสู้ตอนจบสุดยอดมาก,,,false
+2,entertainment,1,12,ending,noun,/ˈɛndɪŋ/,เอ็นดิง,ตอนจบ,I didn't like the ending because it was too sad.,ฉันไม่ชอบตอนจบเพราะเศร้าเกินไป,,,false
+2,entertainment,1,13,character,noun,/ˈkærəktər/,แคเรคเทอร์,ตัวละคร,My favorite character in the film is the funny driver.,ตัวละครที่ฉันชอบที่สุดในหนังคือคนขับรถตลก ๆ,,,false
+2,entertainment,1,14,movie star,noun,/ˈmuːvi stɑːr/,มูฟวี สตาร์,ดาราภาพยนตร์,A famous movie star visited our shopping mall today.,ดาราภาพยนตร์ชื่อดังมาที่ห้างของเราวันนี้,,🌟,false
+2,entertainment,2,1,song,noun,/sɔːŋ/,ซอง,เพลง,This song always makes me happy on the way to work.,เพลงนี้ทำให้ฉันมีความสุขทุกครั้งระหว่างทางไปทำงาน,,🎵,false
+2,entertainment,2,2,singer,noun,/ˈsɪŋər/,ซิงเงอร์,นักร้อง,"The singer has a beautiful, strong voice.",นักร้องคนนี้มีเสียงที่ไพเราะและทรงพลัง,,🎤,false
+2,entertainment,2,3,drummer,noun,/ˈdrʌmər/,ดรัมเมอร์,มือกลอง,The drummer kept a strong beat for the whole song.,มือกลองตีจังหวะหนักแน่นตลอดทั้งเพลง,,,false
+2,entertainment,2,4,band,noun,/bænd/,แบนด์,วงดนตรี,My cousin plays the guitar in a rock band.,ลูกพี่ลูกน้องของฉันเล่นกีตาร์ในวงร็อก,,,false
+2,entertainment,2,5,album,noun,/ˈælbəm/,แอลเบิม,อัลบั้มเพลง,Her new album has twelve songs.,อัลบั้มใหม่ของเธอมีสิบสองเพลง,,💿,false
+2,entertainment,2,6,lyrics,noun,/ˈlɪrɪks/,ลิริกส์,เนื้อเพลง,I read the lyrics to learn new English words.,ฉันอ่านเนื้อเพลงเพื่อเรียนคำศัพท์ภาษาอังกฤษใหม่ ๆ,,,false
+2,entertainment,2,7,drum,noun,/drʌm/,ดรัม,กลอง,He plays the drum very loudly in his room.,เขาตีกลองเสียงดังมากในห้องของเขา,,🥁,false
+2,entertainment,2,8,piano,noun,/piˈænoʊ/,เพียแอโน,เปียโน,My daughter takes piano lessons on Sundays.,ลูกสาวฉันเรียนเปียโนทุกวันอาทิตย์,,🎹,false
+2,entertainment,2,9,violin,noun,/ˌvaɪəˈlɪn/,ไวโอลิน,ไวโอลิน,She has played the violin since she was six.,เธอเล่นไวโอลินมาตั้งแต่อายุหกขวบ,,🎻,false
+2,entertainment,2,10,stage,noun,/steɪdʒ/,สเตจ,เวที,The band came onto the stage at eight o'clock.,วงดนตรีขึ้นเวทีตอนสองทุ่ม,,,false
+2,entertainment,2,11,karaoke,noun,/ˌkæriˈoʊki/,คาราโอเกะ,คาราโอเกะ,"After the party, we sang karaoke until midnight.",หลังงานเลี้ยง เราร้องคาราโอเกะกันจนเที่ยงคืน,,🎤,false
+2,entertainment,2,12,pop music,noun,/pɑːp ˈmjuːzɪk/,พ็อพ มิวสิก,เพลงป๊อป,I listen to pop music when I go jogging.,ฉันฟังเพลงป๊อปตอนออกไปวิ่ง,,,false
+2,entertainment,2,13,headphones,noun,/ˈhɛdfoʊnz/,เฮดโฟนส์,หูฟังแบบครอบหู,I wear headphones on the train so I don't disturb anyone.,ฉันใส่หูฟังบนรถไฟเพื่อไม่รบกวนใคร,,🎧,false
+2,entertainment,2,14,musician,noun,/mjuˈzɪʃən/,มิวซิเชิน,นักดนตรี,A musician plays the guitar in the mall every evening.,มีนักดนตรีเล่นกีตาร์ในห้างทุกเย็น,,,false
+2,entertainment,3,1,series,noun,/ˈsɪriːz/,ซีรีส์,"ซีรีส์, ละครชุด",I am watching a Korean series about a hospital.,ฉันกำลังดูซีรีส์เกาหลีเกี่ยวกับโรงพยาบาล,,,false
+2,entertainment,3,2,episode,noun,/ˈɛpɪsoʊd/,เอ็พพิโซด,ตอน (ของรายการหรือซีรีส์),A new episode comes out every Friday night.,ตอนใหม่ออกทุกคืนวันศุกร์,,,false
+2,entertainment,3,3,channel,noun,/ˈtʃænəl/,แชนเนิล,ช่อง (โทรทัศน์หรือออนไลน์),What channel is the football match on?,การแข่งขันฟุตบอลออกอากาศช่องไหน,,📺,false
+2,entertainment,3,4,remote control,noun,/rɪˈmoʊt kənˈtroʊl/,รีโมท คอนโทรล,รีโมตคอนโทรล,I can't find the remote control under the sofa.,ฉันหารีโมตใต้โซฟาไม่เจอ,,,false
+2,entertainment,3,5,stream,verb,/striːm/,สตรีม,ดูหรือฟังออนไลน์แบบสตรีมมิง,We stream movies on our TV every weekend.,เราดูหนังแบบสตรีมมิงบนทีวีทุกสุดสัปดาห์,,,false
+2,entertainment,3,6,game show,noun,/ɡeɪm ʃoʊ/,เกม โชว์,รายการเกมโชว์,My grandmother loves the game show on Sunday evenings.,ยายของฉันชอบรายการเกมโชว์ทุกเย็นวันอาทิตย์,,,false
+2,entertainment,3,7,news,noun,/nuːz/,นิวส์,ข่าว,My father watches the news every evening at seven.,พ่อของฉันดูข่าวทุกเย็นตอนหนึ่งทุ่ม,,📰,false
+2,entertainment,3,8,turn up,phrasal verb,/tɝn ʌp/,เทิร์น อัพ,เร่งเสียง,Can you turn up the TV? I can't hear it.,ช่วยเร่งเสียงทีวีหน่อยได้ไหม ฉันไม่ได้ยิน,,,false
+2,entertainment,3,9,turn down,phrasal verb,/tɝn daʊn/,เทิร์น ดาวน์,ลดเสียง,Please turn down the music because the baby is sleeping.,ช่วยลดเสียงเพลงหน่อย เด็กกำลังหลับ,,,false
+2,entertainment,3,10,rewind,verb,/riːˈwaɪnd/,รีไวนด์,ย้อนกลับ (วิดีโอ),Can you rewind it? I missed what she said.,ช่วยย้อนกลับหน่อยได้ไหม ฉันไม่ได้ยินว่าเธอพูดอะไร,,⏪,false
+2,entertainment,3,11,binge-watch,verb,/ˈbɪndʒ wɑːtʃ/,บินจ์วอตช์,ดูซีรีส์รวดเดียวหลายตอน,I binge-watched the whole series last weekend.,ฉันดูซีรีส์ทั้งเรื่องรวดเดียวเมื่อสุดสัปดาห์ที่แล้ว,,,false
+2,entertainment,3,12,dull,adjective,/dʌl/,ดัล,น่าเบื่อ จืดชืด,"The first episode was dull, but the second one was great.",ตอนแรกน่าเบื่อ แต่ตอนที่สองสนุกมาก,,,false
+2,entertainment,3,13,exciting,adjective,/ɪkˈsaɪtɪŋ/,อิคไซทิง,น่าตื่นเต้น,The last episode was really exciting.,ตอนสุดท้ายน่าตื่นเต้นมาก,,,false
+2,entertainment,3,14,reality show,noun,/riˈæləti ʃoʊ/,รีแอลลิที โชว์,รายการเรียลลิตี้,My mom watches a cooking reality show every Sunday night.,แม่ดูรายการเรียลลิตี้ทำอาหารทุกคืนวันอาทิตย์,,📺,false
+2,phones-apps,1,1,smartphone,noun,/ˈsmɑːrtfoʊn/,สมาร์ทโฟน,สมาร์ตโฟน,I use my smartphone to check emails on the bus.,ฉันใช้สมาร์ตโฟนเช็กอีเมลบนรถเมล์,,📱,false
+2,phones-apps,1,2,charging cable,noun,/ˈtʃɑːrdʒɪŋ ˈkeɪbəl/,ชาร์จจิง เคเบิล,สายชาร์จ,Can I borrow your charging cable? My phone is almost dead.,ขอยืมสายชาร์จหน่อยได้ไหม มือถือฉันแบตจะหมดแล้ว,,🔌,false
+2,phones-apps,1,3,phone case,noun,/foʊn keɪs/,โฟน เคส,เคสโทรศัพท์,I bought a strong phone case because I often drop my phone.,ฉันซื้อเคสโทรศัพท์แบบแข็งแรงเพราะทำโทรศัพท์ตกบ่อย,,,false
+2,phones-apps,1,4,camera,noun,/ˈkæmərə/,แคเมรา,กล้องถ่ายรูป,The camera on this phone takes very clear photos.,กล้องของโทรศัพท์เครื่องนี้ถ่ายรูปได้ชัดมาก,,📷,false
+2,phones-apps,1,5,passcode,noun,/ˈpæskoʊd/,แพสโคด,รหัสปลดล็อก,Enter your six-digit passcode to unlock the phone.,ใส่รหัสหกหลักเพื่อปลดล็อกโทรศัพท์,,🔢,false
+2,phones-apps,1,6,ringtone,noun,/ˈrɪŋtoʊn/,ริงโทน,เสียงเรียกเข้า,I changed my ringtone to a quiet song.,ฉันเปลี่ยนเสียงเรียกเข้าเป็นเพลงเบา ๆ,,,false
+2,phones-apps,1,7,volume,noun,/ˈvɑːljuːm/,วอลยูม,ระดับเสียง,Please lower the volume on your phone in the office.,กรุณาลดระดับเสียงโทรศัพท์ในสำนักงาน,,🔊,false
+2,phones-apps,1,8,touch screen,noun,/ˈtʌtʃ skriːn/,ทัช สกรีน,หน้าจอสัมผัส,The touch screen does not work well when your fingers are wet.,หน้าจอสัมผัสใช้งานได้ไม่ดีเมื่อนิ้วเปียก,,,false
+2,phones-apps,1,9,earphones,noun,/ˈɪrfoʊnz/,เอียร์โฟนส์,หูฟังแบบเสียบหู,I always carry earphones for calls on the train.,ฉันพกหูฟังติดตัวไว้คุยโทรศัพท์บนรถไฟเสมอ,,,false
+2,phones-apps,1,10,power bank,noun,/ˈpaʊər bæŋk/,พาวเวอร์ แบงค์,"แบตสำรอง, พาวเวอร์แบงก์",Bring a power bank on long trips in case your phone dies.,พกแบตสำรองไปเวลาเดินทางไกลเผื่อโทรศัพท์แบตหมด,,,false
+2,phones-apps,1,11,SIM card,noun,/ˈsɪm kɑːrd/,ซิม การ์ด,ซิมการ์ด,You can buy a local SIM card at the airport.,คุณสามารถซื้อซิมการ์ดท้องถิ่นได้ที่สนามบิน,,,false
+2,phones-apps,1,12,screen protector,noun,/skriːn prəˈtɛktər/,สกรีน โพรเท็คเทอร์,ฟิล์มกันรอยหน้าจอ,The shop put a new screen protector on my phone.,ร้านติดฟิล์มกันรอยใหม่ให้โทรศัพท์ของฉัน,,,false
+2,phones-apps,1,13,vibrate,verb,/ˈvaɪbreɪt/,ไวเบรท,สั่น,My phone vibrates in my pocket when a message comes in.,โทรศัพท์สั่นในกระเป๋าเมื่อมีข้อความเข้า,,📳,false
+2,phones-apps,1,14,wallpaper,noun,/ˈwɔːlpeɪpər/,วอลเพเพอร์,ภาพพื้นหลังหน้าจอ,I use a photo of my dog as my phone wallpaper.,ฉันใช้รูปหมาของฉันเป็นภาพพื้นหลังโทรศัพท์,,,false
+2,phones-apps,2,1,app,noun,/æp/,แอพ,"แอป, แอปพลิเคชัน",I use a banking app to pay my bills.,ฉันใช้แอปธนาคารจ่ายบิล,,,false
+2,phones-apps,2,2,app store,noun,/æp stɔːr/,แอพ สตอร์,ร้านค้าแอป,You can download the app free from the app store.,คุณดาวน์โหลดแอปได้ฟรีจากร้านค้าแอป,,,false
+2,phones-apps,2,3,uninstall,verb,/ˌʌnɪnˈstɔːl/,อันอินสตอล,"ถอนการติดตั้ง, ลบแอป",I uninstalled the game because it used too much battery.,ฉันลบเกมออกเพราะมันกินแบตมากเกินไป,,,false
+2,phones-apps,2,4,settings,noun,/ˈsɛtɪŋz/,เซ็ททิงส์,การตั้งค่า,Open the settings to change the language of your phone.,เปิดการตั้งค่าเพื่อเปลี่ยนภาษาของโทรศัพท์,,⚙️,false
+2,phones-apps,2,5,version,noun,/ˈvɝʒən/,เวอร์ชัน,"เวอร์ชัน, รุ่น",Please update to the new version of the app.,กรุณาอัปเดตแอปเป็นเวอร์ชันใหม่,,,false
+2,phones-apps,2,6,account,noun,/əˈkaʊnt/,อะเคานท์,บัญชีผู้ใช้,You need an account to order food from this app.,คุณต้องมีบัญชีผู้ใช้เพื่อสั่งอาหารจากแอปนี้,,,false
+2,phones-apps,2,7,search bar,noun,/sɝtʃ bɑːr/,เซิร์ช บาร์,ช่องค้นหา,Type the name of the app in the search bar.,พิมพ์ชื่อแอปลงในช่องค้นหา,,🔍,false
+2,phones-apps,2,8,dark mode,noun,/dɑːrk moʊd/,ดาร์ก โมด,โหมดมืด,I use dark mode at night because it is easier on my eyes.,ฉันใช้โหมดมืดตอนกลางคืนเพราะสบายตากว่า,,🌙,false
+2,phones-apps,2,9,font size,noun,/fɑːnt saɪz/,ฟอนท์ ไซซ์,ขนาดตัวอักษร,My father made the font size bigger on his phone.,พ่อของฉันปรับขนาดตัวอักษรในโทรศัพท์ให้ใหญ่ขึ้น,,,false
+2,phones-apps,2,10,swipe,verb,/swaɪp/,สไวพ์,ปัด (หน้าจอ),Swipe left to see the next photo.,ปัดไปทางซ้ายเพื่อดูรูปถัดไป,,,false
+2,phones-apps,2,11,install,verb,/ɪnˈstɔːl/,อินสตอล,ติดตั้ง (แอป),Please install the company app before your first day.,กรุณาติดตั้งแอปของบริษัทก่อนวันทำงานวันแรก,,,false
+2,phones-apps,2,12,icon,noun,/ˈaɪkɑːn/,ไอคอน,"ไอคอน, สัญลักษณ์บนหน้าจอ",Tap the small camera icon to take a photo.,แตะไอคอนกล้องเล็ก ๆ เพื่อถ่ายรูป,,,false
+2,phones-apps,2,13,home screen,noun,/hoʊm skriːn/,โฮม สกรีน,หน้าจอหลัก,I put my most useful apps on the home screen.,ฉันวางแอปที่ใช้บ่อยที่สุดไว้ที่หน้าจอหลัก,,,false
+2,phones-apps,2,14,drag,verb,/dræɡ/,แดรก,ลาก (บนหน้าจอ),Drag the icon to the bottom of the screen.,ลากไอคอนไปที่ด้านล่างของหน้าจอ,,,false
+2,phones-apps,3,1,social media,noun,/ˈsoʊʃəl ˈmiːdiə/,โซเชียล มีเดีย,"โซเชียลมีเดีย, สื่อสังคมออนไลน์",I spend too much time on social media before bed.,ฉันใช้เวลากับโซเชียลมีเดียมากเกินไปก่อนนอน,,,false
+2,phones-apps,3,2,profile picture,noun,/ˈproʊfaɪl ˈpɪktʃər/,โพรไฟล์ พิคเชอร์,รูปโปรไฟล์,I changed my profile picture to a photo from my trip.,ฉันเปลี่ยนรูปโปรไฟล์เป็นรูปจากทริปของฉัน,,,false
+2,phones-apps,3,3,follower,noun,/ˈfɑːloʊər/,ฟอลโลเวอร์,ผู้ติดตาม,Her cooking page has more than ten thousand followers.,เพจทำอาหารของเธอมีผู้ติดตามมากกว่าหนึ่งหมื่นคน,,,false
+2,phones-apps,3,4,nickname,noun,/ˈnɪkneɪm/,นิคเนม,ชื่อเล่น,My nickname in the group chat is Bee.,ชื่อเล่นของฉันในแชตกลุ่มคือบี,,,false
+2,phones-apps,3,5,sticker,noun,/ˈstɪkər/,สติกเกอร์,สติกเกอร์,My mom sends a flower sticker every morning in the family chat.,แม่ส่งสติกเกอร์ดอกไม้ทุกเช้าในแชตครอบครัว,,,false
+2,phones-apps,3,6,voice message,noun,/vɔɪs ˈmɛsɪdʒ/,วอยซ์ เมสเสจ,ข้อความเสียง,I sent my boss a short voice message because I was driving.,ฉันส่งข้อความเสียงสั้น ๆ ถึงหัวหน้าเพราะกำลังขับรถ,,,false
+2,phones-apps,3,7,reaction,noun,/riˈækʃən/,รีแอคเชิน,"การกดแสดงความรู้สึก, ปฏิกิริยา",Her funny post got hundreds of reactions.,โพสต์ตลก ๆ ของเธอมีคนกดแสดงความรู้สึกหลายร้อยครั้ง,,,false
+2,phones-apps,3,8,avatar,noun,/ˈævətɑːr/,แอฟวะทาร์,"อวตาร, รูปตัวแทนในแอป",I made a cartoon avatar that looks like me.,ฉันสร้างอวตารการ์ตูนที่หน้าตาเหมือนฉัน,,,false
+2,phones-apps,3,9,feed,noun,/fiːd/,ฟีด,หน้าฟีด,I saw your wedding photos on my feed this morning.,เช้านี้ฉันเห็นรูปงานแต่งของคุณในหน้าฟีด,,,false
+2,phones-apps,3,10,copy link,phrase,/ˈkɑːpi lɪŋk/,คอพปี ลิงค์,คัดลอกลิงก์,Tap copy link and paste it into the group chat.,แตะคัดลอกลิงก์แล้ววางลงในแชตกลุ่ม,,🔗,false
+2,phones-apps,3,11,offline,adjective,/ˌɔːfˈlaɪn/,ออฟไลน์,"ออฟไลน์, ไม่ได้เชื่อมต่อ","I am offline on the plane, so I'll reply later.",ฉันออฟไลน์อยู่บนเครื่องบิน เดี๋ยวจะตอบทีหลัง,,,false
+2,phones-apps,3,12,thumbs up,noun,/θʌmz ʌp/,ธัมส์ อัพ,ยกนิ้วโป้ง (แสดงว่าโอเค),"My boss replied with a thumbs up, so the plan is fine.",หัวหน้าตอบกลับด้วยการยกนิ้วโป้ง แปลว่าแผนนี้โอเค,,👍,false
+2,phones-apps,3,13,mobile data,noun,/ˈmoʊbəl ˈdeɪtə/,โมเบิล เดตา,อินเทอร์เน็ตมือถือ,I use mobile data when there is no Wi-Fi.,ฉันใช้อินเทอร์เน็ตมือถือเวลาไม่มีไวไฟ,,,false
+2,phones-apps,3,14,airplane mode,noun,/ˈɛrpleɪn moʊd/,แอร์เพลน โมด,โหมดเครื่องบิน,Please switch your phone to airplane mode before takeoff.,กรุณาเปลี่ยนโทรศัพท์เป็นโหมดเครื่องบินก่อนเครื่องขึ้น,,✈️,false
+2,calls,1,1,switchboard,noun,/ˈswɪtʃbɔːrd/,สวิตช์บอร์ด,"ตู้สาขาโทรศัพท์, โอเปอเรเตอร์กลาง",Call the switchboard and ask for the sales department.,โทรไปที่ตู้สาขาแล้วขอสายฝ่ายขาย,,,false
+2,calls,1,2,put through,phrasal verb,/pʊt θruː/,พุท ธรู,ต่อสาย (โทรศัพท์),The receptionist will put through your call to the manager.,พนักงานต้อนรับจะต่อสายของคุณไปยังผู้จัดการ,put someone through to + person/department,,false
+2,calls,1,3,country code,noun,/ˈkʌntri koʊd/,คันทรี โคด,รหัสประเทศ,The country code for Thailand is sixty-six.,รหัสประเทศของไทยคือหกสิบหก,,,false
+2,calls,1,4,operator,noun,/ˈɑːpəreɪtər/,ออเปอเรเทอร์,พนักงานรับโทรศัพท์,Press zero if you want to speak to an operator.,กดศูนย์หากต้องการพูดกับพนักงานรับโทรศัพท์,,,false
+2,calls,1,5,get through,phrasal verb,/ɡɛt θruː/,เก็ท ธรู,"ติดต่อได้, โทรติด","I tried to call the bank, but I couldn't get through.",ฉันพยายามโทรหาธนาคาร แต่โทรไม่ติด,,,false
+2,calls,1,6,reach,verb,/riːtʃ/,รีช,ติดต่อ (ใครบางคน) ได้,You can reach me on my mobile after five o'clock.,คุณติดต่อฉันได้ทางมือถือหลังห้าโมงเย็น,,,false
+2,calls,1,7,return a call,phrase,/rɪˈtɝn ə kɔːl/,รีเทิร์น อะ คอล,โทรกลับ,I'm sorry I missed you; I will return a call this afternoon.,ขอโทษที่ไม่ได้รับสาย บ่ายนี้ฉันจะโทรกลับ,Often: return someone's call.,,false
+2,calls,1,8,direct line,noun,/dəˈrɛkt laɪn/,ดิเร็คท์ ไลน์,เบอร์ตรง,"This is my direct line, so you don't need to go through reception.",นี่คือเบอร์ตรงของฉัน คุณไม่ต้องโทรผ่านแผนกต้อนรับ,,,false
+2,calls,1,9,area code,noun,/ˈɛriə koʊd/,แอเรีย โคด,รหัสพื้นที่,Don't forget the area code when you call our Chiang Mai office.,อย่าลืมกดรหัสพื้นที่เวลาโทรหาสำนักงานเชียงใหม่,,,false
+2,calls,1,10,landline,noun,/ˈlændlaɪn/,แลนด์ไลน์,"โทรศัพท์บ้าน, โทรศัพท์พื้นฐาน",Please call the office landline if my mobile is busy.,ถ้ามือถือฉันไม่ว่าง กรุณาโทรเข้าโทรศัพท์พื้นฐานของสำนักงาน,,☎️,false
+2,calls,1,11,mobile number,noun,/ˈmoʊbəl ˈnʌmbər/,โมบายล์ นัมเบอร์,เบอร์มือถือ,Could you give me your mobile number in case we get cut off?,ช่วยให้เบอร์มือถือไว้หน่อยได้ไหม เผื่อสายหลุด,,,false
+2,calls,1,12,cut off,phrasal verb,/kʌt ɔːf/,คัท ออฟ,"สายหลุด, สายตัด","Sorry, we got cut off. Let me call you again.",ขอโทษค่ะ สายหลุด เดี๋ยวฉันโทรกลับไปใหม่,,,false
+2,calls,1,13,connection,noun,/kəˈnɛkʃən/,คะเน็คเชิน,"สัญญาณ, การเชื่อมต่อ","The connection is bad here, so I'll call you from my desk.",สัญญาณตรงนี้ไม่ดี เดี๋ยวฉันโทรหาคุณจากโต๊ะทำงาน,,,false
+2,calls,1,14,speakerphone,noun,/ˈspiːkərfoʊn/,สปีคเกอร์โฟน,ระบบลำโพงโทรศัพท์,I'm putting you on speakerphone so my team can hear.,ฉันจะเปิดลำโพงเพื่อให้ทีมของฉันได้ยินด้วย,,,false
+2,calls,2,1,on mute,phrase,/ɑːn mjuːt/,ออน มิวท์,ปิดไมค์อยู่,"Sorry, I was on mute. Can you hear me now?",ขอโทษค่ะ ฉันปิดไมค์อยู่ ตอนนี้ได้ยินไหมคะ,,🔇,false
+2,calls,2,2,unmute,verb,/ʌnˈmjuːt/,อันมิวท์,เปิดเสียง (ไมค์),You are still muted; please unmute yourself.,คุณยังปิดไมค์อยู่ กรุณาเปิดไมค์ด้วยค่ะ,,,false
+2,calls,2,3,meeting link,noun,/ˈmiːtɪŋ lɪŋk/,มีททิง ลิงค์,ลิงก์เข้าประชุม,I'll send the meeting link by email ten minutes before we start.,ฉันจะส่งลิงก์เข้าประชุมทางอีเมลสิบนาทีก่อนเริ่ม,,🔗,false
+2,calls,2,4,presenter,noun,/prɪˈzɛntər/,พรีเซ็นเทอร์,ผู้นำเสนอ,The presenter shared her slides at the start of the call.,ผู้นำเสนอแชร์สไลด์ตอนเริ่มการประชุม,,,false
+2,calls,2,5,freeze,verb,/friːz/,ฟรีซ,ภาพค้าง,"Your video keeps freezing, so maybe turn off your camera.",ภาพของคุณค้างบ่อย ลองปิดกล้องดูไหม,,,false
+2,calls,2,6,lag,noun,/læɡ/,แลก,"ความหน่วง, ดีเลย์","There is a short lag, so wait a second before you answer.",มีความหน่วงเล็กน้อย รอสักวินาทีก่อนตอบนะ,,,false
+2,calls,2,7,echo,noun,/ˈɛkoʊ/,เอ็คโค,"เสียงสะท้อน, เสียงก้อง",I can hear an echo; please use your headset.,ฉันได้ยินเสียงก้อง กรุณาใช้หูฟังด้วยค่ะ,,,false
+2,calls,2,8,background noise,noun,/ˈbækɡraʊnd nɔɪz/,แบ็คกราวนด์ นอยซ์,เสียงรบกวนรอบข้าง,There is a lot of background noise from the cafe behind you.,มีเสียงรบกวนมากจากร้านกาแฟข้างหลังคุณ,,,false
+2,calls,2,9,virtual background,noun,/ˈvɝtʃuəl ˈbækɡraʊnd/,เวอร์ชวล แบ็คกราวนด์,พื้นหลังเสมือน,I use a virtual background because my room is messy.,ฉันใช้พื้นหลังเสมือนเพราะห้องรก,,,false
+2,calls,2,10,screen share,noun,/skriːn ʃɛr/,สกรีน แชร์,การแชร์หน้าจอ,Let me start a screen share to show you the report.,ขอฉันแชร์หน้าจอเพื่อให้คุณดูรายงานนะ,,,false
+2,calls,2,11,reconnect,verb,/ˌriːkəˈnɛkt/,รีคะเน็คท์,เชื่อมต่อใหม่,"I lost the internet for a minute, but I reconnected quickly.",อินเทอร์เน็ตหลุดไปหนึ่งนาที แต่ฉันเชื่อมต่อใหม่ได้เร็ว,,,false
+2,calls,2,12,audio,noun,/ˈɔːdioʊ/,ออดิโอ,เสียง (ระบบเสียง),Please check your audio before the meeting starts.,กรุณาตรวจสอบระบบเสียงก่อนเริ่มประชุม,,,false
+2,calls,2,13,can you hear me,phrase,/kæn juː hɪr miː/,แคน ยู เฮียร์ มี,ได้ยินฉันไหม,"Hello, can you hear me now?",สวัสดีค่ะ ตอนนี้ได้ยินฉันไหมคะ,,,false
+2,calls,2,14,chat box,noun,/tʃæt bɑːks/,แชท บ็อกซ์,ช่องแชต,"If you have a question, type it in the chat box.",ถ้ามีคำถาม พิมพ์ลงในช่องแชตได้เลย,,,false
+2,calls,3,1,hold the line,phrase,/hoʊld ðə laɪn/,โฮลด์ เดอะ ไลน์,ถือสายรอ,Please hold the line while I find the file.,กรุณาถือสายรอสักครู่ ขณะที่ฉันหาไฟล์,,,false
+2,calls,3,2,who's calling,phrase,/huːz ˈkɔːlɪŋ/,ฮูส คอลลิง,"ใครโทรมา, ใครพูดสาย","May I ask who's calling, please?",ขอทราบว่าใครโทรมาคะ,,,false
+2,calls,3,3,pass on,phrasal verb,/pæs ɑːn/,แพส ออน,ส่งต่อ (ข้อความ),I will pass on your message to her when she returns.,ฉันจะส่งต่อข้อความของคุณให้เธอเมื่อเธอกลับมา,,,false
+2,calls,3,4,note down,phrasal verb,/noʊt daʊn/,โนท ดาวน์,จดไว้,Let me note down your phone number.,ขอฉันจดเบอร์โทรศัพท์ของคุณไว้ก่อนนะ,,,false
+2,calls,3,5,out of the office,phrase,/aʊt əv ði ˈɔːfɪs/,เอาท์ ออฟ ดิ ออฟฟิศ,ไม่อยู่ที่ออฟฟิศ,Mr. Chen is out of the office until Monday.,คุณเฉินไม่อยู่ที่ออฟฟิศจนถึงวันจันทร์,,,false
+2,calls,3,6,hang on,phrasal verb,/hæŋ ɑːn/,แฮง ออน,รอสักครู่ (ทางโทรศัพท์),Could you hang on a moment while I find her?,ช่วยรอสักครู่ได้ไหมคะ ขอตามตัวเธอก่อน,,,false
+2,calls,3,7,clearly,adverb,/ˈklɪrli/,เคลียร์ลี,อย่างชัดเจน,Speak clearly and slowly on the phone.,พูดโทรศัพท์ให้ชัดเจนและช้า ๆ,,,false
+2,calls,3,8,slowly,adverb,/ˈsloʊli/,สโลว์ลี,อย่างช้า ๆ,Could you say the number again more slowly?,ช่วยพูดเบอร์อีกครั้งให้ช้าลงหน่อยได้ไหม,,,false
+2,calls,3,9,politely,adverb,/pəˈlaɪtli/,พะไลท์ลี,อย่างสุภาพ,"Always answer callers politely, even when they are angry.",ตอบผู้โทรอย่างสุภาพเสมอ แม้ในเวลาที่พวกเขาโกรธ,,,false
+2,calls,3,10,voice,noun,/vɔɪs/,วอยซ์,เสียง (พูด),She has a friendly voice on the phone.,เธอมีน้ำเสียงเป็นมิตรเวลาคุยโทรศัพท์,,,false
+2,calls,3,11,tone,noun,/toʊn/,โทน,น้ำเสียง,Use a warm tone when you talk to customers.,ใช้น้ำเสียงอบอุ่นเวลาคุยกับลูกค้า,,,false
+2,calls,3,12,greeting,noun,/ˈɡriːtɪŋ/,กรีททิง,คำทักทาย,Start every call with a short greeting.,เริ่มทุกสายด้วยคำทักทายสั้น ๆ,,,false
+2,calls,3,13,busy signal,noun,/ˈbɪzi ˈsɪɡnəl/,บิซซี ซิกเนิล,สัญญาณสายไม่ว่าง,"I called three times, but I only got a busy signal.",ฉันโทรไปสามครั้ง แต่ได้ยินแค่สัญญาณสายไม่ว่าง,,,false
+2,calls,3,14,call log,noun,/kɔːl lɔːɡ/,คอล ล็อก,ประวัติการโทร,Check the call log to find the customer's number.,ดูประวัติการโทรเพื่อหาเบอร์ของลูกค้า,,,false
+2,schedules,1,1,booking,noun,/ˈbʊkɪŋ/,บุคคิง,การจอง,I made a booking for the meeting room at ten.,ฉันจองห้องประชุมไว้ตอนสิบโมง,,,false
+2,schedules,1,2,appointment,noun,/əˈpɔɪntmənt/,อะพอยต์เมินต์,การนัดหมาย,I have an appointment with the bank manager at ten.,ฉันมีนัดกับผู้จัดการธนาคารตอนสิบโมง,Collocation: make an appointment.,,false
+2,schedules,1,3,convenient,adjective,/kənˈviːniənt/,เคินวีเนียนท์,สะดวก,What time is convenient for you tomorrow?,พรุ่งนี้คุณสะดวกเวลาไหน,,,false
+2,schedules,1,4,suit,verb,/suːt/,ซูท,"เหมาะ, สะดวก (กับใคร)",Does Friday morning suit you for the team meeting?,เช้าวันศุกร์สะดวกสำหรับคุณไหมสำหรับการประชุมทีม,,,false
+2,schedules,1,5,fit in,phrasal verb,/fɪt ɪn/,ฟิท อิน,แทรกเวลาให้ได้,The doctor can fit in one more patient before lunch.,หมอแทรกเวลาให้คนไข้ได้อีกหนึ่งคนก่อนพักกลางวัน,,,false
+2,schedules,1,6,work for,phrasal verb,/wɝk fɔːr/,เวิร์ก ฟอร์,"สะดวก, ได้ (กับใคร)",Does three o'clock work for you?,บ่ายสามโมงสะดวกสำหรับคุณไหม,,,false
+2,schedules,1,7,how about,phrase,/haʊ əˈbaʊt/,ฮาว อะเบาท์,แล้ว...ล่ะ (ใช้เสนอ),"I'm busy on Monday, so how about Tuesday?",วันจันทร์ฉันไม่ว่าง แล้ววันอังคารล่ะ,,,false
+2,schedules,1,8,instead,adverb,/ɪnˈstɛd/,อินสเต็ด,แทน,"The room is full, so let's meet in my office instead.",ห้องเต็มแล้ว ไปประชุมที่ห้องทำงานฉันแทนเถอะ,,,false
+2,schedules,1,9,earlier,adverb,/ˈɝliər/,เออร์ลีเออร์,"เร็วกว่า, ก่อนหน้า",Can we start the meeting a little earlier?,เราเริ่มประชุมเร็วขึ้นอีกนิดได้ไหม,,,false
+2,schedules,1,10,later,adverb,/ˈleɪtər/,เลเทอร์,"ทีหลัง, ภายหลัง",I'm in a meeting now; I'll call you later.,ตอนนี้ฉันอยู่ในประชุม เดี๋ยวโทรหาทีหลังนะ,,,false
+2,schedules,1,11,sometime,adverb,/ˈsʌmtaɪm/,ซัมไทม์,"สักวัน, สักช่วง",Let's have lunch sometime next week.,สัปดาห์หน้าไปกินข้าวกลางวันกันสักวันนะ,,,false
+2,schedules,1,12,planner,noun,/ˈplænər/,แพลนเนอร์,สมุดวางแผน,I write all my meetings in a paper planner.,ฉันจดการประชุมทั้งหมดไว้ในสมุดวางแผน,,📒,false
+2,schedules,1,13,weekday,noun,/ˈwiːkdeɪ/,วีคเดย์,วันธรรมดา (จันทร์ถึงศุกร์),The office is open on weekdays from nine to six.,สำนักงานเปิดวันธรรมดาตั้งแต่เก้าโมงถึงหกโมงเย็น,,,false
+2,schedules,1,14,half an hour,phrase,/hæf ən aʊr/,แฮฟ แอน อาวเออร์,ครึ่งชั่วโมง,The meeting will only take half an hour.,การประชุมจะใช้เวลาแค่ครึ่งชั่วโมง,,,false
+2,schedules,2,1,weekly,adjective,/ˈwiːkli/,วีคลี,ประจำสัปดาห์,We have a weekly team meeting every Monday.,เรามีประชุมทีมประจำสัปดาห์ทุกวันจันทร์,,,false
+2,schedules,2,2,yearly,adjective,/ˈjɪrli/,เยียร์ลี,"ประจำปี, รายปี",We have our yearly staff party in December.,เรามีงานเลี้ยงพนักงานประจำปีในเดือนธันวาคม,,,false
+2,schedules,2,3,noon,noun,/nuːn/,นูน,เที่ยงวัน,"The training ends at noon, then we have lunch.",การอบรมจบตอนเที่ยง แล้วเราไปกินข้าวกลางวัน,,🕛,false
+2,schedules,2,4,midnight,noun,/ˈmɪdnaɪt/,มิดไนท์,เที่ยงคืน,The online sale ends at midnight tonight.,การลดราคาออนไลน์จบตอนเที่ยงคืนคืนนี้,,,false
+2,schedules,2,5,school holiday,noun,/skuːl ˈhɑːlədeɪ/,สคูล ฮอลิเดย์,ปิดเทอม,I take leave during the school holiday to stay with my kids.,ฉันลางานช่วงปิดเทอมเพื่ออยู่กับลูก ๆ,,,false
+2,schedules,2,6,public holiday,noun,/ˈpʌblɪk ˈhɑːlədeɪ/,พับลิก ฮอลิเดย์,วันหยุดนักขัตฤกษ์,The office is closed on Monday because it is a public holiday.,ออฟฟิศปิดวันจันทร์เพราะเป็นวันหยุดนักขัตฤกษ์,,,false
+2,schedules,2,7,the day after tomorrow,phrase,/ðə deɪ ˈæftər təˈmɑːroʊ/,เดอะ เดย์ แอฟเทอร์ ทูมอร์โรว์,วันมะรืน,The new laptop will arrive the day after tomorrow.,แล็ปท็อปเครื่องใหม่จะมาถึงวันมะรืน,,,false
+2,schedules,2,8,beginning,noun,/bɪˈɡɪnɪŋ/,บิกินนิง,"ช่วงต้น, ตอนเริ่ม",We get paid at the beginning of each month.,เราได้รับเงินเดือนช่วงต้นของทุกเดือน,,,false
+2,schedules,2,9,end,noun,/ɛnd/,เอ็นด์,"ปลาย, ตอนท้าย",The report is due at the end of the week.,รายงานต้องส่งปลายสัปดาห์,,,false
+2,schedules,2,10,in time,phrase,/ɪn taɪm/,อิน ไทม์,ทันเวลา,We arrived in time to get good seats.,เรามาถึงทันเวลาได้ที่นั่งดี ๆ,on time = exactly at the planned time; in time = not too late.,,false
+2,schedules,2,11,start time,noun,/stɑːrt taɪm/,สตาร์ท ไทม์,เวลาเริ่ม,The start time for the training is nine thirty.,เวลาเริ่มการอบรมคือเก้าโมงครึ่ง,,,false
+2,schedules,2,12,time zone,noun,/taɪm zoʊn/,ไทม์ โซน,เขตเวลา,Our London client is in a different time zone.,ลูกค้าของเราที่ลอนดอนอยู่คนละเขตเวลา,,🌐,false
+2,schedules,2,13,half day,noun,/hæf deɪ/,แฮฟ เดย์,ครึ่งวัน,I'm taking a half day on Friday to see the dentist.,วันศุกร์ฉันลาครึ่งวันเพื่อไปหาหมอฟัน,,,false
+2,schedules,2,14,double-book,verb,/ˌdʌbəl ˈbʊk/,ดับเบิล บุค,"นัดซ้อนกัน, จองซ้ำ",Please check the calendar so we don't double-book the room.,กรุณาเช็กปฏิทินเพื่อไม่ให้จองห้องซ้อนกัน,,,false
+2,schedules,3,1,bring forward,phrasal verb,/brɪŋ ˈfɔːrwərd/,บริง ฟอร์เวิร์ด,เลื่อนให้เร็วขึ้น,Can we bring forward the meeting to nine o'clock?,เราเลื่อนประชุมให้เร็วขึ้นเป็นเก้าโมงได้ไหม,,,false
+2,schedules,3,2,put off,phrasal verb,/pʊt ɔːf/,พุท ออฟ,เลื่อนออกไป,Let's put off the training until next month.,เลื่อนการอบรมออกไปเป็นเดือนหน้าเถอะ,,,false
+2,schedules,3,3,push back,phrasal verb,/pʊʃ bæk/,พุช แบ็ค,"เลื่อนให้ช้าลง, ถอยเวลา",We need to push back the launch by one week.,เราต้องเลื่อนการเปิดตัวออกไปหนึ่งสัปดาห์,,,false
+2,schedules,3,4,run late,phrase,/rʌn leɪt/,รัน เลท,มาช้ากว่ากำหนด,"Sorry, the bus is slow and I'm going to run late.",ขอโทษนะ รถเมล์ช้า ฉันน่าจะไปถึงช้ากว่ากำหนด,Usually: I'm running late.,,false
+2,schedules,3,5,make it,phrase,/meɪk ɪt/,เมค อิท,"ไปได้, มาทัน","I'm sorry, but I can't make it to dinner tonight.",ขอโทษนะ คืนนี้ฉันไปกินข้าวเย็นด้วยไม่ได้,,,false
+2,schedules,3,6,come up,phrasal verb,/kʌm ʌp/,คัม อัพ,มีเรื่องเกิดขึ้น (กะทันหัน),Call me if any problems come up while I'm away.,ถ้ามีปัญหาอะไรเกิดขึ้นตอนฉันไม่อยู่ โทรหาฉันนะ,,,false
+2,schedules,3,7,change of plan,noun,/tʃeɪndʒ əv plæn/,เชนจ์ ออฟ แพลน,การเปลี่ยนแผน,There's a change of plan: the visit is now on Thursday.,มีการเปลี่ยนแผน ตอนนี้การเยี่ยมชมย้ายเป็นวันพฤหัส,,,false
+2,schedules,3,8,rearrange,verb,/ˌriːəˈreɪndʒ/,รีอะเรนจ์,"จัดใหม่, นัดใหม่",We need to rearrange the interview for another day.,เราต้องนัดสัมภาษณ์ใหม่เป็นวันอื่น,,,false
+2,schedules,3,9,unfortunately,adverb,/ʌnˈfɔːrtʃənətli/,อันฟอร์เชอเนิทลี,"โชคไม่ดีที่, น่าเสียดายที่","Unfortunately, the manager is sick today.",น่าเสียดายที่วันนี้ผู้จัดการป่วย,,,false
+2,schedules,3,10,by mistake,phrase,/baɪ mɪˈsteɪk/,บาย มิสเทค,"โดยไม่ตั้งใจ, โดยผิดพลาด",I deleted the meeting from the calendar by mistake.,ฉันลบนัดประชุมออกจากปฏิทินโดยไม่ได้ตั้งใจ,,,false
+2,schedules,3,11,last-minute,adjective,/ˌlæst ˈmɪnɪt/,แลสท์ มินนิท,"นาทีสุดท้าย, กะทันหัน",We had a last-minute change to the meeting room.,เรามีการเปลี่ยนห้องประชุมแบบกะทันหัน,,,false
+2,schedules,3,12,at short notice,phrase,/æt ʃɔːrt ˈnoʊtɪs/,แอท ชอร์ท โนทิส,"แบบกะทันหัน, แจ้งล่วงหน้าไม่นาน","Sorry to cancel at short notice, but my son is sick.",ขอโทษที่ยกเลิกกะทันหัน ลูกชายฉันป่วย,US also: on short notice.,,false
+2,schedules,3,13,rush,verb,/rʌʃ/,รัช,รีบเร่ง รีบไป,I had to rush to the airport after the meeting.,ฉันต้องรีบไปสนามบินหลังประชุมเสร็จ,,,false
+2,schedules,3,14,oversleep,verb,/ˌoʊvərˈsliːp/,โอเวอร์สลีพ,"ตื่นสาย, นอนเกินเวลา",Set two alarms so you don't oversleep on Monday.,ตั้งนาฬิกาปลุกสองเครื่องจะได้ไม่ตื่นสายวันจันทร์,,,false
+2,customer-service,1,1,service desk,noun,/ˈsɝvɪs dɛsk/,เซอร์วิส เด็สก์,เคาน์เตอร์บริการ,Please take your receipt to the service desk.,กรุณานำใบเสร็จไปที่เคาน์เตอร์บริการ,,,false
+2,customer-service,1,2,help desk,noun,/hɛlp dɛsk/,เฮลพ์ เด็สก์,"จุดให้ความช่วยเหลือ, เฮลป์เดสก์",Ask the help desk on the ground floor for a new card.,ติดต่อจุดให้ความช่วยเหลือที่ชั้นล่างเพื่อขอบัตรใหม่,,,false
+2,customer-service,1,3,assist,verb,/əˈsɪst/,อะซิสท์,ช่วยเหลือ,Our staff will assist you with the forms.,พนักงานของเราจะช่วยคุณกรอกแบบฟอร์ม,,,false
+2,customer-service,1,4,take a number,phrase,/teɪk ə ˈnʌmbər/,เทค อะ นัมเบอร์,"กดบัตรคิว, รับบัตรคิว",Please take a number and wait until it is called.,กรุณารับบัตรคิวและรอจนกว่าจะถูกเรียก,,🎫,false
+2,customer-service,1,5,helpful,adjective,/ˈhɛlpfəl/,เฮลพ์เฟิล,"ช่วยเหลือดี, มีประโยชน์",The staff at the bank were very helpful today.,พนักงานที่ธนาคารช่วยเหลือดีมากวันนี้,,,false
+2,customer-service,1,6,member,noun,/ˈmɛmbər/,เม็มเบอร์,สมาชิก,Members get ten percent off every Tuesday.,สมาชิกได้ส่วนลดสิบเปอร์เซ็นต์ทุกวันอังคาร,,,false
+2,customer-service,1,7,my pleasure,phrase,/maɪ ˈplɛʒər/,มาย เพลเชอร์,ยินดีค่ะ/ครับ,"Thank you for your help. My pleasure, have a nice day.",ขอบคุณที่ช่วยนะคะ ยินดีค่ะ ขอให้เป็นวันที่ดีนะคะ,,,false
+2,customer-service,1,8,loyalty card,noun,/ˈlɔɪəlti kɑːrd/,ลอยเอิลที การ์ด,บัตรสะสมแต้ม,Do you have a loyalty card? You can collect points today.,คุณมีบัตรสะสมแต้มไหมคะ วันนี้สะสมแต้มได้นะคะ,,💳,false
+2,customer-service,1,9,feel free,phrase,/fiːl friː/,ฟีล ฟรี,"ตามสบาย, ไม่ต้องเกรงใจ",Please feel free to ask me any questions.,ถามฉันได้ทุกเรื่องเลยนะ ไม่ต้องเกรงใจ,,,false
+2,customer-service,1,10,business hours,noun,/ˈbɪznəs aʊrz/,บิซเนิส อาวเออร์ส,เวลาทำการ,"Our business hours are from nine to five, Monday to Friday.",เวลาทำการของเราคือเก้าโมงถึงห้าโมงเย็น วันจันทร์ถึงศุกร์,,,false
+2,customer-service,1,11,certainly,adverb,/ˈsɝtənli/,เซอร์เทินลี,ได้แน่นอนค่ะ/ครับ,"Certainly, I can help you with that right now.",ได้แน่นอนค่ะ ฉันช่วยเรื่องนั้นให้ได้เลยตอนนี้,,,false
+2,customer-service,1,12,right away,phrase,/raɪt əˈweɪ/,ไรท์ อะเวย์,ทันที,I'll send you a new invoice right away.,ฉันจะส่งใบแจ้งหนี้ใหม่ให้คุณทันที,,,false
+2,customer-service,1,13,how may I help you,phrase,/haʊ meɪ aɪ hɛlp juː/,ฮาว เม ไอ เฮลพ์ ยู,มีอะไรให้ช่วยไหมคะ/ครับ,"Good morning, how may I help you today?",สวัสดีตอนเช้าค่ะ วันนี้มีอะไรให้ช่วยไหมคะ,,,false
+2,customer-service,1,14,closing time,noun,/ˈkloʊzɪŋ taɪm/,โคลซิง ไทม์,เวลาปิดทำการ,"Sorry, we can't take new orders after closing time.",ขออภัย เราไม่รับคำสั่งซื้อใหม่หลังเวลาปิดทำการ,,,false
+2,customer-service,2,1,cracked,adjective,/krækt/,แครคท์,"ร้าว, แตกร้าว",The customer says the glass arrived cracked.,ลูกค้าบอกว่าแก้วมาถึงในสภาพร้าว,,,false
+2,customer-service,2,2,scratched,adjective,/skrætʃt/,สแครชท์,มีรอยขีดข่วน,The customer says her new phone arrived scratched.,ลูกค้าบอกว่าโทรศัพท์เครื่องใหม่มาถึงพร้อมรอยขีดข่วน,,,false
+2,customer-service,2,3,customer service,noun,/ˈkʌstəmər ˈsɝːvɪs/,คัสตะเมอร์ เซอร์วิส,ฝ่ายบริการลูกค้า,"If the screen is cracked, please call customer service right away.",ถ้าหน้าจอแตก กรุณาโทรหาฝ่ายบริการลูกค้าทันที,,,false
+2,customer-service,2,4,scratch,noun,/skrætʃ/,สแครช,รอยขีดข่วน,There is a scratch on the screen of the new TV.,มีรอยขีดข่วนบนหน้าจอทีวีเครื่องใหม่,,,false
+2,customer-service,2,5,wrong size,noun,/rɔːŋ saɪz/,รอง ไซซ์,ผิดไซซ์,"You sent me the wrong size, so I need a medium.",คุณส่งไซซ์ผิดมา ฉันต้องการไซซ์กลาง,,,false
+2,customer-service,2,6,stop working,phrase,/stɑːp ˈwɝkɪŋ/,สต็อพ เวิร์คกิง,"ใช้งานไม่ได้, เสีย",Some customers say the cheap fan can stop working after a month.,ลูกค้าบางคนบอกว่าพัดลมรุ่นถูกอาจเสียหลังใช้ได้หนึ่งเดือน,,,false
+2,customer-service,2,7,rude,adjective,/ruːd/,รูด,"หยาบคาย, ไม่สุภาพ",The customer said the driver was rude to her.,ลูกค้าบอกว่าคนขับรถพูดจาไม่สุภาพกับเธอ,,,false
+2,customer-service,2,8,unhappy,adjective,/ʌnˈhæpi/,อันแฮปปี,"ไม่พอใจ, ไม่มีความสุข",He is unhappy because his package came late.,เขาไม่พอใจเพราะพัสดุมาถึงช้า,,,false
+2,customer-service,2,9,annoyed,adjective,/əˈnɔɪd/,อะนอยด์,"รำคาญ, หงุดหงิด",Customers get annoyed when they wait on the phone too long.,ลูกค้าจะหงุดหงิดเมื่อต้องรอสายนานเกินไป,,😤,false
+2,customer-service,2,10,sorry about that,phrase,/ˈsɑːri əˈbaʊt ðæt/,ซอร์รี อะเบาท์ แดท,ขอโทษด้วยนะ (เรื่องนั้น),Your order was late? I'm so sorry about that.,สินค้าส่งช้าเหรอคะ ต้องขอโทษด้วยจริง ๆ ค่ะ,,,false
+2,customer-service,2,11,patience,noun,/ˈpeɪʃəns/,เพเชินซ์,ความอดทน,Thank you for your patience while we check your order.,ขอบคุณที่อดทนรอขณะที่เราตรวจสอบคำสั่งซื้อของคุณ,,,false
+2,customer-service,2,12,shout,verb,/ʃaʊt/,เชาท์,ตะโกน,Please don't shout; I want to help you.,กรุณาอย่าตะโกนนะคะ ฉันอยากช่วยคุณ,,,false
+2,customer-service,2,13,speak to the manager,phrase,/spiːk tə ðə ˈmænɪdʒər/,สปีค ทู เดอะ แมเนเจอร์,ขอพูดกับผู้จัดการ,The angry man asked to speak to the manager.,ชายที่โกรธขอพูดกับผู้จัดการ,,,false
+2,customer-service,2,14,feedback form,noun,/ˈfiːdbæk fɔːrm/,ฟีดแบ็ค ฟอร์ม,แบบฟอร์มแสดงความคิดเห็น,Please fill in this short feedback form after your visit.,กรุณากรอกแบบฟอร์มแสดงความคิดเห็นสั้น ๆ นี้หลังใช้บริการ,,,false
+2,customer-service,3,1,bring back,phrasal verb,/brɪŋ bæk/,บริง แบ็ค,นำกลับมาคืน,You can bring back the shoes if they don't fit.,คุณนำรองเท้ากลับมาคืนได้ถ้าใส่ไม่พอดี,,,false
+2,customer-service,3,2,take back,phrasal verb,/teɪk bæk/,เทค แบ็ค,รับคืน (สินค้า),Will the shop take back a shirt without the box?,ร้านจะรับเสื้อคืนไหมถ้าไม่มีกล่อง,,,false
+2,customer-service,3,3,in full,phrase,/ɪn fʊl/,อิน ฟุล,เต็มจำนวน,"If the item is faulty, we will pay you back in full.",ถ้าสินค้ามีปัญหา เราจะคืนเงินให้คุณเต็มจำนวน,,,false
+2,customer-service,3,4,original packaging,noun,/əˈrɪdʒənəl ˈpækɪdʒɪŋ/,ออริจินัล แพ็คคิจจิง,บรรจุภัณฑ์เดิม,Please return the shoes in the original packaging.,กรุณาคืนรองเท้าในบรรจุภัณฑ์เดิม,,,false
+2,customer-service,3,5,return form,noun,/rɪˈtɝn fɔːrm/,รีเทิร์น ฟอร์ม,แบบฟอร์มคืนสินค้า,Please put the return form inside the box.,กรุณาใส่แบบฟอร์มคืนสินค้าไว้ในกล่อง,,,false
+2,customer-service,3,6,unused,adjective,/ʌnˈjuːzd/,อันยูสด์,ยังไม่ได้ใช้,We only accept unused items for exchange.,เรารับเปลี่ยนเฉพาะสินค้าที่ยังไม่ได้ใช้,,,false
+2,customer-service,3,7,in good condition,phrase,/ɪn ɡʊd kənˈdɪʃən/,อิน กูด เคินดิเชิน,ในสภาพดี,We accept returns only if the item is in good condition.,เรารับคืนเฉพาะสินค้าที่อยู่ในสภาพดีเท่านั้น,,,false
+2,customer-service,3,8,swap,verb,/swɑːp/,สว็อพ,"สลับ, แลกเปลี่ยน",Can I swap this blue shirt for a black one?,ขอเปลี่ยนเสื้อสีน้ำเงินตัวนี้เป็นสีดำได้ไหม,,,false
+2,customer-service,3,9,money back,noun,/ˈmʌni bæk/,มันนี แบ็ค,เงินคืน,"If you are not happy, you can get your money back.",ถ้าคุณไม่พอใจ คุณสามารถรับเงินคืนได้,,,false
+2,customer-service,3,10,sealed,adjective,/siːld/,ซีลด์,"ยังไม่แกะซีล, ปิดผนึก","The box is still sealed, so I can return it.",กล่องยังไม่ได้แกะซีล ฉันจึงคืนได้,,,false
+2,customer-service,3,11,within,preposition,/wɪˈðɪn/,วิดิน,ภายใน,You can return the item within thirty days.,คุณสามารถคืนสินค้าได้ภายในสามสิบวัน,,,false
+2,customer-service,3,12,warranty,noun,/ˈwɔːrənti/,วอร์เรินตี,การรับประกันสินค้า,"This blender has a two-year warranty, so keep your receipt.",เครื่องปั่นนี้รับประกันสองปี จึงควรเก็บใบเสร็จไว้,Collocation: under warranty.,,false
+2,customer-service,3,13,money-back guarantee,noun,/ˈmʌni bæk ˌɡærənˈtiː/,มันนี แบ็ค แกเรินที,การรับประกันคืนเงิน,All our products come with a thirty-day money-back guarantee.,สินค้าทุกชิ้นของเรามีการรับประกันคืนเงินภายในสามสิบวัน,,,false
+2,customer-service,3,14,pleased,adjective,/pliːzd/,พลีซด์,"พอใจ, ยินดี",The customer was pleased with the quick exchange.,ลูกค้าพอใจกับการเปลี่ยนสินค้าที่รวดเร็ว,,,false
+2,selling,1,1,shop assistant,noun,/ʃɑːp əˈsɪstənt/,ช็อพ อะซิสเทินท์,พนักงานขายหน้าร้าน,The shop assistant helped me find the right size.,พนักงานขายช่วยฉันหาไซซ์ที่พอดี,,,false
+2,selling,1,2,new arrival,noun,/nuː əˈraɪvəl/,นิว อะไรเวิล,สินค้ามาใหม่,These dresses are new arrivals from Korea.,ชุดเดรสพวกนี้เป็นสินค้ามาใหม่จากเกาหลี,,,false
+2,selling,1,3,model,noun,/ˈmɑːdəl/,มอเดิล,รุ่น (ของสินค้า),"This is the newest model, and it has a better camera.",นี่คือรุ่นใหม่ล่าสุด และมีกล้องที่ดีกว่า,,,false
+2,selling,1,4,display,noun,/dɪˈspleɪ/,ดิสเพลย์,การจัดแสดงสินค้า,The new shoes are on display near the door.,รองเท้ารุ่นใหม่จัดแสดงอยู่ใกล้ประตู,on display,,false
+2,selling,1,5,best-seller,noun,/ˌbɛst ˈsɛlər/,เบสท์ เซลเลอร์,สินค้าขายดี,This rice cooker is our best-seller this month.,หม้อหุงข้าวรุ่นนี้เป็นสินค้าขายดีของเราในเดือนนี้,,,false
+2,selling,1,6,popular,adjective,/ˈpɑːpjələr/,พ็อพพิวเลอร์,เป็นที่นิยม,This color is very popular with young people.,สีนี้เป็นที่นิยมมากในหมู่วัยรุ่น,,,false
+2,selling,1,7,brand,noun,/brænd/,แบรนด์,ยี่ห้อ ตราสินค้า,Which brand of rice cooker do most customers choose?,ลูกค้าส่วนใหญ่เลือกหม้อหุงข้าวยี่ห้อไหน,,,false
+2,selling,1,8,style,noun,/staɪl/,สไตล์,"สไตล์, แบบ",This style of bag is popular with office workers.,กระเป๋าแบบนี้เป็นที่นิยมในหมู่พนักงานออฟฟิศ,,,false
+2,selling,1,9,waterproof,adjective,/ˈwɔːtərpruːf/,วอเทอร์พรูฟ,กันน้ำ,"This watch is waterproof, so you can wear it when you swim.",นาฬิกาเรือนนี้กันน้ำ คุณใส่ว่ายน้ำได้,,,false
+2,selling,1,10,quality,noun,/ˈkwɑːləti/,ควอลลิที,คุณภาพ,"This bag is a little expensive, but the quality is excellent.",กระเป๋าใบนี้แพงนิดหน่อย แต่คุณภาพดีเยี่ยม,,,false
+2,selling,1,11,material,noun,/məˈtɪriəl/,มะทีเรียล,"วัสดุ, เนื้อผ้า",What material is this jacket made of?,เสื้อแจ็กเก็ตตัวนี้ทำจากวัสดุอะไร,,,false
+2,selling,1,12,suitable,adjective,/ˈsuːtəbəl/,ซูเทอเบิล,เหมาะสม,These shoes are suitable for walking all day.,รองเท้าคู่นี้เหมาะสำหรับเดินทั้งวัน,,,false
+2,selling,1,13,handmade,adjective,/ˌhændˈmeɪd/,แฮนด์เมด,ทำด้วยมือ,These handmade cups are made by local artists.,แก้วทำมือเหล่านี้ทำโดยศิลปินท้องถิ่น,,,false
+2,selling,1,14,try out,phrasal verb,/traɪ aʊt/,ทราย เอาท์,ทดลองใช้,You can try out this massage chair before you buy it.,คุณลองใช้เก้าอี้นวดตัวนี้ก่อนซื้อได้,,,false
+2,selling,2,1,special offer,noun,/ˈspɛʃəl ˈɔːfər/,สเปเชิล ออฟเฟอร์,ข้อเสนอพิเศษ,There is a special offer on coffee machines this week.,สัปดาห์นี้มีข้อเสนอพิเศษสำหรับเครื่องชงกาแฟ,,,false
+2,selling,2,2,price cut,noun,/praɪs kʌt/,ไพรซ์ คัท,การลดราคา,There is a big price cut on last year's TV models.,ทีวีรุ่นปีที่แล้วลดราคาครั้งใหญ่,,,false
+2,selling,2,3,regular price,noun,/ˈrɛɡjələr praɪs/,เร็กกิวเลอร์ ไพรซ์,ราคาปกติ,"The regular price is one thousand baht, but today it is eight hundred.",ราคาปกติคือหนึ่งพันบาท แต่วันนี้แปดร้อย,,,false
+2,selling,2,4,two for one,phrase,/tuː fər wʌn/,ทู ฟอร์ วัน,สองชิ้นในราคาชิ้นเดียว,Coffee is two for one every Monday morning.,กาแฟซื้อหนึ่งแถมหนึ่งทุกเช้าวันจันทร์,,,false
+2,selling,2,5,bargain price,noun,/ˈbɑːrɡɪn praɪs/,บาร์กิน ไพรซ์,"ราคาถูกมาก, ราคาคุ้ม",I got this jacket at a bargain price at the market.,ฉันได้แจ็กเก็ตตัวนี้มาในราคาถูกมากที่ตลาด,,,false
+2,selling,2,6,promotion,noun,/prəˈmoʊʃən/,พระโมชัน,โปรโมชั่น การส่งเสริมการขาย,"Our shoe promotion ends this Sunday, so tell your friends.",โปรโมชั่นรองเท้าของเราจะหมดวันอาทิตย์นี้ บอกเพื่อน ๆ ด้วยนะ,,,false
+2,selling,2,7,free gift,noun,/friː ɡɪft/,ฟรี กิฟท์,ของแถม,Every customer who spends one thousand baht gets a free gift.,ลูกค้าทุกคนที่ซื้อครบหนึ่งพันบาทจะได้รับของแถม,,🎁,false
+2,selling,2,8,best price,noun,/bɛst praɪs/,เบสท์ ไพรซ์,ราคาดีที่สุด,"Is this your best price, or can you go lower?",นี่คือราคาดีที่สุดแล้วหรือ ลดได้อีกไหม,,,false
+2,selling,2,9,gift wrap,noun,/ɡɪft ræp/,กิฟท์ แรพ,การห่อของขวัญ,We offer free gift wrap for all birthday presents.,เรามีบริการห่อของขวัญฟรีสำหรับของขวัญวันเกิดทุกชิ้น,,🎀,false
+2,selling,2,10,pay by card,phrase,/peɪ baɪ kɑːrd/,เพย์ บาย การ์ด,จ่ายด้วยบัตร,"Can I pay by card, or do you only take cash?",ฉันจ่ายด้วยบัตรได้ไหม หรือรับเฉพาะเงินสด,,,false
+2,selling,2,11,including tax,phrase,/ɪnˈkluːdɪŋ tæks/,อินคลูดิง แท็กซ์,รวมภาษีแล้ว,"The price is five hundred baht, including tax.",ราคาห้าร้อยบาท รวมภาษีแล้ว,,,false
+2,selling,2,12,limited,adjective,/ˈlɪmɪtɪd/,ลิมมิทิด,มีจำนวนจำกัด,This price is for a limited time only.,ราคานี้มีในช่วงเวลาจำกัดเท่านั้น,,,false
+2,selling,2,13,lower,verb,/ˈloʊər/,โลเวอร์,ลด (ราคา),Can you lower the price if I buy three?,ถ้าฉันซื้อสามชิ้น ช่วยลดราคาได้ไหม,,,false
+2,selling,2,14,free delivery,noun,/friː dɪˈlɪvəri/,ฟรี ดิลิฟเวอรี,ส่งฟรี,Free delivery is available for all orders this month.,เดือนนี้ทุกคำสั่งซื้อส่งฟรี,,🚚,false
+2,selling,3,1,sales rep,noun,/seɪlz rɛp/,เซลส์ เร็พ,"ตัวแทนขาย, พนักงานขาย",Our sales rep visits the hotel every month.,ตัวแทนขายของเราไปพบโรงแรมทุกเดือน,Short for sales representative.,,false
+2,selling,3,2,buyer,noun,/ˈbaɪər/,บายเออร์,ผู้ซื้อ,The buyer from the hotel wants to order two hundred towels.,ผู้ซื้อจากโรงแรมต้องการสั่งผ้าเช็ดตัวสองร้อยผืน,,,false
+2,selling,3,3,potential customer,noun,/pəˈtɛnʃəl ˈkʌstəmər/,เพอเท็นเชิล คัสเทิมเมอร์,ลูกค้าที่มีแนวโน้มจะซื้อ,I called five potential customers this morning.,เช้านี้ฉันโทรหาลูกค้าที่มีแนวโน้มจะซื้อห้าราย,,,false
+2,selling,3,4,call on,phrasal verb,/kɔːl ɑːn/,คอล ออน,แวะไปพบ (ลูกค้า),I will call on two new shops in Chonburi tomorrow.,พรุ่งนี้ฉันจะแวะไปพบร้านค้าใหม่สองร้านที่ชลบุรี,,,false
+2,selling,3,5,new customer,noun,/nuː ˈkʌstəmər/,นิว คัสเทิมเมอร์,ลูกค้าใหม่,Every new customer gets a free gift this month.,ลูกค้าใหม่ทุกคนจะได้ของแถมในเดือนนี้,,,false
+2,selling,3,6,monthly target,noun,/ˈmʌnθli ˈtɑːrɡɪt/,มันธ์ลี ทาร์กิท,เป้าหมายรายเดือน,Our monthly target is fifty new customers.,เป้าหมายรายเดือนของเราคือลูกค้าใหม่ห้าสิบราย,,🎯,false
+2,selling,3,7,top seller,noun,/tɑːp ˈsɛlər/,ท็อพ เซลเลอร์,พนักงานที่ขายได้มากที่สุด,Nok was the top seller in our team last month.,นกเป็นพนักงานที่ขายได้มากที่สุดในทีมเมื่อเดือนที่แล้ว,,🏆,false
+2,selling,3,8,sales results,noun,/seɪlz rɪˈzʌlts/,เซลส์ รีซัลท์ส,ผลการขาย,The sales results for March were better than we expected.,ผลการขายเดือนมีนาคมดีกว่าที่เราคาดไว้,,📈,false
+2,selling,3,9,client,noun,/ˈklaɪənt/,ไคลเอินต์,ลูกค้าธุรกิจ,We visit our biggest clients every month to check their orders.,เราไปพบลูกค้ารายใหญ่ทุกเดือนเพื่อตรวจสอบคำสั่งซื้อ,,,false
+2,selling,3,10,interested,adjective,/ˈɪntrəstɪd/,อินเทรสทิด,สนใจ,Are you interested in our new cleaning service?,คุณสนใจบริการทำความสะอาดใหม่ของเราไหม,interested in + noun,,false
+2,selling,3,11,go up,phrasal verb,/ɡoʊ ʌp/,โก อัพ,"เพิ่มขึ้น, สูงขึ้น",Our sales usually go up in December.,ยอดขายของเรามักเพิ่มขึ้นในเดือนธันวาคม,,,false
+2,selling,3,12,online shop,noun,/ˈɑːnlaɪn ʃɑːp/,ออนไลน์ ช็อพ,ร้านค้าออนไลน์,My sister sells handmade bags in her online shop.,พี่สาวฉันขายกระเป๋าทำมือในร้านค้าออนไลน์ของเธอ,,🛒,false
+2,selling,3,13,regular customer,noun,/ˈrɛɡjələr ˈkʌstəmər/,เร็กกิวเลอร์ คัสเทิมเมอร์,ลูกค้าประจำ,Mr. Somchai is a regular customer who buys from us every week.,คุณสมชายเป็นลูกค้าประจำที่ซื้อของจากเราทุกสัปดาห์,,,false
+2,selling,3,14,make a sale,phrase,/meɪk ə seɪl/,เมค อะ เซล,"ขายได้, ปิดการขาย",She hopes to make a sale on her first day at the shop.,เธอหวังว่าจะขายของได้ในวันแรกที่ร้าน,,,false

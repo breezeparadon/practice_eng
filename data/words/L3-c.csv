@@ -1,0 +1,337 @@
+level,category,lesson,order,headword,pos,phonetic,reading_th,meaning_th,example_en,example_th,note_en,emoji,reviewed
+3,laws,1,1,prohibited,adjective,/proʊˈhɪbɪtɪd/,โปรฮิบิทิด,ถูกห้าม,Smoking is prohibited inside the shopping mall and the train station.,ห้ามสูบบุหรี่ภายในห้างสรรพสินค้าและสถานีรถไฟ,"Common on signs: ""strictly prohibited"".",🚫,false
+3,laws,1,2,regulation,noun,/ˌrɛɡjəˈleɪʃən/,เรกกิวเลชัน,ข้อบังคับ,Building regulations say every floor must have two exits.,ข้อบังคับอาคารกำหนดว่าทุกชั้นต้องมีทางออกสองทาง,,,false
+3,laws,1,3,fine,noun,/faɪn/,ฟายน์,ค่าปรับ,He had to pay a fine for parking in the wrong place.,เขาต้องจ่ายค่าปรับเพราะจอดรถผิดที่,"Collocation: pay a fine, get a fine.",,false
+3,laws,1,4,graffiti,noun,/ɡrəˈfiti/,กราฟฟีตี,ภาพหรือข้อความที่พ่นบนกำแพง,The city spends a lot of money cleaning graffiti off the bridges.,เมืองต้องใช้เงินมากในการลบภาพพ่นสีออกจากสะพาน,,,false
+3,laws,1,5,trespass,verb,/ˈtrɛspæs/,เทรสแพส,บุกรุกเข้าไปในที่ของผู้อื่น,People who trespass on the factory grounds will be reported to the police.,ผู้ที่บุกรุกเข้ามาในบริเวณโรงงานจะถูกแจ้งตำรวจ,"Sign: ""No trespassing"".",,false
+3,laws,1,6,obey,verb,/oʊˈbeɪ/,โอเบ,ปฏิบัติตาม,All drivers must obey the rules near schools and hospitals.,ผู้ขับขี่ทุกคนต้องปฏิบัติตามกฎบริเวณใกล้โรงเรียนและโรงพยาบาล,,,false
+3,laws,1,7,smoke-free,adjective,/ˌsmoʊk ˈfri/,สโมค ฟรี,ปลอดบุหรี่,All parks in the city are now smoke-free areas.,ตอนนี้สวนสาธารณะทุกแห่งในเมืองเป็นเขตปลอดบุหรี่,,,false
+3,laws,1,8,restricted area,noun,/rɪˈstrɪktɪd ˈɛriə/,ริสทริคทิด แอเรีย,พื้นที่หวงห้าม,Only staff with a badge can enter the restricted area.,เฉพาะพนักงานที่มีบัตรเท่านั้นที่เข้าพื้นที่หวงห้ามได้,,⛔,false
+3,laws,1,9,penalty,noun,/ˈpɛnəlti/,เพ็นนัลที,บทลงโทษ,The penalty for dropping rubbish here is a thousand baht.,บทลงโทษสำหรับการทิ้งขยะที่นี่คือหนึ่งพันบาท,,,false
+3,laws,1,10,curfew,noun,/ˈkɜrfju/,เคอร์ฟิว,เวลาห้ามออกนอกบ้าน,The dormitory has a curfew of eleven o'clock at night.,หอพักมีเวลาห้ามออกนอกหอตอนห้าทุ่ม,,,false
+3,laws,1,11,public property,noun,/ˈpʌblɪk ˈprɑpərti/,พับลิก พรอพเพอร์ที,ทรัพย์สินสาธารณะ,Writing on walls in the park is damage to public property.,การเขียนบนกำแพงในสวนสาธารณะถือเป็นการทำลายทรัพย์สินสาธารณะ,,,false
+3,laws,1,12,vandalism,noun,/ˈvændəlɪzəm/,แวนดะลิซึม,การทำลายทรัพย์สินโดยเจตนา,The bus stop was closed after an act of vandalism last night.,ป้ายรถเมล์ถูกปิดหลังจากมีคนมาทำลายเมื่อคืนนี้,,,false
+3,laws,1,13,jaywalk,verb,/ˈdʒeɪwɔk/,เจย์วอล์ก,ข้ามถนนผิดที่,It is dangerous to jaywalk across this busy road.,การข้ามถนนผิดที่บนถนนที่รถพลุกพล่านแบบนี้อันตราย,,,false
+3,laws,1,14,security camera,noun,/sɪˈkjʊrəti ˈkæmərə/,ซิเคียวริที แคเมอรา,กล้องวงจรปิด,A security camera recorded the man taking the bike.,กล้องวงจรปิดบันทึกภาพชายที่เอาจักรยานไปได้,Also called CCTV.,📹,false
+3,laws,2,1,breathalyzer,noun,/ˈbrɛθəlaɪzər/,เบรธอะไลเซอร์,เครื่องเป่าวัดแอลกอฮอล์,The police asked every driver to blow into a breathalyzer.,ตำรวจให้ผู้ขับขี่ทุกคนเป่าเครื่องวัดแอลกอฮอล์,,,false
+3,laws,2,2,speed limit,noun,/spid ˈlɪmɪt/,สปีด ลิมิท,ขีดจำกัดความเร็ว,The speed limit in the city is sixty kilometers per hour.,ขีดจำกัดความเร็วในเมืองคือหกสิบกิโลเมตรต่อชั่วโมง,,,false
+3,laws,2,3,U-turn,noun,/ˈju tɜrn/,ยู เทิร์น,การกลับรถ,You cannot make a U-turn at this traffic light.,คุณกลับรถที่ไฟแดงนี้ไม่ได้,Collocation: make a U-turn.,,false
+3,laws,2,4,speeding,noun,/ˈspidɪŋ/,สปีดดิง,การขับรถเร็วเกินกำหนด,He lost his license for a month because of speeding.,เขาถูกยึดใบขับขี่หนึ่งเดือนเพราะขับรถเร็วเกินกำหนด,,,false
+3,laws,2,5,pedestrian,noun,/pəˈdɛstriən/,เพเดสเทรียน,คนเดินถนน,Drivers must stop when a pedestrian is crossing the road.,ผู้ขับขี่ต้องหยุดรถเมื่อมีคนเดินถนนกำลังข้ามถนน,,🚶,false
+3,laws,2,6,footbridge,noun,/ˈfʊtbrɪdʒ/,ฟุตบริดจ์,สะพานลอยคนข้าม,Please use the footbridge to cross the main road.,กรุณาใช้สะพานลอยข้ามถนนใหญ่,,,false
+3,laws,2,7,traffic ticket,noun,/ˈtræfɪk ˈtɪkɪt/,แทรฟฟิก ทิกคิท,ใบสั่งจราจร,I got a traffic ticket for driving too fast on the highway.,ฉันโดนใบสั่งเพราะขับรถเร็วเกินไปบนทางหลวง,,,false
+3,laws,2,8,run a red light,phrase,/rʌn ə rɛd laɪt/,รัน อะ เรด ไลท์,ฝ่าไฟแดง,"Never run a red light, even when the road looks empty.",อย่าฝ่าไฟแดงเด็ดขาด แม้ถนนจะดูว่างก็ตาม,,,false
+3,laws,2,9,drunk driving,noun,/drʌŋk ˈdraɪvɪŋ/,ดรังก์ ไดรฟวิง,การเมาแล้วขับ,The police set up checks to stop drunk driving during the holidays.,ตำรวจตั้งด่านตรวจเพื่อป้องกันการเมาแล้วขับในช่วงวันหยุด,,,false
+3,laws,2,10,pull over,phrasal verb,/pʊl ˈoʊvər/,พุล โอเวอร์,จอดรถเข้าข้างทาง,The police officer asked the driver to pull over.,เจ้าหน้าที่ตำรวจสั่งให้คนขับจอดรถเข้าข้างทาง,,,false
+3,laws,2,11,tow,verb,/toʊ/,โท,ลากรถ,They will tow any car that is parked in front of the gate.,รถคันไหนจอดหน้าประตูจะถูกลากไป,,,false
+3,laws,2,12,overtake,verb,/ˌoʊvərˈteɪk/,โอเวอร์เทค,แซง,Do not overtake other cars on a sharp bend.,อย่าแซงรถคันอื่นตรงทางโค้งหักศอก,,,false
+3,laws,2,13,license plate,noun,/ˈlaɪsəns pleɪt/,ไลเซนส์ เพลท,ป้ายทะเบียนรถ,The camera can read the license plate of every car.,กล้องสามารถอ่านป้ายทะเบียนรถได้ทุกคัน,,,false
+3,laws,2,14,checkpoint,noun,/ˈtʃɛkpɔɪnt/,เช็กพอยท์,ด่านตรวจ,We were stopped at a police checkpoint on the way home.,เราถูกเรียกตรวจที่ด่านตำรวจระหว่างทางกลับบ้าน,,,false
+3,laws,3,1,legal,adjective,/ˈliɡəl/,ลีเกิล,ถูกกฎหมาย,Is it legal to fly a drone over the city?,การบินโดรนเหนือตัวเมืองถูกกฎหมายไหม,,,false
+3,laws,3,2,illegal,adjective,/ɪˈliɡəl/,อิลลีเกิล,ผิดกฎหมาย,It is illegal to sell alcohol to people under twenty.,การขายเครื่องดื่มแอลกอฮอล์ให้คนอายุต่ำกว่ายี่สิบปีเป็นสิ่งผิดกฎหมาย,,,false
+3,laws,3,3,consumer rights,noun,/kənˈsumər raɪts/,คอนซูเมอร์ ไรท์ส,สิทธิผู้บริโภค,"Under consumer rights law, you can return a faulty product.",ตามกฎหมายสิทธิผู้บริโภค คุณสามารถคืนสินค้าที่ชำรุดได้,,,false
+3,laws,3,4,prison,noun,/ˈprɪzən/,พริซัน,เรือนจำ คุก,The man was sent to prison for five years for robbery.,ชายคนนั้นถูกส่งเข้าเรือนจำห้าปีฐานปล้นทรัพย์,,,false
+3,laws,3,5,judge,noun,/dʒʌdʒ/,จัดจ์,ผู้พิพากษา,The judge listened carefully to both sides before deciding.,ผู้พิพากษาฟังทั้งสองฝ่ายอย่างตั้งใจก่อนตัดสิน,,🧑‍⚖️,false
+3,laws,3,6,witness,noun,/ˈwɪtnəs/,วิทเนส,พยาน,A witness saw the accident and called an ambulance.,พยานคนหนึ่งเห็นอุบัติเหตุและโทรเรียกรถพยาบาล,,,false
+3,laws,3,7,lawsuit,noun,/ˈlɔsut/,ลอว์ซูท,คดีความ การฟ้องร้อง,The customer filed a lawsuit against the hospital.,ลูกค้ายื่นฟ้องโรงพยาบาล,Collocation: file a lawsuit.,,false
+3,laws,3,8,criminal record,noun,/ˈkrɪmɪnəl ˈrɛkərd/,คริมินัล เรคคอร์ด,ประวัติอาชญากรรม,Some jobs check if you have a criminal record before hiring you.,งานบางอย่างตรวจสอบว่าคุณมีประวัติอาชญากรรมหรือไม่ก่อนจ้าง,,,false
+3,laws,3,9,shoplifting,noun,/ˈʃɑplɪftɪŋ/,ช็อปลิฟทิง,การขโมยของในร้าน,The store uses cameras to stop shoplifting.,ร้านใช้กล้องเพื่อป้องกันการขโมยของในร้าน,,,false
+3,laws,3,10,testify,verb,/ˈtɛstɪfaɪ/,เทสทิฟาย,ให้การเป็นพยาน,She agreed to testify in court about what she saw.,เธอยอมขึ้นให้การในศาลเกี่ยวกับสิ่งที่เธอเห็น,,,false
+3,laws,3,11,guilty,adjective,/ˈɡɪlti/,กิลที,มีความผิด,The court found him guilty of driving without a license.,ศาลตัดสินว่าเขามีความผิดฐานขับรถโดยไม่มีใบขับขี่,Opposite: innocent.,,false
+3,laws,3,12,sue,verb,/su/,ซู,ฟ้องร้อง,She decided to sue the landlord to get her deposit back.,เธอตัดสินใจฟ้องเจ้าของห้องเพื่อเอาเงินมัดจำคืน,Collocation: sue someone for something.,,false
+3,laws,3,13,evidence,noun,/ˈɛvɪdəns/,เอวิเดนซ์,หลักฐาน,Keep your receipts as evidence that you paid.,เก็บใบเสร็จไว้เป็นหลักฐานว่าคุณจ่ายเงินแล้ว,"Uncountable: some evidence, not an evidence.",,false
+3,laws,3,14,break the law,phrase,/breɪk ðə lɔ/,เบรก เดอะ ลอ,ทำผิดกฎหมาย,You break the law if you drive without insurance.,คุณทำผิดกฎหมายถ้าขับรถโดยไม่มีประกัน,,,false
+3,traditions,1,1,procession,noun,/prəˈsɛʃən/,โพรเซสชัน,ขบวนแห่,A long procession of monks walked through the old town.,ขบวนพระสงฆ์เดินผ่านเมืองเก่าเป็นแถวยาว,,,false
+3,traditions,1,2,temple fair,noun,/ˈtɛmpəl fɛr/,เทมเพิล แฟร์,งานวัด,We played games and ate grilled squid at the temple fair.,เราเล่นเกมและกินปลาหมึกย่างที่งานวัด,,,false
+3,traditions,1,3,garland,noun,/ˈɡɑrlənd/,การ์แลนด์,พวงมาลัย,She bought a jasmine garland to give to her grandmother.,เธอซื้อพวงมาลัยดอกมะลิไปให้คุณยาย,,,false
+3,traditions,1,4,folk dance,noun,/foʊk dæns/,โฟค แดนซ์,การรำพื้นเมือง,Students performed a folk dance from the north at the festival.,นักเรียนแสดงการรำพื้นเมืองภาคเหนือในงานเทศกาล,,,false
+3,traditions,1,5,ornament,noun,/ˈɔrnəmənt/,ออร์นาเมนท์,ของประดับตกแต่ง,We hung paper ornaments all around the office for the New Year.,เราแขวนของประดับกระดาษรอบสำนักงานต้อนรับปีใหม่,,,false
+3,traditions,1,6,feast,noun,/fist/,ฟีสท์,งานเลี้ยงฉลองใหญ่,"After the ceremony, the whole village shared a big feast.",หลังพิธี ทั้งหมู่บ้านร่วมกินเลี้ยงฉลองครั้งใหญ่,,,false
+3,traditions,1,7,eve,noun,/iv/,อีฟ,วันหรือคืนก่อนวันสำคัญ,Many shops close early on New Year's Eve.,ร้านค้าหลายร้านปิดเร็วในคืนวันสิ้นปี,"Used in names: Christmas Eve, New Year's Eve.",,false
+3,traditions,1,8,auspicious,adjective,/ɔˈspɪʃəs/,ออสพิเชิส,เป็นมงคล,The couple chose an auspicious day for their wedding.,คู่บ่าวสาวเลือกวันมงคลสำหรับงานแต่งงาน,,,false
+3,traditions,1,9,float,noun,/floʊt/,โฟลท,รถขบวนแห่,Each district made a float covered in flowers for the festival.,แต่ละอำเภอทำรถขบวนแห่ประดับดอกไม้สำหรับงานเทศกาล,,,false
+3,traditions,1,10,lunar calendar,noun,/ˈlunər ˈkæləndər/,ลูนาร์ แคเลนดาร์,ปฏิทินจันทรคติ,The date of the festival changes every year because it follows the lunar calendar.,วันจัดเทศกาลเปลี่ยนทุกปีเพราะยึดตามปฏิทินจันทรคติ,,,false
+3,traditions,1,11,red envelope,noun,/rɛd ˈɛnvəloʊp/,เรด เอนเวโลป,ซองอั่งเปา,Children receive a red envelope with money at Chinese New Year.,เด็ก ๆ ได้รับซองอั่งเปาที่มีเงินในวันตรุษจีน,,🧧,false
+3,traditions,1,12,fortune,noun,/ˈfɔrtʃən/,ฟอร์จูน,โชคลาภ,People eat oranges because they believe it brings good fortune.,ผู้คนกินส้มเพราะเชื่อว่าจะนำโชคลาภมาให้,Collocation: good fortune.,,false
+3,traditions,1,13,firecracker,noun,/ˈfaɪərkrækər/,ไฟเออร์แครกเกอร์,ประทัด,People say loud firecrackers scare away bad luck.,ผู้คนเชื่อว่าเสียงประทัดดัง ๆ ช่วยไล่เคราะห์ร้าย,,🧨,false
+3,traditions,1,14,gather,verb,/ˈɡæðər/,แกเธอร์,มารวมตัวกัน,Relatives gather at the family home during the holiday.,ญาติ ๆ มารวมตัวกันที่บ้านของครอบครัวในช่วงวันหยุด,,,false
+3,traditions,2,1,custom,noun,/ˈkʌstəm/,คัสตอม,ธรรมเนียม,It is a Thai custom to take off your shoes before entering a home.,การถอดรองเท้าก่อนเข้าบ้านเป็นธรรมเนียมไทย,,,false
+3,traditions,2,2,heritage,noun,/ˈhɛrɪtɪdʒ/,เฮริทิจ,มรดกทางวัฒนธรรม,The old city of Ayutthaya is an important part of Thai heritage.,เมืองเก่าอยุธยาเป็นมรดกทางวัฒนธรรมที่สำคัญของไทย,"Collocation: cultural heritage, heritage site.",,false
+3,traditions,2,3,manners,noun,/ˈmænərz/,แมนเนอร์ส,มารยาท,Good table manners are important at a business dinner.,มารยาทบนโต๊ะอาหารที่ดีสำคัญมากในงานเลี้ยงธุรกิจ,Always plural in this sense.,,false
+3,traditions,2,4,bow,verb,/baʊ/,บาว,โค้งคำนับ,"In Japan, people bow when they greet each other.",ในญี่ปุ่น ผู้คนโค้งคำนับเมื่อทักทายกัน,"Rhymes with ""now"", not ""low"".",🙇,false
+3,traditions,2,5,gift-giving,noun,/ˈɡɪft ˌɡɪvɪŋ/,กิฟท์ กิฟวิง,การให้ของขวัญ,Gift-giving is an important part of doing business in China.,การให้ของขวัญเป็นส่วนสำคัญของการทำธุรกิจในจีน,,🎁,false
+3,traditions,2,6,elder,noun,/ˈɛldər/,เอลเดอร์,ผู้อาวุโส,Young people should speak politely to their elders.,คนหนุ่มสาวควรพูดจาสุภาพกับผู้อาวุโส,,,false
+3,traditions,2,7,offend,verb,/əˈfɛnd/,ออเฟนด์,ทำให้ขุ่นเคือง,Pointing your feet at someone can offend people in Thailand.,การชี้เท้าไปทางคนอื่นอาจทำให้คนไทยขุ่นเคือง,,,false
+3,traditions,2,8,taboo,noun,/təˈbu/,แทบู,สิ่งต้องห้าม,Touching someone's head is a taboo in many Asian cultures.,การแตะศีรษะคนอื่นเป็นสิ่งต้องห้ามในหลายวัฒนธรรมเอเชีย,,,false
+3,traditions,2,9,superstition,noun,/ˌsupərˈstɪʃən/,ซูเปอร์สติชัน,ความเชื่อโชคลาง,There is a superstition that cutting your hair on Wednesday brings bad luck.,มีความเชื่อว่าการตัดผมวันพุธจะนำโชคร้ายมาให้,,,false
+3,traditions,2,10,belief,noun,/bɪˈlif/,บิลีฟ,ความเชื่อ,People of different beliefs work together happily in our team.,คนที่มีความเชื่อต่างกันทำงานร่วมกันอย่างมีความสุขในทีมของเรา,,,false
+3,traditions,2,11,generation,noun,/ˌdʒɛnəˈreɪʃən/,เจเนอเรชัน,รุ่น ชั่วอายุคน,Three generations of the family live in the same house.,ครอบครัวสามรุ่นอาศัยอยู่ในบ้านหลังเดียวกัน,,,false
+3,traditions,2,12,pass down,phrasal verb,/pæs daʊn/,แพส ดาวน์,สืบทอด ส่งต่อ,Families pass down these stories from parents to children.,ครอบครัวต่าง ๆ ส่งต่อเรื่องเล่าเหล่านี้จากพ่อแม่สู่ลูก,,,false
+3,traditions,2,13,etiquette,noun,/ˈɛtɪkɪt/,เอทิเคท,มารยาททางสังคม,Learn the local etiquette before you visit a client abroad.,ศึกษามารยาทท้องถิ่นก่อนไปพบลูกค้าที่ต่างประเทศ,,,false
+3,traditions,2,14,modest,adjective,/ˈmɑdɪst/,มอดิสท์,เรียบร้อย ไม่โป๊,Visitors should wear modest clothes when they enter the temple.,ผู้มาเยือนควรแต่งกายเรียบร้อยเมื่อเข้าวัด,,,false
+3,traditions,3,1,ceremony,noun,/ˈsɛrəmoʊni/,เซเรโมนี,พิธี,The opening ceremony starts at nine in the morning.,พิธีเปิดเริ่มเวลาเก้าโมงเช้า,,,false
+3,traditions,3,2,funeral,noun,/ˈfjunərəl/,ฟิวเนอรัล,งานศพ,Many colleagues went to the funeral to support her family.,เพื่อนร่วมงานหลายคนไปงานศพเพื่อเป็นกำลังใจให้ครอบครัวของเธอ,People usually wear black or dark clothes to a funeral.,,false
+3,traditions,3,3,dowry,noun,/ˈdaʊri/,ดาวรี,สินสอด,The groom's family brought the dowry to the bride's house.,ครอบครัวเจ้าบ่าวนำสินสอดมาที่บ้านเจ้าสาว,,,false
+3,traditions,3,4,best man,noun,/bɛst mæn/,เบสท์ แมน,เพื่อนเจ้าบ่าว,His best man gave a funny speech at the wedding.,เพื่อนเจ้าบ่าวกล่าวสุนทรพจน์ที่ตลกในงานแต่ง,,,false
+3,traditions,3,5,wedding reception,noun,/ˈwɛdɪŋ rɪˈsɛpʃən/,เวดดิง รีเซพชัน,งานเลี้ยงฉลองมงคลสมรส,The wedding reception will be held at a hotel in the evening.,งานเลี้ยงฉลองมงคลสมรสจะจัดที่โรงแรมในตอนเย็น,,,false
+3,traditions,3,6,shrine,noun,/ʃraɪn/,ชไรน์,ศาลเจ้า ศาลพระภูมิ,There is a small spirit shrine in front of our office building.,มีศาลพระภูมิเล็ก ๆ อยู่หน้าอาคารสำนักงานของเรา,,,false
+3,traditions,3,7,ordination,noun,/ˌɔrdəˈneɪʃən/,ออร์ดิเนชัน,การบวช,His ordination ceremony will be held at the village temple.,พิธีบวชของเขาจะจัดขึ้นที่วัดประจำหมู่บ้าน,,,false
+3,traditions,3,8,blessing,noun,/ˈblɛsɪŋ/,เบลสซิง,พร คำอวยพร,The elders gave the couple their blessing for a happy life.,ผู้ใหญ่ให้พรคู่บ่าวสาวให้ชีวิตมีความสุข,,,false
+3,traditions,3,9,offering,noun,/ˈɔfərɪŋ/,ออฟเฟอริง,ของถวาย ของไหว้,People bring flowers and fruit as an offering at the shrine.,ผู้คนนำดอกไม้และผลไม้มาเป็นของไหว้ที่ศาล,,,false
+3,traditions,3,10,make merit,phrase,/meɪk ˈmɛrɪt/,เมค เมอริท,ทำบุญ,Many Thai people make merit at the temple on their birthday.,คนไทยหลายคนไปทำบุญที่วัดในวันเกิด,,,false
+3,traditions,3,11,ritual,noun,/ˈrɪtʃuəl/,ริชวล,พิธีกรรม,Tying white string on the wrist is a ritual for good luck.,การผูกข้อมือด้วยด้ายขาวเป็นพิธีกรรมเพื่อความเป็นสิริมงคล,,,false
+3,traditions,3,12,housewarming,noun,/ˈhaʊswɔrmɪŋ/,เฮาส์วอร์มมิง,งานขึ้นบ้านใหม่,They invited the whole team to their housewarming party.,พวกเขาเชิญทั้งทีมไปงานขึ้นบ้านใหม่,,,false
+3,traditions,3,13,incense,noun,/ˈɪnsɛns/,อินเซนส์,ธูป,She lit three sticks of incense and said a short prayer.,เธอจุดธูปสามดอกแล้วสวดมนต์สั้น ๆ,,,false
+3,traditions,3,14,mourn,verb,/mɔrn/,มอร์น,ไว้อาลัย,The whole town mourned the loss of the old teacher.,ทั้งเมืองไว้อาลัยต่อการจากไปของคุณครูผู้ชรา,,,false
+3,climate,1,1,drizzle,noun,/ˈdrɪzəl/,ดริซเซิล,ฝนตกปรอย ๆ,"It was only a light drizzle, so we did not need an umbrella.",ฝนแค่ตกปรอย ๆ เราจึงไม่ต้องใช้ร่ม,,,false
+3,climate,1,2,dry spell,noun,/draɪ spɛl/,ดราย สเปล,ช่วงฝนทิ้งช่วง,The long dry spell made life hard for rice farmers.,ช่วงฝนทิ้งช่วงที่ยาวนานทำให้ชาวนาลำบาก,,,false
+3,climate,1,3,heatstroke,noun,/ˈhitstroʊk/,ฮีทสโตรก,โรคลมแดด,Drink plenty of water to avoid heatstroke when you work outside.,ดื่มน้ำมาก ๆ เพื่อป้องกันโรคลมแดดเมื่อทำงานกลางแจ้ง,,,false
+3,climate,1,4,thunderstorm,noun,/ˈθʌndərstɔrm/,ธันเดอร์สตอร์ม,พายุฝนฟ้าคะนอง,A thunderstorm is expected in Bangkok this evening.,คาดว่าจะมีพายุฝนฟ้าคะนองในกรุงเทพฯ เย็นนี้,,⛈️,false
+3,climate,1,5,downpour,noun,/ˈdaʊnpɔr/,ดาวน์พอร์,ฝนกระหน่ำ,We got caught in a downpour on the way to the station.,เราเจอฝนกระหน่ำระหว่างทางไปสถานี,,,false
+3,climate,1,6,tropical storm,noun,/ˈtrɑpɪkəl stɔrm/,ทรอปิคัล สตอร์ม,พายุโซนร้อน,The tropical storm will bring strong winds to the east coast.,พายุโซนร้อนจะนำลมแรงมาสู่ชายฝั่งตะวันออก,,,false
+3,climate,1,7,hail,noun,/heɪl/,เฮล,ลูกเห็บ,Hail damaged many cars in the parking lot yesterday.,ลูกเห็บทำให้รถหลายคันในลานจอดเสียหายเมื่อวานนี้,,,false
+3,climate,1,8,landslide,noun,/ˈlændslaɪd/,แลนด์สไลด์,ดินถล่ม,Heavy rain caused a landslide near the mountain village.,ฝนตกหนักทำให้เกิดดินถล่มใกล้หมู่บ้านบนภูเขา,,,false
+3,climate,1,9,tsunami,noun,/tsuˈnɑmi/,ซูนามิ,คลื่นยักษ์สึนามิ,Hotels near the beach have signs that show the tsunami escape route.,โรงแรมใกล้ชายหาดมีป้ายบอกเส้นทางหนีคลื่นสึนามิ,,,false
+3,climate,1,10,monsoon,noun,/mɑnˈsun/,มอนซูน,ลมมรสุม ฤดูมรสุม,The monsoon brings heavy rain from May to October.,ลมมรสุมนำฝนตกหนักมาตั้งแต่เดือนพฤษภาคมถึงตุลาคม,,,false
+3,climate,1,11,scorching,adjective,/ˈskɔrtʃɪŋ/,สกอร์ชิง,ร้อนจัด ร้อนแผดเผา,"It was a scorching day, so we stayed inside with the air conditioner on.",วันนั้นร้อนจัด เราจึงอยู่ในบ้านเปิดแอร์,,,false
+3,climate,1,12,sandbag,noun,/ˈsændbæɡ/,แซนด์แบก,กระสอบทราย,Shop owners put sandbags in front of their doors before the rain.,เจ้าของร้านวางกระสอบทรายไว้หน้าประตูก่อนฝนตก,,,false
+3,climate,1,13,high tide,noun,/haɪ taɪd/,ไฮ ไทด์,น้ำขึ้นสูง,Do not walk on the rocks at high tide.,อย่าเดินบนโขดหินตอนน้ำขึ้นสูง,Opposite: low tide.,,false
+3,climate,1,14,severe,adjective,/səˈvɪr/,ซิเวียร์,รุนแรง,There is a severe weather warning for the south.,มีประกาศเตือนสภาพอากาศรุนแรงสำหรับภาคใต้,"Collocation: severe weather, severe damage.",,false
+3,climate,2,1,biodegradable,adjective,/ˌbaɪoʊdɪˈɡreɪdəbəl/,ไบโอดีเกรดะเบิล,ย่อยสลายได้ตามธรรมชาติ,The cafe now uses biodegradable cups made from plants.,ตอนนี้คาเฟ่ใช้แก้วที่ย่อยสลายได้ซึ่งทำจากพืช,,,false
+3,climate,2,2,global warming,noun,/ˈɡloʊbəl ˈwɔrmɪŋ/,โกลบอล วอร์มมิง,ภาวะโลกร้อน,Global warming is melting the ice at the North Pole.,ภาวะโลกร้อนทำให้น้ำแข็งที่ขั้วโลกเหนือละลาย,,,false
+3,climate,2,3,single-use plastic,noun,/ˈsɪŋɡəl jus ˈplæstɪk/,ซิงเกิล ยูส พลาสติก,พลาสติกใช้ครั้งเดียว,Many shops have stopped giving out single-use plastic bags.,ร้านค้าหลายแห่งเลิกแจกถุงพลาสติกแบบใช้ครั้งเดียว,,,false
+3,climate,2,4,carbon footprint,noun,/ˈkɑrbən ˈfʊtprɪnt/,คาร์บอน ฟุตพรินท์,ปริมาณคาร์บอนที่ปล่อยออกมา,Taking the train instead of flying reduces your carbon footprint.,การนั่งรถไฟแทนเครื่องบินช่วยลดปริมาณคาร์บอนที่คุณปล่อย,,,false
+3,climate,2,5,greenhouse gas,noun,/ˈɡrinhaʊs ɡæs/,กรีนเฮาส์ แกส,ก๊าซเรือนกระจก,Cars and factories produce a lot of greenhouse gases.,รถยนต์และโรงงานปล่อยก๊าซเรือนกระจกจำนวนมาก,,,false
+3,climate,2,6,emission,noun,/ɪˈmɪʃən/,อีมิชชัน,การปล่อยก๊าซหรือมลพิษ,The company plans to cut its emissions by half by 2035.,บริษัทวางแผนลดการปล่อยก๊าซลงครึ่งหนึ่งภายในปี 2035,Usually plural: carbon emissions.,,false
+3,climate,2,7,fossil fuel,noun,/ˈfɑsəl ˈfjuəl/,ฟอสซิล ฟิวเอล,เชื้อเพลิงฟอสซิล,"Coal, oil and gas are all fossil fuels.",ถ่านหิน น้ำมัน และก๊าซ ล้วนเป็นเชื้อเพลิงฟอสซิล,,,false
+3,climate,2,8,renewable energy,noun,/rɪˈnuəbəl ˈɛnərdʒi/,รีนิวอะเบิล เอเนอร์จี,พลังงานหมุนเวียน,Our factory now gets half its power from renewable energy.,ตอนนี้โรงงานของเราได้ไฟฟ้าครึ่งหนึ่งจากพลังงานหมุนเวียน,,,false
+3,climate,2,9,wind turbine,noun,/wɪnd ˈtɜrbaɪn/,วินด์ เทอร์ไบน์,กังหันลมผลิตไฟฟ้า,Each wind turbine on the hill can power hundreds of homes.,กังหันลมแต่ละตัวบนเนินเขาผลิตไฟฟ้าให้บ้านได้หลายร้อยหลัง,,,false
+3,climate,2,10,smog,noun,/smɑɡ/,สม็อก,หมอกควันพิษ,"Thick smog covered the city, so many people wore masks.",หมอกควันพิษหนาปกคลุมเมือง หลายคนจึงสวมหน้ากาก,,,false
+3,climate,2,11,sea level,noun,/si ˈlɛvəl/,ซี เลเวล,ระดับน้ำทะเล,Rising sea levels are a threat to cities near the coast.,ระดับน้ำทะเลที่สูงขึ้นเป็นภัยต่อเมืองชายฝั่ง,,,false
+3,climate,2,12,ice cap,noun,/ˈaɪs kæp/,ไอซ์ แคป,แผ่นน้ำแข็งขั้วโลก,The polar ice caps are getting smaller every year.,แผ่นน้ำแข็งขั้วโลกเล็กลงทุกปี,,,false
+3,climate,2,13,conserve,verb,/kənˈsɜrv/,คอนเซิร์ฟ,อนุรักษ์ ประหยัด,Turn off the lights to conserve energy when you leave.,ปิดไฟเพื่อประหยัดพลังงานเมื่อคุณออกไป,,,false
+3,climate,2,14,deforestation,noun,/diˌfɔrɪˈsteɪʃən/,ดีฟอเรสเตชัน,การตัดไม้ทำลายป่า,Deforestation destroys the homes of many animals.,การตัดไม้ทำลายป่าทำลายที่อยู่ของสัตว์หลายชนิด,,,false
+3,climate,3,1,ecosystem,noun,/ˈikoʊsɪstəm/,อีโคซิสเต็ม,ระบบนิเวศ,Plastic in the sea harms the whole ecosystem.,พลาสติกในทะเลทำร้ายระบบนิเวศทั้งหมด,,,false
+3,climate,3,2,habitat,noun,/ˈhæbɪtæt/,แฮบบิแทท,ถิ่นที่อยู่อาศัย,New roads are cutting through the tigers' natural habitat.,ถนนสายใหม่ตัดผ่านถิ่นที่อยู่ตามธรรมชาติของเสือ,,,false
+3,climate,3,3,endangered,adjective,/ɪnˈdeɪndʒərd/,เอ็นเดนเจอร์ด,ใกล้สูญพันธุ์,The sea turtle is an endangered animal in Thailand.,เต่าทะเลเป็นสัตว์ใกล้สูญพันธุ์ในประเทศไทย,Collocation: endangered species.,,false
+3,climate,3,4,species,noun,/ˈspiʃiz/,สปีชีส์,สายพันธุ์ ชนิด,Scientists found a new species of frog in the forest.,นักวิทยาศาสตร์พบกบสายพันธุ์ใหม่ในป่า,Same form for singular and plural.,,false
+3,climate,3,5,wetland,noun,/ˈwɛtlænd/,เว็ทแลนด์,พื้นที่ชุ่มน้ำ,Many birds stop at this wetland on their long journey south.,นกหลายชนิดแวะพักที่พื้นที่ชุ่มน้ำแห่งนี้ระหว่างอพยพลงใต้,,,false
+3,climate,3,6,coral reef,noun,/ˈkɔrəl rif/,คอรัล รีฟ,แนวปะการัง,Divers come from all over the world to see the coral reefs.,นักดำน้ำมาจากทั่วโลกเพื่อชมแนวปะการัง,,🪸,false
+3,climate,3,7,rainforest,noun,/ˈreɪnfɔrɪst/,เรนฟอเรสท์,ป่าฝนเขตร้อน,The rainforest in the south gets rain almost every day.,ป่าฝนทางภาคใต้มีฝนตกเกือบทุกวัน,,,false
+3,climate,3,8,valley,noun,/ˈvæli/,แวลลี,หุบเขา,The village sits in a green valley between two mountains.,หมู่บ้านตั้งอยู่ในหุบเขาเขียวขจีระหว่างภูเขาสองลูก,,,false
+3,climate,3,9,cave,noun,/keɪv/,เคฟ,ถ้ำ,Tourists need a guide to enter the cave safely.,นักท่องเที่ยวต้องมีไกด์จึงจะเข้าถ้ำได้อย่างปลอดภัย,,,false
+3,climate,3,10,desert,noun,/ˈdɛzərt/,เดเซิร์ท,ทะเลทราย,It almost never rains in the desert.,ในทะเลทรายแทบไม่มีฝนตกเลย,Do not confuse with dessert (sweet food).,🏜️,false
+3,climate,3,11,volcano,noun,/vɑlˈkeɪnoʊ/,วอลเคโน,ภูเขาไฟ,Flights to Bali stopped when the volcano started to smoke.,เที่ยวบินไปบาหลีหยุดบินเมื่อภูเขาไฟเริ่มพ่นควัน,,🌋,false
+3,climate,3,12,coast,noun,/koʊst/,โคสท์,ชายฝั่ง,We drove along the coast from Pattaya to Rayong.,เราขับรถเลียบชายฝั่งจากพัทยาไประยอง,,,false
+3,climate,3,13,extinct,adjective,/ɪkˈstɪŋkt/,เอ็กซ์สติงค์ท์,สูญพันธุ์,Some birds became extinct because their forests were cut down.,นกบางชนิดสูญพันธุ์เพราะป่าที่อาศัยถูกตัดทำลาย,,,false
+3,climate,3,14,natural resources,noun,/ˈnætʃərəl ˈrisɔrsɪz/,แนเชอรัล รีซอร์สเซส,ทรัพยากรธรรมชาติ,We must use our natural resources wisely.,เราต้องใช้ทรัพยากรธรรมชาติอย่างชาญฉลาด,,,false
+3,opinions,1,1,in my opinion,phrase,/ɪn maɪ əˈpɪnjən/,อิน มาย ออพิเนียน,ในความคิดของฉัน,"In my opinion, the new design looks much cleaner.",ในความคิดของฉัน ดีไซน์ใหม่ดูเรียบร้อยกว่ามาก,,,false
+3,opinions,1,2,stance,noun,/stæns/,สแตนซ์,จุดยืน,What is the company's stance on working from home?,บริษัทมีจุดยืนอย่างไรเรื่องการทำงานจากบ้าน,,,false
+3,opinions,1,3,controversial,adjective,/ˌkɑːntrəˈvɝːʃəl/,คอนทระเวอร์เชิล,เป็นที่ถกเถียง,Working from home is still a controversial topic in our company.,การทำงานจากบ้านยังเป็นหัวข้อที่ถกเถียงกันในบริษัทของเรา,Collocation: a controversial issue.,,false
+3,opinions,1,4,in favor of,phrase,/ɪn ˈfeɪvər əv/,อิน เฟเวอร์ ออฟ,เห็นด้วยกับ สนับสนุน,Most of the staff are in favor of a four-day week.,พนักงานส่วนใหญ่เห็นด้วยกับการทำงานสัปดาห์ละสี่วัน,Opposite: against.,,false
+3,opinions,1,5,strongly,adverb,/ˈstrɔŋli/,สตรองลี,อย่างยิ่ง อย่างหนักแน่น,I strongly believe that everyone should learn a second language.,ฉันเชื่ออย่างยิ่งว่าทุกคนควรเรียนภาษาที่สอง,"Collocation: strongly agree, strongly disagree.",,false
+3,opinions,1,6,on the other hand,phrase,/ɑn ði ˈʌðər hænd/,ออน ดิ อาเธอร์ แฮนด์,ในทางกลับกัน,"The city is exciting; on the other hand, it is very expensive.",เมืองนี้น่าตื่นเต้น แต่ในทางกลับกันก็แพงมาก,,,false
+3,opinions,1,7,personally,adverb,/ˈpɜrsənəli/,เพอร์ซันนัลลี,โดยส่วนตัว,"Personally, I prefer working early in the morning.",โดยส่วนตัวแล้ว ฉันชอบทำงานตอนเช้าตรู่มากกว่า,,,false
+3,opinions,1,8,doubt,verb,/daʊt/,ดาวท์,สงสัย ไม่ค่อยเชื่อ,I doubt that the shop will be open on a holiday.,ฉันไม่ค่อยเชื่อว่าร้านจะเปิดในวันหยุด,The b is silent.,,false
+3,opinions,1,9,biased,adjective,/ˈbaɪəst/,ไบแอสท์,ลำเอียง,The article seems biased because it only shows one side.,บทความนี้ดูลำเอียงเพราะนำเสนอแค่ด้านเดียว,,,false
+3,opinions,1,10,consensus,noun,/kənˈsɛnsəs/,คอนเซนซัส,ความเห็นพ้องต้องกัน,"After a long talk, the group reached a consensus on the plan.",หลังคุยกันนาน กลุ่มก็เห็นพ้องต้องกันเรื่องแผนนี้,Collocation: reach a consensus.,,false
+3,opinions,1,11,as far as I know,phrase,/æz fɑr æz aɪ noʊ/,แอส ฟาร์ แอส ไอ โน,เท่าที่ฉันรู้,"The meeting is still at three, as far as I know.",เท่าที่ฉันรู้ ประชุมยังเป็นบ่ายสามโมงอยู่,,,false
+3,opinions,1,12,suppose,verb,/səˈpoʊz/,ซัพโพส,คิดว่า สันนิษฐาน,I suppose we could take a taxi if the train is late.,ฉันคิดว่าเราอาจนั่งแท็กซี่ได้ถ้ารถไฟมาช้า,,,false
+3,opinions,1,13,objection,noun,/əbˈdʒɛkʃən/,ออบเจ็คชัน,การคัดค้าน,Does anyone have an objection to the new plan?,มีใครคัดค้านแผนใหม่นี้ไหม,,,false
+3,opinions,1,14,perspective,noun,/pərˈspɛktɪv/,เพอร์สเปคทิฟ,มุมมอง,Living abroad gave me a new perspective on my own culture.,การใช้ชีวิตต่างประเทศทำให้ฉันมีมุมมองใหม่ต่อวัฒนธรรมของตัวเอง,Collocation: from my perspective.,,false
+3,opinions,2,1,grateful,adjective,/ˈɡreɪtfəl/,เกรทฟูล,ซาบซึ้ง รู้สึกขอบคุณ,I am grateful for all the help you gave me this year.,ฉันซาบซึ้งในความช่วยเหลือทั้งหมดที่คุณให้ฉันในปีนี้,"Collocation: grateful for something, grateful to someone.",,false
+3,opinions,2,2,relieved,adjective,/rɪˈlivd/,รีลีฟด์,โล่งใจ,I was relieved when the doctor said it was nothing serious.,ฉันโล่งใจเมื่อหมอบอกว่าไม่มีอะไรร้ายแรง,,😌,false
+3,opinions,2,3,upbeat,adjective,/ˈʌpbit/,อัพบีท,อารมณ์ดี มองแง่บวก,The mood in the office was upbeat after the good news.,บรรยากาศในสำนักงานสดใสหลังได้ข่าวดี,,,false
+3,opinions,2,4,joyful,adjective,/ˈdʒɔɪfəl/,จอยฟูล,เปี่ยมสุข ร่าเริงยินดี,The wedding was a joyful day for both families.,งานแต่งงานเป็นวันที่เปี่ยมสุขของทั้งสองครอบครัว,,,false
+3,opinions,2,5,delighted,adjective,/dɪˈlaɪtɪd/,ดิไลทิด,ยินดีมาก ดีใจมาก,We are delighted to welcome you to our team.,เรายินดีอย่างยิ่งที่ได้ต้อนรับคุณเข้าสู่ทีม,,,false
+3,opinions,2,6,optimistic,adjective,/ˌɑptəˈmɪstɪk/,ออพทิมิสติก,มองโลกในแง่ดี,The manager is optimistic about sales next year.,ผู้จัดการมองในแง่ดีเรื่องยอดขายปีหน้า,Opposite: pessimistic.,,false
+3,opinions,2,7,cheerful,adjective,/ˈtʃɪrfəl/,เชียร์ฟูล,ร่าเริง,Our receptionist is always cheerful in the morning.,พนักงานต้อนรับของเราร่าเริงทุกเช้า,,,false
+3,opinions,2,8,contented,adjective,/kənˈtɛntɪd/,คอนเทนทิด,พึงพอใจ อิ่มเอมใจ,"After a good meal with family, everyone looked contented.",หลังมื้ออาหารดี ๆ กับครอบครัว ทุกคนดูอิ่มเอมใจ,,,false
+3,opinions,2,9,hopeful,adjective,/ˈhoʊpfəl/,โฮพฟูล,มีความหวัง,We are hopeful that the weather will be better tomorrow.,เรามีความหวังว่าพรุ่งนี้อากาศจะดีขึ้น,,,false
+3,opinions,2,10,over the moon,idiom,/ˈoʊvər ðə mun/,โอเวอร์ เดอะ มูน,ดีใจสุด ๆ,She was over the moon when she passed her driving test.,เธอดีใจสุด ๆ ตอนสอบใบขับขี่ผ่าน,Informal.,,false
+3,opinions,2,11,eager,adjective,/ˈiɡər/,อีเกอร์,กระตือรือร้น อยากมาก,The new intern is eager to learn everything about the job.,เด็กฝึกงานคนใหม่กระตือรือร้นอยากเรียนรู้ทุกอย่างเกี่ยวกับงาน,Collocation: eager to do something.,,false
+3,opinions,2,12,impressed,adjective,/ɪmˈprɛst/,อิมเพรสท์,ประทับใจ,The client was impressed by our fast reply.,ลูกค้าประทับใจที่เราตอบกลับเร็ว,,,false
+3,opinions,2,13,thrilled,adjective,/θrɪld/,ธริลด์,ตื่นเต้นดีใจมาก,My parents were thrilled when I got the job.,พ่อแม่ดีใจมากตอนที่ฉันได้งาน,,,false
+3,opinions,2,14,inspired,adjective,/ɪnˈspaɪərd/,อินสไปเออร์ด,ได้แรงบันดาลใจ,I felt inspired after listening to her talk about her career.,ฉันรู้สึกได้แรงบันดาลใจหลังจากฟังเธอเล่าเรื่องเส้นทางอาชีพ,,,false
+3,opinions,3,1,insecure,adjective,/ˌɪnsɪˈkjʊr/,อินซิเคียวร์,ไม่มั่นใจในตัวเอง,He feels insecure when he has to speak English in meetings.,เขารู้สึกไม่มั่นใจเวลาต้องพูดภาษาอังกฤษในที่ประชุม,,,false
+3,opinions,3,2,let down,phrase,/lɛt daʊn/,เล็ท ดาวน์,รู้สึกผิดหวังในตัวใครบางคน,I felt let down when my friend forgot my birthday.,ฉันรู้สึกผิดหวังตอนที่เพื่อนลืมวันเกิดของฉัน,Common pattern: feel let down.,,false
+3,opinions,3,3,irritated,adjective,/ˈɪrɪteɪtɪd/,อิริเทททิด,หงุดหงิด รำคาญ,He was irritated by the noise from the building site.,เขาหงุดหงิดกับเสียงดังจากไซต์ก่อสร้าง,,,false
+3,opinions,3,4,humiliated,adjective,/hjuˈmɪlieɪtɪd/,ฮิวมิลลิเอทิด,อับอายขายหน้า,She felt humiliated when her boss shouted at her in front of everyone.,เธอรู้สึกอับอายขายหน้าเมื่อหัวหน้าตะคอกใส่ต่อหน้าทุกคน,,,false
+3,opinions,3,5,uneasy,adjective,/ʌnˈizi/,อันอีซี,ไม่สบายใจ กระวนกระวาย,I felt uneasy walking home alone so late.,ฉันรู้สึกไม่สบายใจที่เดินกลับบ้านคนเดียวดึกขนาดนั้น,,,false
+3,opinions,3,6,envy,verb,/ˈɛnvi/,เอนวี,อิจฉา,I envy people who can sleep anywhere.,ฉันอิจฉาคนที่นอนหลับได้ทุกที่,,,false
+3,opinions,3,7,ashamed,adjective,/əˈʃeɪmd/,อะเชมด์,ละอายใจ,He was ashamed of shouting at his little sister.,เขารู้สึกละอายใจที่ตะคอกใส่น้องสาว,Stronger than shy; you feel you did something wrong.,,false
+3,opinions,3,8,resent,verb,/rɪˈzɛnt/,รีเซนท์,ขุ่นเคืองใจ ไม่พอใจ,He resents having to work every weekend.,เขาไม่พอใจที่ต้องทำงานทุกสุดสัปดาห์,,,false
+3,opinions,3,9,heartbroken,adjective,/ˈhɑrtbroʊkən/,ฮาร์ทโบรเคน,เสียใจอย่างมาก อกหัก,She was heartbroken when her old dog died.,เธอเสียใจอย่างมากตอนที่สุนัขแก่ของเธอตาย,,💔,false
+3,opinions,3,10,lose your temper,idiom,/luz jʊr ˈtɛmpər/,ลูส ยัวร์ เทมเปอร์,โมโห หมดความอดทน,Try not to lose your temper with difficult customers.,พยายามอย่าโมโหใส่ลูกค้าที่รับมือยาก,,,false
+3,opinions,3,11,overwhelmed,adjective,/ˌoʊvərˈwɛlmd/,โอเวอร์เวลมด์,รับมือไม่ไหว ท่วมท้น,I felt overwhelmed by all the emails after my holiday.,ฉันรู้สึกรับมือไม่ไหวกับอีเมลทั้งหมดหลังกลับจากวันหยุด,,,false
+3,opinions,3,12,gloomy,adjective,/ˈɡlumi/,กลูมมี,หม่นหมอง เศร้าซึม,Rainy days always make me feel a bit gloomy.,วันฝนตกทำให้ฉันรู้สึกหม่นหมองนิดหน่อยเสมอ,,,false
+3,opinions,3,13,homesick,adjective,/ˈhoʊmsɪk/,โฮมซิก,คิดถึงบ้าน,Students who study abroad often feel homesick at first.,นักศึกษาที่เรียนต่างประเทศมักคิดถึงบ้านในช่วงแรก,,,false
+3,opinions,3,14,stressed,adjective,/strɛst/,สเตรสท์,เครียด,Everyone gets stressed when the deadline is close.,ทุกคนเครียดเมื่อใกล้ถึงกำหนดส่ง,,,false
+3,it-support,1,1,blue screen,noun,/blu skrin/,บลู สกรีน,จอฟ้า (ระบบล่ม),My computer showed a blue screen and then restarted.,คอมพิวเตอร์ของฉันขึ้นจอฟ้าแล้วรีสตาร์ตเอง,,,false
+3,it-support,1,2,unresponsive,adjective,/ˌʌnrɪˈspɑnsɪv/,อันรีสพอนซิฟ,ไม่ตอบสนอง,"The screen became unresponsive, so I had to turn the computer off.",หน้าจอไม่ตอบสนอง ฉันจึงต้องปิดคอมพิวเตอร์,,,false
+3,it-support,1,3,error message,noun,/ˈɛrər ˈmɛsɪdʒ/,เออร์เรอร์ เมสเสจ,ข้อความแจ้งข้อผิดพลาด,Take a screenshot of the error message and send it to IT.,ถ่ายภาพหน้าจอข้อความแจ้งข้อผิดพลาดแล้วส่งให้ฝ่ายไอที,,,false
+3,it-support,1,4,reboot,verb,/riˈbut/,รีบูท,บูตเครื่องใหม่,"Save your work, then reboot the computer.",บันทึกงานของคุณ แล้วบูตเครื่องใหม่,,,false
+3,it-support,1,5,virus,noun,/ˈvaɪrəs/,ไวรัส,ไวรัสคอมพิวเตอร์,Don't open that file because it may contain a virus.,อย่าเปิดไฟล์นั้นเพราะอาจมีไวรัส,,,false
+3,it-support,1,6,malware,noun,/ˈmælwɛr/,แมลแวร์,มัลแวร์ โปรแกรมไม่พึงประสงค์,The IT team found malware on two office computers.,ทีมไอทีพบมัลแวร์ในคอมพิวเตอร์ของสำนักงานสองเครื่อง,,,false
+3,it-support,1,7,pop-up,noun,/ˈpɑp ʌp/,พ็อพ อัพ,หน้าต่างเด้ง,Never click on a pop-up that says you have won a prize.,อย่าคลิกหน้าต่างเด้งที่บอกว่าคุณได้รับรางวัล,,,false
+3,it-support,1,8,bug,noun,/bʌɡ/,บัก,ข้อบกพร่องของโปรแกรม,There is a bug in the app that stops you from logging in.,แอปมีข้อบกพร่องที่ทำให้คุณเข้าสู่ระบบไม่ได้,,,false
+3,it-support,1,9,troubleshoot,verb,/ˈtrʌbəlʃut/,ทรับเบิลชูท,หาสาเหตุและแก้ปัญหา,The technician will troubleshoot the printer this afternoon.,ช่างเทคนิคจะมาตรวจหาสาเหตุและแก้ปัญหาเครื่องพิมพ์บ่ายนี้,,,false
+3,it-support,1,10,glitch,noun,/ɡlɪtʃ/,กลิทช์,ข้อขัดข้องเล็กน้อย,A small glitch in the system delayed everyone's payslips.,ข้อขัดข้องเล็กน้อยในระบบทำให้สลิปเงินเดือนของทุกคนล่าช้า,,,false
+3,it-support,1,11,cloud storage,noun,/klaʊd ˈstɔrɪdʒ/,คลาวด์ สตอเรจ,พื้นที่เก็บข้อมูลออนไลน์,Keep a copy of your work in cloud storage in case your laptop breaks.,เก็บสำเนางานไว้ในพื้นที่เก็บข้อมูลออนไลน์เผื่อแล็ปท็อปเสีย,,,false
+3,it-support,1,12,restore,verb,/rɪˈstɔr/,รีสตอร์,กู้คืน,Can you restore the document I deleted by mistake?,คุณกู้คืนเอกสารที่ฉันลบไปโดยไม่ได้ตั้งใจได้ไหม,,,false
+3,it-support,1,13,corrupted,adjective,/kəˈrʌptɪd/,คอรัปทิด,เสียหายจนเปิดไม่ได้,"The file is corrupted, so I can't open it.",ไฟล์เสียหาย ฉันจึงเปิดไม่ได้,,,false
+3,it-support,1,14,overheat,verb,/ˌoʊvərˈhit/,โอเวอร์ฮีท,ร้อนเกินไป,Laptops can overheat if you use them on the bed.,แล็ปท็อปอาจร้อนเกินไปถ้าคุณวางใช้บนเตียง,,,false
+3,it-support,2,1,reset,verb,/riˈsɛt/,รีเซ็ท,ตั้งค่าใหม่,Click the link to reset your password.,คลิกลิงก์เพื่อตั้งรหัสผ่านใหม่,,,false
+3,it-support,2,2,access,noun,/ˈæksɛs/,แอคเซส,สิทธิ์เข้าถึง,New staff will get access to the system on their first day.,พนักงานใหม่จะได้สิทธิ์เข้าใช้ระบบในวันแรก,"Collocation: get access to, have access to.",,false
+3,it-support,2,3,two-factor authentication,noun,/ˈtu ˈfæktər ɔˌθɛntɪˈkeɪʃən/,ทู แฟคเตอร์ ออเธนทิเคชัน,การยืนยันตัวตนสองขั้นตอน,Please turn on two-factor authentication for your email account.,กรุณาเปิดการยืนยันตัวตนสองขั้นตอนสำหรับบัญชีอีเมลของคุณ,Often shortened to 2FA.,,false
+3,it-support,2,4,phishing,noun,/ˈfɪʃɪŋ/,ฟิชชิง,การหลอกลวงเพื่อขโมยข้อมูล,This email asking for your bank details is a phishing attack.,อีเมลที่ขอข้อมูลธนาคารของคุณนี้เป็นการหลอกขโมยข้อมูล,,,false
+3,it-support,2,5,firewall,noun,/ˈfaɪərwɔl/,ไฟร์วอลล์,ระบบป้องกันเครือข่าย,The firewall blocks websites that are not safe.,ไฟร์วอลล์บล็อกเว็บไซต์ที่ไม่ปลอดภัย,,,false
+3,it-support,2,6,antivirus,noun,/ˌæntiˈvaɪrəs/,แอนตี้ไวรัส,โปรแกรมป้องกันไวรัส,Make sure your antivirus is up to date.,ตรวจสอบให้แน่ใจว่าโปรแกรมป้องกันไวรัสเป็นเวอร์ชันล่าสุด,,,false
+3,it-support,2,7,encrypt,verb,/ɪnˈkrɪpt/,เอ็นคริพท์,เข้ารหัสข้อมูล,We encrypt all files that contain customer data.,เราเข้ารหัสไฟล์ทั้งหมดที่มีข้อมูลลูกค้า,,,false
+3,it-support,2,8,spam filter,noun,/spæm ˈfɪltər/,สแปม ฟิลเทอร์,ตัวกรองอีเมลขยะ,Check your spam filter if a client's email does not arrive.,ตรวจดูตัวกรองอีเมลขยะถ้าอีเมลของลูกค้าไม่เข้า,,,false
+3,it-support,2,9,screen lock,noun,/skrin lɑk/,สกรีน ล็อก,การล็อกหน้าจอ,Turn on the screen lock before you leave your desk.,เปิดการล็อกหน้าจอก่อนลุกจากโต๊ะ,,🔒,false
+3,it-support,2,10,locked out,adjective,/lɑkt aʊt/,ล็อคท์ เอาท์,ถูกล็อกจนเข้าไม่ได้,I typed the wrong password three times and got locked out.,ฉันพิมพ์รหัสผ่านผิดสามครั้งเลยถูกล็อกเข้าไม่ได้,,,false
+3,it-support,2,11,strong password,noun,/strɔŋ ˈpæswɜrd/,สตรอง แพสเวิร์ด,รหัสผ่านที่คาดเดายาก,"A strong password has letters, numbers and symbols.",รหัสผ่านที่คาดเดายากมีทั้งตัวอักษร ตัวเลข และสัญลักษณ์,,,false
+3,it-support,2,12,data breach,noun,/ˈdeɪtə britʃ/,เดทา บรีช,ข้อมูลรั่วไหล,The company told its customers about the data breach right away.,บริษัทแจ้งลูกค้าเรื่องข้อมูลรั่วไหลทันที,,,false
+3,it-support,2,13,patch,noun,/pætʃ/,แพทช์,โปรแกรมแก้ไขช่องโหว่,IT will add a security patch to all laptops tonight.,ไอทีจะลงโปรแกรมแก้ช่องโหว่ความปลอดภัยในแล็ปท็อปทุกเครื่องคืนนี้,,,false
+3,it-support,2,14,authorize,verb,/ˈɔθəraɪz/,ออเธอไรซ์,อนุมัติสิทธิ์,Only managers can authorize access to the finance folder.,เฉพาะผู้จัดการเท่านั้นที่อนุมัติสิทธิ์เข้าโฟลเดอร์การเงินได้,,,false
+3,it-support,3,1,tech support,noun,/tɛk səˈpɔrt/,เท็ค ซัพพอร์ท,ฝ่ายสนับสนุนด้านเทคนิค,Call tech support if your email stops working.,โทรหาฝ่ายสนับสนุนด้านเทคนิคถ้าอีเมลของคุณใช้งานไม่ได้,,,false
+3,it-support,3,2,support ticket,noun,/səˈpɔrt ˈtɪkɪt/,ซัพพอร์ท ทิกคิท,ใบแจ้งปัญหา,Please open a support ticket so we can track the problem.,กรุณาเปิดใบแจ้งปัญหาเพื่อให้เราติดตามปัญหาได้,,,false
+3,it-support,3,3,device driver,noun,/dɪˈvaɪs ˈdraɪvər/,ดีไวซ์ ไดรเวอร์,โปรแกรมควบคุมอุปกรณ์,The printer will not work until you update the device driver.,เครื่องพิมพ์จะใช้งานไม่ได้จนกว่าคุณจะอัปเดตโปรแกรมควบคุมอุปกรณ์,,,false
+3,it-support,3,4,peripheral,noun,/pəˈrɪfərəl/,เพริเฟอรัล,อุปกรณ์ต่อพ่วง,"Keyboards, mice and webcams are all peripherals.",คีย์บอร์ด เมาส์ และเว็บแคม ล้วนเป็นอุปกรณ์ต่อพ่วง,,,false
+3,it-support,3,5,hardware,noun,/ˈhɑrdwɛr/,ฮาร์ดแวร์,อุปกรณ์ตัวเครื่อง,The problem is not the program; it's the hardware.,ปัญหาไม่ได้อยู่ที่โปรแกรม แต่อยู่ที่ตัวเครื่อง,,,false
+3,it-support,3,6,shared drive,noun,/ʃɛrd draɪv/,แชร์ด ไดรฟ์,ไดรฟ์ส่วนกลาง,Save the final version on the shared drive so everyone can see it.,บันทึกเวอร์ชันสุดท้ายไว้ในไดรฟ์ส่วนกลางเพื่อให้ทุกคนเห็น,,,false
+3,it-support,3,7,remote access,noun,/rɪˈmoʊt ˈæksɛs/,รีโมท แอคเซส,การเข้าถึงจากระยะไกล,"With remote access, IT can fix my laptop from their office.",ด้วยการเข้าถึงจากระยะไกล ไอทีแก้แล็ปท็อปของฉันจากห้องของพวกเขาได้,,,false
+3,it-support,3,8,configure,verb,/kənˈfɪɡjər/,คอนฟิกเกอร์,ตั้งค่า,The technician configured the new printer for our floor.,ช่างเทคนิคตั้งค่าเครื่องพิมพ์ใหม่สำหรับชั้นของเรา,,,false
+3,it-support,3,9,compatible,adjective,/kəmˈpætəbəl/,คอมแพททิเบิล,ใช้งานร่วมกันได้,This charger is not compatible with my phone.,ที่ชาร์จนี้ใช้กับโทรศัพท์ของฉันไม่ได้,Collocation: compatible with.,,false
+3,it-support,3,10,operating system,noun,/ˈɑpəreɪtɪŋ ˈsɪstəm/,ออพเพอเรทิง ซิสเต็ม,ระบบปฏิบัติการ,All laptops will move to the new operating system next month.,แล็ปท็อปทุกเครื่องจะเปลี่ยนไปใช้ระบบปฏิบัติการใหม่เดือนหน้า,,,false
+3,it-support,3,11,router,noun,/ˈraʊtər/,เราเตอร์,อุปกรณ์กระจายสัญญาณเครือข่าย,"If the Wi-Fi stops, try turning the router off and on.",ถ้าไวไฟใช้ไม่ได้ ลองปิดเปิดเราเตอร์ใหม่,,,false
+3,it-support,3,12,bandwidth,noun,/ˈbændwɪdθ/,แบนด์วิดธ์,ความเร็วในการรับส่งข้อมูล,Large video files use a lot of bandwidth.,ไฟล์วิดีโอขนาดใหญ่ใช้ปริมาณการรับส่งข้อมูลมาก,,,false
+3,it-support,3,13,hard drive,noun,/hɑrd draɪv/,ฮาร์ด ไดรฟ์,ฮาร์ดดิสก์,"My hard drive is almost full, so I need to delete some files.",ฮาร์ดดิสก์ของฉันเกือบเต็มแล้ว ฉันจึงต้องลบไฟล์บางส่วน,,,false
+3,it-support,3,14,downtime,noun,/ˈdaʊntaɪm/,ดาวน์ไทม์,ช่วงเวลาที่ระบบหยุดทำงาน,The website will have two hours of downtime on Sunday night.,เว็บไซต์จะหยุดทำงานสองชั่วโมงในคืนวันอาทิตย์,,,false
+3,supply-chain,1,1,distributor,noun,/dɪˈstrɪbjətər/,ดิสทริบิวเทอร์,ผู้จัดจำหน่าย,We sell our snacks through a distributor in the north.,เราขายขนมผ่านผู้จัดจำหน่ายในภาคเหนือ,,,false
+3,supply-chain,1,2,requisition,noun,/ˌrɛkwəˈzɪʃən/,เรควิซิชัน,ใบขอซื้อ,Fill in a requisition before you order any new equipment.,กรอกใบขอซื้อก่อนสั่งอุปกรณ์ใหม่ทุกครั้ง,,,false
+3,supply-chain,1,3,component,noun,/kəmˈpoʊnənt/,คอมโพเนนท์,ชิ้นส่วน,We buy the electronic components from a factory in Malaysia.,เราซื้อชิ้นส่วนอิเล็กทรอนิกส์จากโรงงานในมาเลเซีย,,,false
+3,supply-chain,1,4,procurement,noun,/proʊˈkjʊrmənt/,โปรเคียวร์เมนท์,การจัดซื้อจัดจ้าง,"All orders over 50,000 baht must go through procurement.","คำสั่งซื้อที่เกิน 50,000 บาทต้องผ่านฝ่ายจัดซื้อจัดจ้าง",,,false
+3,supply-chain,1,5,in bulk,phrase,/ɪn bʌlk/,อิน บัลค์,ทีละจำนวนมาก,We buy paper in bulk because it is cheaper.,เราซื้อกระดาษทีละมาก ๆ เพราะถูกกว่า,,,false
+3,supply-chain,1,6,lead time,noun,/lid taɪm/,ลีด ไทม์,ระยะเวลารอสินค้า,The lead time for this part is six weeks.,ระยะเวลารอชิ้นส่วนนี้คือหกสัปดาห์,"""Lead"" sounds like ""need"" here.",,false
+3,supply-chain,1,7,tender,noun,/ˈtɛndər/,เทนเดอร์,การประกวดราคา,Five companies took part in the tender for the new building.,ห้าบริษัทเข้าร่วมประกวดราคาสำหรับอาคารใหม่,,,false
+3,supply-chain,1,8,vendor,noun,/ˈvendər/,เวนเดอร์,ผู้ขาย ผู้จำหน่าย,We compared prices from three vendors before choosing one.,เราเปรียบเทียบราคาจากผู้ขายสามรายก่อนเลือก,"In purchasing, often used like supplier.",,false
+3,supply-chain,1,9,unit price,noun,/ˈjunɪt praɪs/,ยูนิท ไพรซ์,ราคาต่อหน่วย,The unit price drops if you order more than a thousand.,ราคาต่อหน่วยจะลดลงถ้าคุณสั่งมากกว่าหนึ่งพันชิ้น,,,false
+3,supply-chain,1,10,wholesale,adjective,/ˈhoʊlseɪl/,โฮลเซล,ขายส่ง,Shops buy goods at wholesale prices and sell them for more.,ร้านค้าซื้อสินค้าในราคาขายส่งแล้วขายต่อในราคาสูงขึ้น,Opposite: retail.,,false
+3,supply-chain,1,11,manufacturer,noun,/ˌmænjəˈfæktʃərər/,แมนูแฟคเจอเรอร์,ผู้ผลิต,Contact the manufacturer if the machine breaks during the guarantee period.,ติดต่อผู้ผลิตถ้าเครื่องเสียในช่วงรับประกัน,,,false
+3,supply-chain,1,12,specification,noun,/ˌspɛsəfɪˈkeɪʃən/,สเปซิฟิเคชัน,ข้อกำหนดรายละเอียด,Please check that the parts match our specifications.,กรุณาตรวจสอบว่าชิ้นส่วนตรงตามข้อกำหนดของเรา,Often shortened to specs.,,false
+3,supply-chain,1,13,backorder,noun,/ˈbækɔrdər/,แบคออร์เดอร์,สินค้าค้างส่ง,The blue chairs are on backorder until next month.,เก้าอี้สีน้ำเงินเป็นสินค้าค้างส่งจนถึงเดือนหน้า,,,false
+3,supply-chain,1,14,outsource,verb,/ˈaʊtsɔrs/,เอาท์ซอร์ส,จ้างบริษัทภายนอกทำ,We outsource our packaging to a small company nearby.,เราจ้างบริษัทเล็ก ๆ ใกล้ ๆ ทำบรรจุภัณฑ์ให้,,,false
+3,supply-chain,2,1,stock level,noun,/stɑk ˈlɛvəl/,สต็อก เลเวล,ระดับสินค้าคงคลัง,The system warns us when stock levels are too low.,ระบบจะเตือนเราเมื่อระดับสินค้าคงคลังต่ำเกินไป,,,false
+3,supply-chain,2,2,stocktake,noun,/ˈstɑkteɪk/,สต็อกเทค,การตรวจนับสต็อก,The shop will close early on Sunday for the stocktake.,ร้านจะปิดเร็วในวันอาทิตย์เพื่อตรวจนับสต็อก,,,false
+3,supply-chain,2,3,pick list,noun,/pɪk lɪst/,พิค ลิสท์,ใบรายการหยิบสินค้า,The worker follows the pick list to collect items for each order.,พนักงานหยิบสินค้าตามใบรายการสำหรับแต่ละคำสั่งซื้อ,,,false
+3,supply-chain,2,4,shelf life,noun,/ʃɛlf laɪf/,เชลฟ์ ไลฟ์,อายุการเก็บรักษา,"Fresh milk has a short shelf life, so we order it often.",นมสดมีอายุการเก็บสั้น เราจึงสั่งบ่อย,,,false
+3,supply-chain,2,5,replenish,verb,/rɪˈplɛnɪʃ/,รีเพลนิช,เติมให้เต็ม,We replenish the shelves every night after closing.,เราเติมสินค้าบนชั้นให้เต็มทุกคืนหลังปิดร้าน,,,false
+3,supply-chain,2,6,cold storage,noun,/koʊld ˈstɔrɪdʒ/,โคลด์ สตอเรจ,ห้องเย็นเก็บสินค้า,Frozen fish must go into cold storage as soon as it arrives.,ปลาแช่แข็งต้องเข้าห้องเย็นทันทีที่มาถึง,,,false
+3,supply-chain,2,7,shelving,noun,/ˈʃɛlvɪŋ/,เชลวิง,ชั้นวางของ,We need more metal shelving for the new products.,เราต้องการชั้นวางเหล็กเพิ่มสำหรับสินค้าใหม่,,,false
+3,supply-chain,2,8,packing slip,noun,/ˈpækɪŋ slɪp/,แพคกิง สลิป,ใบรายการสินค้าในกล่อง,Check the items against the packing slip when you open the box.,ตรวจสินค้าเทียบกับใบรายการในกล่องเมื่อเปิดกล่อง,,,false
+3,supply-chain,2,9,surplus,noun,/ˈsɜrpləs/,เซอร์พลัส,ส่วนเกิน,We sold the surplus at a low price to clear the warehouse.,เราขายของส่วนเกินในราคาถูกเพื่อเคลียร์คลังสินค้า,,,false
+3,supply-chain,2,10,reorder,verb,/riˈɔrdər/,รีออร์เดอร์,สั่งซื้อเพิ่มอีกครั้ง,We reorder printer ink when only five boxes are left.,เราสั่งหมึกพิมพ์เพิ่มเมื่อเหลือเพียงห้ากล่อง,,,false
+3,supply-chain,2,11,defective,adjective,/dɪˈfɛktɪv/,ดิเฟคทิฟ,ชำรุด บกพร่อง,Defective items must be sent back to the supplier.,สินค้าชำรุดต้องส่งคืนซัพพลายเออร์,,,false
+3,supply-chain,2,12,consignment,noun,/kənˈsaɪnmənt/,คอนไซน์เมนท์,สินค้าที่ส่งมาหนึ่งล็อต,A new consignment of shoes arrived at the warehouse this morning.,รองเท้าล็อตใหม่มาถึงคลังสินค้าเมื่อเช้านี้,,,false
+3,supply-chain,2,13,outbound,adjective,/ˈaʊtbaʊnd/,เอาท์บาวนด์,ขาออก,Outbound orders leave the warehouse at four every afternoon.,คำสั่งซื้อขาออกออกจากคลังสินค้าทุกบ่ายสี่โมง,,,false
+3,supply-chain,2,14,inbound,adjective,/ˈɪnbaʊnd/,อินบาวนด์,ขาเข้า,Inbound goods are checked before they go onto the shelves.,สินค้าขาเข้าจะถูกตรวจก่อนขึ้นชั้นวาง,,,false
+3,supply-chain,3,1,waybill,noun,/ˈweɪbɪl/,เวย์บิล,ใบกำกับการขนส่ง,Attach the waybill to the side of each box.,ติดใบกำกับการขนส่งไว้ที่ข้างกล่องทุกใบ,,,false
+3,supply-chain,3,2,freight forwarder,noun,/freɪt ˈfɔrwərdər/,เฟรท ฟอร์เวิร์ดเดอร์,ตัวแทนจัดการขนส่งสินค้า,Our freight forwarder books space on ships for our goods.,ตัวแทนขนส่งสินค้าของเราจองพื้นที่บนเรือให้สินค้าของเรา,,,false
+3,supply-chain,3,3,logistics,noun,/loʊˈdʒɪstɪks/,โลจิสติกส์,การจัดการขนส่งและกระจายสินค้า,Our logistics team plans the delivery trucks every morning.,ทีมโลจิสติกส์ของเราวางแผนรถส่งของทุกเช้า,,,false
+3,supply-chain,3,4,customs broker,noun,/ˈkʌstəmz ˈbroʊkər/,คัสตอมส์ โบรกเกอร์,ตัวแทนออกของ,A customs broker prepares all the import papers for us.,ตัวแทนออกของเตรียมเอกสารนำเข้าทั้งหมดให้เรา,,,false
+3,supply-chain,3,5,importer,noun,/ɪmˈpɔrtər/,อิมพอร์เทอร์,ผู้นำเข้า,The importer must pay tax on the goods.,ผู้นำเข้าต้องจ่ายภาษีสินค้า,,,false
+3,supply-chain,3,6,exporter,noun,/ɪkˈspɔrtər/,เอ็กซ์พอร์เทอร์,ผู้ส่งออก,Thailand is a major exporter of rice and rubber.,ประเทศไทยเป็นผู้ส่งออกข้าวและยางพารารายใหญ่,,,false
+3,supply-chain,3,7,carrier,noun,/ˈkæriər/,แคร์ริเออร์,บริษัทขนส่ง,We changed carriers because the old one was often late.,เราเปลี่ยนบริษัทขนส่งเพราะเจ้าเก่ามาส่งช้าบ่อย,,,false
+3,supply-chain,3,8,en route,adverb,/ɑn ˈrut/,ออง รูท,ระหว่างทาง,The trucks are en route to the factory now.,ตอนนี้รถบรรทุกกำลังอยู่ระหว่างทางไปโรงงาน,"From French; often ""en route to"".",,false
+3,supply-chain,3,9,delivery window,noun,/dɪˈlɪvəri ˈwɪndoʊ/,ดิลิเวอรี วินโดว์,ช่วงเวลานัดส่งสินค้า,The customer chose a delivery window between nine and twelve.,ลูกค้าเลือกช่วงเวลารับสินค้าระหว่างเก้าโมงถึงเที่ยง,,,false
+3,supply-chain,3,10,truckload,noun,/ˈtrʌkloʊd/,ทรัคโลด,ปริมาณเต็มคันรถบรรทุก,We ordered two truckloads of sand for the new building.,เราสั่งทรายสองคันรถบรรทุกสำหรับอาคารใหม่,,,false
+3,supply-chain,3,11,distribution center,noun,/ˌdɪstrɪˈbjuʃən ˈsɛntər/,ดิสทริบิวชัน เซนเตอร์,ศูนย์กระจายสินค้า,All products go to the distribution center before they reach the shops.,สินค้าทั้งหมดไปที่ศูนย์กระจายสินค้าก่อนถึงร้านค้า,,,false
+3,supply-chain,3,12,reroute,verb,/riˈrut/,รีรูท,เปลี่ยนเส้นทาง,The flood forced us to reroute our trucks through the east.,น้ำท่วมทำให้เราต้องเปลี่ยนเส้นทางรถบรรทุกไปทางตะวันออก,,,false
+3,supply-chain,3,13,proof of delivery,noun,/pruf əv dɪˈlɪvəri/,พรูฟ ออฟ ดิลิเวอรี,หลักฐานการส่งมอบ,The courier took a photo as proof of delivery.,พนักงานส่งของถ่ายรูปไว้เป็นหลักฐานการส่งมอบ,,,false
+3,supply-chain,3,14,fleet,noun,/flit/,ฟลีท,กองยานพาหนะ,The company has a fleet of fifty delivery trucks.,บริษัทมีรถบรรทุกส่งของทั้งหมดห้าสิบคัน,,,false
+3,pay-benefits,1,1,piece rate,noun,/pis reɪt/,พีซ เรท,ค่าจ้างตามชิ้นงาน,Some factory workers are paid a piece rate for each shirt they sew.,คนงานโรงงานบางคนได้ค่าจ้างตามจำนวนเสื้อที่เย็บได้,,,false
+3,pay-benefits,1,2,wage,noun,/weɪdʒ/,เวจ,ค่าจ้าง,Construction workers here are paid a daily wage in cash.,คนงานก่อสร้างที่นี่ได้รับค่าจ้างรายวันเป็นเงินสด,A wage is usually paid by the hour or day; a salary by the month.,,false
+3,pay-benefits,1,3,payslip,noun,/ˈpeɪslɪp/,เพสลิป,สลิปเงินเดือน,Check your payslip to see how much tax was taken.,ดูสลิปเงินเดือนเพื่อดูว่าถูกหักภาษีไปเท่าไร,US English often says pay stub.,,false
+3,pay-benefits,1,4,gross pay,noun,/ɡroʊs peɪ/,โกรส เพ,รายได้ก่อนหักภาษี,"My gross pay is 30,000 baht, but I take home less.","รายได้ก่อนหักของฉันคือ 30,000 บาท แต่ได้รับจริงน้อยกว่านั้น",,,false
+3,pay-benefits,1,5,net pay,noun,/nɛt peɪ/,เน็ท เพ,รายได้สุทธิหลังหัก,Net pay is the money you get after tax and other deductions.,รายได้สุทธิคือเงินที่คุณได้รับหลังหักภาษีและรายการอื่น ๆ,,,false
+3,pay-benefits,1,6,deduction,noun,/dɪˈdʌkʃən/,ดิดักชัน,รายการหักเงิน,There is a deduction for social security on every payslip.,มีการหักเงินประกันสังคมในสลิปเงินเดือนทุกใบ,,,false
+3,pay-benefits,1,7,base salary,noun,/beɪs ˈsæləri/,เบส แซลลารี,เงินเดือนพื้นฐาน,"Her base salary is low, but she earns a lot from sales.",เงินเดือนพื้นฐานของเธอต่ำ แต่เธอได้เงินมากจากยอดขาย,,,false
+3,pay-benefits,1,8,pay raise,noun,/peɪ reɪz/,เพ เรซ,การขึ้นเงินเดือน,She asked her manager for a pay raise after two years.,เธอขอขึ้นเงินเดือนกับหัวหน้าหลังทำงานมาสองปี,British English: pay rise.,,false
+3,pay-benefits,1,9,year-end bonus,noun,/ˌjɪr ˈɛnd ˈboʊnəs/,เยียร์ เอนด์ โบนัส,โบนัสสิ้นปี,This year's year-end bonus is two months' salary.,โบนัสสิ้นปีนี้คือเงินเดือนสองเดือน,,,false
+3,pay-benefits,1,10,pay period,noun,/peɪ ˈpɪriəd/,เพ พีเรียด,รอบการจ่ายเงินเดือน,Overtime after the 20th goes into the next pay period.,ค่าล่วงเวลาหลังวันที่ 20 จะไปอยู่ในรอบจ่ายเงินถัดไป,,,false
+3,pay-benefits,1,11,hourly rate,noun,/ˈaʊərli reɪt/,อาวเออร์ลี เรท,อัตราค่าจ้างรายชั่วโมง,Part-time staff are paid an hourly rate of 60 baht.,พนักงานพาร์ทไทม์ได้ค่าจ้างชั่วโมงละ 60 บาท,,,false
+3,pay-benefits,1,12,salary advance,noun,/ˈsæləri ədˈvæns/,แซลลารี แอดแวนซ์,การเบิกเงินเดือนล่วงหน้า,He asked for a salary advance to pay his hospital bill.,เขาขอเบิกเงินเดือนล่วงหน้าเพื่อจ่ายค่าโรงพยาบาล,,,false
+3,pay-benefits,1,13,withholding tax,noun,/wɪθˈhoʊldɪŋ tæks/,วิธโฮลดิง แทกซ์,ภาษีหัก ณ ที่จ่าย,The company pays withholding tax to the government for you.,บริษัทนำส่งภาษีหัก ณ ที่จ่ายให้รัฐบาลแทนคุณ,,,false
+3,pay-benefits,1,14,social security,noun,/ˈsoʊʃəl sɪˈkjʊrəti/,โซเชียล ซิเคียวริที,ประกันสังคม,"With social security, you can see a doctor at your registered hospital.",ด้วยสิทธิประกันสังคม คุณพบแพทย์ได้ที่โรงพยาบาลที่ลงทะเบียนไว้,,,false
+3,pay-benefits,2,1,welfare,noun,/ˈwɛlfɛr/,เวลแฟร์,สวัสดิการ ความเป็นอยู่ที่ดี,The company cares about staff welfare and offers free lunch.,บริษัทใส่ใจสวัสดิการพนักงานและมีอาหารกลางวันฟรี,,,false
+3,pay-benefits,2,2,outpatient,adjective,/ˈaʊtpeɪʃənt/,เอาท์เพเชินท์,ผู้ป่วยนอก,"The plan covers outpatient visits up to 1,000 baht each time.","แผนนี้คุ้มครองการรักษาแบบผู้ป่วยนอกครั้งละไม่เกิน 1,000 บาท",Opposite: inpatient (staying in hospital).,,false
+3,pay-benefits,2,3,dental,adjective,/ˈdɛntəl/,เดนทัล,เกี่ยวกับฟัน,The company pays for two dental check-ups a year.,บริษัทออกค่าตรวจฟันให้ปีละสองครั้ง,,,false
+3,pay-benefits,2,4,group insurance,noun,/ɡrup ɪnˈʃʊrəns/,กรุ๊ป อินชัวรันส์,ประกันกลุ่ม,All permanent staff are covered by the company's group insurance.,พนักงานประจำทุกคนได้รับความคุ้มครองจากประกันกลุ่มของบริษัท,,,false
+3,pay-benefits,2,5,provident fund,noun,/ˈprɑvɪdənt fʌnd/,พรอวิเดนท์ ฟันด์,กองทุนสำรองเลี้ยงชีพ,The company adds five percent of your salary to the provident fund.,บริษัทสมทบเงินห้าเปอร์เซ็นต์ของเงินเดือนเข้ากองทุนสำรองเลี้ยงชีพ,,,false
+3,pay-benefits,2,6,pension,noun,/ˈpɛnʃən/,เพนชัน,เงินบำนาญ,My father gets a small pension from his old job.,พ่อของฉันได้เงินบำนาญเล็กน้อยจากงานเก่า,,,false
+3,pay-benefits,2,7,retire,verb,/rɪˈtaɪər/,รีไทร์,เกษียณ,Most staff here retire at sixty.,พนักงานส่วนใหญ่ที่นี่เกษียณตอนอายุหกสิบ,,,false
+3,pay-benefits,2,8,housing allowance,noun,/ˈhaʊzɪŋ əˈlaʊəns/,เฮาซิง อะลาวเอินซ์,ค่าเช่าบ้าน,Staff who move from another province get a housing allowance.,พนักงานที่ย้ายมาจากต่างจังหวัดได้ค่าเช่าบ้าน,,,false
+3,pay-benefits,2,9,co-payment,noun,/ˈkoʊ ˌpeɪmənt/,โค เพเมนท์,ส่วนที่ผู้เอาประกันต้องร่วมจ่าย,"With this plan, there is a co-payment of 20 percent for each visit.",แผนนี้ผู้เอาประกันต้องร่วมจ่ายร้อยละ 20 ในแต่ละครั้ง,,,false
+3,pay-benefits,2,10,eligible,adjective,/ˈɛlɪdʒəbəl/,เอลิจิเบิล,มีสิทธิ์,New staff are eligible for medical benefits after three months.,พนักงานใหม่มีสิทธิ์ได้สวัสดิการรักษาพยาบาลหลังทำงานครบสามเดือน,Collocation: eligible for.,,false
+3,pay-benefits,2,11,childcare,noun,/ˈtʃaɪldkɛr/,ไชลด์แคร์,การดูแลเด็ก,The company helps working parents pay for childcare.,บริษัทช่วยพ่อแม่ที่ทำงานจ่ายค่าดูแลเด็ก,,,false
+3,pay-benefits,2,12,maternity leave,noun,/məˈtɜrnəti liv/,มะเทอร์นิที ลีฟ,การลาคลอด,She will be on maternity leave for three months.,เธอจะลาคลอดเป็นเวลาสามเดือน,,,false
+3,pay-benefits,2,13,dependent,noun,/dɪˈpɛndənt/,ดีเพนเดินท์,ผู้อยู่ในอุปการะ,You can add your children as dependents on the health plan.,คุณสามารถเพิ่มลูกเป็นผู้อยู่ในอุปการะในแผนสุขภาพได้,,,false
+3,pay-benefits,2,14,opt out,phrasal verb,/ɑpt aʊt/,ออพท์ เอาท์,เลือกไม่เข้าร่วม,You can opt out of the savings plan at any time.,คุณเลือกไม่เข้าร่วมแผนออมเงินได้ทุกเมื่อ,Collocation: opt out of something.,,false
+3,pay-benefits,3,1,incentive,noun,/ɪnˈsɛntɪv/,อินเซนทิฟ,สิ่งจูงใจ,The sales team gets a cash incentive for reaching its target.,ทีมขายได้เงินจูงใจเมื่อทำยอดได้ตามเป้า,,,false
+3,pay-benefits,3,2,reward,verb,/rɪˈwɔrd/,รีวอร์ด,ให้รางวัล,The company rewards staff who come up with good ideas.,บริษัทให้รางวัลพนักงานที่คิดไอเดียดี ๆ,,,false
+3,pay-benefits,3,3,profit sharing,noun,/ˈprɑfɪt ˈʃɛrɪŋ/,พรอฟิท แชริง,การแบ่งปันผลกำไร,"Through profit sharing, every employee gets part of the yearly profit.",ด้วยระบบแบ่งปันผลกำไร พนักงานทุกคนได้ส่วนหนึ่งของกำไรประจำปี,,,false
+3,pay-benefits,3,4,annual increment,noun,/ˈænjuəl ˈɪŋkrəmənt/,แอนนวล อินครีเมนท์,การขึ้นเงินเดือนประจำปี,Staff receive an annual increment of about four percent.,พนักงานได้ขึ้นเงินเดือนประจำปีประมาณสี่เปอร์เซ็นต์,,,false
+3,pay-benefits,3,5,salary review,noun,/ˈsæləri rɪˈvju/,แซลลารี รีวิว,การพิจารณาปรับเงินเดือน,Your salary review will take place in January.,การพิจารณาปรับเงินเดือนของคุณจะมีขึ้นในเดือนมกราคม,,,false
+3,pay-benefits,3,6,overtime pay,noun,/ˈoʊvərtaɪm peɪ/,โอเวอร์ไทม์ เพ,ค่าล่วงเวลา,Overtime pay is one and a half times the normal rate.,ค่าล่วงเวลาเท่ากับหนึ่งเท่าครึ่งของอัตราปกติ,,,false
+3,pay-benefits,3,7,severance pay,noun,/ˈsɛvərəns peɪ/,เซเวอแรนซ์ เพ,เงินชดเชยการเลิกจ้าง,Workers who lose their jobs should get severance pay.,ลูกจ้างที่ถูกเลิกจ้างควรได้รับเงินชดเชย,,,false
+3,pay-benefits,3,8,gift card,noun,/ɡɪft kɑrd/,กิฟท์ การ์ด,บัตรของขวัญ,The best salesperson of the month gets a gift card.,พนักงานขายยอดเยี่ยมประจำเดือนได้รับบัตรของขวัญ,,,false
+3,pay-benefits,3,9,recognition,noun,/ˌrɛkəɡˈnɪʃən/,เรคคอกนิชัน,การยกย่องชมเชย,"Staff want recognition for their hard work, not only money.",พนักงานต้องการการยกย่องในความทุ่มเท ไม่ใช่แค่เงิน,,,false
+3,pay-benefits,3,10,employee of the month,noun,/ɪmˈplɔɪi əv ðə mʌnθ/,เอ็มพลอยอี ออฟ เดอะ มันธ์,พนักงานดีเด่นประจำเดือน,Nok was chosen as employee of the month for her excellent service.,นกได้รับเลือกเป็นพนักงานดีเด่นประจำเดือนจากการบริการที่ยอดเยี่ยม,,,false
+3,pay-benefits,3,11,pay scale,noun,/peɪ skeɪl/,เพ สเกล,ขั้นบันไดเงินเดือน,Your starting salary depends on where you are on the pay scale.,เงินเดือนเริ่มต้นขึ้นอยู่กับระดับของคุณในขั้นบันไดเงินเดือน,,,false
+3,pay-benefits,3,12,seniority,noun,/ˌsinˈjɔrəti/,ซีเนียริที,อายุงาน ความอาวุโส,Annual leave increases with seniority at this company.,วันลาพักร้อนเพิ่มขึ้นตามอายุงานที่บริษัทนี้,,,false
+3,pay-benefits,3,13,entitled,adjective,/ɪnˈtaɪtəld/,เอ็นไทเทิลด์,มีสิทธิ์ได้รับ,All staff are entitled to ten days of paid holiday.,พนักงานทุกคนมีสิทธิ์ลาพักร้อนแบบได้รับค่าจ้างสิบวัน,Collocation: entitled to.,,false
+3,pay-benefits,3,14,taxable,adjective,/ˈtæksəbəl/,แทกซะเบิล,ต้องเสียภาษี,"Your bonus is taxable, like your normal salary.",โบนัสของคุณต้องเสียภาษีเหมือนเงินเดือนปกติ,,,false
+3,business-travel,1,1,travel request,noun,/ˈtrævəl rɪˈkwɛst/,แทรเวิล รีเควสท์,คำขออนุมัติการเดินทาง,Send a travel request to your manager two weeks before the trip.,ส่งคำขออนุมัติการเดินทางให้หัวหน้าสองสัปดาห์ก่อนเดินทาง,,,false
+3,business-travel,1,2,travel policy,noun,/ˈtrævəl ˈpɑləsi/,แทรเวิล พอลิซี,นโยบายการเดินทาง,Our travel policy says flights under five hours must be economy.,นโยบายการเดินทางของเรากำหนดว่าเที่ยวบินไม่ถึงห้าชั่วโมงต้องเป็นชั้นประหยัด,,,false
+3,business-travel,1,3,per diem,noun,/pər ˈdiəm/,เพอร์ ดีเอิม,เบี้ยเลี้ยงรายวัน,"You get a per diem of 2,000 baht for meals abroad.","คุณจะได้เบี้ยเลี้ยงรายวัน 2,000 บาทสำหรับค่าอาหารในต่างประเทศ","Latin for ""per day"".",,false
+3,business-travel,1,4,red-eye flight,noun,/ˈrɛd aɪ flaɪt/,เรด อาย ไฟลท์,เที่ยวบินกลางดึก,I took a red-eye flight and went straight to the meeting.,ฉันนั่งเที่ยวบินกลางดึกแล้วตรงไปประชุมเลย,Informal.,,false
+3,business-travel,1,5,nonstop,adjective,/ˌnɑnˈstɑp/,นอนสต็อป,บินตรงไม่แวะพัก,There is a nonstop flight to Sydney every evening.,มีเที่ยวบินตรงไม่แวะพักไปซิดนีย์ทุกเย็น,,,false
+3,business-travel,1,6,layover,noun,/ˈleɪoʊvər/,เลย์โอเวอร์,การแวะพักระหว่างเที่ยวบิน,We have a three-hour layover in Hong Kong.,เราต้องแวะพักเปลี่ยนเครื่องที่ฮ่องกงสามชั่วโมง,,,false
+3,business-travel,1,7,in-flight meal,noun,/ˈɪn flaɪt mil/,อิน ไฟลท์ มีล,อาหารบนเครื่องบิน,The ticket price includes one in-flight meal.,ราคาตั๋วรวมอาหารบนเครื่องหนึ่งมื้อ,,,false
+3,business-travel,1,8,business class,noun,/ˈbɪznəs klæs/,บิซเนส คลาส,ชั้นธุรกิจ,Directors can fly business class on long trips.,ผู้อำนวยการสามารถนั่งชั้นธุรกิจในการเดินทางไกลได้,,,false
+3,business-travel,1,9,economy class,noun,/ɪˈkɑnəmi klæs/,อีคอนอมี คลาส,ชั้นประหยัด,Most of the team will fly economy class to save money.,ทีมส่วนใหญ่จะนั่งชั้นประหยัดเพื่อประหยัดเงิน,,,false
+3,business-travel,1,10,cash advance,noun,/kæʃ ədˈvæns/,แคช แอดแวนซ์,เงินทดรองจ่าย,Ask finance for a cash advance before your trip to Vietnam.,ขอเงินทดรองจ่ายจากฝ่ายการเงินก่อนเดินทางไปเวียดนาม,,,false
+3,business-travel,1,11,accommodation,noun,/əˌkɑməˈdeɪʃən/,อะคอมโมเดชัน,ที่พัก,The company will pay for your accommodation near the conference center.,บริษัทจะจ่ายค่าที่พักใกล้ศูนย์ประชุมให้คุณ,,,false
+3,business-travel,1,12,jet lag,noun,/ˈdʒɛt læɡ/,เจ็ท แลก,อาการเพลียจากการเปลี่ยนเขตเวลา,I always have jet lag for two days after flying to Europe.,ฉันมีอาการเจ็ตแล็กสองวันทุกครั้งหลังบินไปยุโรป,,,false
+3,business-travel,1,13,departure,noun,/dɪˈpɑrtʃər/,ดีพาร์เจอร์,การออกเดินทาง,Please arrive at the airport two hours before departure.,กรุณามาถึงสนามบินสองชั่วโมงก่อนเวลาออกเดินทาง,,🛫,false
+3,business-travel,1,14,travel agent,noun,/ˈtrævəl ˈeɪdʒənt/,แทรเวิล เอเจนท์,ตัวแทนบริษัทท่องเที่ยว,Our travel agent booked the flights and the hotel for us.,ตัวแทนท่องเที่ยวจองตั๋วเครื่องบินและโรงแรมให้เรา,,,false
+3,business-travel,2,1,terminal,noun,/ˈtɜrmənəl/,เทอร์มินัล,อาคารผู้โดยสาร,International flights leave from Terminal 2.,เที่ยวบินระหว่างประเทศออกจากอาคารผู้โดยสาร 2,,,false
+3,business-travel,2,2,legroom,noun,/ˈlɛɡrum/,เลกรูม,พื้นที่วางขา,Exit row seats have more legroom.,ที่นั่งแถวทางออกฉุกเฉินมีพื้นที่วางขามากกว่า,,,false
+3,business-travel,2,3,baggage allowance,noun,/ˈbæɡɪdʒ əˈlaʊəns/,แบกเกจ อะลาวเอินซ์,น้ำหนักสัมภาระที่อนุญาต,The baggage allowance for this ticket is twenty kilos.,น้ำหนักสัมภาระที่อนุญาตสำหรับตั๋วนี้คือยี่สิบกิโลกรัม,,,false
+3,business-travel,2,4,baggage carousel,noun,/ˈbæɡɪdʒ ˌkærəˈsɛl/,แบกเกจ แคโรเซล,สายพานรับกระเป๋า,Bags from our flight will come out on baggage carousel five.,กระเป๋าจากเที่ยวบินของเราจะออกที่สายพานหมายเลขห้า,,,false
+3,business-travel,2,5,immigration,noun,/ˌɪmɪˈɡreɪʃən/,อิมมิเกรชัน,ด่านตรวจคนเข้าเมือง,The line at immigration took almost an hour.,การต่อแถวที่ด่านตรวจคนเข้าเมืองใช้เวลาเกือบหนึ่งชั่วโมง,,,false
+3,business-travel,2,6,declare,verb,/dɪˈklɛr/,ดิแคลร์,สำแดงต่อศุลกากร,"You must declare cash over 20,000 US dollars.","คุณต้องสำแดงเงินสดที่เกิน 20,000 ดอลลาร์สหรัฐ",,,false
+3,business-travel,2,7,transfer desk,noun,/ˈtrænsfər dɛsk/,แทรนสเฟอร์ เดสก์,เคาน์เตอร์ต่อเครื่อง,Go to the transfer desk to get your next boarding pass.,ไปที่เคาน์เตอร์ต่อเครื่องเพื่อรับบัตรขึ้นเครื่องใบถัดไป,,,false
+3,business-travel,2,8,frequent flyer,noun,/ˈfrikwənt ˈflaɪər/,ฟรีเควนท์ ฟลายเออร์,ผู้โดยสารที่บินบ่อย,"As a frequent flyer, she can use the airline lounge.",ในฐานะผู้โดยสารที่บินบ่อย เธอใช้ห้องรับรองของสายการบินได้,,,false
+3,business-travel,2,9,board,verb,/bɔrd/,บอร์ด,ขึ้นเครื่อง ขึ้นยานพาหนะ,Passengers in rows 30 to 45 may now board the plane.,ผู้โดยสารแถว 30 ถึง 45 ขึ้นเครื่องได้แล้ว,,,false
+3,business-travel,2,10,cabin crew,noun,/ˈkæbɪn kru/,แคบิน ครู,ลูกเรือบนเครื่องบิน,The cabin crew will serve drinks after take-off.,ลูกเรือจะเสิร์ฟเครื่องดื่มหลังเครื่องขึ้น,,,false
+3,business-travel,2,11,security check,noun,/sɪˈkjʊrəti tʃɛk/,ซิเคียวริที เช็ค,จุดตรวจค้นความปลอดภัย,Take your laptop out of your bag at the security check.,นำแล็ปท็อปออกจากกระเป๋าที่จุดตรวจค้นความปลอดภัย,,,false
+3,business-travel,2,12,arrival hall,noun,/əˈraɪvəl hɔl/,อะไรวัล ฮอลล์,โถงผู้โดยสารขาเข้า,The driver will meet you in the arrival hall with a sign.,คนขับจะรอรับคุณที่โถงผู้โดยสารขาเข้าพร้อมป้ายชื่อ,,,false
+3,business-travel,2,13,duty-free,adjective,/ˌduti ˈfri/,ดิวที ฟรี,ปลอดภาษี,I bought some duty-free chocolate for my colleagues.,ฉันซื้อช็อกโกแลตปลอดภาษีมาฝากเพื่อนร่วมงาน,,,false
+3,business-travel,2,14,departure lounge,noun,/dɪˈpɑrtʃər laʊndʒ/,ดีพาร์เจอร์ เลาจ์,ห้องรอขึ้นเครื่อง,We waited in the departure lounge for two hours.,เรารอในห้องรอขึ้นเครื่องสองชั่วโมง,,,false
+3,business-travel,3,1,venue,noun,/ˈvɛnju/,เวนิว,สถานที่จัดงาน,The venue for the sales meeting is a hotel near the river.,สถานที่จัดประชุมฝ่ายขายคือโรงแรมใกล้แม่น้ำ,,,false
+3,business-travel,3,2,room rate,noun,/rum reɪt/,รูม เรท,ราคาห้องพัก,The room rate includes breakfast and free Wi-Fi.,ราคาห้องพักรวมอาหารเช้าและไวไฟฟรี,,,false
+3,business-travel,3,3,complimentary,adjective,/ˌkɑmplɪˈmɛntəri/,คอมพลิเมนทารี,ฟรี ให้บริการโดยไม่คิดเงิน,Guests get a complimentary drink when they check in.,แขกได้รับเครื่องดื่มฟรีเมื่อเช็กอิน,,,false
+3,business-travel,3,4,ground transportation,noun,/ɡraʊnd ˌtrænspərˈteɪʃən/,กราวนด์ แทรนสปอร์เทชัน,การเดินทางภาคพื้นดิน,The company pays for taxis and other ground transportation during the trip.,บริษัทจ่ายค่าแท็กซี่และการเดินทางภาคพื้นดินอื่น ๆ ระหว่างทริป,,,false
+3,business-travel,3,5,concierge,noun,/ˌkɑnsiˈɛrʒ/,คอนเซียร์จ,พนักงานบริการแขกของโรงแรม,The concierge booked a table for us at a famous restaurant.,พนักงานบริการแขกจองโต๊ะที่ร้านอาหารชื่อดังให้เรา,,,false
+3,business-travel,3,6,business center,noun,/ˈbɪznəs ˈsɛntər/,บิซเนส เซนเตอร์,ศูนย์บริการธุรกิจในโรงแรม,You can print your documents in the hotel's business center.,คุณสามารถพิมพ์เอกสารได้ที่ศูนย์บริการธุรกิจของโรงแรม,,,false
+3,business-travel,3,7,visa on arrival,noun,/ˈvizə ɑn əˈraɪvəl/,วีซา ออน อะไรวัล,วีซ่าเมื่อเดินทางถึง,Some visitors can get a visa on arrival at the airport.,ผู้เดินทางบางคนขอวีซ่าเมื่อเดินทางถึงที่สนามบินได้,,,false
+3,business-travel,3,8,delegate,noun,/ˈdɛlɪɡət/,เดลิเกท,ผู้แทน ผู้เข้าร่วมประชุม,More than 300 delegates from 20 countries joined the conference.,ผู้แทนกว่า 300 คนจาก 20 ประเทศเข้าร่วมการประชุม,,,false
+3,business-travel,3,9,booth,noun,/buθ/,บูธ,บูธ ซุ้มแสดงสินค้า,Visit our booth at the expo to see the new products.,แวะชมบูธของเราที่งานเอ็กซ์โปเพื่อดูสินค้าใหม่,,,false
+3,business-travel,3,10,local time,noun,/ˈloʊkəl taɪm/,โลคัล ไทม์,เวลาท้องถิ่น,The plane lands at six p.m. local time.,เครื่องบินลงจอดเวลาหกโมงเย็นตามเวลาท้องถิ่น,,,false
+3,business-travel,3,11,site visit,noun,/saɪt ˈvɪzɪt/,ไซท์ วิซิท,การไปตรวจดูสถานที่,The engineers will make a site visit to the new factory in Vietnam.,วิศวกรจะไปตรวจดูโรงงานใหม่ที่เวียดนาม,,,false
+3,business-travel,3,12,small talk,noun,/smɔl tɔk/,สมอล ทอล์ก,การคุยเล่นเรื่องทั่วไป,"Before the meeting, we made small talk about the weather.",ก่อนประชุม เราคุยเล่นกันเรื่องอากาศ,Collocation: make small talk.,,false
+3,business-travel,3,13,entertain,verb,/ˌɛntərˈteɪn/,เอนเทอร์เทน,เลี้ยงรับรอง,We entertained the Japanese clients at a seafood restaurant.,เราเลี้ยงรับรองลูกค้าชาวญี่ปุ่นที่ร้านอาหารทะเล,,,false
+3,business-travel,3,14,corporate rate,noun,/ˈkɔrpərət reɪt/,คอร์พอเรท เรท,ราคาพิเศษสำหรับบริษัท,We get a corporate rate at this hotel because we stay here often.,เราได้ราคาพิเศษสำหรับบริษัทที่โรงแรมนี้เพราะพักบ่อย,,,false
